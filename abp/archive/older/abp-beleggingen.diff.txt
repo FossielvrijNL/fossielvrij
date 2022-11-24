@@ -1,0 +1,10 @@
+--- abp-beleggingen.tsv-old	2021-09-29 14:42:24.393022906 +0200
++++ abp-beleggingen.tsv	2021-09-29 14:52:46.884077266 +0200
+@@ -2604,7 +2604,6 @@
+ Nederland	Nederlandse Waterschapsbank NV	Financiële Instellingen	169,71
+ Nederland	NIBC Bank NV	Financiële Instellingen	29,67
+ Nederland	NIBC Bank NV	Lening	82,44
+-Nederland	Niet Bestaand Bedrijf	Virtueel	0,01
+ Nederland	NN Group NV	Financiële Instellingen	110,00
+ Nederland	Nobel Bidco BV	Luxegoederen	18,78
+ Nederland	NSI NV	Vastgoed	19,84

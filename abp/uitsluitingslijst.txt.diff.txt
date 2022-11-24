@@ -1,0 +1,12 @@
+--- uitsluitingslijst.txt.old	2021-10-01 20:45:35.787655269 +0200
++++ uitsluitingslijst.txt	2021-10-01 20:48:26.264924842 +0200
+@@ -73,9 +73,6 @@
+ Babcock International Group  
+ Verenigd Koninkrijk  
+ Product  
+-Dodelijke grappen  
+-Monty Python's Flying Circus  
+-Product  
+ Nucleaire wapens  
+ BAE Systems Plc  
+ Verenigd Koninkrijk  

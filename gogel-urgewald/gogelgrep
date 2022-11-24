@@ -1,0 +1,695 @@
+#!/bin/bash
+
+grep -i	\
+-e "1920 Energy LLC" \
+-e "88 Energy Ltd" \
+-e "AAG Energy Holdings Ltd" \
+-e "Abraxas Petroleum Corporation" \
+-e "Abu Dhabi National Energy Company PJSC (TAQA)" \
+-e "Abu Dhabi National Oil Company (ADNOC)" \
+-e "Advance Energy Partners LLC" \
+-e "Advantage Energy Ltd" \
+-e "Aethon Energy Management LLC" \
+-e "Africa Energy Corp" \
+-e "Africa Oil Corp" \
+-e "Ageron Energy LLC  " \
+-e "Aker BP ASA" \
+-e "Aker Energy AS" \
+-e "Aladdin Petroleum Corporation" \
+-e "Alta Mesa Resources Inc" \
+-e "Alta Resources LLC" \
+-e "Ameredev II LLC" \
+-e "Amplify Energy Corp" \
+-e "Anegada Oil Corp" \
+-e "Anschutz Exploration Corporation" \
+-e "Antero Resources Corporation" \
+-e "APA Corporation" \
+-e "Apex Energy LLC" \
+-e "Apex International Energy Management LLC" \
+-e "Approach Resources Inc" \
+-e "APR Operating LLC (Admiral Permian Resources)" \
+-e "Arch Softwares Pvt Ltd" \
+-e "ARC Resources Ltd" \
+-e "ARROW Exploration Corp" \
+-e "Arsenal Resources LLC" \
+-e "Artis Exploration Ltd" \
+-e "Ascent Resources LLC" \
+-e "Aspect Holdings LLC" \
+-e "Aspenleaf Energy Ltd" \
+-e "Athabasca Oil Corporation" \
+-e "AziNam Ltd" \
+-e "Ballard Petroleum Holdings LLC " \
+-e "Banco BTG Pactual SA" \
+-e "Bangladesh Oil, Gas & Mineral Corporation (Petrobangla)" \
+-e "Barra Energia do Brasil Petróleo e Gás Ltda" \
+-e "Basra Oil Company (BOC)" \
+-e "Battalion Oil Corporation " \
+-e "Bayswater Exploration and Production LLC" \
+-e "Baytex Energy Corp" \
+-e "BCE-Mach LLC" \
+-e "Beach Energy Ltd" \
+-e "Beacon Offshore Energy LLC" \
+-e "Bedrock Energy Partners LLC" \
+-e "Belemaoil Producing Ltd" \
+-e "Bellatrix Exploration Ltd" \
+-e "Berlanga Holding BV" \
+-e "Berry Corporation (bry)" \
+-e "Bharat Petroleum Corporation Ltd" \
+-e "BHP Group Ltd" \
+-e "Birchcliff Energy Ltd" \
+-e "Birch Operations Inc" \
+-e "Bison Oil & Gas Partners LLC" \
+-e "BKV Corp" \
+-e "Blackbeard Operating LLC" \
+-e "BlackBrush Oil & Gas LP" \
+-e "Blackstone Energy Partners" \
+-e "Black Swan Energy Ltd" \
+-e "Blue Dome Operating LLC" \
+-e "Bonanza Creek Energy Inc" \
+-e "Bonavista Energy Corporation" \
+-e "Bonterra Energy Corp" \
+-e "Boulder Energy Ltd" \
+-e "BP plc" \
+-e "Bridas Energy Holdings Ltd" \
+-e "Brightoil Petroleum (Holdings) Ltd" \
+-e "Brix Oil & Gas Holdings LP" \
+-e "Bruin E&P Partners LLC" \
+-e "Brunei National Petroleum Company Sendirian Bhd" \
+-e "BTA Oil Producers LLC" \
+-e "BW Energy Ltd" \
+-e "Byron Energy Ltd" \
+-e "Cadogan Petroleum plc" \
+-e "Caerus Oil and Gas LLC" \
+-e "Cairn Energy PLC " \
+-e "Caldera Petroleum UK Ltd" \
+-e "CalEnergy Resources Ltd" \
+-e "California Resources Corporation" \
+-e "Callon Petroleum Company" \
+-e "Calyx Energy III LLC" \
+-e "Camino Natural Resources LLC" \
+-e "Canacol Energy Ltd" \
+-e "Canadian Natural Resources Ltd (CNRL)" \
+-e "Canyon Creek Energy - Arkoma LLC" \
+-e "Capex SA" \
+-e "Capitan Energy Inc" \
+-e "Carbon Creek Energy LLC" \
+-e "Carnarvon Petroleum Ltd" \
+-e "Casillas Petroleum Corp" \
+-e "Caspian Sunrise plc" \
+-e "Castleton Commodities International LLC (CCI)" \
+-e "Cataleya Energy Corporation" \
+-e "Caza Petroleum LLC" \
+-e "Cenovus Energy Inc" \
+-e "Centennial Resource Development Inc" \
+-e "Central Petroleum Ltd" \
+-e "CGX Energy Inc" \
+-e "CH4 Energy Corp" \
+-e "Challenger Energy Group PLC" \
+-e "Chaparral Energy Inc" \
+-e "Cheiron Petroleum Corporation " \
+-e "Chesapeake Energy Corporation" \
+-e "Chevron Corporation" \
+-e "Chief Oil & Gas LLC" \
+-e "China-Africa Fund for Industrial Cooperation Co Ltd" \
+-e "China Communications Construction Company Ltd" \
+-e "China National Petroleum Corporation (CNPC)" \
+-e "China New Energy Mining Ltd (CNEML)" \
+-e "China Petrochemical Corporation (Sinopec Group)" \
+-e "China Petroleum & Chemical Corporation (Sinopec Corp)" \
+-e "China Shenhua Energy Company Ltd" \
+-e "China ZhenHua Oil Co Ltd" \
+-e "Chisholm Energy Holdings LLC" \
+-e "Chisholm Oil and Gas Operating LLC" \
+-e "Chongqing Energy Investment Group Co Ltd" \
+-e "Cimarex Energy Co" \
+-e "Citic Resources Holdings Ltd" \
+-e "Citizen Energy LLC" \
+-e "Citla Energy SAPI de CV" \
+-e "CJSC Chernomorneftegaz" \
+-e "CL&F Resources LP " \
+-e "CNOOC Ltd" \
+-e "CNX Resources Corporation" \
+-e "Colgate Energy LLC" \
+-e "Comanche Resources Co" \
+-e "Compañía Españolade Petróleos SA (Cepsa)" \
+-e "Compañía General de Combustibles SA (CGC)" \
+-e "Compania Petrolera Perseus SA de CV" \
+-e "Comstock Resources Inc" \
+-e "Cona Resources Ltd" \
+-e "Concedo ASA" \
+-e "Concho Resources Inc" \
+-e "Condor Petroleum Inc" \
+-e "Confluence Resources LP" \
+-e "Connacher Oil And Gas Ltd" \
+-e "ConocoPhillips" \
+-e "Conrad Petroleum Ltd" \
+-e "Contango Oil & Gas Company" \
+-e "Continental Resources Inc" \
+-e "Cooper Energy Ltd" \
+-e "Corallian Energy Ltd" \
+-e "Corex Resources Ltd" \
+-e "Coterra Energy Inc" \
+-e "CPC Corporation Taiwan" \
+-e "CP Exploration III LLC" \
+-e "Crescent Petroleum Company International Ltd" \
+-e "Crescent Point Energy Corp" \
+-e "Crestone Peak Resources LLC" \
+-e "Crew Energy Inc" \
+-e "Crimson Resource Management Corp" \
+-e "Crowheart Energy LLC" \
+-e "CrownQuest Operating LLC" \
+-e "Cue Energy Resources Ltd" \
+-e "D90 Energy LLC" \
+-e "Dana Gas PJSC" \
+-e "Dana Petroleum Ltd" \
+-e "Datang International Power Generation Co Ltd" \
+-e "Dayuan International Development Ltd" \
+-e "Delek Group Ltd" \
+-e "Deltastream Energy Corporation " \
+-e "Denbury Inc" \
+-e "Devon Energy Corporation" \
+-e "Dhi Qar Oil Company (DQOC)" \
+-e "Diamondback Energy Inc" \
+-e "Discover Exploration Ltd" \
+-e "Discovery Natural Resources LLC" \
+-e "Discovery Operating Inc" \
+-e "Diversified Energy Company PLC" \
+-e "DJR Energy LLC" \
+-e "DNO ASA" \
+-e "DoublePoint Energy LLC" \
+-e "Dover Petroleum Corp" \
+-e "Dow Chemical Company" \
+-e "Dubai Petroleum Establishment" \
+-e "Dubai Supply Authority" \
+-e "EagleRidge Energy LLC" \
+-e "Earthstone Energy Inc" \
+-e "Ecopetrol SA" \
+-e "Edison SpA" \
+-e "Eesti Energia AS" \
+-e "Egyptian General Petroleum Corporation (EGPC)" \
+-e "Elevation Resources LLC" \
+-e "Elixir Energy Ltd" \
+-e "Ember Resources Inc" \
+-e "Emirates National Oil Company Ltd (ENOC) LLC" \
+-e "Emperor Energy Ltd" \
+-e "Empire Energy Group Ltd" \
+-e "Empresa Nacional de Hidrocarbonetos EP (ENH)" \
+-e "Empresa Nacional del Petróleo (ENAP)" \
+-e "Enauta Participações SA" \
+-e "Encino Energy LLC" \
+-e "Endeavour Energy Resources LP" \
+-e "Enduring Resources LLC" \
+-e "Energean plc" \
+-e "Energie Beheer Nederland BV" \
+-e "Energy Operations Argentina LLC " \
+-e "Enerplus Corporation" \
+-e "EnerVest Ltd" \
+-e "Eneva SA" \
+-e "Eni SpA" \
+-e "EnQuest PLC" \
+-e "EnSight IV Energy Management LLC" \
+-e "Ensign Natural Resources LLC" \
+-e "Entreprise Tunisienne d'Activités Pétrolières (ETAP)" \
+-e "EnVen Energy Ventures LLC " \
+-e "Enwell Energy plc" \
+-e "EOG Resources Inc" \
+-e "EP Energy Corporation" \
+-e "Epsilon Development Company LLC" \
+-e "Epsilon Energy Ltd" \
+-e "EQT Corporation" \
+-e "Equinor ASA" \
+-e "Escondido Resources II LLC  " \
+-e "Essar Group" \
+-e "Etablissements Maurel & Prom SA" \
+-e "Evergreen Natural Resources LLC" \
+-e "EXCO Resources Inc" \
+-e "Extraction Oil & Gas Inc" \
+-e "Exxon Mobil Corporation" \
+-e "Fairway Resources Partners III LLC" \
+-e "Falcon Oil & Gas Ltd" \
+-e "FAR Ltd" \
+-e "Fasken Oil and Ranch Ltd" \
+-e "Felix Energy LLC  " \
+-e "Finley Resources Inc" \
+-e "FireBird Energy LLC" \
+-e "Fleur de Lis Energy LLC" \
+-e "Flywheel Energy LLC" \
+-e "Focus Energy Ltd" \
+-e "Foreland Resources LLC" \
+-e "Fosun International Ltd" \
+-e "Foundation Energy Management LLC" \
+-e "Frontera Energy Corporation" \
+-e "GAIL (India) Ltd" \
+-e "Galp Energia SGPS SA" \
+-e "Gas y Petróleo del Neuquén SA" \
+-e "Genel Energy plc  " \
+-e "Genting Berhad " \
+-e "GeoPark Ltd" \
+-e "GeoSouthern Energy Corporation" \
+-e "Ghana National Petroleum Corporation (GNPC)" \
+-e "Goodrich Petroleum Corporation" \
+-e "Gordy Oil Co Inc" \
+-e "Government Holdings (Private) Ltd (GHPL)" \
+-e "Gran Tierra Energy Inc" \
+-e "Great Western Oil & Gas LLC" \
+-e "Grenadier Energy Partners LLC" \
+-e "Greylock Energy LLC   " \
+-e "Grizzly Energy LLC" \
+-e "Grupa LOTOS SA" \
+-e "GS Holdings Corp" \
+-e "Guangdong Energy Group Co Ltd" \
+-e "Guidon Energy LLC" \
+-e "Gulfport Energy Corporation" \
+-e "Hammerhead Resources Inc" \
+-e "Hannathon Petroleum LLC" \
+-e "Harbour Energy plc" \
+-e "Hawkwood Energy LLC" \
+-e "Headington Energy Partners LLC" \
+-e "Helis Oil & Gas Company LLC " \
+-e "Henry Resources LLC" \
+-e "Heritage Petroleum Company Ltd" \
+-e "Hess Corporation" \
+-e "HG Energy LLC" \
+-e "Hibernia Resources LLC " \
+-e "Hibiscus Petroleum Berhad" \
+-e "HighPeak Energy Inc" \
+-e "HighPoint Resources Corporation" \
+-e "High Road Resources Holdings LLC" \
+-e "Hilcorp Energy Company" \
+-e "HKN Energy Ltd" \
+-e "Houston Energy LP" \
+-e "Hunt Oil Company Inc" \
+-e "Hupecol Operating Co LLC" \
+-e "Husky Energy Inc" \
+-e "Idemitsu Petroleum Norge AS" \
+-e "IKAV Energy Inc" \
+-e "ILX Holdings III LLC" \
+-e "Impact Exploration And Production LLC" \
+-e "Imperial Oil Ltd" \
+-e "Independence Energy LLC" \
+-e "Independence Resources Management LLC" \
+-e "Independent Oil and Gas plc" \
+-e "Indian Oil Corporation Ltd" \
+-e "Indigo Natural Resources LLC" \
+-e "Indus Gas Ltd" \
+-e "INEOS Ltd" \
+-e "Inflection Energy LLC" \
+-e "INPEX Corporation" \
+-e "International Petroleum Corporation (IPC)" \
+-e "IOG Capital LP" \
+-e "Irkutsk Oil Company Co LLC" \
+-e "Isramco Negev 2 LP" \
+-e "ITOCHU Corporation" \
+-e "Jadestone Energy Inc" \
+-e "Jaguar Exploración y Producción de Hidrocarburos SAPI de CV" \
+-e "Japan Oil, Gas and Metals National Corporation (JOGMEC)" \
+-e "Japan Petroleum Exploration Co Ltd (JAPEX)" \
+-e "Jay-Bee Oil & Gas Inc" \
+-e "JHI Associates Inc" \
+-e "JKLM Energy LLC" \
+-e "Jonah Energy LLC " \
+-e "JSC Independent Petroleum Company (NNK)" \
+-e "JSC KazMunaiGas Exploration Production (KMG EP)" \
+-e "JSC NC KazMunayGas (KMG)" \
+-e "JSC NK Neftisa" \
+-e "JSC RusGazDobycha" \
+-e "JSC Uzbekneftegaz" \
+-e "JSC Zarubezhneft" \
+-e "Jupiter Resources Inc" \
+-e "JX Nippon Oil & Gas Exploration Corporation" \
+-e "Kaiser-Francis Oil Company" \
+-e "KAR Group" \
+-e "Karoon Energy Ltd" \
+-e "Karve Energy Inc" \
+-e "Kelt Exploration Ltd" \
+-e "Kicking Horse Oil & Gas Ltd" \
+-e "Kiwetinohk Energy Corp" \
+-e "KJ Energy LLC" \
+-e "Korea Gas Corporation (KOGAS)" \
+-e "Korea National Oil Corporation (KNOC)" \
+-e "Kosmos Energy Ltd" \
+-e "Kraken Oil & Gas LLC" \
+-e "Kumul Petroleum Holdings Ltd" \
+-e "KunLun Energy Company Ltd" \
+-e "Kuwait Petroleum Corporation (KPC)" \
+-e "Laramie Energy LLC" \
+-e "Laredo Energy" \
+-e "Laredo Petroleum Inc" \
+-e "Lario Oil & Gas Company " \
+-e "Latigo Petroleum Inc" \
+-e "Legacy Reserves Inc" \
+-e "LEKOIL Ltd" \
+-e "Leucrotta Exploration Inc" \
+-e "Lewis Energy Group LP" \
+-e "Liberty Resources II LLC" \
+-e "Lilis Energy Inc" \
+-e "Lime Petroleum AS" \
+-e "Lime Rock Resources" \
+-e "LLOG Exploration Company LLC" \
+-e "Logos Resources II LLC" \
+-e "Lonestar Resources US Inc" \
+-e "Lundin Energy AB" \
+-e "Luxe Energy LLC" \
+-e "Lynx Energy ULC" \
+-e "Magnolia Oil & Gas Corporation" \
+-e "Mallard Exploration LLC" \
+-e "Mamoura Diversified Global Holding PJSC (formerly Mubadala Development Company)" \
+-e "Marathon Oil Corporation" \
+-e "Mari Petroleum Company Ltd" \
+-e "Marubeni Corporation" \
+-e "Matador Resources Company" \
+-e "Maverick Natural Resources LLC" \
+-e "Mazarine Energy BV" \
+-e "MDC Texas Energy LLC" \
+-e "MEG Energy Corp" \
+-e "Merit Energy Company LLC" \
+-e "Mesquite Energy Inc" \
+-e "Mewbourne Oil Company" \
+-e "Middle Fork Energy Partners LLC" \
+-e "Missan Oil Company" \
+-e "Mitsubishi Corporation" \
+-e "Mitsui & Co Ltd" \
+-e "Modern Resources Inc" \
+-e "MOL NyRt" \
+-e "Montage Resources Corporation" \
+-e "Murchison Oil & Gas LLC " \
+-e "Murphy Oil Corporation" \
+-e "Myanma Oil and Gas Enterprise (MOGE)" \
+-e "Nadel and Gussman LLC " \
+-e "Naftogaz Group" \
+-e "NAL Resources Ltd" \
+-e "National Fuel Gas Company" \
+-e "National Iranian Oil Company (NIOC)" \
+-e "National Oil Corporation (NOC)" \
+-e "Navitas Petroleum LP" \
+-e "Neptune Energy Group Ltd" \
+-e "New Bright International Development Ltd" \
+-e "New Zealand Oil & Gas Ltd" \
+-e "Nickel Road Operating LLC" \
+-e "Nigerian National Petroleum Corporation (NNPC)" \
+-e "Nigerian Petroleum Development Company Ltd (NPDC)" \
+-e "Nine Point Energy LLC" \
+-e "Noble Energy Inc" \
+-e "Nordsøfonden AS" \
+-e "Northeast Natural Energy LLC" \
+-e "Northern Oil and Gas Inc" \
+-e "North Oil Company (NOC)" \
+-e "Northwoods Energy LLC" \
+-e "Norwegian Energy Company ASA (Noreco)" \
+-e "Nostrum Oil & Gas Plc" \
+-e "NuVista Energy Ltd" \
+-e "NZNP Trade LLC" \
+-e "Oak Ridge Natural Resources LLC" \
+-e "Oasis Petroleum Inc" \
+-e "Obsidian Energy Ltd" \
+-e "Occidental Petroleum Corporation" \
+-e "Office National des Hydrocarbures et des Mines (ONHYM)" \
+-e "Oil and Gas Development Company Ltd (OGDC)" \
+-e "Oil and Natural Gas Corporation Ltd (ONGC)" \
+-e "Oil India Ltd" \
+-e "Oil Search Ltd" \
+-e "OKEA ASA" \
+-e "Olipdp I LLC" \
+-e "Olympus Energy LLC" \
+-e "OMV AG" \
+-e "OMV Petrom SA" \
+-e "ONE-Dyas BV" \
+-e "OOO Yargeo" \
+-e "Optimum Petroleum Development Ltd" \
+-e "OQ SAOC" \
+-e "Oriental Energy Resources Ltd" \
+-e "Origin Energy Ltd" \
+-e "Osaka Gas Co Ltd (Daigas Group)" \
+-e "Osum Oil Sands Corp" \
+-e "Otto Energy Ltd" \
+-e "Ovintiv Inc" \
+-e "PA Belorusneft" \
+-e "Pacific Oil & Gas Ltd" \
+-e "Painted Pony Energy Ltd" \
+-e "Pakistan Oilfields Ltd" \
+-e "Pakistan Petroleum Ltd (PPL)" \
+-e "Paloma Resources LLC" \
+-e "Pampa Energia SA" \
+-e "Pandion Energy AS" \
+-e "Panoro Energy ASA" \
+-e "Pantheon Resources plc" \
+-e "PAO NOVATEK" \
+-e "Paramount Resources Ltd" \
+-e "Parex Resources Inc" \
+-e "Parsley Energy Inc" \
+-e "PDC Energy Inc" \
+-e "Peak Exploration & Production LLC" \
+-e "PennEnergy Resources LLC" \
+-e "Pennsylvania General Energy Company LLC" \
+-e "Penn Virginia Corporation" \
+-e "Perenco SA" \
+-e "Permian Deep Rock Oil LLC" \
+-e "Petoro AS" \
+-e "Petroamazonas EP" \
+-e "PetroBAL SAPI de CV" \
+-e "PetroChina Company Ltd" \
+-e "Petro-Hunt LLC" \
+-e "PetroLegacy Energy II LLC" \
+-e "Petróleo Brasileiro SA – Petrobras" \
+-e "Petróleos de Venezuela SA (PDVSA)" \
+-e "Petróleos Mexicanos (PEMEX)" \
+-e "Petroleum Development Oman LLC (PDO)" \
+-e "Petroliam Nasional Berhad (Petronas)" \
+-e "Petrolia NOCO AS" \
+-e "Petro Matad Ltd" \
+-e "Petropars Ltd" \
+-e "PetroQuest Energy Inc" \
+-e "Petro Rio SA" \
+-e "PetroShale Inc" \
+-e "PetroTel Energy Inc" \
+-e "Petrus Resources Ltd" \
+-e "Peyto Exploration and Development Corp" \
+-e "Phoenix Global Resources plc" \
+-e "Pieridae Energy Ltd" \
+-e "Pilatus Energy Congo Sarl " \
+-e "Pine Wave Energy Partners LLC" \
+-e "Pioneer Natural Resources Company" \
+-e "Pipestone Energy Corp" \
+-e "PJSC Gazprom" \
+-e "PJSC Gazprom Neft " \
+-e "PJSC Joint Stock Oil Company Bashneft" \
+-e "PJSC LUKOIL" \
+-e "PJSC Rosneft Oil Company" \
+-e "PJSC RussNeft " \
+-e "PJSC Tatneft" \
+-e "Pluspetrol Resources Corporation BV" \
+-e "Point Energy Partners" \
+-e "Polskie Górnictwo Naftowe i Gazownictwo SA (PGNiG)" \
+-e "Polski Koncern Naftowy ORLEN SA (PKN ORLEN)" \
+-e "POLY-GCL Petroleum Group Holdings Ltd" \
+-e "Polytec Asset Holdings Ltd" \
+-e "Posco International Corporation" \
+-e "Premier Oil plc" \
+-e "President Energy PLC" \
+-e "Presidio Petroleum LLC" \
+-e "Primexx Energy Partners Ltd" \
+-e "PRI Operating LLC (Patriot Resources) " \
+-e "Protege Energy III LLC" \
+-e "PT Energi Mega Persada Tbk (EMP)" \
+-e "PT Energi Mineral Langgeng" \
+-e "PT Medco Energi Internasional Tbk" \
+-e "PT Pertamina (Persero)" \
+-e "PT Saka Energi Indonesia" \
+-e "PTT Exploration and Production Public Company Ltd (PTTEP)" \
+-e "PureWest Energy LLC" \
+-e "Pursuit Oil & Gas LLC" \
+-e "QatarEnergy" \
+-e "QEP Resources Inc" \
+-e "QuarterNorth Energy LLC" \
+-e "Range Resources Corporation" \
+-e "Ratio Oil Exploration (1992) LP" \
+-e "Ratio Petroleum Energy LP" \
+-e "RCMA Australia Pty Ltd" \
+-e "Reabold Resources Plc" \
+-e "Reconnaissance Energy Africa Ltd" \
+-e "Red Bluff Resources LLC" \
+-e "Red Willow Production LLC" \
+-e "Red Wolf Natural Resources LLC" \
+-e "Reliance Industries Ltd" \
+-e "Repsol SA" \
+-e "Revolution Resources LLC" \
+-e "Rex International Holding Ltd" \
+-e "Ridgeback Resources Inc" \
+-e "Ridgewood Companies" \
+-e "Riley Exploration Permian Inc" \
+-e "Rimrock Oil & Gas LP" \
+-e "Ring Energy Inc" \
+-e "Rio Oil and Gas II LLC" \
+-e "Riverside Energy Michigan LLC" \
+-e "Riviera Resources Inc" \
+-e "R. Lacy Inc" \
+-e "Rockcliff Energy LLC" \
+-e "Rockdale Marcellus LLC" \
+-e "Rockhopper Exploration plc" \
+-e "Rosehill Resources Inc" \
+-e "Rosewood Resources Inc" \
+-e "Royal Dutch Shell plc" \
+-e "RWE AG" \
+-e "Sabalo Energy LLC" \
+-e "Sable Permian Resources LLC" \
+-e "Sage Natural Resources LLC" \
+-e "Saguaro Resources Ltd" \
+-e "Sahara Group Ltd" \
+-e "Samson Resources II LLC" \
+-e "SandRidge Energy Inc" \
+-e "Santos Ltd" \
+-e "Sapura Energy Berhad" \
+-e "Sasol Ltd" \
+-e "Saudi Arabian Oil Company (Saudi Aramco)" \
+-e "Scala Energy LLC" \
+-e "Schlumberger Ltd" \
+-e "Scout Energy Partners" \
+-e "SDX Energy Plc" \
+-e "Sentinel Peak Resources LLC" \
+-e "Seplat Petroleum Development Company Plc" \
+-e "Sequitur Energy Resources LLC" \
+-e "Serafina Energy Ltd" \
+-e "Serinus Energy plc" \
+-e "Seven Generations Energy Ltd" \
+-e "Seven Group Holdings Ltd" \
+-e "Shaanxi Yanchang Petroleum (Group) Co Ltd" \
+-e "Sharjah National Oil Corporation (SNOC)" \
+-e "Sheridan Production Company LLC" \
+-e "Sherritt International Corporation" \
+-e "Shoreline Natural Resources Ltd" \
+-e "Siccar Point Energy Ltd" \
+-e "SilverBow Resources Inc" \
+-e "Sinochem Group Co Ltd" \
+-e "Sinoenergy Investment Corp" \
+-e "Sino Gas & Energy Holdings Ltd" \
+-e "Sino GeoPhysical Co Ltd" \
+-e "SK Innovation Co Ltd" \
+-e "Slawson Exploration Company Inc" \
+-e "SM Energy Company" \
+-e "SNGN Romgaz SA " \
+-e "Snyder Brothers Inc" \
+-e "Societe Des Petroles Du Senegal (PETROSEN)" \
+-e "Societe Mauritanienne des Hydrocarbures et de Patrimoine" \
+-e "Société Nationale d'Opérations Pétrolières de la Côte d'Ivoire " \
+-e "Société Nationale Petrolière Gabonaise (SNPG)" \
+-e "Sojitz Corporation" \
+-e "Sonangol EP" \
+-e "Sonatrach SpA" \
+-e "South Atlantic Petroleum Ltd (SAPETRO)" \
+-e "Southland Royalty Company LLC" \
+-e "Southwestern Energy Company" \
+-e "Spartan Delta Corp" \
+-e "Spirit Energy Ltd" \
+-e "Sponte Operating Inc" \
+-e "Springfield Exploration and Production Ltd" \
+-e "Spur Energy Partners LLC" \
+-e "Spur Petroleum Ltd" \
+-e "Staatsolie Maatschappij Suriname NV" \
+-e "Staghorn Petroleum II LLC " \
+-e "State Concern Turkmennebit" \
+-e "State Oil Company of the Azerbaijan Republic (SOCAR)" \
+-e "Steward Energy LLC" \
+-e "Storm Resources Ltd" \
+-e "Strathcona Resources Ltd" \
+-e "Strath Resources Ltd" \
+-e "Strike Energy Ltd" \
+-e "Sumitomo Corporation" \
+-e "Summit Petroleum LLC" \
+-e "Suncor Energy Inc" \
+-e "Sundance Energy Inc" \
+-e "Sunlink Petroleum Ltd" \
+-e "Sunny Hill Energy Ltd" \
+-e "Sunshine Oilsands Ltd" \
+-e "Surge Energy Inc" \
+-e "Surge Energy US Holdings Company" \
+-e "Surgutneftegas PJSC" \
+-e "Sval Energi AS" \
+-e "Syrian Petroleum Company (SPC)" \
+-e "Tailwind Energy Ltd" \
+-e "Tall City Operations III LLC" \
+-e "Talos Energy Inc" \
+-e "Tamarack Valley Energy Ltd" \
+-e "Tamar Petroleum Ltd" \
+-e "Tanos Exploration LLC" \
+-e "Tap Rock Resources LLC" \
+-e "Tapstone Energy LLC" \
+-e "Teal Natural Resources LLC" \
+-e "Teck Resources Ltd" \
+-e "Tecpetrol International SA" \
+-e "Teine Energy Ltd" \
+-e "Tellurian Inc" \
+-e "Templar Energy LLC" \
+-e "Terra Energy Partners LLC" \
+-e "Tethys Oil AB" \
+-e "Tharwa Petroleum Company SAE" \
+-e "The Carlyle Group Inc" \
+-e "The Oil and Gas Holding BSC (c) (nogaholding)" \
+-e "The Parkmead Group Plc" \
+-e "The Silk Road Fund Co Ltd" \
+-e "The South Gas Company " \
+-e "Timor GAP EP" \
+-e "Titus Oil & Gas LLC" \
+-e "Tokyo Gas Co Ltd" \
+-e "TORC Oil & Gas Ltd" \
+-e "TotalEnergies SE" \
+-e "Touchstone Exploration Inc" \
+-e "Tourmaline Oil Corp" \
+-e "TPG Capital LP" \
+-e "TPI Polene Power Public Company Ltd" \
+-e "Tracker Resource Development III LLC" \
+-e "TreadStone Energy Partners II LLC" \
+-e "Tribune Resources LLC" \
+-e "Trident Energy Ltd" \
+-e "Trident Petroleum Company" \
+-e "Trinity Operating LLC" \
+-e "Triple Crown Resources LLC " \
+-e "Triumph Energy Partners LLC" \
+-e "Tug Hill Operating LLC" \
+-e "Tulip Oil Holding BV" \
+-e "Tullow Oil plc" \
+-e "Tundra Oil & Gas LLC" \
+-e "Türkiye Petrolleri Anonim Ortaklığı (TPAO)" \
+-e "Turkmengaz State Concern" \
+-e "Unbridled Resources LLC" \
+-e "Unión CubaPetróleo (Cupet)" \
+-e "Unit Corporation" \
+-e "United Energy Group Ltd" \
+-e "United Production Partners Inc" \
+-e "UpCurve Energy LLC" \
+-e "Urban Oil & Gas Group LLC" \
+-e "USG Properties Haynesville LLC" \
+-e "Valeura Energy Inc" \
+-e "Vår Energi AS" \
+-e "Vedanta Resources Ltd" \
+-e "Velvet Energy Ltd" \
+-e "Venado Oil & Gas LLC" \
+-e "Verdad Resources LLC" \
+-e "Verdun Oil Company LLC" \
+-e "Vermilion Energy Inc" \
+-e "Vesta Energy Ltd" \
+-e "Videocon Industries Ltd" \
+-e "Vietnam Oil and Gas Group (PetroVietnam)" \
+-e "Vine Energy Inc" \
+-e "Vista Oil & Gas SAB de CV" \
+-e "Vitol Holding II SA" \
+-e "Walter Oil & Gas Corporation" \
+-e "Warrego Energy Ltd" \
+-e "Wellesley Petroleum AS" \
+-e "Westbrick Energy Ltd" \
+-e "Western Gas Corporation Pty Ltd" \
+-e "Whitecap Resources Inc" \
+-e "Whiting Petroleum Corporation" \
+-e "Wintershall Dea GmbH" \
+-e "Woodside Petroleum Ltd" \
+-e "WPX Energy Inc" \
+-e "W&T Offshore Inc" \
+-e "XCL Resources LLC" \
+-e "Yacimientos Petroliferos Fiscales Bolivianos SA" \
+-e "Yangarra Resources Ltd" \
+-e "YPFB Andina SA" \
+-e "YPF SA" \
+-e "YTL Power International Bhd" \
+-e "Zarvona Energy LLC" \
+-e "Zavanna LLC" \
+-e "Zennor Petroleum Ltd" \
+-e "Zion Oil & Gas Inc" \

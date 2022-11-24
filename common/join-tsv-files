@@ -1,0 +1,57 @@
+#!/bin/bash
+
+usage () {
+  cat <<-EOT
+	Usage:
+	  $0 common-fields file1 file2
+
+	Joins two TSV files based on 1 to 4 common fields.
+	Input files are provided as arguments; the joined result
+	is sent to stdout.
+	EOT
+}
+
+common_fields="$1"
+old_file="$2"
+new_file="$3"
+
+for file in "$old_file" "$new_file" ; do 
+  if [ ! -f "$file" ] ; then
+    echo 1>&2 "ERROR: file '$file' not found."
+    exit 1
+  fi
+done
+
+# Fix sorting problems
+export LANG=en_EN
+
+case $common_fields in
+  1 )
+    join -t $'\t' -j 1 -e '' -a 1 -a 2 -o auto \
+      <(sort -t $'\t' "$old_file") \
+      <(sort -t $'\t' "$new_file")
+    ;;
+  2 )
+    join -t $'\t' -j 1 -e 0 -a 1 -a 2 -o auto \
+      <(sort -t $'\t' "$old_file" | awk -F'\t' '{print $1"|"$2"\t"$3}') \
+      <(sort -t $'\t' "$new_file" | awk -F'\t' '{print $1"|"$2"\t"$3}') \
+    | tr '|' '\t'
+    ;;
+  3 )
+    join -t $'\t' -j 1 -e 0 -a 1 -a 2 -o auto \
+      <(sort -t $'\t' "$old_file" | awk -F'\t' '{print $1"|"$2"|"$3"\t"$4}') \
+      <(sort -t $'\t' "$new_file" | awk -F'\t' '{print $1"|"$2"|"$3"\t"$4}') \
+    | tr '|' '\t'
+    ;;
+  4 )
+    join -t $'\t' -j 1 -e 0 -a 1 -a 2 -o auto \
+      <(sort -t $'\t' "$old_file" | awk -F'\t' '{print $1"|"$2"|"$3"|"$4"\t"$5}') \
+      <(sort -t $'\t' "$new_file" | awk -F'\t' '{print $1"|"$2"|"$3"|"$4"\t"$5}') \
+    | tr '|' '\t'
+    ;;
+  * )
+    echo 1>&2 "ERROR: '$common_fields' common fields not yet supported."
+    exit 1
+    ;;
+esac
+

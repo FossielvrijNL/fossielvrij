@@ -1,0 +1,11959 @@
+--- beursgenoteerde-beleggingen.txt.old	2022-04-01 11:55:05.079408165 +0200
++++ beursgenoteerde-beleggingen.txt	2022-10-04 11:55:03.881457432 +0200
+@@ -1,187 +1,180 @@
+ **Beursgenoteerde beleggingen van ABP  
+-** In dit overzicht zijn de posities van ABP weergegeven per 31 december 2021,
++** In dit overzicht zijn de posities van ABP weergegeven per 30 juni 2022,
+ naar marktwaarde afgerond in miljoenen EURO.  
+-Beleggingen met een omvang van EUR < 0,5 mln. zijn niet opgenomen op deze
+-lijst. De gerapporteerde totale marktwaarde  
+-vertegenwoordigt 99,93% van de Totale ABP posities in aandelen.  
++Beleggingen met een omvang van EUR < 0,5 miljoen zijn niet opgenomen op deze
++lijst. Het overzicht bevat zowel beurs-  
++genoteerde aandelen als converteerbare obligaties. De gerapporteerde totale
++marktwaarde vertegenwoordigt 99,91% van  
++de totale ABP posities in aandelen.  
+ Land Omschrijving  
+ Totaal  
+ Land Omschrijving  
+ Totaal  
+-**Afrika 1.114**  
+-Pick n Pay Stores Ltd  
+-1  
+-**Egypte 27**  
+-Rand Merchant Investment Holdings Ltd  
+-8  
+-Commercial International Bank Egypt SAE 25  
+-Remgro Ltd  
+-9  
+-E-Finance for Digital & Financial Investments  
+-2  
+-Reunert Ltd  
+-1  
+-Sanlam Ltd  
+-27  
+-**Kenia 1**  
+-Santam Ltd  
+-3  
+-Safaricom PLC  
+-1  
+-Shoprite Holdings Ltd  
+-34  
+-**Nigeria 11**  
+-Sibanye Stillwater Ltd  
+-4  
+-Guaranty Trust Holding Co PLC  
+-2  
+-Standard Bank Group Ltd  
+-44  
+-Nigerian Breweries PLC  
+-9  
+-Telkom SA SOC Ltd  
+-6  
++**Afrika 1.031**  
+ Thungela Resources Ltd  
+-3  
+-**Zuid-Afrika 1.075**  
++14  
++**Egypte 13**  
+ Transaction Capital Ltd  
+-6  
+-Absa Group Ltd  
+-17  
+-Truworths International Ltd  
+ 5  
+-African Rainbow Minerals Ltd  
+-4  
++Commercial International Bank Egypt SAE 11  
++Truworths International Ltd  
++9  
++E-Finance for Digital & Financial Investments 2  
+ Vodacom Group Ltd  
+-3  
++9  
++**Zuid-Afrika 1.017**  
++**Azië 41.268**  
++Absa Group Ltd  
++35  
++**China 13.711**  
++African Rainbow Minerals Ltd  
++6  
++37 Interactive Entertainment Network  
+ Anglo American Platinum Ltd  
+-68  
+-Woolworths Holdings Ltd/South Africa  
+-7  
+-AngloGold Ashanti Ltd  
++74  
++Technology Group Co Ltd  
+ 30  
++AngloGold Ashanti Ltd  
++32  
++3SBio Inc  
++17  
+ Aspen Pharmacare Holdings Ltd  
+ 4  
+-**Azië 49.093**  
+-Astral Foods Ltd  
+-1  
+-**China 13.970**  
++Agricultural Bank of China Ltd  
++66  
+ AVI Ltd  
+ 19  
+-3SBio Inc  
+-11  
++Alibaba Group Holding Ltd  
++984  
+ Barloworld Ltd  
+-23  
+-51job Inc  
+-1  
++18  
++Alibaba Health Information Technology Ltd 24  
+ Bid Corp Ltd  
+-31  
+-Agile Group Holdings Ltd  
+-1  
+-Bidvest Group Ltd/The  
+ 23  
+-Agricultural Bank of China Ltd  
+-92  
++A-Living Smart City Services Co Ltd  
++2  
++Bidvest Group Ltd/The  
++24  
++Amlogic Shanghai Co Ltd  
++4  
+ Capitec Bank Holdings Ltd  
+-67  
+-Alibaba Group Holding Ltd  
+-1.052  
++23  
++Angel Yeast Co Ltd  
++13  
+ Clicks Group Ltd  
+-28  
+-Alibaba Health Information Technology Ltd 26  
+-Coronation Fund Managers Ltd  
+-1  
+-A-Living Smart City Services Co Ltd  
+-1  
++12  
++Anhui Conch Cement Co Ltd  
++41  
+ Discovery Ltd  
+-13  
+-All Winner Technology Co Ltd  
+-6  
+-Distell Group Holdings Ltd  
++10  
++Anhui Expressway Co Ltd  
+ 1  
+-Angel Yeast Co Ltd  
+-99  
+ FirstRand Ltd  
+-139  
+-Anhui Conch Cement Co Ltd  
+-58  
+-Foschini Group Ltd/The  
+-21  
++186  
+ Anhui Guangxin Agrochemical Co Ltd  
+-2  
++4  
++Foschini Group Ltd/The  
++7  
++Anhui Gujing Distillery Co Ltd  
++4  
+ Gold Fields Ltd  
+-36  
++41  
+ Anhui Jinhe Industrial Co Ltd  
+ 13  
+ Impala Platinum Holdings Ltd  
+-36  
+-Anhui Transport Consulting & Design Institute Co Ltd 1  
+-JSE Ltd  
+-2  
++30  
+ Anhui Yingjia Distillery Co Ltd  
+-3  
++8  
++JSE Ltd  
++7  
++Anji Microelectronics Technology Shanghai Co Ltd 1  
+ Kumba Iron Ore Ltd  
+-16  
+-Anhui Zhongding Sealing Parts Co Ltd  
+-9  
++14  
++ANTA Sports Products Ltd  
++14  
+ Life Healthcare Group Holdings Ltd  
+ 3  
+-ANTA Sports Products Ltd  
+-58  
++Autohome Inc  
++5  
+ Momentum Metropolitan Holdings  
+ 2  
+-Asymchem Laboratories Tianjin Co Ltd  
+-8  
+-**Meer informatie? Ga n[aar abp.nl](https://www.abp.nl)**  
++Avary Holding Shenzhen Co Ltd  
++5  
+ Motus Holdings Ltd  
+-8  
+-Autohome Inc  
+-13  
++3  
++AviChina Industry & Technology Co Ltd  
++2  
+ Mr Price Group Ltd  
+-26  
++18  
+ BAIC Motor Corp Ltd  
+-11  
++9  
+ MTN Group Ltd  
+-73  
++79  
+ Baidu Inc  
+-56  
+-MultiChoice Group  
+-3  
+-Bank of China - Luxembourg Branch  
+-96  
++131  
+ Naspers Ltd  
+-192  
+-Bank of Communications Co Ltd  
+-37  
++180  
++Bank of Changsha Co Ltd  
++8  
+ Nedbank Group Ltd  
+-7  
+-Baoshan Iron & Steel Co Ltd  
+-24  
+-NEPI Rockcastle PLC  
+-2  
+-BeiGene Ltd  
+-3  
++21  
++Bank of China - Luxembourg Branch  
++94  
+ Netcare Ltd  
+-3  
+-Beijing Career International Co Ltd  
+-1  
++2  
++Bank of Communications Co Ltd  
++33  
+ Northam Platinum Holdings Ltd  
+-7  
+-Beijing Enterprises Holdings Ltd  
+-14  
++2  
++Baoshan Iron & Steel Co Ltd  
++13  
+ Old Mutual Ltd  
++4  
++BeiGene Ltd  
++2  
++**Meer informatie? Ga n[aar abp.nl](https://www.abp.nl)**  
++Omnia Holdings Ltd  
++3  
++Beijing Easpring Material Technology Co Ltd 5  
++Rand Merchant Investment Holdings Ltd  
+ 5  
+-Beijing Enterprises Water Group Ltd  
++Beijing Enterprises Holdings Ltd  
++16  
++Reunert Ltd  
+ 1  
+-Pepkor Holdings Ltd  
+-4  
+ Beijing New Building Materials PLC  
+-34  
++74  
++Sanlam Ltd  
++26  
++Beijing Oriental Yuhong Waterproof  
++Santam Ltd  
++3  
++Technology Co Ltd  
++31  
++Sappi Ltd  
++5  
++Beijing Wantai Biological Pharmacy  
++Shoprite Holdings Ltd  
++28  
++Enterprise Co Ltd  
++2  
++Sibanye Stillwater Ltd  
++6  
++Bilibili Inc  
++9  
++Standard Bank Group Ltd  
++24  
++Bloomage Biotechnology Corp Ltd  
++2  
++Telkom SA SOC Ltd  
++2  
++BOE Technology Group Co Ltd  
++19  
+ 1 Tot en met 2019 hebben we ook  beleggingen met een kleinere omvang dan EUR
+ 0,5 mln vermeld. Deze posities zijn echter verwaarloosbaar  
+ klein; zelfs bij elkaar opgeteld vormen ze naar schatting minder dan 0,1% van
+ het totale vermogen. Zulke kleine posities ontstaan meestal doordat  
+-01.0021.21 Q4 nl  
++01.0021.22 Q2 nl  
+ we een belegging aan het op- of afbouwen zijn, niet als een bewuste keuze.  
+ 
+ * * *
+@@ -190,228 +183,228 @@
+ Totaal  
+ Land Omschrijving  
+ Totaal  
+-Bilibili Inc  
+-99  
+-China United Network Communications Ltd 5  
+-BOE Technology Group Co Ltd  
+-15  
+-China Vanke Co Ltd  
+-32  
++BOE Varitronix Ltd  
++4  
++CIFI Holdings Group Co Ltd  
++56  
+ Bosideng International Holdings Ltd  
+-28  
+-China Water Affairs Group Ltd  
+-1  
+-Brilliance China Automotive Holdings Ltd 15  
+-China XLX Fertiliser Ltd  
+-2  
+-Burning Rock Biotech Ltd  
+-1  
+-China Yangtze Power Co Ltd  
+-61  
++18  
++CITIC Ltd  
++31  
++Brilliance China Automotive Holdings Ltd 16  
++CITIC Securities Co Ltd  
++70  
+ BYD Co Ltd  
+-102  
+-China Yongda Automobiles Services Holdings Ltd 21  
+-Caitong Securities Co Ltd  
+-1  
+-China Yuhua Education Corp Ltd  
+-1  
+-Canny Elevator Co Ltd  
+-5  
+-China Zheshang Bank Co Ltd  
+-1  
++141  
++CMOC Group Ltd  
++6  
++BYD Electronic International Co Ltd  
++4  
++COFCO Joycome Foods Ltd  
++16  
+ Centre Testing International Group Co Ltd 54  
+-Chongqing Changan Automobile Co Ltd  
+-1  
+-CGN Power Co Ltd  
++Concord New Energy Group Ltd  
+ 3  
+-Chongqing Rural Commercial Bank Co Ltd 4  
++CGN Power Co Ltd  
++7  
++Contemporary Amperex Technology Co Ltd 122  
+ Chacha Food Co Ltd  
+ 36  
+-Chongqing Zhifei Biological Products Co Ltd 6  
++COSCO SHIPPING Energy Transportation Co Ltd 2  
+ Chanjet Information Technology Co Ltd  
++2  
++COSCO SHIPPING Holdings Co Ltd  
++15  
++Cheng de Lolo Co Ltd  
+ 4  
+-Chow Tai Seng Jewellery Co Ltd  
+-14  
++Country Garden Holdings Co Ltd  
++68  
+ China Aoyuan Group Ltd  
+ 2  
+-CIFI Holdings Group Co Ltd  
+-68  
+-China Cinda Asset Management Co Ltd  
+-1  
+-CITIC Ltd  
+-30  
++Country Garden Services Holdings Co Ltd 4  
+ China CITIC Bank Corp Ltd  
+-21  
+-CITIC Securities Co Ltd  
+-65  
+-China Communications Services Corp Ltd 2  
+-COFCO Joycome Foods Ltd  
+-1  
+-China Conch Venture Holdings Ltd  
+-31  
+-Concord New Energy Group Ltd  
+-2  
++23  
++CRRC Corp Ltd  
++3  
+ China Construction Bank Corp  
+-342  
+-Contemporary Amperex Technology Co Ltd 89  
+-China Datang Corp Renewable Power Co Ltd 20  
+-Country Garden Holdings Co Ltd  
+-40  
+-China Design Group Co Ltd  
+-2  
+-Country Garden Services Holdings Co Ltd 11  
+-China Dongxiang Group Co Ltd  
++333  
++CSC Financial Co Ltd  
+ 2  
++China Datang Corp Renewable Power Co Ltd 28  
+ CSPC Pharmaceutical Group Ltd  
+-62  
+-China Everbright Bank Co Ltd  
+-5  
+-Dare Power Dekor Home Co Ltd  
++48  
++China Dongxiang Group Co Ltd  
+ 1  
+-China Everbright Environment Group Ltd  
++Dong-E-E-Jiao Co Ltd  
++16  
++China Education Group Holdings Ltd  
+ 1  
+-DeHua TB New Decoration Materials Co Ltd 1  
+-China Everbright Ltd  
+-5  
+ Dongfeng Motor Group Co Ltd  
+-30  
+-China Feihe Ltd  
+-7  
++22  
++China Everbright Ltd  
++3  
+ Dongyue Group Ltd  
+-16  
+-China Gas Holdings Ltd  
+ 4  
++China Feihe Ltd  
++18  
++East Money Information Co Ltd  
++36  
++China Hongqiao Group Ltd  
++38  
+ Ecovacs Robotics Co Ltd  
+-25  
+-China High Speed Transmission Equipment  
+-Edan Instruments Inc  
+-1  
+-Group Co Ltd  
+-1  
++4  
++China International Capital Corp Ltd  
++8  
+ ENN Energy Holdings Ltd  
+-59  
+-China Hongqiao Group Ltd  
+-42  
++55  
++China International Marine Containers Group Co Ltd 15  
+ ENN Natural Gas Co Ltd  
+ 2  
+-China International Capital Corp Ltd  
+-1  
+-Estun Automation Co Ltd  
+-6  
+-China International Marine Containers Group Co Ltd 18  
+-Fangda Special Steel Technology Co Ltd  
+-5  
+ China Jinmao Holdings Group Ltd  
+-15  
+-Far East Horizon Ltd  
+-1  
++5  
++Estun Automation Co Ltd  
++30  
+ China Lesso Group Holdings Ltd  
+ 4  
+-FinVolution Group  
+-10  
++FAW Jiefang Group Co Ltd  
++6  
+ China Life Insurance Co Ltd  
+-15  
+-Focus Media Information Technology Co Ltd 22  
++12  
++FinVolution Group  
++2  
+ China Longyuan Power Group Corp Ltd  
+-54  
+-Fosun International Ltd  
+-1  
++68  
++Foshan Haitian Flavouring & Food Co Ltd 16  
+ China Medical System Holdings Ltd  
+-23  
+-Founder Securities Co Ltd  
++19  
++Fosun International Ltd  
+ 1  
+ China Mengniu Dairy Co Ltd  
+-128  
+-Foxconn Industrial Internet Co Ltd  
+-3  
++122  
++Fufeng Group Ltd  
++5  
+ China Merchants Bank Co Ltd  
+-453  
+-Fu Shou Yuan International Group Ltd  
+-1  
+-China Merchants Port Holdings Co Ltd  
+-10  
++440  
+ Fujian Sunner Development Co Ltd  
+-33  
++24  
++China Merchants Port Holdings Co Ltd  
++6  
++Fuyao Glass Industry Group Co Ltd  
++1  
++China Merchants Shekou Industrial Zone  
++Gan & Lee Pharmaceuticals Co Ltd  
++2  
++Holdings Co Ltd  
++2  
++Ganfeng Lithium Co Ltd  
++29  
+ China Minsheng Banking Corp Ltd  
+-5  
+-Full Truck Alliance Co Ltd  
+ 2  
++G-bits Network Technology Xiamen Co Ltd 22  
+ China Modern Dairy Holdings Ltd  
+ 4  
+-Fuyao Glass Industry Group Co Ltd  
+-5  
+-China Molybdenum Co Ltd  
+-3  
+-Ganfeng Lithium Co Ltd  
+-26  
++GDS Holdings Ltd  
++23  
+ China National Building Material Co Ltd  
+-8  
+-G-bits Network Technology Xiamen Co Ltd 21  
++3  
++Geely Automobile Holdings Ltd  
++94  
+ China Nonferrous Mining Corp Ltd  
++2  
++Gigadevice Semiconductor Beijing Inc  
++3  
++China Oilfield Services Ltd  
+ 1  
+-GDS Holdings Ltd  
+-36  
++Glodon Co Ltd  
++12  
+ China Overseas Grand Oceans Group Ltd 2  
+-Geely Automobile Holdings Ltd  
+-129  
+-China Overseas Land & Investment Ltd  
+-80  
+-Gigadevice Semiconductor Beijing Inc  
+-6  
++GoerTek Inc  
++28  
++China Overseas Land & Investment Ltd 118  
++Grand Pharmaceutical Group Ltd  
++1  
++China Overseas Property Holdings Ltd  
++8  
++Great Wall Motor Co Ltd  
++61  
+ China Resources Beer Holdings Co Ltd  
+-5  
+-Ginlong Technologies Co Ltd  
+-13  
++4  
++Greattown Holdings Ltd  
++3  
+ China Resources Gas Group Ltd  
+-47  
+-Glodon Co Ltd  
+-14  
++32  
++Greentown China Holdings Ltd  
++2  
+ China Resources Land Ltd  
+-853  
+-GoerTek Inc  
+-65  
++1.000  
++Greentown Management Holdings Co Ltd 3  
+ China Resources Mixc Lifestyle Services Ltd 4  
+-Great Wall Motor Co Ltd  
+-30  
+-China Resources Pharmaceutical Group Ltd 8  
+-Greenland Holdings Corp Ltd  
++Greentown Service Group Co Ltd  
+ 1  
++China Resources Pharmaceutical Group Ltd 13  
++Guangdong Baolihua New Energy Stock Co Ltd 1  
++China Resources Power Holdings Co Ltd  
++6  
++Guangdong Haid Group Co Ltd  
++38  
+ China Resources Sanjiu Medical &  
+-Greentown Service Group Co Ltd  
+-11  
++Guangdong Hybribio Biotech Co Ltd  
++4  
+ Pharmaceutical Co Ltd  
+-5  
+-Guangdong Baolihua New Energy Stock Co Ltd 2  
++7  
++Guangdong Investment Ltd  
++11  
+ China Risun Group Ltd  
+-3  
+-Guangdong Dongfang Precision Science &  
+-China Southern Airlines Co Ltd  
+-17  
+-Technology Co Ltd  
+-1  
+-China State Construction International  
+-Guangdong Haid Group Co Ltd  
+-53  
+-Holdings Ltd  
+-1  
++2  
+ Guangdong Provincial Expressway  
+-China Taiping Insurance Holdings Co Ltd 10  
++China Taiping Insurance Holdings Co Ltd 13  
+ Development Co Ltd  
+ 3  
+-China Tourism Group Duty Free Corp Ltd 81  
+-Guanghui Energy Co Ltd  
+-1  
+-China Tower Corp Ltd  
+-5  
++China Tourism Group Duty Free Corp Ltd 65  
+ Guangzhou Automobile Group Co Ltd  
+-20  
+-China Traditional Chinese Medicine Holdings Co Ltd 2  
++32  
++China Tower Corp Ltd  
++3  
+ Guangzhou Baiyunshan Pharmaceutical  
++China Traditional Chinese Medicine Holdings Co Ltd 5  
+ Holdings Co Ltd  
+-6  
++23  
++China United Network Communications Ltd 4  
++Guangzhou Kingmed Diagnostics Group Co Ltd 2  
++China Vanke Co Ltd  
++67  
++Guangzhou Tinci Materials Technology Co Ltd 4  
++China Water Affairs Group Ltd  
++3  
++Haidilao International Holding Ltd  
++3  
++China XLX Fertiliser Ltd  
++3  
++Haier Smart Home Co Ltd  
++84  
++China Yangtze Power Co Ltd  
++88  
++Haitian International Holdings Ltd  
++29  
++China Yongda Automobiles Services Holdings Ltd 18  
++Hangzhou First Applied Material Co Ltd  
++56  
++China Yuhua Education Corp Ltd  
++3  
++Hangzhou Robam Appliances Co Ltd  
++5  
++Chongqing Changan Automobile Co Ltd  
++1  
++Hangzhou Shunwang Technology Co Ltd  
++5  
++Chongqing Rural Commercial Bank Co Ltd 5  
++Hangzhou Tigermed Consulting Co Ltd  
++79  
++Chongqing Zhifei Biological Products Co Ltd 4  
++Han’s Laser Technology Industry Group Co Ltd 2  
+ Beursgenoteerde beleggingen van ABP  
+ **2**  
+-per 31 december 2021  
++per 30 juni 2022  
+ 
+ * * *
+ 
+@@ -419,238 +412,235 @@
+ Totaal  
+ Land Omschrijving  
+ Totaal  
+-Kingnet Network Co Ltd  
+-4  
+-Guangzhou KDT Machinery Co Ltd  
+-1  
+-Kingsoft Cloud Holdings Ltd  
+-4  
+-Guangzhou Kingmed Diagnostics Group Co Ltd 3  
+-Kingsoft Corp Ltd  
+-10  
+-Guangzhou Tinci Materials Technology Co Ltd 4  
+-Kuaishou Technology  
+-15  
+-Haidilao International Holding Ltd  
+-3  
+-Kunlun Energy Co Ltd  
+-77  
+-Haier Smart Home Co Ltd  
+-97  
+-Kweichow Moutai Co Ltd  
+-318  
+-Haitian International Holdings Ltd  
+-34  
+-KWG Group Holdings Ltd  
+-22  
+-Haitong Securities Co Ltd  
+-15  
+-KWG Living Group Holdings Ltd  
+-3  
+-Hangcha Group Co Ltd  
+-4  
+-Lee & Man Paper Manufacturing Ltd  
+-3  
+-Hangzhou Dptech Technologies Co Ltd  
+-1  
+-Legend Holdings Corp  
+-3  
+-Hangzhou First Applied Material Co Ltd  
+-51  
+-Lenovo Group Ltd  
+-91  
+-Hangzhou Oxygen Plant Group Co Ltd  
+-2  
+-Lepu Medical Technology Beijing Co Ltd  
+-6  
+-Hangzhou Robam Appliances Co Ltd  
+-12  
+-LexinFintech Holdings Ltd  
+-3  
+-Hangzhou Tigermed Consulting Co Ltd  
+-69  
+-Li Auto Inc  
+-45  
+-Hebei Chengde Lolo Co  
+-6  
+-Li Ning Co Ltd  
+-184  
+ Hello Group Inc  
+-10  
+-Lifetech Scientific Corp  
+-4  
+-Hongfa Technology Co Ltd  
+-14  
+-Longfor Group Holdings Ltd  
+-164  
+-Hopson Development Holdings Ltd  
+-10  
+-LONGi Green Energy Technology Co Ltd 183  
+-Hoshine Silicon Industry Co Ltd  
+-4  
+-Lonking Holdings Ltd  
+-4  
+-Huadian Power International Corp Ltd  
+-1  
+-Lufax Holding Ltd  
+-2  
+-Huatai Securities Co Ltd  
+-3  
+-Luxi Chemical Group Co Ltd  
+-4  
+-Huayu Automotive Systems Co Ltd  
+-4  
+-Luxshare Precision Industry Co Ltd  
+-102  
+-Huazhu Group Ltd  
+-28  
+-Luye Pharma Group Ltd  
+-4  
+-Humanwell Healthcare Group Co Ltd  
+-2  
+-Luzhou Laojiao Co Ltd  
+-67  
+-Hunan Valin Steel Co Ltd  
+-1  
+-Maccura Biotechnology Co Ltd  
+-5  
+-Hutchmed China Ltd  
+-5  
+-Maxscend Microelectronics Co Ltd  
+-35  
+-HUYA Inc  
+-2  
+-Meituan 597  
+-Industrial & Commercial Bank Of China,  
+-Midea Group Co Ltd  
+-151  
+-Luxembourg Branch  
+-107  
+-Minth Group Ltd  
+-62  
+-Industrial Bank Co Ltd  
+-23  
+-MLS Co Ltd  
+-1  
+-Industrial Securities Co Ltd  
+-10  
++9  
+ Muyuan Foods Co Ltd  
+-10  
+-Inner Mongolia Yili Industrial Group Co Ltd 8  
+-Nanjing Iron & Steel Co Ltd  
+-1  
+-Innovent Biologics Inc  
++21  
++Henan Lingrui Pharmaceutical Co  
+ 1  
+ NARI Technology Co Ltd  
+ 53  
+-Intco Medical Technology Co Ltd  
++Henan Shenhuo Coal & Power Co Ltd  
++5  
++NAURA Technology Group Co Ltd  
++17  
++Huatai Securities Co Ltd  
+ 2  
+ NetDragon Websoft Holdings Ltd  
+-3  
+-JCET Group Co Ltd  
++6  
++Huayu Automotive Systems Co Ltd  
+ 4  
+ NetEase Inc  
+-74  
+-JD Health International Inc  
+-4  
++105  
++Hubei Xingfa Chemicals Group Co Ltd  
++6  
+ New China Life Insurance Co Ltd  
+-16  
+-JD Logistics Inc  
+-1  
+-New Oriental Education & Technology Group Inc 9  
+-JD.com Inc  
+-176  
++18  
++Hubei Yihua Chemical Industry Co Ltd  
++2  
++New Oriental Education & Technology Group Inc 1  
++Hutchmed China Ltd  
++2  
+ Newborn Town Inc  
+ 2  
+-Jiangsu Expressway Co Ltd  
+-1  
++Hygeia Healthcare Holdings Co Ltd  
++2  
++Newland Digital Technology Co Ltd  
++2  
++Industrial & Commercial Bank Of China,  
+ Nexteer Automotive Group Ltd  
+ 8  
+-Jiangsu Hengli Hydraulic Co Ltd  
+-3  
+-Ningbo Huaxiang Electronic Co Ltd  
+-3  
+-Jiangsu Hengrui Medicine Co Ltd  
+-54  
++Luxembourg Branch  
++98  
++Ningbo Ronbay New Energy Technology Co Ltd 33  
++Industrial Bank Co Ltd  
++39  
+ NIO Inc  
+-45  
+-Jiangsu King’s Luck Brewery JSC Ltd  
+-21  
++18  
++Industrial Securities Co Ltd  
++6  
+ Noah Holdings Ltd  
+-11  
+-Jiangsu Shagang Co Ltd  
+ 1  
++Inner Mongolia Yili Industrial Group Co Ltd 53  
+ Nongfu Spring Co Ltd  
+-9  
+-Jiangsu Yanghe Brewery Joint-Stock Co Ltd 10  
+-Opple Lighting Co Ltd  
+-2  
+-Jiangsu Yangnong Chemical Co Ltd  
+-36  
+-PharmaBlock Sciences Nanjing Inc  
+-2  
+-Jiangsu Yuyue Medical Equipment & Supply Co Ltd 1  
++12  
++Inner Mongolia Yuan Xing Energy Co Ltd  
++3  
++Orient Overseas International Ltd  
++10  
++JD Health International Inc  
++3  
++Perfect World Co Ltd/China  
++5  
++JD.com Inc  
++519  
+ Pharmaron Beijing Co Ltd  
+-14  
+-Jiangxi Copper Co Ltd  
+-45  
++9  
++Jiangsu GoodWe Power Supply Technology Co Ltd 30  
+ Pinduoduo Inc  
+-60  
+-Jingjin Equipment Inc  
+-1  
++216  
++Jiangsu Shagang Co Ltd  
++5  
+ Ping An Bank Co Ltd  
+-150  
+-Jinneng Science&Technology Co Ltd  
+-3  
++134  
++Jiangsu Shuangxing Color Plastic New  
+ Ping An Insurance Group Co of China Ltd 351  
+-Jinxin Fertility Group Ltd  
+-4  
+-Poly Developments and Holdings Group Co Ltd 8  
+-JiuGui Liquor Co Ltd  
+-7  
+-Postal Savings Bank of China Co Ltd  
+-13  
+-Jiumaojiu International Holdings Ltd  
++Materials Co Ltd  
+ 2  
++Poly Property Services Co Ltd  
++1  
++Jiangsu Yanghe Brewery Joint-Stock Co Ltd 30  
++Postal Savings Bank of China Co Ltd  
++40  
++Jiangsu Yangnong Chemical Co Ltd  
++32  
+ Q Technology Group Co Ltd  
+-4  
+-JNBY Design Ltd  
+ 2  
++Jiangxi Copper Co Ltd  
++41  
+ Qingdao Haier Biomedical Co Ltd  
+ 3  
+-Joincare Pharmaceutical Group Industry Co Ltd 1  
++Jinchuan Group International Resources Co Ltd 1  
+ QuakeSafe Technologies Co Ltd  
+-21  
+-Joinn Laboratories China Co Ltd  
+ 15  
+-Qudian Inc  
+-2  
+-JOYY Inc  
+-6  
++Jiumaojiu International Holdings Ltd  
++3  
+ SAIC Motor Corp Ltd  
+-18  
++12  
++JNBY Design Ltd  
++1  
++Sanquan Food Co Ltd  
++5  
++Joincare Pharmaceutical Group Industry Co Ltd 2  
++SF Holding Co Ltd  
++38  
++Joinn Laboratories China Co Ltd  
++25  
++SG Micro Corp  
++22  
++JOYY Inc  
++5  
++Shandong Head Group Co Ltd  
++15  
++Kanzhun Ltd  
++21  
++Shandong Hualu Hengsheng Chemical Co Ltd 8  
+ KE Holdings Inc  
++4  
++Shandong Nanshan Aluminum Co Ltd  
+ 2  
+-Sany Heavy Equipment International Holdings Co Ltd 1  
++Keda Industrial Group Co Ltd  
++3  
++Shandong Sinocera Functional Material Co Ltd 23  
+ Kingboard Holdings Ltd  
+-14  
+-SF Holding Co Ltd  
+-17  
+-Kingboard Laminates Holdings Ltd  
++12  
++Shanghai Baosight Software Co Ltd  
+ 13  
+-SG Micro Corp  
++Kingboard Laminates Holdings Ltd  
+ 9  
+-KingClean Electric Co Ltd  
++Shanghai International Airport Co Ltd  
++1  
++Kingdee International Software Group Co Ltd 7  
++Shanghai Pharmaceuticals Holding Co Ltd 5  
++Kingnet Network Co Ltd  
++9  
++Shanghai Rural Commercial Bank Co Ltd  
+ 2  
+-Shandong Head Co Ltd  
++Kingsoft Corp Ltd  
+ 11  
+-Kingdee International Software Group Co Ltd 8  
+-Shandong Hualu Hengsheng Chemical Co Ltd 9  
+-Shandong Nanshan Aluminum Co Ltd  
+-7  
++Shanxi Xinghuacun Fen Wine Factory Co Ltd 20  
++Kuaishou Technology  
++73  
++Shenzhen Capchem Technology Co Ltd  
++3  
++Kunlun Energy Co Ltd  
++74  
++Shenzhen Inovance Technology Co Ltd 104  
++Kweichow Moutai Co Ltd  
++391  
++Shenzhen Mindray Bio-Medical Electronics Co Ltd 125  
++KWG Group Holdings Ltd  
++9  
++Shenzhen Senior Technology Material Co Ltd 17  
++KWG Living Group Holdings Ltd  
++2  
++Shenzhou International Group Holdings Ltd 95  
++Legend Holdings Corp  
++2  
++Shimao Services Holdings Ltd  
++1  
++Lenovo Group Ltd  
++51  
++Sichuan Kelun Pharmaceutical Co Ltd  
++6  
++LexinFintech Holdings Ltd  
++4  
++Sino Biopharmaceutical Ltd  
++73  
++Li Auto Inc  
++131  
++Sinopharm Group Co Ltd  
++8  
++Li Ning Co Ltd  
++94  
++Sinotrans Ltd  
++3  
++Lifetech Scientific Corp  
++4  
++Sinotruk Hong Kong Ltd  
++11  
++Longfor Group Holdings Ltd  
++132  
++Smoore International Holdings Ltd  
++1  
++LONGi Green Energy Technology Co Ltd 261  
++Sunac China Holdings Ltd  
++23  
++Lonking Holdings Ltd  
++1  
++Sunac Services Holdings Ltd  
++2  
++Lufax Holding Ltd  
++3  
++Sunflower Pharmaceutical Group Co Ltd  
++3  
++Luxshare Precision Industry Co Ltd  
++34  
++Sungrow Power Supply Co Ltd  
++49  
++Luye Pharma Group Ltd  
++3  
++Sunny Optical Technology Group Co Ltd 80  
++Luzhou Laojiao Co Ltd  
++68  
++Sunwoda Electronic Co Ltd  
++1  
++Maxscend Microelectronics Co Ltd  
++27  
++Tencent Holdings Ltd  
++1.471  
++Meituan 568  
++Tencent Music Entertainment Group  
++4  
++Midea Group Co Ltd  
++166  
++Thunder Software Technology Co Ltd  
++14  
++Minth Group Ltd  
++11  
++Tian Lun Gas Holdings Ltd  
++1  
++MMG Ltd  
++6  
++Times China Holdings Ltd  
++4  
++Montage Technology Co Ltd  
++3  
++Tingyi Cayman Islands Holding Corp  
++19  
+ Beursgenoteerde beleggingen van ABP  
+ **3**  
+-per 31 december 2021  
++per 30 juni 2022  
+ 
+ * * *
+ 
+@@ -658,230 +648,240 @@
+ Totaal  
+ Land Omschrijving  
+ Totaal  
+-Shandong Publishing & Media Co Ltd  
++Tong Ren Tang Technologies Co Ltd  
+ 1  
+-Xiamen Xiangyu Co Ltd  
++Robinsons Land Corp  
++99  
++Tongcheng Travel Holdings Ltd  
++41  
++SM Investments Corp  
+ 3  
+-Shandong Sinocera Functional Material Co Ltd 12  
+-Xiangpiaopiao Food Co Ltd  
++Tongwei Co Ltd  
++14  
++SM Prime Holdings Inc  
++497  
++Topsports International Holdings Ltd  
++3  
++Universal Robina Corp  
+ 1  
+-Shanghai Fullhan Microelectronics Co Ltd 3  
+-Xiaomi Corp  
++Towngas Smart Energy Co Ltd  
++1  
++Trip.com Group Ltd  
++14  
++**Hong Kong **  
++**3.040**  
++Truly International Holdings Ltd  
+ 4  
+-Shanghai Hanbell Precise Machinery Co Ltd 1  
+-Xinfengming Group Co Ltd  
++AIA Group Ltd  
++230  
++Tsingtao Brewery Co Ltd  
++63  
++BOC Hong Kong Holdings Ltd  
++20  
++Uni-President China Holdings Ltd  
++12  
++Budweiser Brewing Co APAC Ltd  
++93  
++Venustech Group Inc  
++16  
++Chow Tai Fook Jewellery Group Ltd  
++12  
++Vipshop Holdings Ltd  
++45  
++CK Asset Holdings Ltd  
++123  
++Wangsu Science & Technology Co Ltd  
++1  
++CK Hutchison Holdings Ltd  
++2  
++Wanhua Chemical Group Co Ltd  
++132  
++CK Infrastructure Holdings Ltd  
+ 3  
+-Shanghai International Airport Co Ltd  
+-15  
+-Xinjiang Goldwind Science & Technology Co Ltd 3  
+-Shanghai Junshi Biosciences Co Ltd  
++Want Want China Holdings Ltd  
++3  
++CLP Holdings Ltd  
++1  
++Weichai Power Co Ltd  
+ 2  
++ESR Group Ltd  
++527  
++Wens Foodstuffs Group Co Ltd  
++10  
++Hang Lung Group Ltd  
++1  
++Wharf Holdings Ltd/The  
++1  
++Hang Lung Properties Ltd  
++390  
++Wuliangye Yibin Co Ltd  
++163  
++Hang Seng Bank Ltd  
++68  
++WuXi AppTec Co Ltd  
++81  
++Henderson Land Development Co Ltd  
++5  
++Wuxi Biologics Cayman Inc  
++195  
++HK Electric Investments & HK Electric  
++Xiabuxiabu Catering Management China  
++Investments Ltd  
++10  
++Holdings Co Ltd  
++4  
++HKT Trust & HKT Ltd  
++33  
++Xiamen C & D Inc  
++5  
++Hong Kong & China Gas Co Ltd  
++41  
++Xiaomi Corp  
++4  
++Hong Kong Exchanges & Clearing Ltd  
++97  
+ Xinjiang Xintai Natural Gas Co Ltd  
+ 2  
+-Shanghai Liangxin Electrical Co Ltd  
+-15  
+-Xinjiang Zhongtai Chemical Co Ltd  
+-1  
+-Shanghai Pharmaceuticals Holding Co Ltd 13  
++Hongkong & Shanghai Hotels Ltd/The  
++3  
+ Xinyi Solar Holdings Ltd  
+-1  
+-Shanghai Putailai New Energy Technology Co Ltd 1  
++2  
++Hongkong Land Holdings Ltd  
++94  
+ XPeng Inc  
+-8  
+-Shanghai Zhonggu Logistics Co Ltd  
+-1  
++2  
++Hui Xian Real Estate Investment Trust  
++11  
+ Xtep International Holdings Ltd  
+-3  
+-Shanxi Xinghuacun Fen Wine Factory Co Ltd 25  
+-Yadea Group Holdings Ltd  
+-16  
+-Shenzhen Capchem Technology Co Ltd  
+-6  
+-Yantai Zhenghai Bio-tech Co Ltd  
+-1  
+-Shenzhen Colibri Technologies Co Ltd  
+ 1  
++Hysan Development Co Ltd  
++25  
++Yadea Group Holdings Ltd  
++11  
++Jardine Matheson Holdings Ltd  
++57  
+ Yealink Network Technology Corp Ltd  
+-42  
+-Shenzhen Inovance Technology Co Ltd  
+-80  
++31  
++Link REIT  
++537  
++YongXing Special Materials Technology Co Ltd 3  
++MTR Corp Ltd  
++50  
+ Yonyou Network Technology Co Ltd  
+-29  
+-Shenzhen Mindray Bio-Medical Electronics Co Ltd 118  
+-Yuan Longping High-tech Agriculture Co Ltd 27  
+-Shenzhen Overseas Chinese Town Co Ltd 6  
+-Yuexiu Property Co Ltd  
+-2  
+-Shenzhou International Group Holdings Ltd 116  
++33  
++New World Development Co Ltd  
++33  
++YTO Express Group Co Ltd  
++4  
++Pacific Basin Shipping Ltd  
++7  
+ Yum China Holdings Inc  
+-37  
+-Shimao Group Holdings Ltd  
+-12  
++31  
++Power Assets Holdings Ltd  
++24  
+ Yunnan Aluminium Co Ltd  
+-6  
+-Sichuan Kelun Pharmaceutical Co Ltd  
+ 4  
++Sands China Ltd  
++18  
++Yunnan Botanee Bio-Technology Group Co Ltd 8  
++Sino Land Co Ltd  
++13  
+ Yunnan Energy New Material Co Ltd  
+-44  
+-Sino Biopharmaceutical Ltd  
+-80  
+-Yunnan Tin Co Ltd  
+-1  
+-Sinopharm Group Co Ltd  
+-6  
++46  
++SITC International Holdings Co Ltd  
++29  
+ Zai Lab Ltd  
+-16  
+-Sinotrans Ltd  
+-10  
++9  
++Sun Hung Kai Properties Ltd  
++165  
+ ZBOM Home Collection Co Ltd  
+ 5  
+-Sinotruk Hong Kong Ltd  
+-15  
+-Zepp Health Corp  
+-1  
+-Smoore International Holdings Ltd  
+-1  
++Swire Properties Ltd  
++22  
+ Zhejiang Expressway Co Ltd  
+ 1  
+-Sohu.com Ltd  
+-5  
+-Zhejiang Jingsheng Mechanical & Electrical Co Ltd 4  
+-Sun Art Retail Group Ltd  
++Techtronic Industries Co Ltd  
+ 1  
+-Zhejiang Meida Industrial Co Ltd  
+-2  
+-Sunac China Holdings Ltd  
+-113  
+ Zhejiang Orient Gene Biotech Co Ltd  
+-6  
+-Sunac Services Holdings Ltd  
+-2  
+-Zhejiang Sanhua Intelligent Controls Co Ltd 5  
+-Sunflower Pharmaceutical Group Co Ltd  
+-3  
+-Zhejiang Wanma Co Ltd  
+-1  
+-Sungrow Power Supply Co Ltd  
+-52  
+-Zhejiang Weixing New Building Materials Co Ltd 5  
+-Sunny Optical Technology Group Co Ltd 152  
+-Zhejiang Xinan Chemical Industrial Group Co Ltd 3  
+-Suzhou Anjie Technology Co Ltd  
+-1  
++12  
++WH Group Ltd  
++20  
++Zhejiang Sanhua Intelligent Controls Co Ltd 7  
++Wharf Real Estate Investment Co Ltd  
++275  
+ Zhongsheng Group Holdings Ltd  
+-227  
+-Suzhou Gold Mantis Construction Decoration Co Ltd 1  
+-Zhuzhou Kibing Group Co Ltd  
+-7  
+-TCL Technology Group Corp  
+-2  
++187  
++Xinyi Glass Holdings Ltd  
++3  
++Zijin Mining Group Co Ltd  
++25  
+ Zoomlion Heavy Industry Science and  
+-Tencent Holdings Ltd  
+-1.833  
++**India 4.239**  
+ Technology Co Ltd  
+-2  
+-Tencent Music Entertainment Group  
+-52  
++3  
++Adani Enterprises Ltd  
++4  
+ ZTE Corp  
++14  
++Adani Green Energy Ltd  
++3  
++ZTO Express Cayman Inc  
+ 8  
+-Tian Di Science & Technology Co Ltd  
++Adani Total Gas Ltd  
++4  
++Adani Transmission Ltd  
++4  
++**Filippijnen 802**  
++Aditya Birla Capital Ltd  
++2  
++AC Energy Corp  
+ 1  
+-ZTO Express Cayman Inc  
+-28  
+-Times China Holdings Ltd  
+-5  
+-Tingyi Cayman Islands Holding Corp  
+-18  
+-**Filippijnen 916**  
+-Tongcheng Travel Holdings Ltd  
+-23  
++Affle India Ltd  
++3  
+ Ayala Corp  
+ 17  
+-TongFu Microelectronics Co Ltd  
+-2  
++Alkem Laboratories Ltd  
++1  
+ Ayala Land Inc  
+-136  
+-Tongwei Co Ltd  
+-13  
++92  
++Allcargo Logistics Ltd  
++1  
+ Bank of the Philippine Islands  
+-11  
+-Topchoice Medical Corp  
+-5  
++9  
++Amber Enterprises India Ltd  
++3  
+ BDO Unibank Inc  
+-31  
+-Topsports International Holdings Ltd  
+-25  
++7  
++Angel One Ltd  
++3  
+ Concepcion Industrial Corp  
+ 8  
+-Trip.com Group Ltd  
+-31  
++APL Apollo Tubes Ltd  
++9  
+ D&L Industries Inc  
+-8  
+-Uni-President China Holdings Ltd  
+-10  
+-Globe Telecom Inc  
++6  
++Apollo Hospitals Enterprise Ltd  
++33  
++International Container Terminal Services Inc 15  
++Arvind Ltd  
+ 1  
+-Venustech Group Inc  
+-20  
+-International Container Terminal Services Inc 37  
+-Vipshop Holdings Ltd  
+-15  
+ Jollibee Foods Corp  
++5  
++Ashok Leyland Ltd  
+ 3  
+-Wanhua Chemical Group Co Ltd  
+-161  
+ Metropolitan Bank & Trust Co  
+-4  
+-Want Want China Holdings Ltd  
+-2  
++6  
++Asian Paints Ltd  
++31  
+ Monde Nissin Corp  
+-42  
+-Weibo Corp  
+-15  
+-Puregold Price Club Inc  
+-13  
+-Weichai Power Co Ltd  
+ 26  
+-RFM Corp  
+-13  
+-West China Cement Ltd  
+-1  
+-Robinsons Land Corp  
+-118  
+-Wharf Holdings Ltd/The  
+-4  
+-Security Bank Corp  
+-4  
+-Wingtech Technology Co Ltd  
+-34  
+-SM Prime Holdings Inc  
+-465  
+-Wuhu Sanqi Interactive Entertainment  
+-Universal Robina Corp  
+-5  
+-Network Technology Group Co Ltd  
++AU Small Finance Bank Ltd  
+ 14  
+-Wuliangye Yibin Co Ltd  
+-194  
+-**Hong Kong **  
+-**3.501**  
+-WuXi AppTec Co Ltd  
+-120  
+-AIA Group Ltd  
+-265  
+-Wuxi Biologics Cayman Inc  
+-187  
+-BOC Hong Kong Holdings Ltd  
+-18  
+-Xiabuxiabu Catering Management China  
+-Budweiser Brewing Co APAC Ltd  
+-63  
+-Holdings Co Ltd  
+-20  
+-Chow Sang Sang Holdings International Ltd 1  
++RFM Corp  
++12  
+ Beursgenoteerde beleggingen van ABP  
+ **4**  
+-per 31 december 2021  
++per 30 juni 2022  
+ 
+ * * *
+ 
+@@ -889,247 +889,250 @@
+ Totaal  
+ Land Omschrijving  
+ Totaal  
+-Chow Tai Fook Jewellery Group Ltd  
++Avenue Supermarts Ltd  
++4  
++Hindustan Aeronautics Ltd  
++38  
++Axis Bank Ltd  
++71  
++Hindustan Unilever Ltd  
++96  
++Bajaj Finance Ltd  
++12  
++Housing Development Finance Corp Ltd 201  
++Balkrishna Industries Ltd  
+ 13  
+-BASF India Ltd  
+-1  
+-CK Asset Holdings Ltd  
+-128  
+-Bharat Forge Ltd  
+-2  
+-CK Hutchison Holdings Ltd  
+-66  
++ICICI Bank Ltd  
++270  
++Bandhan Bank Ltd  
++76  
++ICICI Lombard General Insurance Co Ltd  
++5  
++Bata India Ltd  
++3  
++ICICI Prudential Life Insurance Co Ltd  
++38  
+ Bharat Petroleum Corp Ltd  
+-7  
+-CK Infrastructure Holdings Ltd  
++3  
++IDFC First Bank Ltd  
+ 3  
+ Bharti Airtel Ltd  
+-39  
+-CLP Holdings Ltd  
+-1  
++44  
++Indiabulls Real Estate Ltd  
++2  
+ Birlasoft Ltd  
+-3  
+-CP Pokphand Co Ltd  
+ 5  
++Indian Energy Exchange Ltd  
++5  
++BLS International Services Ltd  
++1  
++Indian Hotels Co Ltd  
++17  
+ Blue Dart Express Ltd  
+-4  
+-ESR Cayman Ltd  
+-606  
++6  
++Indian Oil Corp Ltd  
++14  
+ Blue Star Ltd  
+ 1  
+-Hang Lung Group Ltd  
+-2  
+-Brightcom Group Ltd  
+-1  
+-Hang Lung Properties Ltd  
+-400  
+-Britannia Industries Ltd  
+-1  
+-Hang Seng Bank Ltd  
+-72  
++Indraprastha Gas Ltd  
++8  
+ BSE Ltd  
+-5  
+-Health & Happiness H&H International Holdings Ltd 1  
+-Carborundum Universal Ltd  
+ 7  
+-Henderson Land Development Co Ltd  
+-13  
++Indus Towers Ltd  
++2  
++Canara Bank  
++2  
++Info Edge India Ltd  
++23  
++Carborundum Universal Ltd  
++1  
++Infosys Ltd  
++346  
+ Cartrade Tech Ltd  
+ 1  
+-HK Electric Investments & HK Electric  
+-Central Depository Services India Ltd  
+-2  
+-Investments Ltd  
+-15  
++Intellect Design Arena Ltd  
++1  
+ Century Plyboards India Ltd  
+ 1  
+-HKT Trust & HKT Ltd  
+-30  
++InterGlobe Aviation Ltd  
++20  
+ Chambal Fertilisers and Chemicals Ltd  
+-13  
+-Hong Kong & China Gas Co Ltd  
+-71  
++19  
++IRCON International Ltd  
++1  
+ Cipla Ltd/India  
+-14  
+-Hong Kong Exchanges & Clearing Ltd  
+-156  
++9  
++Jindal Stainless Ltd  
++1  
+ Coforge Ltd  
+-4  
+-Hongkong & Shanghai Hotels Ltd/The  
+-5  
++2  
++Kajaria Ceramics Ltd  
++2  
+ Colgate-Palmolive India Ltd  
+ 14  
+-Hongkong Land Holdings Ltd  
+-120  
++Kotak Mahindra Bank Ltd  
++68  
+ Computer Age Management Services Ltd  
+-6  
+-Hui Xian Real Estate Investment Trust  
+-14  
+-Container Corp Of India Ltd  
++7  
++KPIT Technologies Ltd  
+ 10  
+-Hysan Development Co Ltd  
+-27  
+-CRISIL Ltd  
+-1  
+-Jardine Matheson Holdings Ltd  
+-50  
+-Crompton Greaves Consumer Electricals Ltd 42  
+-JS Global Lifestyle Co Ltd  
+-28  
++Container Corp Of India Ltd  
++2  
++Lemon Tree Hotels Ltd  
++85  
++Crompton Greaves Consumer Electricals Ltd 30  
++Mahanagar Gas Ltd  
++9  
+ Cummins India Ltd  
+-11  
+-Link REIT  
+-566  
++2  
++Mahindra & Mahindra Ltd  
++31  
+ Cyient Ltd  
+ 1  
+-MTR Corp Ltd  
+-51  
+-Dabur India Ltd  
+-1  
+-New World Development Co Ltd  
+-66  
++Maruti Suzuki India Ltd  
++198  
++Deepak Fertilisers & Petrochemicals Corp Ltd 3  
++Mastek Ltd  
++3  
+ Deepak Nitrite Ltd  
++3  
++Max Financial Services Ltd  
++13  
++Delhivery Ltd  
++3  
++Max Healthcare Institute Ltd  
+ 6  
+-Pacific Basin Shipping Ltd  
+-17  
+ Devyani International Ltd  
+-14  
+-PAX Global Technology Ltd  
++13  
++Mirza International Ltd  
+ 1  
+-Divi’s Laboratories Ltd  
+-6  
+-Power Assets Holdings Ltd  
+-21  
+ DLF Ltd  
+-99  
+-Sands China Ltd  
+-21  
+-Dr Lal PathLabs Ltd  
+-3  
+-Sino Land Co Ltd  
+-8  
++69  
++Motherson Sumi Wiring India Ltd  
++5  
+ Dr Reddy’s Laboratories Ltd  
+-48  
+-SITC International Holdings Co Ltd  
+-50  
++37  
++Motilal Oswal Financial Services Ltd  
++1  
++Dwarikesh Sugar Industries Ltd  
++1  
++Mphasis Ltd  
++30  
++Easy Trip Planners Ltd  
++2  
++Navin Fluorine International Ltd  
++8  
+ Eicher Motors Ltd  
+-78  
+-Sun Hung Kai Properties Ltd  
+-135  
++89  
++Nestle India Ltd  
++2  
+ EID Parry India Ltd  
+-1  
+-Swire Pacific Ltd  
+ 3  
+-Emami Ltd  
++NIIT Ltd  
++5  
++Elgi Equipments Ltd  
++1  
++Oberoi Realty Ltd  
+ 4  
+-Swire Properties Ltd  
+-28  
++Emami Ltd  
++3  
++Oil India Ltd  
++8  
+ Embassy Office Parks REIT  
+ 16  
+-Techtronic Industries Co Ltd  
+-27  
+-Fine Organic Industries Ltd  
+-17  
+-VTech Holdings Ltd  
++Oracle Financial Services Software Ltd  
++2  
++Exide Industries Ltd  
+ 1  
+-Fortis Healthcare Ltd  
+-19  
+-WH Group Ltd  
++Page Industries Ltd  
++8  
++Fine Organic Industries Ltd  
++16  
++PB Fintech Ltd  
+ 3  
++Fortis Healthcare Ltd  
++20  
++Persistent Systems Ltd  
++6  
+ FSN E-Commerce Ventures Ltd  
+-14  
+-Wharf Real Estate Investment Co Ltd  
+-301  
++17  
++Petronet LNG Ltd  
++1  
+ GAIL India Ltd  
+-46  
+-Xinyi Glass Holdings Ltd  
+-27  
+-Gayatri Projects Ltd  
++47  
++Piramal Enterprises Ltd  
+ 2  
++Gayatri Projects Ltd  
++1  
++Polyplex Corp Ltd  
++4  
+ Gland Pharma Ltd  
+-18  
+-**India 4.968**  
++17  
++Power Grid Corp of India Ltd  
++135  
+ Godrej Properties Ltd  
+-22  
+-ACC Ltd  
++15  
++Prestige Estates Projects Ltd  
++14  
++Gokaldas Exports Ltd  
+ 1  
+-Graphite India Ltd  
+-5  
+-Adani Enterprises Ltd  
++PVR Ltd  
++6  
++Greenpanel Industries Ltd  
++2  
++Raymond Ltd  
+ 1  
+-Grasim Industries Ltd  
+-3  
+-Adani Green Energy Ltd  
++Gujarat Ambuja Exports Ltd  
+ 1  
+-Gujarat Gas Ltd  
+-2  
+-Affle India Ltd  
+-3  
++REC Ltd  
++11  
+ Gujarat Narmada Valley Fertilizers &  
+-Alkem Laboratories Ltd  
+-1  
++Reliance Industries Ltd  
++541  
+ Chemicals Ltd  
+-3  
+-Amara Raja Batteries Ltd  
+-1  
++11  
++Rossari Biotech Ltd  
++9  
++Gujarat State Fertilizers & Chemicals Ltd  
++2  
++Route Mobile Ltd  
++4  
+ Gujarat State Petronet Ltd  
+ 4  
+-Amber Enterprises India Ltd  
+-2  
++Samvardhana Motherson International Ltd 10  
+ Havells India Ltd  
+-16  
+-APL Apollo Tubes Ltd  
+-5  
++7  
++SBI Life Insurance Co Ltd  
++66  
++HBL Power Systems Ltd  
++1  
++Schaeffler India Ltd  
++2  
+ HCL Technologies Ltd  
+-80  
+-Apollo Hospitals Enterprise Ltd  
+-26  
++52  
++Shriram City Union Finance Ltd  
++2  
+ HDFC Bank Ltd  
+-217  
+-Arvind Ltd  
+-1  
+-HDFC Life Insurance Co Ltd  
+-22  
+-Asian Paints Ltd  
+-41  
+-HEG Ltd  
++227  
++Sona Blw Precision Forgings Ltd  
+ 4  
+-Astral Ltd  
+-2  
+-Hindalco Industries Ltd  
+-29  
+-Atul Ltd  
+-3  
+-Hindustan Aeronautics Ltd  
++HDFC Life Insurance Co Ltd  
+ 15  
+-Avenue Supermarts Ltd  
+-7  
+-Hindustan Petroleum Corp Ltd  
++Sonata Software Ltd  
+ 2  
+-Axis Bank Ltd  
+-91  
+-Hindustan Unilever Ltd  
+-101  
+-Bajaj Consumer Care Ltd  
+-1  
+-Housing Development Finance Corp Ltd 279  
+-Bajaj Finance Ltd  
+-26  
+-ICICI Bank Ltd  
+-346  
+-Bajaj Finserv Ltd  
++Hero MotoCorp Ltd  
++2  
++SRF Ltd  
++38  
++Hindalco Industries Ltd  
++19  
++State Bank of India  
++56  
++Strides Pharma Science Ltd  
+ 2  
+-ICICI Lombard General Insurance Co Ltd  
+-9  
+-Bandhan Bank Ltd  
+-66  
+-ICICI Prudential Life Insurance Co Ltd  
+-36  
+-Bank of Baroda  
+-5  
+ Beursgenoteerde beleggingen van ABP  
+ **5**  
+-per 31 december 2021  
++per 30 juni 2022  
+ 
+ * * *
+ 
+@@ -1137,245 +1140,248 @@
+ Totaal  
+ Land Omschrijving  
+ Totaal  
+-IDFC First Bank Ltd  
+-4  
++Sumitomo Chemical India Ltd  
++1  
++Nice Ltd  
++15  
++Sun Pharmaceutical Industries Ltd  
++26  
++Nova Ltd  
++9  
++Supreme Industries Ltd  
++3  
++Teva Pharmaceutical Industries Ltd  
++11  
+ Syngene International Ltd  
+-5  
+-Indiabulls Real Estate Ltd  
+-5  
++12  
++Wix.com Ltd  
++8  
++Tanla Platforms Ltd  
++1  
++ZIM Integrated Shipping Services Ltd  
++20  
++Tata Chemicals Ltd  
++8  
++**Japan 6.999**  
+ Tata Communications Ltd  
+-5  
+-Indian Energy Exchange Ltd  
+-17  
++3  
++Activia Properties Inc  
++9  
+ Tata Consultancy Services Ltd  
+-255  
+-Indian Hotels Co Ltd  
+-7  
+-Tata Consumer Products Ltd  
+-5  
+-Indian Oil Corp Ltd  
++193  
++Advantest Corp  
+ 21  
++Tata Consumer Products Ltd  
++6  
++Aeon Co Ltd  
++2  
+ Tata Elxsi Ltd  
+-12  
+-Indraprastha Gas Ltd  
+-11  
++5  
++Aeon Mall Co Ltd  
++6  
+ Tata Motors Ltd  
+-8  
+-IndusInd Bank Ltd  
+-3  
++6  
++AGC Inc  
++14  
+ Tata Steel Ltd  
+-28  
+-Info Edge India Ltd  
+-43  
++31  
++Ain Holdings Inc  
++1  
+ TeamLease Services Ltd  
+ 5  
+-Infosys Ltd  
+-501  
++Aisin Corp  
++14  
+ Tech Mahindra Ltd  
+-107  
+-InterGlobe Aviation Ltd  
+-37  
+-Titan Co Ltd  
+-11  
+-IRCON International Ltd  
++44  
++Ajinomoto Co Inc  
++20  
++Tinplate Co of India Ltd/The  
++1  
++Akatsuki Inc  
+ 2  
+-Triveni Turbine Ltd  
++Titan Co Ltd  
+ 1  
+-JB Chemicals & Pharmaceuticals Ltd  
+-3  
+-Tube Investments of India Ltd  
++Alps Alpine Co Ltd  
++10  
++Torrent Pharmaceuticals Ltd  
+ 3  
+-Jindal Saw Ltd  
+-2  
+-TV18 Broadcast Ltd  
++Amada Co Ltd  
++6  
++Trent Ltd  
++5  
++Aoyama Trading Co Ltd  
+ 3  
+-JSW Steel Ltd  
++Triveni Engineering & Industries Ltd  
+ 3  
+-TVS Motor Co Ltd  
++As One Corp  
++11  
++Triveni Turbine Ltd  
+ 1  
+-Jyothy Labs Ltd  
++Asahi Group Holdings Ltd  
++18  
++Tube Investments of India Ltd  
+ 3  
++Asahi Intecc Co Ltd  
++17  
+ UltraTech Cement Ltd  
+-65  
+-Kajaria Ceramics Ltd  
+-3  
++35  
++Asahi Kasei Corp  
++8  
+ United Spirits Ltd  
+-5  
+-Kotak Mahindra Bank Ltd  
+-78  
+-UPL Ltd  
+-33  
+-KPIT Technologies Ltd  
+ 12  
+-Vardhman Textiles Ltd  
+-1  
+-Lemon Tree Hotels Ltd  
+-63  
++Asics Corp  
++15  
++UPL Ltd  
++6  
++Astellas Pharma Inc  
++60  
+ Varun Beverages Ltd  
+-81  
+-Mahanagar Gas Ltd  
+-8  
++84  
++Azbil Corp  
++7  
++VRL Logistics Ltd  
++1  
++Bandai Namco Holdings Inc  
++2  
+ Wipro Ltd  
+-123  
+-Mahindra & Mahindra Financial Services Ltd 4  
++1  
++Benefit One Inc  
++5  
+ WNS Holdings Ltd  
+-17  
+-Mahindra & Mahindra Ltd  
+-42  
+-Zee Entertainment Enterprises Ltd  
+-43  
+-Marico Ltd  
+-6  
+-Zensar Technologies Ltd  
++16  
++Benesse Holdings Inc  
+ 2  
+-Maruti Suzuki India Ltd  
+-114  
++Zee Entertainment Enterprises Ltd  
++45  
++Bridgestone Corp  
++17  
+ Zomato Ltd  
+-16  
+-Mastek Ltd  
+ 3  
+-Max Financial Services Ltd  
+-16  
+-**Indonesië 787**  
+-Motherson Sumi Systems Ltd  
+-36  
++Brother Industries Ltd  
++20  
++Calbee Inc  
++1  
++**Indonesië 883**  
++Canon Inc  
++105  
+ Ace Hardware Indonesia Tbk PT  
+-17  
+-Motilal Oswal Financial Services Ltd  
++9  
++Capcom Co Ltd  
++6  
++ADARO MINERALS INDONESIA TBK PT  
++1  
++Casio Computer Co Ltd  
+ 1  
+ AKR Corporindo Tbk PT  
++9  
++Central Japan Railway Co  
+ 5  
+-Mphasis Ltd  
+-53  
++Aneka Tambang Tbk  
++1  
++Chugai Pharmaceutical Co Ltd  
++99  
+ Astra International Tbk PT  
+-33  
+-Navin Fluorine International Ltd  
+-9  
++45  
++Citizen Watch Co Ltd  
++13  
+ Bank BTPN Syariah Tbk PT  
+-4  
+-Nestle India Ltd  
+-2  
++3  
++Concordia Financial Group Ltd  
++1  
+ Bank Central Asia Tbk PT  
+-261  
+-NIIT Ltd  
+-4  
++286  
++Cosel Co Ltd  
++2  
+ Bank Mandiri Persero Tbk PT  
+-157  
+-Oberoi Realty Ltd  
+-5  
+-Bank Negara Indonesia Persero Tbk PT  
+-24  
+-Oil India Ltd  
++173  
++Cosmo Energy Holdings Co Ltd  
+ 1  
++Bank Negara Indonesia Persero Tbk PT  
++18  
++Cosmos Pharmaceutical Corp  
++4  
+ Bank Rakyat Indonesia Persero Tbk PT  
+-180  
+-One 97 Communications Ltd  
+-26  
++205  
++Credit Saison Co Ltd  
++21  
+ BFI Finance Indonesia Tbk PT  
+ 4  
+-Oracle Financial Services Software Ltd  
++CyberAgent Inc  
++9  
++Cisarua Mountain Dairy PT TBK  
+ 3  
+-Bukalapak.com PT Tbk  
+-6  
+-Page Industries Ltd  
++Dai Nippon Printing Co Ltd  
+ 3  
++Delta Dunia Makmur Tbk PT  
++1  
++Daifuku Co Ltd  
++7  
+ Kalbe Farma Tbk PT  
+-2  
+-PB Fintech Ltd  
+-10  
+-Map Aktif Adiperkasa PT  
+ 1  
+-Persistent Systems Ltd  
+-10  
++Dai-ichi Life Holdings Inc  
++101  
++Map Aktif Adiperkasa PT  
++2  
++Daiichi Sankyo Co Ltd  
++43  
+ Matahari Department Store Tbk PT  
+ 3  
+-Pidilite Industries Ltd  
+-5  
++Daikin Industries Ltd  
++38  
+ Pakuwon Jati Tbk PT  
+-13  
+-Polycab India Ltd  
+-1  
+-Perusahaan Gas Negara Tbk PT  
++10  
++Daito Trust Construction Co Ltd  
+ 8  
+-Power Grid Corp of India Ltd  
+-57  
+-Semen Indonesia Persero Tbk PT  
+-3  
+-Praj Industries Ltd  
+-2  
++Perusahaan Gas Negara Tbk PT  
++12  
++Daiwa House Industry Co Ltd  
++22  
+ Telkom Indonesia Persero Tbk PT  
+-58  
+-Prestige Estates Projects Ltd  
+-16  
+-Vale Indonesia Tbk PT  
+-8  
+-Prince Pipes & Fittings Ltd  
++47  
++Daiwa House REIT Investment Corp  
++4  
++Unilever Indonesia Tbk PT  
++9  
++Daiwa Securities Group Inc  
+ 1  
+-REC Ltd  
+-13  
+-**Israël 185**  
+-Reliance Industries Ltd  
+-531  
++Vale Indonesia Tbk PT  
++40  
++Denso Corp  
++19  
++Digital Garage Inc  
++5  
++**Israël 140**  
++Disco Corp  
++377  
+ Azrieli Group Ltd  
+-6  
+-ReNew Energy Global PLC  
+-1  
++2  
++East Japan Railway Co  
++16  
+ Bezeq The Israeli Telecommunication Corp  
+-Rossari Biotech Ltd  
+-12  
+-Ltd 6  
+-Route Mobile Ltd  
+-3  
++Eisai Co Ltd  
++15  
++Ltd 14  
++Eizo Corp  
++5  
+ Check Point Software Technologies Ltd  
+-84  
+-SBI Cards & Payment Services Ltd  
+-22  
+-CyberArk Software Ltd  
+-1  
+-SBI Life Insurance Co Ltd  
+-73  
++54  
++ENEOS Holdings Inc  
++50  
+ ICL Group Ltd  
+-10  
+-Schaeffler India Ltd  
++3  
++EXEO Group Inc  
+ 2  
+ Inmode Ltd  
++3  
++FANUC Corp  
++44  
++Kornit Digital Ltd  
+ 1  
+-Shriram City Union Finance Ltd  
+-2  
+-Nice Ltd  
+-32  
+-SKF India Ltd  
+-1  
+-Nova Ltd  
+-14  
+-Sona Blw Precision Forgings Ltd  
+-5  
+-Shufersal Ltd  
+-5  
+-Sonata Software Ltd  
+-2  
+-Teva Pharmaceutical Industries Ltd  
++Fast Retailing Co Ltd  
+ 15  
+-SRF Ltd  
+-59  
+-ZIM Integrated Shipping Services Ltd  
+-12  
+-State Bank of India  
+-53  
+-Steel Authority of India Ltd  
+-10  
+-**Japan 9.994**  
+-Sun Pharmaceutical Industries Ltd  
+-19  
+-Acom Co Ltd  
+-3  
+-Supreme Industries Ltd  
+-10  
+-Activia Properties Inc  
+-12  
+ Beursgenoteerde beleggingen van ABP  
+ **6**  
+-per 31 december 2021  
++per 30 juni 2022  
+ 
+ * * *
+ 
+@@ -1383,256 +1389,256 @@
+ Totaal  
+ Land Omschrijving  
+ Totaal  
+-Advance Residence Investment Corp  
+-8  
+-FUJIFILM Holdings Corp  
+-91  
+-Advantest Corp  
+-89  
+-Fujitsu Ltd  
+-23  
+-Aeon Co Ltd  
+-1  
+-giftee Inc  
+-3  
+-AGC Inc  
+-30  
+-Glory Ltd  
++Freee KK  
++5  
++Komeri Co Ltd  
++11  
++Fuji Electric Co Ltd  
+ 1  
+-Air Water Inc  
++Konami Group Corp  
++11  
++Fuji Media Holdings Inc  
++7  
++K’s Holdings Corp  
++6  
++FUJIFILM Holdings Corp  
++58  
++Kubota Corp  
+ 2  
++Fujitsu Ltd  
++17  
++Kuraray Co Ltd  
++13  
+ GLP J-Reit  
+-23  
+-Aisin Corp  
+-21  
+-GMO Payment Gateway Inc  
+-45  
+-Ajinomoto Co Inc  
+-5  
+-GungHo Online Entertainment Inc  
+-4  
+-Akatsuki Inc  
+-1  
+-H.U. Group Holdings Inc  
+ 20  
+-Alps Alpine Co Ltd  
++Kurita Water Industries Ltd  
++1  
++GMO Payment Gateway Inc  
+ 12  
++Kyocera Corp  
++32  
++H.U. Group Holdings Inc  
++16  
++KYORIN Holdings Inc  
++7  
+ Hachijuni Bank Ltd/The  
+-4  
+-Amada Co Ltd  
+-30  
++13  
++Kyowa Kirin Co Ltd  
++10  
+ Hamamatsu Photonics KK  
+-51  
+-ANA Holdings Inc  
++31  
++Lasertec Corp  
+ 2  
++Hankyu Hanshin Holdings Inc  
++1  
++Lawson Inc  
++10  
+ Heiwa Real Estate Co Ltd  
+-40  
+-Aoyama Trading Co Ltd  
++10  
++Lixil Corp  
++1  
++Hino Motors Ltd  
+ 3  
+-Hennge KK  
+-2  
+-As One Corp  
+-31  
++M3 Inc  
++4  
+ Hirogin Holdings Inc  
+-5  
+-Asahi Group Holdings Ltd  
+-51  
++7  
++Mabuchi Motor Co Ltd  
++12  
+ Hirose Electric Co Ltd  
+-30  
+-Asahi Intecc Co Ltd  
+-32  
++24  
++Makita Corp  
++2  
+ Hitachi Ltd  
+-70  
+-Asahi Kasei Corp  
+-7  
++27  
++Maruichi Steel Tube Ltd  
++1  
++Hitachi Metals Ltd  
++13  
++Mazda Motor Corp  
++16  
+ Hokuetsu Corp  
+-7  
+-Asics Corp  
+-29  
++5  
++McDonald’s Holdings Co Japan Ltd  
++15  
+ Honda Motor Co Ltd  
+-51  
+-Astellas Pharma Inc  
+-67  
++90  
++Medley Inc  
++2  
+ Hoya Corp  
+-200  
+-Azbil Corp  
+-12  
++70  
++MEIJI Holdings Co Ltd  
++7  
+ Hulic Co Ltd  
+-25  
+-Bandai Namco Holdings Inc  
+-1  
+-Idemitsu Kosan Co Ltd  
++3  
++Meitec Corp  
+ 6  
+-BASE Inc  
++Ibiden Co Ltd  
++3  
++Milbon Co Ltd  
++3  
++Idemitsu Kosan Co Ltd  
++7  
++MINEBEA MITSUMI Inc  
++1  
++IHI Corp  
+ 2  
+-Iida Group Holdings Co Ltd  
++MISUMI Group Inc  
+ 18  
+-BayCurrent Consulting Inc  
+-7  
+-Industrial & Infrastructure Fund Investment Corp 42  
+-Benefit One Inc  
+-23  
++Industrial & Infrastructure Fund Investment Corp 21  
++Mitsubishi Chemical Group Corp  
++1  
+ Infomart Corp  
+-10  
+-Bengo4.com Inc  
+-4  
++2  
++Mitsubishi Corp  
++110  
+ INFRONEER Holdings Inc  
+-5  
+-Bridgestone Corp  
+-36  
++2  
++Mitsubishi Electric Corp  
++25  
+ Inpex Corp  
+-65  
+-Brother Industries Ltd  
+-16  
++68  
++Mitsubishi Estate Co Ltd  
++119  
+ Invincible Investment Corp  
+-7  
+-Canon Inc  
+-132  
++10  
++Mitsubishi Gas Chemical Co Inc  
++2  
+ Isuzu Motors Ltd  
+-11  
+-Capcom Co Ltd  
+-8  
++6  
++Mitsubishi HC Capital Inc  
++6  
++ITOCHU Corp  
++16  
++Mitsubishi Heavy Industries Ltd  
++12  
+ Itochu Techno-Solutions Corp  
+ 7  
+-Casio Computer Co Ltd  
+-1  
++Mitsubishi UFJ Financial Group Inc  
++33  
+ Itoham Yonekyu Holdings Inc  
+ 1  
+-Central Japan Railway Co  
+-1  
++Mitsui & Co Ltd  
++57  
+ Iwatani Corp  
+-2  
+-Chugai Pharmaceutical Co Ltd  
+-103  
+-J Front Retailing Co Ltd  
+-11  
+-Citizen Watch Co Ltd  
+-16  
+-Japan Elevator Service Holdings Co Ltd  
++1  
++Mitsui Chemicals Inc  
+ 10  
+-Concordia Financial Group Ltd  
+-5  
++Japan Elevator Service Holdings Co Ltd  
++4  
++Mitsui Fudosan Co Ltd  
++115  
+ Japan Exchange Group Inc  
+-57  
+-Cosel Co Ltd  
+-3  
+-Japan Hotel REIT Investment Corp  
++19  
++Mitsui Fudosan Logistics Park Inc  
+ 12  
+-Cosmos Pharmaceutical Corp  
+-10  
++Japan Hotel REIT Investment Corp  
++18  
++Miura Co Ltd  
++5  
+ Japan Investment Adviser Co Ltd  
+-2  
+-Credit Saison Co Ltd  
+-28  
++1  
++Mizuho Financial Group Inc  
++108  
+ Japan Lifeline Co Ltd  
+-10  
+-CyberAgent Inc  
+-50  
++7  
++Money Forward Inc  
++2  
+ Japan Metropolitan Fund Invest  
+-50  
+-Dai Nippon Printing Co Ltd  
+-4  
++32  
++MonotaRO Co Ltd  
++33  
+ Japan Post Bank Co Ltd  
+-34  
+-Daifuku Co Ltd  
+-7  
++29  
++Morinaga Milk Industry Co Ltd  
++4  
+ Japan Real Estate Investment Corp  
+-14  
+-Dai-ichi Life Holdings Inc  
+-114  
++20  
++MS&AD Insurance Group Holdings Inc  
++54  
+ JFE Holdings Inc  
+-9  
+-Daiichi Sankyo Co Ltd  
+-45  
++8  
++Murata Manufacturing Co Ltd  
++33  
+ JGC Holdings Corp  
+-24  
+-Daikin Industries Ltd  
+-103  
++35  
++Nabtesco Corp  
++4  
+ JSR Corp  
+-18  
+-Daito Trust Construction Co Ltd  
+-21  
++9  
++NEC Corp  
++60  
+ JTEKT Corp  
+-2  
+-Daiwa House Industry Co Ltd  
+-31  
++15  
++Nexon Co Ltd  
++5  
+ Kajima Corp  
+-30  
+-Daiwa House REIT Investment Corp  
+-13  
++27  
++NGK Insulators Ltd  
++7  
+ Kanamoto Co Ltd  
+ 2  
+-Daiwa Office Investment Corp  
+-17  
++NGK Spark Plug Co Ltd  
++12  
+ Kansai Paint Co Ltd  
+-17  
+-Daiwa Securities Group Inc  
+-18  
++4  
++NH Foods Ltd  
++10  
+ Kao Corp  
+-76  
+-Denso Corp  
+-39  
+-Kawasaki Heavy Industries Ltd  
++42  
++NHK Spring Co Ltd  
+ 1  
+-Dexerials Corp  
+-4  
+-Kawasaki Kisen Kaisha Ltd  
+-7  
+-Digital Garage Inc  
+-13  
+ KDDI Corp  
+-150  
+-Disco Corp  
+-95  
++99  
++Nidec Corp  
++4  
+ Keihan Holdings Co Ltd  
+-2  
+-Earth Corp  
+ 1  
+-Keihanshin Building Co Ltd  
+-6  
+-East Japan Railway Co  
+-28  
++Nihon M&A Center Holdings Inc  
++12  
+ Keio Corp  
+-4  
+-Ebara Corp  
+-11  
+-Kenedix Office Investment Corp  
++3  
++Nintendo Co Ltd  
++184  
++Keisei Electric Railway Co Ltd  
++1  
++Nippon Building Fund Inc  
+ 31  
+-Eisai Co Ltd  
+-27  
++Kenedix Office Investment Corp  
++18  
++NIPPON EXPRESS HOLDINGS INC  
++3  
+ Keyence Corp  
+-375  
+-Eizo Corp  
+-7  
++118  
++Nippon Paint Holdings Co Ltd  
++18  
+ Kikkoman Corp  
++1  
++Nippon Prologis REIT Inc  
++50  
++Kintetsu Group Holdings Co Ltd  
++1  
++Nippon Sanso Holdings Corp  
+ 14  
+-ENEOS Holdings Inc  
+-41  
+ Kirin Holdings Co Ltd  
+-46  
+-FANUC Corp  
+-69  
++52  
++Nippon Steel Corp  
++20  
+ Koei Tecmo Holdings Co Ltd  
+-12  
+-Fast Retailing Co Ltd  
+-19  
++10  
++Nippon Telegraph & Telephone Corp  
++219  
+ Koito Manufacturing Co Ltd  
+-20  
+-Freee KK  
+-20  
++4  
++Nippon Television Holdings Inc  
++12  
+ Komatsu Ltd  
+-9  
+-Fuji Electric Co Ltd  
+-1  
+-Komeri Co Ltd  
+-13  
+-Fuji Media Holdings Inc  
+-10  
+-Konami Holdings Corp  
++3  
++Nippon Yusen KK  
+ 8  
+ Beursgenoteerde beleggingen van ABP  
+ **7**  
+-per 31 december 2021  
++per 30 juni 2022  
+ 
+ * * *
+ 
+@@ -1640,256 +1646,256 @@
+ Totaal  
+ Land Omschrijving  
+ Totaal  
+-Konica Minolta Inc  
+-2  
+-Nippon Prologis REIT Inc  
+-68  
+-K’s Holdings Corp  
+-8  
+-Nippon Sanso Holdings Corp  
+-28  
+-Kubota Corp  
+-8  
+-Nippon Steel Corp  
+-27  
+-Kuraray Co Ltd  
+-15  
+-Nippon Telegraph & Telephone Corp  
+-306  
+-Kurita Water Industries Ltd  
+-1  
+-Nippon Television Holdings Inc  
+-16  
+-Kyocera Corp  
+-39  
+-Nippon Yusen KK  
+-24  
+-KYORIN Holdings Inc  
+-11  
+-Nipro Corp  
+-4  
+-Kyowa Kirin Co Ltd  
+-14  
+ Nishi-Nippon Financial Holdings Inc  
+ 8  
+-Lasertec Corp  
+-94  
+-Nissan Chemical Corp  
++Shiseido Co Ltd  
+ 5  
+-Lawson Inc  
+-21  
+-Nissan Motor Co Ltd  
+-36  
+-LIFENET INSURANCE CO  
++Nissan Chemical Corp  
+ 3  
++Shizuoka Bank Ltd/The  
++8  
++Nissan Motor Co Ltd  
++4  
++SMC Corp  
++22  
+ Nisshinbo Holdings Inc  
+-12  
+-Lion Corp  
+-1  
++8  
++Softbank Corp  
++123  
++Nissin Foods Holdings Co Ltd  
++3  
++SoftBank Group Corp  
++10  
+ Nitori Holdings Co Ltd  
+-43  
+-Lixil Corp  
+-1  
++26  
++Sojitz Corp  
++7  
+ Nitto Denko Corp  
+-48  
+-M3 Inc  
+-22  
++35  
++Sompo Holdings Inc  
++31  
+ Nomura Holdings Inc  
+-57  
+-Mabuchi Motor Co Ltd  
+-9  
++22  
++Sony Group Corp  
++69  
+ Nomura Real Estate Holdings Inc  
+-38  
+-Makita Corp  
+-17  
++12  
++SOSiLA Logistics REIT Inc  
++3  
+ Nomura Real Estate Master Fund Inc  
+-20  
+-Mazda Motor Corp  
+-13  
++7  
++Square Enix Holdings Co Ltd  
++6  
+ Nomura Research Institute Ltd  
+-71  
+-McDonald’s Holdings Co Japan Ltd  
+-22  
++36  
++Stanley Electric Co Ltd  
++14  
+ North Pacific Bank Ltd  
+-4  
+-MEC Co Ltd  
+-1  
+-NSK Ltd  
+-17  
+-Medley Inc  
+ 3  
++Subaru Corp  
++27  
++NSK Ltd  
++25  
++SUMCO Corp  
++1  
+ NTT Data Corp  
+-39  
+-MEIJI Holdings Co Ltd  
+-9  
++29  
++Sumitomo Chemical Co Ltd  
++22  
+ Obayashi Corp  
+ 9  
+-Meitec Corp  
+-8  
++Sumitomo Electric Industries Ltd  
++29  
+ Obic Co Ltd  
+-104  
+-Mercari Inc  
+-12  
++67  
++Sumitomo Forestry Co Ltd  
++2  
+ Odakyu Electric Railway Co Ltd  
+-14  
+-Milbon Co Ltd  
+-7  
++11  
++Sumitomo Heavy Industries Ltd  
++9  
+ Oji Holdings Corp  
+-4  
+-MINEBEA MITSUMI Inc  
+-8  
+-Omron Corp  
++3  
++Sumitomo Metal Mining Co Ltd  
+ 11  
+-MISUMI Group Inc  
+-82  
++Olympus Corp  
++15  
++Sumitomo Mitsui Financial Group Inc  
++75  
++Omron Corp  
++7  
++Sumitomo Mitsui Trust Holdings Inc  
++40  
+ Ono Pharmaceutical Co Ltd  
+-25  
+-Mitsubishi Chemical Holdings Corp  
+-2  
++22  
++Sumitomo Pharma Co Ltd  
++6  
+ Open House Group Co Ltd  
+-11  
+-Mitsubishi Corp  
+-97  
++6  
++Sumitomo Realty & Development Co Ltd 40  
+ Oracle Corp Japan  
+-15  
+-Mitsubishi Electric Corp  
+-43  
++12  
++Sumitomo Rubber Industries Ltd  
++2  
+ Oriental Land Co Ltd/Japan  
+-54  
+-Mitsubishi Estate Co Ltd  
+-78  
++25  
++Suntory Beverage & Food Ltd  
++34  
+ ORIX Corp  
+-89  
+-Mitsubishi Estate Logistics REIT Investment Corp 10  
++72  
++Suzuken Co Ltd/Aichi Japan  
++7  
++Orix JREIT Inc  
++5  
++Suzuki Motor Corp  
++14  
+ Osaka Gas Co Ltd  
+-25  
+-Mitsubishi Gas Chemical Co Inc  
+-3  
++30  
++Sysmex Corp  
++10  
+ OSG Corp  
+-11  
+-Mitsubishi HC Capital Inc  
+ 9  
++T&D Holdings Inc  
++5  
+ Otsuka Corp  
+ 39  
+-Mitsubishi Heavy Industries Ltd  
++Taisei Corp  
+ 3  
+ Otsuka Holdings Co Ltd  
+-13  
+-Mitsubishi UFJ Financial Group Inc  
+-45  
+-Pan Pacific International Holdings Corp  
+-19  
+-Mitsui & Co Ltd  
+-63  
+-Panasonic Corp  
+-45  
+-Mitsui Chemicals Inc  
+-2  
+-Park24 Co Ltd  
+-11  
+-Mitsui Fudosan Co Ltd  
+ 36  
+-PeptiDream Inc  
++Takashimaya Co Ltd  
+ 3  
+-Mitsui Fudosan Logistics Park Inc  
+-28  
+-Persol Holdings Co Ltd  
+-14  
+-Miura Co Ltd  
+-17  
+-Pigeon Corp  
++Pan Pacific International Holdings Corp  
++23  
++Takeda Pharmaceutical Co Ltd  
++137  
++Panasonic Holdings Corp  
++7  
++TDK Corp  
+ 4  
+-Mixi Inc  
++Park24 Co Ltd  
++10  
++Teijin Ltd  
+ 1  
++Persol Holdings Co Ltd  
++3  
++Terumo Corp  
++19  
+ Rakuten Group Inc  
+-7  
+-Mizuho Financial Group Inc  
+-71  
++1  
++TIS Inc  
++17  
+ Recruit Holdings Co Ltd  
+-266  
+-Money Forward Inc  
+-10  
++57  
++Toagosei Co Ltd  
++4  
+ Renesas Electronics Corp  
+-93  
+-MonotaRO Co Ltd  
+-60  
++33  
++Tobu Railway Co Ltd  
++1  
+ Resona Holdings Inc  
+-29  
+-MS&AD Insurance Group Holdings Inc  
+-40  
++4  
++Toho Co Ltd/Tokyo  
++6  
+ Ricoh Co Ltd  
+-21  
+-Murata Manufacturing Co Ltd  
+-43  
++3  
++Toho Holdings Co Ltd  
++7  
+ Rinnai Corp  
+-8  
+-Nabtesco Corp  
+-17  
++6  
++Tokio Marine Holdings Inc  
++126  
+ Rohm Co Ltd  
+-14  
+-Nagoya Railroad Co Ltd  
+-1  
+-Sanken Electric Co Ltd  
+-1  
+-NEC Corp  
+-83  
++17  
++Tokyo Century Corp  
++7  
+ Sankyo Co Ltd  
+ 2  
+-Nexon Co Ltd  
+-21  
++Tokyo Electron Ltd  
++142  
+ Santen Pharmaceutical Co Ltd  
+-9  
+-NGK Insulators Ltd  
+-13  
++5  
++Tokyo Gas Co Ltd  
++52  
+ Sanyo Special Steel Co Ltd  
+ 2  
+-NGK Spark Plug Co Ltd  
+-28  
++Tokyo Ohka Kogyo Co Ltd  
++1  
+ Sawai Group Holdings Co Ltd  
+-12  
+-NH Foods Ltd  
+-18  
+-SBI Holdings Inc/Japan  
+ 8  
+-Nidec Corp  
++Tokyotokeiba Co Ltd  
+ 2  
++SBI Holdings Inc/Japan  
++13  
++Tokyu Corp  
++1  
+ SCREEN Holdings Co Ltd  
+-20  
+-Nifco Inc/Japan  
+-3  
++16  
++Tokyu Fudosan Holdings Corp  
++18  
+ SCSK Corp  
+-6  
+-Nihon M&A Center Holdings Inc  
+-33  
++1  
++TOPPAN INC  
++1  
+ Secom Co Ltd  
+-29  
+-Nihon Unisys Ltd  
+-2  
++24  
++Toray Industries Inc  
++41  
+ Seiko Epson Corp  
+-39  
+-Nintendo Co Ltd  
+-127  
++26  
++Toshiba Corp  
++4  
+ Seino Holdings Co Ltd  
+-6  
+-Nippon Building Fund Inc  
++11  
++Tosoh Corp  
+ 15  
+-Sekisui House Ltd  
+-24  
+-Nippon Electric Glass Co Ltd  
++Sekisui Chemical Co Ltd  
+ 1  
+-Seven & i Holdings Co Ltd  
++TOTO Ltd  
++1  
++Sekisui House Ltd  
++6  
++Toyo Seikan Group Holdings Ltd  
+ 3  
+-Nippon Light Metal Holdings Co Ltd  
+-4  
++Seven & i Holdings Co Ltd  
++9  
++Toyota Boshoku Corp  
++1  
+ SG Holdings Co Ltd  
+-22  
+-Nippon Paint Holdings Co Ltd  
+-29  
++16  
++Toyota Motor Corp  
++47  
+ Sharp Corp/Japan  
+-7  
++6  
++Toyota Tsusho Corp  
++22  
++Shimadzu Corp  
++13  
++Trend Micro Inc/Japan  
++1  
++Shimano Inc  
++42  
++Trusco Nakayama Corp  
++1  
++Shimizu Corp  
++1  
++UACJ Corp  
++1  
++Shin-Etsu Chemical Co Ltd  
++84  
++Unicharm Corp  
++4  
++Shinko Electric Industries Co Ltd  
++3  
++United Arrows Ltd  
++5  
++Shionogi & Co Ltd  
++25  
++United Urban Investment Corp  
++26  
+ Beursgenoteerde beleggingen van ABP  
+ **8**  
+-per 31 december 2021  
++per 30 juni 2022  
+ 
+ * * *
+ 
+@@ -1897,1448 +1903,1220 @@
+ Totaal  
+ Land Omschrijving  
+ Totaal  
+-Shimadzu Corp  
+-35  
+-United Urban Investment Corp  
+-27  
+-Shimano Inc  
+-86  
+ Ushio Inc  
++3  
++Qatar Islamic Bank SAQ  
+ 4  
+-Shin-Etsu Chemical Co Ltd  
+-198  
+-Uzabase Inc  
++USS Co Ltd  
++13  
++Qatar National Bank QPSC  
++66  
++UT Group Co Ltd  
+ 2  
+-Shinko Electric Industries Co Ltd  
+-24  
+ Wacoal Holdings Corp  
+ 7  
+-Shionogi & Co Ltd  
+-1  
++**Saoedi-Arabië 806**  
+ WealthNavi Inc  
+-4  
+-Shiseido Co Ltd  
+-16  
++2  
++ACWA Power Co  
++1  
+ Welcia Holdings Co Ltd  
+-30  
+-Shizuoka Bank Ltd/The  
+-6  
+-Workman Co Ltd  
+-5  
+-Showa Denko KK  
++20  
++Al Rajhi Bank  
++192  
++West Japan Railway Co  
++1  
++Almarai Co JSC  
+ 4  
++Workman Co Ltd  
++2  
++Arab National Bank  
++11  
+ Xebio Holdings Co Ltd  
+-4  
+-SMC Corp  
+-90  
++3  
++Banque Saudi Fransi  
++7  
+ Yakult Honsha Co Ltd  
+ 1  
+-Softbank Corp  
+-146  
++Bupa Arabia for Cooperative Insurance Co 12  
+ Yamada Holdings Co Ltd  
+-25  
+-SoftBank Group Corp  
+-29  
++13  
++Co for Cooperative Insurance/The  
++6  
+ Yamaha Corp  
+-20  
+-Sojitz Corp  
+-3  
++11  
++Etihad Etisalat Co  
++27  
+ Yamaha Motor Co Ltd  
+-9  
+-Sompo Holdings Inc  
+-3  
++1  
++Mobile Telecommunications Co Saudi Arabia 6  
+ Yamato Holdings Co Ltd  
+-2  
+-Sony Group Corp  
+-163  
++1  
++Riyad Bank  
++12  
+ Yaskawa Electric Corp  
+-531  
+-SOSiLA Logistics REIT Inc  
+-7  
++384  
++Sahara International Petrochemical Co  
++40  
+ Yokogawa Electric Corp  
+-5  
+-Square Enix Holdings Co Ltd  
+-6  
+-Yokohama Rubber Co Ltd/The  
+-2  
+-Stanley Electric Co Ltd  
+-18  
+-Z Holdings Corp  
+-17  
+-Starts Corp Inc  
+ 1  
++Saudi Arabian Mining Co  
++61  
++Z Holdings Corp  
++7  
++Saudi Basic Industries Corp  
++89  
+ Zenkoku Hosho Co Ltd  
+-14  
+-Subaru Corp  
+-15  
+-Zeon Corp  
+-3  
+-SUMCO Corp  
+-14  
++6  
++Saudi British Bank/The  
++39  
+ ZOZO Inc  
+-33  
+-Sumitomo Chemical Co Ltd  
+-23  
+-Sumitomo Dainippon Pharma Co Ltd  
++6  
++Saudi Electricity Co  
+ 3  
+-**Kazachstan 23**  
+-Sumitomo Electric Industries Ltd  
+-37  
++**Kazachstan 10**  
++Saudi National Bank/The  
++254  
+ Kaspi.KZ JSC  
+-16  
+-Sumitomo Heavy Industries Ltd  
+-13  
+-NAC Kazatomprom JSC  
++10  
++Saudi Research & Media Group  
++5  
++**Koeweit 64**  
++Saudi Tadawul Group Holding Co  
+ 7  
+-Sumitomo Metal Mining Co Ltd  
+-1  
+-Sumitomo Mitsui Financial Group Inc  
+-121  
+-**Koeweit 59**  
+-Sumitomo Mitsui Trust Holdings Inc  
+-50  
+ Agility Public Warehousing Co KSC  
+-22  
+-Sumitomo Realty & Development Co Ltd 10  
++8  
++Saudi Telecom Co  
++28  
+ Humansoft Holding Co KSC  
+-5  
+-Sumitomo Rubber Industries Ltd  
+-2  
++9  
++**Singapore 818**  
+ Kuwait Finance House KSCP  
+-1  
+-Suntory Beverage & Food Ltd  
+-36  
+-Mobile Telecommunications Co KSCP  
+ 5  
+-Suzuken Co Ltd/Aichi Japan  
++Ascendas Real Estate Investment Trust  
++43  
++Mobile Telecommunications Co KSCP  
+ 8  
++CapitaLand Integrated Commercial Trust 83  
+ National Bank of Kuwait SAKP  
+-25  
+-Suzuki Motor Corp  
+-15  
+-Sysmex Corp  
+-71  
+-**Maleisië 267**  
+-T&D Holdings Inc  
+-13  
+-Axiata Group Bhd  
++33  
++Capitaland Investment Ltd/Singapore  
++75  
++**Maleisië 304**  
++CDL Hospitality Trusts  
+ 1  
+-Taiyo Yuden Co Ltd  
++Axiata Group Bhd  
+ 4  
++City Developments Ltd  
++22  
+ Bumi Armada Bhd  
+ 2  
+-Takashimaya Co Ltd  
+-7  
++DBS Group Holdings Ltd  
++166  
+ Bursa Malaysia Bhd  
+-3  
+-Takeda Pharmaceutical Co Ltd  
+-42  
++1  
++Digital Core REIT Management Pte Ltd  
++47  
+ CIMB Group Holdings Bhd  
+-10  
+-TDK Corp  
+-19  
+-Dialog Group Bhd  
+-9  
+-Teijin Ltd  
+-7  
+-Frontken Corp Bhd  
+-3  
+-Terumo Corp  
+-33  
++56  
++Mapletree Commercial Trust  
++39  
+ Hartalega Holdings Bhd  
+ 2  
+-TIS Inc  
+-8  
++Mapletree Industrial Trust  
++15  
+ Heineken Malaysia Bhd  
+-22  
+-Toho Co Ltd/Tokyo  
+-7  
+-Hong Leong Bank Bhd  
++26  
++Mapletree Logistics Trust  
++40  
++Hibiscus Petroleum Bhd  
+ 6  
+-Toho Gas Co Ltd  
+-5  
+-Hong Leong Financial Group Bhd  
++Nanofilm Technologies International Ltd  
+ 3  
+-Toho Holdings Co Ltd  
+-8  
++Hong Leong Financial Group Bhd  
++4  
++Oversea-Chinese Banking Corp Ltd  
++50  
+ IHH Healthcare Bhd  
+-61  
+-Tokio Marine Holdings Inc  
+-106  
+-Kossan Rubber Industries Bhd  
++54  
++Sea Ltd  
++6  
++Inari Amertron Bhd  
+ 2  
+-Tokyo Century Corp  
+-14  
++Singapore Exchange Ltd  
++23  
++Kossan Rubber Industries Bhd  
++1  
++Singapore Technologies Engineering Ltd  
++1  
+ Malayan Banking Bhd  
+-14  
+-Tokyo Electron Ltd  
+-318  
++4  
++Singapore Telecommunications Ltd  
++158  
+ Malaysia Airports Holdings Bhd  
+ 2  
+-Tokyo Gas Co Ltd  
+-54  
++TDCX Inc  
++2  
++Maxis Bhd  
++2  
++United Overseas Bank Ltd  
++37  
++MISC Bhd  
++2  
++Yangzijiang Financial Holding Ltd  
++2  
+ My EG Services Bhd  
+-8  
+-Tokyo Ohka Kogyo Co Ltd  
+-1  
++7  
++Yangzijiang Shipbuilding Holdings Ltd  
++6  
+ Nestle Malaysia Bhd  
+-1  
+-Tokyo Seimitsu Co Ltd  
+-4  
++2  
+ Petronas Chemicals Group Bhd  
+-31  
+-Tokyotokeiba Co Ltd  
+-3  
++26  
++**Taiwan 4.531**  
++Petronas Dagangan BHD  
++1  
++Accton Technology Corp  
++23  
+ Press Metal Aluminium Holdings Bhd  
+ 5  
+-Tokyu Fudosan Holdings Corp  
+-38  
++Addcn Technology Co Ltd  
++20  
+ Public Bank Bhd  
+-46  
+-TOPPAN INC  
+-2  
++81  
++Advanced Ceramic X Corp  
++5  
+ RHB Bank Bhd  
+-10  
+-Toray Industries Inc  
+-38  
++4  
++Advanced Energy Solution Holding Co Ltd 1  
+ Sime Darby Bhd  
+-6  
+-Toshiba Corp  
+-6  
+-Supermax Corp Bhd  
+-1  
+-Tosoh Corp  
+-14  
+-Telekom Malaysia Bhd  
+-3  
+-Toyo Seikan Group Holdings Ltd  
+ 2  
++Advantech Co Ltd  
++18  
+ Tenaga Nasional Bhd  
+-7  
+-Toyota Motor Corp  
+-95  
+-Top Glove Corp Bhd  
+-3  
+-Toyota Tsusho Corp  
+-23  
++5  
++Airtac International Group  
++43  
+ Westports Holdings Bhd  
+-8  
+-Trend Micro Inc/Japan  
+-16  
+-Unicharm Corp  
+-6  
+-United Arrows Ltd  
+-6  
+-Beursgenoteerde beleggingen van ABP  
+-**9**  
+-per 31 december 2021  
+-
+-* * *
+-
+-Land Omschrijving  
+-Totaal  
+-Land Omschrijving  
+-Totaal  
+-ASE Technology Holding Co Ltd  
+-92  
+-**Qatar 121**  
+-Asia Cement Corp  
++3  
++Ardentec Corp  
+ 1  
++**Qatar 149**  
++ASE Technology Holding Co Ltd  
++41  
+ Barwa Real Estate Co  
+-2  
+-Asia Polymer Corp  
+ 1  
+-Commercial Bank Of Qatar Qsc/The  
+-3  
+ ASMedia Technology Inc  
+-5  
+-Industries Qatar QSC  
+-20  
++2  
++Commercial Bank Of Qatar Qsc/The  
++31  
+ ASPEED Technology Inc  
+-33  
+-Masraf Al Rayan QSC  
+-3  
++25  
++Industries Qatar QSC  
++34  
+ Asustek Computer Inc  
+-13  
+-Ooredoo QPSC  
+-7  
+-AU Optronics Corp  
+-5  
+-Qatar Aluminum Manufacturing Co  
++4  
++Masraf Al Rayan QSC  
+ 2  
++AUO Corp  
++1  
++Ooredoo QPSC  
++9  
+ Bioteque Corp  
+-20  
+-Qatar Fuel QSC  
++18  
++Qatar Aluminum Manufacturing Co  
+ 1  
+ Bizlink Holding Inc  
+-34  
+-Qatar Islamic Bank SAQ  
+-9  
++6  
++Qatar Electricity & Water Co QSC  
++1  
+ Brighton-Best International Taiwan Inc  
+ 6  
+-Qatar National Bank QPSC  
+-76  
+-Capital Securities Corp  
++Qatar Fuel QSC  
+ 1  
+ Cathay Financial Holding Co Ltd  
+-51  
+-**Saoedi-Arabië 677**  
++42  
++Beursgenoteerde beleggingen van ABP  
++**9**  
++per 30 juni 2022  
++
++* * *
++
++Land Omschrijving  
++Totaal  
++Land Omschrijving  
++Totaal  
+ Chailease Holding Co Ltd  
+-49  
+-Al Rajhi Bank  
+-264  
++82  
++Nanya Technology Corp  
++19  
++Chang Hwa Commercial Bank Ltd  
++1  
++Nien Made Enterprise Co Ltd  
++34  
+ Cheng Shin Rubber Industry Co Ltd  
+-3  
+-Arab National Bank  
+-7  
+-Chicony Electronics Co Ltd  
+ 1  
+-Banque Saudi Fransi  
++Novatek Microelectronics Corp  
++52  
++Chicony Electronics Co Ltd  
++2  
++Nuvoton Technology Corp  
+ 6  
+-Chicony Power Technology Co Ltd  
+-1  
+-Bupa Arabia for Cooperative Insurance Co 12  
+ Chief Telecom Inc  
+-29  
+-Co for Cooperative Insurance/The  
+-26  
++31  
++Parade Technologies Ltd  
++23  
+ China Airlines Ltd  
+-9  
+-Etihad Etisalat Co  
+-5  
+-China Development Financial Holding Corp 7  
+-Jarir Marketing Co  
+-10  
+-China General Plastics Corp  
+-1  
+-National Petrochemical Co  
++12  
++Pegavision Corp  
++2  
++China Development Financial Holding Corp 6  
++Polaris Group/Tw  
+ 2  
+-China Motor Corp  
+-1  
+-Riyad Bank  
+-6  
+ China Steel Corp  
+-4  
+-Sahara International Petrochemical Co  
+-16  
++2  
++Pou Chen Corp  
++3  
+ ChipMOS Technologies Inc  
++2  
++Powertech Technology Inc  
++4  
++CHO Pharma Inc  
+ 3  
+-Saudi Arabian Mining Co  
+-10  
++President Chain Store Corp  
++6  
+ Chroma ATE Inc  
+-100  
+-Saudi Basic Industries Corp  
+-94  
++47  
++Primax Electronics Ltd  
++10  
+ Chunghwa Telecom Co Ltd  
+-8  
+-Saudi British Bank/The  
+-1  
+-Cleanaway Co Ltd  
+-1  
+-Saudi Electricity Co  
+-1  
+-Co-Tech Development Corp  
++20  
++Radiant Opto-Electronics Corp  
+ 1  
+-Saudi Kayan Petrochemical Co  
+-14  
++Compeq Manufacturing Co Ltd  
++11  
++Raydium Semiconductor Corp  
++2  
+ CTBC Financial Holding Co Ltd  
+-120  
+-Saudi National Bank/The  
+-109  
++141  
++Realtek Semiconductor Corp  
++38  
+ Cub Elecparts Inc  
+-4  
+-Saudi Telecom Co  
+-95  
+-Dadi Early-Childhood Education Group Ltd 11  
++3  
++Sanyang Motor Co Ltd  
++1  
++Dadi Early-Childhood Education Group Ltd 7  
++Shanghai Commercial & Savings Bank Ltd/The 1  
+ Delta Electronics Inc  
+-62  
+-**Singapore 1.098**  
+-E Ink Holdings Inc  
++58  
++Shin Kong Financial Holding Co Ltd  
+ 2  
+-Ascendas Real Estate Investment Trust  
+-8  
++E Ink Holdings Inc  
++11  
++Silergy Corp  
++44  
+ E.Sun Financial Holding Co Ltd  
+-10  
+-CapitaLand Integrated Commercial Trust 101  
++1  
++Simplo Technology Co Ltd  
++32  
+ Eclat Textile Co Ltd  
+-13  
+-Capitaland Investment Ltd/Singapore  
+-99  
++9  
++Sino-American Silicon Products Inc  
++2  
+ Elan Microelectronics Corp  
+-6  
+-City Developments Ltd  
+-43  
++5  
++SinoPac Financial Holdings Co Ltd  
++20  
+ Elite Material Co Ltd  
+-41  
+-DBS Group Holdings Ltd  
+-205  
+-eMemory Technology Inc  
+-10  
+-Digital Core REIT Management Pte Ltd  
+-94  
++22  
++Sporton International Inc  
++22  
++Ennoconn Corp  
++1  
++Sunny Friend Environmental Technology Co Ltd 13  
+ Eva Airways Corp  
+-11  
+-Mapletree Commercial Trust  
+-51  
++13  
++Sunplus Technology Co Ltd  
++1  
+ Evergreen Marine Corp Taiwan Ltd  
+-57  
+-Mapletree Industrial Trust  
+-34  
+-Everlight Electronics Co Ltd  
++31  
++TA Chen Stainless Pipe  
+ 3  
+-Mapletree Logistics Trust  
+-97  
+-Far Eastern Department Stores Ltd  
+-1  
+-Nanofilm Technologies International Ltd  
+-4  
+-Far EasTone Telecommunications Co Ltd  
++Everlight Electronics Co Ltd  
+ 1  
+-Oversea-Chinese Banking Corp Ltd  
+-64  
+-Feng TAY Enterprise Co Ltd  
++Taishin Financial Holding Co Ltd  
++16  
++Far Eastern New Century Corp  
+ 1  
+-Sea Ltd  
+-39  
++Taiwan Cooperative Financial Holding Co Ltd 3  
++Far EasTone Telecommunications Co Ltd  
++2  
++Taiwan FamilyMart Co Ltd/Taiwan  
++13  
+ First Financial Holding Co Ltd  
+-4  
+-Singapore Airlines Ltd  
+-4  
+-FocalTech Systems Co Ltd  
+ 9  
+-Singapore Exchange Ltd  
+-26  
++Taiwan Fertilizer Co Ltd  
++13  
+ Formosa Chemicals & Fibre Corp  
+ 1  
+-Singapore Telecommunications Ltd  
+-157  
+-Formosa Petrochemical Corp  
+-2  
+-TDCX Inc  
+-2  
++Taiwan Mobile Co Ltd  
++3  
+ Formosa Plastics Corp  
+-25  
+-United Overseas Bank Ltd  
+-54  
++1  
++Taiwan Semiconductor Manufacturing Co Ltd 2.236  
+ Fubon Financial Holding Co Ltd  
+-118  
+-Venture Corp Ltd  
+-4  
++45  
++Taiwan Union Technology Corp  
++2  
+ GFC Ltd/TW  
+-7  
+-Yangzijiang Shipbuilding Holdings Ltd  
+-11  
+-Gigabyte Technology Co Ltd  
+-1  
+-Yanlord Land Group Ltd  
+-1  
+-Global Mixed Mode Technology Inc  
+-3  
++8  
++TCI Co Ltd  
++5  
+ Global Unichip Corp  
+-13  
+-**Taiwan 6.446**  
++21  
++Tong Hsing Electronic Industries Ltd  
++4  
+ Globalwafers Co Ltd  
+-43  
+-Accton Technology Corp  
+-28  
+-Gourmet Master Co Ltd  
++20  
++Tong Yang Industry Co Ltd  
++4  
++Gloria Material Technology Corp  
++2  
++Topco Scientific Co Ltd  
+ 3  
+-Addcn Technology Co Ltd  
+-26  
++Goldsun Building Materials Co Ltd  
++1  
++TTY Biopharm Co Ltd  
++5  
++Gourmet Master Co Ltd  
++1  
++Unimicron Technology Corp  
++42  
+ Greatek Electronics Inc  
+-7  
+-Adimmune Corp  
+-2  
+-Himax Technologies Inc  
+-7  
+-Advanced Ceramic X Corp  
+-9  
++6  
++Uni-President Enterprises Corp  
++10  
+ Hiwin Technologies Corp  
+-36  
+-Advantech Co Ltd  
+-22  
+-Holtek Semiconductor Inc  
+-2  
+-Airtac International Group  
+-57  
++19  
++United Integrated Services Co Ltd  
++17  
+ Hon Hai Precision Industry Co Ltd  
+-258  
+-Amazing Microelectronic Corp  
+-2  
++210  
++United Microelectronics Corp  
++97  
+ Hota Industrial Manufacturing Co Ltd  
+-8  
+-Ardentec Corp  
+-3  
++5  
++Vanguard International Semiconductor Corp 5  
+ Hua Nan Financial Holdings Co Ltd  
+ 1  
+-Beursgenoteerde beleggingen van ABP  
+-**10**  
+-per 31 december 2021  
+-
+-* * *
+-
+-Land Omschrijving  
+-Totaal  
+-Land Omschrijving  
+-Totaal  
+-Innolux Corp  
+-5  
+-United Integrated Services Co Ltd  
+-25  
++Voltronic Power Technology Corp  
++26  
+ International Games System Co Ltd  
+-32  
+-United Microelectronics Corp  
+-166  
++26  
++Wan Hai Lines Ltd  
++22  
+ Kindom Development Co Ltd  
+-7  
+-USI Corp  
+ 4  
++Winbond Electronics Corp  
++12  
+ King Yuan Electronics Co Ltd  
+-23  
+-Vanguard International Semiconductor Corp 29  
++26  
++Wisdom Marine Lines Co Ltd  
++7  
+ King’s Town Bank Co Ltd  
+-3  
+-Voltronic Power Technology Corp  
+-33  
++2  
++Wistron NeWeb Corp  
++1  
++Kinik Co  
++5  
++Yageo Corp  
++24  
+ Kinsus Interconnect Technology Corp  
+-17  
+-Wan Hai Lines Ltd  
+-52  
++8  
++Yang Ming Marine Transport Corp  
++7  
+ KMC Kuei Meng International Inc  
+-6  
+-Win Semiconductors Corp  
+ 3  
++Yuanta Financial Holding Co Ltd  
++7  
+ Largan Precision Co Ltd  
+-1  
+-Winbond Electronics Corp  
++2  
++Zhen Ding Technology Holding Ltd  
+ 2  
+ Lite-On Technology Corp  
+-11  
+-Wisdom Marine Lines Co Ltd  
+-7  
++9  
++**Thailand 624**  
+ Lotes Co Ltd  
+-39  
+-Yageo Corp  
+-47  
++24  
++Advanced Info Service PCL  
++46  
+ Macronix International Co Ltd  
+-8  
+-Yang Ming Marine Transport Corp  
+-14  
++6  
++Airports of Thailand PCL  
++35  
++Makalot Industrial Co Ltd  
++6  
++Bangchak Corp PCL  
++10  
+ MediaTek Inc  
+-529  
+-Yuanta Financial Holding Co Ltd  
+-41  
++272  
++Bangkok Bank PCL  
++7  
+ Mega Financial Holding Co Ltd  
+-1  
++7  
++Bangkok Chain Hospital PCL  
++5  
+ Merida Industry Co Ltd  
+-43  
+-**Thailand 604**  
++35  
++Bangkok Dusit Medical Services PCL  
++33  
+ Micro-Star International Co Ltd  
+-10  
+-Advanced Info Service PCL  
+-50  
+-momo.com Inc  
+-13  
+-Airports of Thailand PCL  
+-27  
+-Namchow Holdings Co Ltd  
+-1  
+-AP Thailand PCL  
+-2  
+-Nan Ya Plastics Corp  
+-32  
+-Bangkok Bank PCL  
+ 4  
+-Nan Ya Printed Circuit Board Corp  
+-17  
+-Bangkok Chain Hospital PCL  
+-6  
+-Nanya Technology Corp  
+-39  
+-Bangkok Dusit Medical Services PCL  
+-32  
+-Nien Made Enterprise Co Ltd  
+-42  
++Bumrungrad Hospital PCL  
++15  
++momo.com Inc  
++3  
+ Central Pattana PCL  
+-30  
+-Novatek Microelectronics Corp  
+-95  
++47  
++Nan Ya Plastics Corp  
++8  
+ Chularat Hospital PCL  
+ 12  
+-OptoTech Corp  
+-2  
++Nan Ya Printed Circuit Board Corp  
++21  
+ CP ALL PCL  
+-33  
+-Parade Technologies Ltd  
+-30  
+-Energy Absolute PCL  
+-3  
+-PChome Online Inc  
+-1  
+-Hana Microelectronics PCL  
+-7  
+-Pegatron Corp  
+-1  
++39  
++Beursgenoteerde beleggingen van ABP  
++**10**  
++per 30 juni 2022  
++
++* * *
++
++Land Omschrijving  
++Totaal  
++Land Omschrijving  
++Totaal  
+ Home Product Center PCL  
+-1  
+-Pegavision Corp  
+-2  
+-Indorama Ventures PCL  
+-17  
+-Pou Chen Corp  
+-11  
+-IRPC PCL  
++7  
++CJ ENM Co Ltd  
++3  
++Intouch Holdings PCL  
+ 2  
+-Powerchip Semiconductor Manufacturing Corp 10  
++CJ Logistics Corp  
++5  
+ Kasikornbank PCL  
+-38  
+-Powertech Technology Inc  
+-1  
+-KCE Electronics PCL  
+-3  
+-President Chain Store Corp  
+-7  
++92  
++Com2uSCorp 4  
+ Kiatnakin Phatra Bank PCL  
++12  
++Cosmax Inc  
+ 3  
+-President Securities Corp  
+-1  
+ Krung Thai Bank PCL  
+-10  
+-Quanta Computer Inc  
+-3  
++7  
++Coupang Inc  
++13  
+ Minor International PCL  
+-19  
+-RDC Semiconductor Co Ltd  
++3  
++Coway Co Ltd  
++21  
++Ngern Tid Lor PCL  
++3  
++Daeduck Electronics Co Ltd / New  
++11  
++One Enterprise Public Co Ltd/The  
+ 1  
+-Polyplex Thailand PCL  
+-4  
+-Realtek Semiconductor Corp  
+-81  
++Daewoo Engineering & Construction Co Ltd 2  
+ Precious Shipping PCL  
+-10  
+-Rexon Industrial Corp Ltd  
+-1  
++9  
++DB HiTek Co Ltd  
++19  
+ Premier Marketing PCL  
+-13  
+-RichWave Technology Corp  
+-26  
++12  
++DB Insurance Co Ltd  
++16  
+ Prima Marine PCL  
+ 2  
+-Shanghai Commercial & Savings Bank Ltd/The 1  
++DGB Financial Group Inc  
++10  
+ PTT Exploration & Production PCL  
+-26  
+-Shin Kong Financial Holding Co Ltd  
+-1  
+-PTT Global Chemical PCL  
+ 95  
+-Sigurd Microelectronics Corp  
++Doosan Co Ltd  
+ 1  
++PTT Global Chemical PCL  
++3  
++Doosan Fuel Cell Co Ltd  
++6  
+ PTT PCL  
+-22  
+-Silergy Corp  
+-102  
++27  
++Douzone Bizon Co Ltd  
++4  
+ R&B Food Supply PCL  
+-29  
+-Silicon Motion Technology Corp  
+-60  
++11  
++e-Credible Co Ltd  
++5  
+ Regional Container Lines PCL  
+-10  
+-Simplo Technology Co Ltd  
+-45  
++8  
++Fila Holdings Corp  
++3  
++SCB X PCL  
++28  
++GOLFZON Co Ltd  
++9  
+ Siam Cement PCL/The  
+-45  
+-Sino-American Silicon Products Inc  
+-5  
+-Siam Commercial Bank PCL/The  
+-22  
+-SinoPac Financial Holdings Co Ltd  
+-23  
+-STARK Corp PCL  
+-1  
+-Sporton International Inc  
+-27  
++34  
++GS Holdings Corp  
++8  
+ Supalai PCL  
++3  
++GS Retail Co Ltd  
+ 2  
+-Sunny Friend Environmental Technology Co Ltd 14  
+ Thai Oil PCL  
++3  
++HAESUNG DS Co Ltd  
++4  
++Thanachart Capital PCL  
+ 2  
+-Sunplus Technology Co Ltd  
++Hana Financial Group Inc  
++145  
++Thonburi Healthcare Group PCL  
+ 2  
+-Thai Union Group PCL  
+-6  
+-T3EX Global Holdings Corp  
+-1  
+-Thanachart Capital PCL  
++Hana Materials Inc  
+ 3  
+-Taishin Financial Holding Co Ltd  
+-9  
+-Thoresen Thai Agencies PCL  
+-1  
+-Taiwan Cement Corp  
+-1  
+ Tisco Financial Group PCL  
+-11  
+-Taiwan Cooperative Financial Holding Co Ltd 4  
++7  
++Hankook Tire & Technology Co Ltd  
++7  
+ True Corp PCL  
+-2  
+-Taiwan FamilyMart Co Ltd/Taiwan  
+-17  
+-TTW PCL  
+ 1  
+-Taiwan Fertilizer Co Ltd  
++Hanmi Pharm Co Ltd  
++3  
++WICE Logistics PCL  
+ 1  
+-Workpoint Entertainment PCL  
+-2  
+-Taiwan Mobile Co Ltd  
+-6  
+-Taiwan Semiconductor Manufacturing Co Ltd 2.957  
++Hansol Chemical Co Ltd  
++15  
+ **Verenigde Arabische Emiraten **  
+-**270**  
+-TCI Co Ltd  
+-7  
++**473**  
++Hanwha Aerospace Co Ltd  
++12  
+ Abu Dhabi Commercial Bank PJSC  
+-24  
+-Tong Hsing Electronic Industries Ltd  
+-5  
++87  
++Helixmith Co Ltd  
++2  
++Abu Dhabi National Oil Co for Distribution PJSC 6  
++HMM Co Ltd  
++13  
+ Aldar Properties PJSC  
+-39  
+-TTY Biopharm Co Ltd  
+-4  
+-Aramex PJSC  
++46  
++Hyundai Glovis Co Ltd  
++15  
++Borouge PLC  
++10  
++Hyundai Marine & Fire Insurance Co Ltd 32  
++Dana Gas PJSC  
+ 1  
+-TXC Corp  
+-3  
++Hyundai Mobis Co Ltd  
++24  
++Dubai Electricity & Water Authority PJSC  
++1  
++Hyundai Motor Co  
++53  
+ Dubai Islamic Bank PJSC  
+-3  
+-Unimicron Technology Corp  
+-39  
++2  
++Hyundai Steel Co  
++1  
+ Emaar Development PJSC  
+ 1  
+-Uni-President Enterprises Corp  
+-9  
++Industrial Bank of Korea  
++8  
+ Emaar Properties PJSC  
+-119  
+-Beursgenoteerde beleggingen van ABP  
+-**11**  
+-per 31 december 2021  
+-
+-* * *
+-
+-Land Omschrijving  
+-Totaal  
+-Land Omschrijving  
+-Totaal  
++185  
++INTOPS Co Ltd  
++1  
+ Emirates NBD PJSC  
+-3  
+-Hyundai Construction Equipment Co Ltd  
+-7  
+-Emirates Telecommunications Group Co PJSC 33  
+-Hyundai Engineering & Construction Co Ltd 8  
+-First Abu Dhabi Bank PJSC  
+-48  
+-Hyundai Glovis Co Ltd  
++19  
++ISC Co Ltd  
+ 1  
+-Hyundai Home Shopping Network Corp  
++Emirates Telecommunications Group Co PJSC 15  
++Jusung Engineering Co Ltd  
++4  
++Fertiglobe plc  
+ 3  
+-**Vietnam 104**  
+-Hyundai Marine & Fire Insurance Co Ltd  
+-1  
+-FPT Corp  
+-19  
+-Hyundai Mobis Co Ltd  
+-16  
+-Hoa Phat Group JSC  
+-14  
+-Hyundai Motor Co  
+-67  
+-Military Commercial Joint Stock Bank  
+-8  
+-Hyundai Steel Co  
+-2  
+-Mobile World Investment Corp  
+-10  
+ Kakao Corp  
+-145  
+-Vincom Retail JSC  
+-36  
+-KakaoBank Corp  
+-11  
+-Vingroup JSC  
+-7  
++29  
++First Abu Dhabi Bank PJSC  
++94  
+ KB Financial Group Inc  
+-161  
+-Vinhomes JSC  
+-10  
+-KCC Corp  
++174  
++International Holding Co PJSC  
+ 2  
+-KCC Glass Corp  
+-1  
+-**Zuid Korea **  
+-**5.103**  
+ Kia Corp  
+-218  
+-AfreecaTV Co Ltd  
+-23  
++231  
+ Koh Young Technology Inc  
+-6  
+-Amorepacific Corp  
++4  
++**Vietnam 163**  
++Korea Aerospace Industries Ltd  
++15  
++Binh Minh Plastics JSC  
++3  
++Korea Circuit Co Ltd  
+ 1  
++FPT Corp  
++54  
+ Korea Gas Corp  
+-11  
+-BGF retail Co Ltd  
+-39  
++12  
++Hoa Phat Group JSC  
++14  
+ Korea Investment Holdings Co Ltd  
+-6  
+-BNK Financial Group Inc  
+-24  
+-Korea Petrochemical Ind Co Ltd  
+-1  
+-Celltrion Healthcare Co Ltd  
+-1  
+-Korea Real Estate Investment & Trust Co Ltd 1  
+-Celltrion Inc  
+-1  
++3  
++Military Commercial Joint Stock Bank  
++23  
+ Korea Zinc Co Ltd  
+-29  
+-Cheil Worldwide Inc  
+-10  
++21  
++Mobile World Investment Corp  
++11  
+ Korean Air Lines Co Ltd  
+-5  
+-CJ CheilJedang Corp  
+-17  
+-Krafton Inc  
+-6  
+-CJ ENM Co Ltd  
++8  
++Phu Nhuan Jewelry JSC  
+ 7  
+ KT Corp  
+-54  
+-CJ Logistics Corp  
+-23  
++83  
++Viglacera Corp JSC  
++3  
+ Kumho Petrochemical Co Ltd  
+-11  
+-Com2uSCorp 8  
+-Kwang Dong Pharmaceutical Co Ltd  
+ 1  
+-Cosmax Inc  
+-4  
++Vincom Retail JSC  
++39  
+ LEENO Industrial Inc  
+-6  
+-Coupang Inc  
+-8  
++14  
++Vinh Hoan Corp  
++3  
+ LG Chem Ltd  
+-104  
+-Coway Co Ltd  
+-29  
++74  
++Vinhomes JSC  
++8  
+ LG Corp  
+-13  
+-Daewoo Engineering & Construction Co Ltd 1  
++3  
+ LG Display Co Ltd  
+-6  
+-Daou Technology Inc  
+-1  
++3  
++**Zuid Korea **  
++**3.513**  
+ LG Electronics Inc  
+-131  
+-DB HiTek Co Ltd  
++55  
++Advanced Nano Products Co Ltd  
++1  
++LG H&H Co Ltd  
+ 5  
+-LG Household & Health Care Ltd  
+-62  
+-DB Insurance Co Ltd  
+-8  
++AfreecaTV Co Ltd  
++4  
+ LG Innotek Co Ltd  
+-55  
+-Devsisters Co Ltd  
+-2  
++18  
++Ahnlab Inc  
++1  
+ LG Uplus Corp  
+-8  
+-DGB Financial Group Inc  
+-12  
+-Lotte Chemical Corp  
+-6  
+-Dongkuk Steel Mill Co Ltd  
+-2  
++3  
++BGF retail Co Ltd  
++47  
+ LOTTE Fine Chemical Co Ltd  
++4  
++BNK Financial Group Inc  
++20  
++Lotte Rental Co Ltd  
++4  
++Celltrion Inc  
+ 1  
+-Dongwha Enterprise Co Ltd  
++Lutronic Corp  
+ 1  
+-LS Electric Co Ltd  
+-6  
+-Doosan Bobcat Inc  
+-5  
+-LX Hausys Ltd  
+-3  
+-Doosan Co Ltd  
+-5  
++Cheil Worldwide Inc  
++11  
+ LX INTERNATIONAL CORP  
+-6  
+-Doosan Fuel Cell Co Ltd  
+-12  
++4  
++CJ CheilJedang Corp  
++5  
+ Meritz Fire & Marine Insurance Co Ltd  
+-1  
+-Douzone Bizon Co Ltd  
+-22  
++3  
++Beursgenoteerde beleggingen van ABP  
++**11**  
++per 30 juni 2022  
++
++* * *
++
++Land Omschrijving  
++Totaal  
++Land Omschrijving  
++Totaal  
+ Mgame Corp  
+-2  
+-e-Credible Co Ltd  
+-9  
++1  
++Umicore SA  
++302  
+ Mirae Asset Securities Co Ltd  
+-4  
+-E-MART Inc  
+ 1  
++VGP NV  
++18  
+ NAVER Corp  
+-187  
+-Fila Holdings Corp  
+-4  
++59  
++Warehouses De Pauw CVA  
++34  
+ NCSoft Corp  
+-33  
+-Foosung Co Ltd  
+-2  
+-NH Investment & Securities Co Ltd  
+ 11  
+-GOLFZON Co Ltd  
+-8  
++Xior Student Housing NV  
++15  
++NEXTIN Inc  
++1  
+ NHN Corp  
+-10  
+-GS Engineering & Construction Corp  
+-3  
++4  
++**Denemarken 1.909**  
+ NHN KCP Corp  
+-2  
+-GS Holdings Corp  
+ 1  
++AP Moller - Maersk A/S  
++145  
+ NICE Holdings Co Ltd  
+ 1  
+-GS Retail Co Ltd  
+-2  
++Ascendis Pharma A/S  
++15  
+ NICE Information Service Co Ltd  
+-30  
+-Hana Financial Group Inc  
+-145  
++26  
++Carlsberg AS  
++5  
++OCI Co Ltd  
++1  
++Chr Hansen Holding A/S  
++425  
+ Orion Corp/Republic of Korea  
+-4  
+-Hankook Tire & Technology Co Ltd  
+-18  
+-Osstem Implant Co Ltd  
+-16  
+-Hanmi Pharm Co Ltd  
+ 3  
++Coloplast A/S  
++69  
++Osstem Implant Co Ltd  
++7  
++Danske Bank A/S  
++1  
+ Paradise Co Ltd  
+ 3  
+-Hanon Systems  
++Demant A/S  
++1  
++POSCO Holdings Inc  
+ 7  
+-POSCO 39  
+-Hansol Chemical Co Ltd  
+-25  
+-S-1 Corp  
+-6  
+-Hanwha Aerospace Co Ltd  
++DSV A/S  
++17  
++PSK Inc  
+ 2  
++Genmab A/S  
++59  
+ Samsung Biologics Co Ltd  
+-56  
+-Hanwha Corp  
+-1  
++45  
++GN Store Nord AS  
++266  
+ Samsung C&T Corp  
+-4  
+-Hanwha Solutions Corp  
++3  
++ISS A/S  
+ 1  
+ Samsung Electro-Mechanics Co Ltd  
+-60  
+-HDC Hyundai Development Co-Engineering  
++26  
++Jyske Bank A/S  
++7  
+ Samsung Electronics Co Ltd  
+-2.026  
+-& Construction  
+-15  
++1.366  
++Novo Nordisk A/S  
++475  
+ Samsung Engineering Co Ltd  
+-8  
+-Helixmith Co Ltd  
+-2  
+-Samsung Fire & Marine Insurance Co Ltd  
+-1  
+-HMM Co Ltd  
+-8  
+-Samsung Life Insurance Co Ltd  
+-2  
+-Hyosung Advanced Materials Corp  
+-1  
+-Samsung SDI Co Ltd  
+-219  
+-Samsung Securities Co Ltd  
+ 19  
+-Beursgenoteerde beleggingen van ABP  
+-**12**  
+-per 31 december 2021  
+-
+-* * *
+-
+-Land Omschrijving  
+-Totaal  
+-Land Omschrijving  
+-Totaal  
+-SaraminHR Co Ltd  
+-21  
+-Novo Nordisk A/S  
+-439  
+-SD Biosensor Inc  
+-1  
+ Novozymes A/S  
+-21  
+-Seah Besteel Corp  
+-2  
++11  
++Samsung Fire & Marine Insurance Co Ltd 19  
+ Orsted AS  
+-67  
+-Seegene Inc  
+-10  
++57  
++Samsung Heavy Industries Co Ltd  
++2  
+ Pandora A/S  
+-33  
+-Shinhan Financial Group Co Ltd  
+-42  
++12  
++Samsung SDI Co Ltd  
++132  
+ Per Aarsleff Holding A/S  
+-6  
+-Shinsegae Inc  
+-17  
++3  
++Samsung SDS Co Ltd  
++2  
+ Sydbank A/S  
+-1  
+-Shinsegae International Inc  
+-1  
++3  
++Samsung Securities Co Ltd  
++5  
+ Tryg A/S  
+-20  
+-SK Hynix Inc  
+-353  
++16  
++SaraminHR Co Ltd  
++17  
+ Vestas Wind Systems A/S  
+-440  
+-SK Inc  
+-1  
+-SK Innovation Co Ltd  
+-1  
+-**Duitsland 5.612**  
+-SK Square Co Ltd  
+-39  
+-1&1 AG  
++324  
++SD Biosensor Inc  
+ 6  
+-SK Telecom Co Ltd  
+-74  
++Seegene Inc  
++6  
++**Duitsland 3.646**  
++Shinhan Financial Group Co Ltd  
++48  
++1&1 AG  
++4  
++Shinsegae Inc  
++25  
+ adidas AG  
+-28  
+-SNT Motiv Co Ltd  
+ 1  
++SIMMTECH Co Ltd  
++5  
+ Affimed NV  
+-4  
+-S-Oil Corp  
+-3  
+-AIXTRON SE  
+-1  
+-SundayToz Corp  
+-1  
++2  
++SK Hynix Inc  
++189  
+ Allianz SE  
+-137  
+-Tokai Carbon Korea Co Ltd  
+-19  
++86  
++SK Inc  
++21  
+ Aroundtown SA  
+-48  
+-TYM Corp  
+-1  
++26  
++SK Innovation Co Ltd  
++2  
+ Aurubis AG  
++7  
++SK Square Co Ltd  
+ 3  
+-Webcash Corp  
+-10  
+ BASF SE  
+-61  
+-WONIK IPS Co Ltd  
+-32  
++21  
++SK Telecom Co Ltd  
++33  
+ Bayer AG  
+-10  
+-Woori Financial Group Inc  
+-13  
++94  
++S-Oil Corp  
++4  
+ Bayerische Motoren Werke AG  
+-98  
+-Woori Technology Investment Co Ltd  
+-1  
++67  
++Tokai Carbon Korea Co Ltd  
++16  
+ Beiersdorf AG  
+-51  
+-Yuhan Corp  
++46  
++Webcash Corp  
+ 6  
+ Brenntag SE  
+-124  
++59  
++Woori Financial Group Inc  
++32  
++Commerzbank AG  
++11  
++Yuhan Corp  
++6  
+ Continental AG  
+-2  
+-**Europa 40.165**  
++5  
+ Covestro AG  
+-68  
+-**België 1.113**  
+-Daimler AG  
+-155  
+-Aedifica SA  
+-65  
++19  
++**Europa 26.906**  
++CTS Eventim AG & Co KGaA  
++1  
++**België 976**  
+ Daimler Truck Holding AG  
+-31  
+-Anheuser-Busch InBev SA/NV  
+-141  
+-Delivery Hero SE  
+-8  
+-Argenx SE  
+-56  
++14  
++Aedifica SA  
++147  
+ Deutsche Bank AG  
+-26  
+-Befimmo SA  
+-21  
++35  
++Ageas SA/NV  
++1  
+ Deutsche Boerse AG  
+-14  
+-Bekaert SA  
+-3  
++1  
++Anheuser-Busch InBev SA/NV  
++130  
+ Deutsche Post AG  
+-354  
+-Cofinimmo SA  
+-72  
++147  
++Argenx SE  
++47  
+ Deutsche Telekom AG  
+-261  
+-D’ieteren Group  
+-23  
+-Draegerwerk AG & Co KGaA  
+-1  
+-Etablissements Franz Colruyt NV  
+-19  
+-DWS Group GmbH & Co KGaA  
+-3  
+-Galapagos NV  
+-6  
++253  
++Befimmo SA  
++11  
+ E.ON SE  
+-38  
+-Groupe Bruxelles Lambert SA  
+-45  
+-Fielmann AG  
++42  
++bpost SA  
+ 1  
+-KBC Group NV  
+-165  
+-Fraport AG Frankfurt Airport Services  
+-Melexis NV  
+-2  
+-Worldwide 3  
+-Proximus SADP  
+-16  
+ Freenet AG  
+ 4  
+-Shurgard Self Storage SA  
+-35  
++Cofinimmo SA  
++52  
++Fresenius Medical Care AG & Co KGaA  
++3  
++D’ieteren Group  
++6  
+ Fresenius SE & Co KGaA  
++12  
++Elia Group SA/NV  
+ 1  
+-Sofina SA  
+-28  
+ FUCHS PETROLUB SE  
+ 1  
+-Solvay SA  
+-2  
++Etablissements Franz Colruyt NV  
++7  
+ GEA Group AG  
+-63  
+-UCB SA  
+-21  
++36  
++Galapagos NV  
++5  
+ Gerresheimer AG  
+-206  
+-Umicore SA  
+-336  
++135  
++Groupe Bruxelles Lambert SA  
++37  
+ Hannover Rueck SE  
+-72  
+-Warehouses De Pauw CVA  
+-38  
+-HeidelbergCement AG  
+-15  
+-Xior Student Housing NV  
+-19  
++47  
++KBC Group NV  
++77  
++Hapag-Lloyd AG  
++3  
++Proximus SADP  
++13  
++Heidelberger Druckmaschinen AG  
++2  
++Shurgard Self Storage SA  
++25  
+ HelloFresh SE  
+-40  
++3  
++Sofina SA  
++16  
+ Henkel AG & Co KGaA  
++9  
++Solvay SA  
++3  
++Hensoldt AG  
+ 1  
+-**Denemarken 2.413**  
+-HOCHTIEF AG  
+-1  
+-AP Moller - Maersk A/S  
+-210  
++UCB SA  
++26  
+ HUGO BOSS AG  
+-9  
+-Ascendis Pharma A/S  
+-23  
++5  
++Beursgenoteerde beleggingen van ABP  
++**12**  
++per 30 juni 2022  
++
++* * *
++
++Land Omschrijving  
++Totaal  
++Land Omschrijving  
++Totaal  
+ Infineon Technologies AG  
+-110  
+-Carlsberg AS  
++36  
++Credit Agricole SA  
+ 9  
+ Jumia Technologies AG  
+-4  
+-Chemometec A/S  
+-1  
++2  
++Danone SA  
++3  
+ K+S AG  
+-4  
+-Chr Hansen Holding A/S  
+-418  
++19  
++Dassault Systemes SE  
++19  
+ Kloeckner & Co SE  
+-3  
+-Coloplast A/S  
+-108  
+-Knorr-Bremse AG  
+-51  
+-Demant A/S  
+ 1  
++Edenred 1  
++Knorr-Bremse AG  
++26  
++Eiffage SA  
++14  
++LANXESS AG  
++11  
++Electricite de France SA  
++3  
+ LEG Immobilien SE  
+-119  
+-DSV A/S  
+-42  
++83  
++Engie SA  
++102  
++Mercedes-Benz Group AG  
++192  
++EssilorLuxottica SA  
++16  
+ Merck KGaA  
+-114  
+-FLSmidth & Co A/S  
+-2  
+-MorphoSys AG  
++113  
++Eurazeo SE  
+ 1  
+-Genmab A/S  
+-97  
+ Muenchener Rueckversicherungs-  
+-GN Store Nord AS  
+-457  
++Eurofins Scientific SE  
++53  
+ Gesellschaft AG in Muenchen  
+-107  
+-H Lundbeck A/S  
+-1  
+-ProSiebenSat.1 Media SE  
+-1  
+-ISS A/S  
+-2  
+-Puma SE  
+-13  
+-Jyske Bank A/S  
+-16  
++30  
++Euronext NV  
++3  
++Nemetschek SE  
++6  
++Faurecia SE  
++18  
+ QIAGEN NV  
+-33  
++25  
++Gaztransport Et Technigaz SA  
++8  
+ Rational AG  
+-368  
+-Beursgenoteerde beleggingen van ABP  
+-**13**  
+-per 31 december 2021  
+-
+-* * *
+-
+-Land Omschrijving  
+-Totaal  
+-Land Omschrijving  
+-Totaal  
++229  
++Gecina SA  
++72  
+ RWE AG  
+ 1  
+-Eurazeo SE  
+-3  
++Hermes International  
++75  
+ SAP SE  
+-121  
+-Eurofins Scientific SE  
+-80  
++50  
++ICADE 59  
+ Sartorius AG  
+-15  
+-Euronext NV  
+-7  
++3  
++Ipsen SA  
++6  
+ Scout24 SE  
+-5  
+-Faurecia SE  
+-48  
++3  
++JCDecaux SA  
++201  
+ Siemens AG  
+-208  
+-Gecina SA  
+-106  
++107  
++Kering SA  
++11  
+ Siemens Energy AG  
+-67  
+-Hermes International  
+-201  
++35  
++Klepierre SA  
++343  
++Siemens Healthineers AG  
++16  
++La Francaise des Jeux SAEM  
++7  
+ Symrise AG  
+-600  
+-ICADE 94  
++463  
++Legrand SA  
++4  
+ TAG Immobilien AG  
+-42  
+-Ipsen SA  
+-6  
++11  
++L’Oreal SA  
++203  
+ Telefonica Deutschland Holding AG  
+-19  
+-JCDecaux SA  
+-272  
++22  
++LVMH Moet Hennessy Louis Vuitton SE 261  
+ United Internet AG  
+-8  
+-Kering SA  
+-100  
++6  
++Mercialys SA  
++35  
+ Vantage Towers AG  
+-17  
+-Klepierre SA  
+-385  
++14  
++Orange SA  
++157  
+ Volkswagen AG  
+-88  
+-La Francaise des Jeux SAEM  
+-10  
++49  
++Pernod Ricard SA  
++193  
+ Vonovia SE  
+-1.500  
+-Legrand SA  
+-43  
++878  
++Publicis Groupe SA  
++22  
+ Wacker Chemie AG  
+ 1  
+-L’Oreal SA  
+-327  
++Remy Cointreau SA  
++505  
+ Wacker Neuson SE  
+ 1  
+-LVMH Moet Hennessy Louis Vuitton SE 499  
++Renault SA  
++7  
+ Zalando SE  
+-47  
+-Mercialys SA  
+-42  
+-Nexity SA  
+-4  
+-**Finland 478**  
+-Orange SA  
+-138  
++13  
++Rexel SA  
++5  
++Rubis SCA  
++5  
++**Finland 291**  
++Sanofi  
++221  
+ Elisa Oyj  
+-66  
+-Pernod Ricard SA  
+-251  
+-Fortum OYJ  
+-4  
+-Publicis Groupe SA  
+-43  
++60  
++Sartorius Stedim Biotech  
++15  
+ Kesko Oyj  
+-27  
+-Remy Cointreau SA  
+-689  
++14  
++Schneider Electric SE  
++118  
+ Kojamo Oyj  
+-75  
+-Renault SA  
+-8  
++55  
++SEB SA  
++9  
+ Kone Oyj  
+-82  
+-Rexel SA  
+-10  
+-Metsa Board Oyj  
+-1  
+-Rubis SCA  
+-8  
++53  
++SES SA  
++30  
+ Neste Oyj  
+-15  
+-Sanofi  
+-91  
++14  
++Societe Generale SA  
++42  
+ Nokia Oyj  
+-168  
+-Sartorius Stedim Biotech  
+ 71  
++SOITEC 9  
+ Nokian Renkaat Oyj  
+ 1  
+-Schneider Electric SE  
+-345  
+-Sampo Oyj  
+-2  
+-SES SA  
+-29  
+-Stora Enso Oyj  
+-26  
+-Societe Generale SA  
+-52  
+-UPM-Kymmene Oyj  
+-1  
+-Sodexo SA  
+-1  
+-Uponor Oyj  
+-2  
+-SOITEC 26  
+-Valmet Oyj  
+-7  
+ STMicroelectronics NV  
+-111  
+-Suez SA  
++64  
++Orion Oyj  
++1  
++Teleperformance 54  
++Sampo Oyj  
+ 1  
+-**Frankrijk 5.716**  
+-Teleperformance 95  
+-Air Liquide SA  
+-48  
+ TotalEnergies SE  
+-252  
+-Alstom SA  
+-23  
++340  
++Stora Enso Oyj  
++22  
+ Ubisoft Entertainment SA  
+-20  
+-Altarea SCA  
+-233  
++16  
+ Unibail-Rodamco-Westfield  
+-107  
+-Amundi SA  
+-1  
+-Valeo 13  
+-APERAM SA  
+-2  
++87  
++**Frankrijk 4.032**  
++Valeo 2  
++Air Liquide SA  
++35  
+ Veolia Environnement SA  
+-81  
+-Arkema SA  
+-29  
++35  
++Alstom SA  
++18  
+ Vinci SA  
+-102  
+-Atos SE  
+-8  
++80  
++Altarea SCA  
++182  
+ Vivendi SE  
+-7  
+-AXA SA  
+-13  
+-Wendel SE  
+-22  
+-BioMerieux 4  
+-Worldline SA/France  
++8  
++Amundi SA  
+ 1  
+-BNP Paribas SA  
+-59  
+-Bollore SA  
+-3  
+-**Griekenland 136**  
+-Bouygues SA  
+-27  
++Wendel SE  
++8  
++Arkema SA  
++14  
++**Griekenland 103**  
++AXA SA  
++50  
+ Alpha Services and Holdings SA  
+-10  
++6  
++BioMerieux 3  
++Eurobank Ergasias Services and Holdings SA 49  
++BNP Paribas SA  
++34  
++Hellenic Exchanges - Athens Stock Exchange SA 1  
++Bollore SE  
++2  
++Hellenic Telecommunications Organization SA 17  
+ Bureau Veritas SA  
+ 1  
+-Eurobank Ergasias Services and Holdings SA  
+-Capgemini SE  
+-64  
+-68  
+-Carmila SA  
+-3  
+-Hellenic Exchanges - Athens Stock Exchange  
+-Carrefour SA  
+-5  
+-SA 1  
+-Cie de Saint-Gobain  
+-58  
+-Hellenic Telecommunications Organization  
+-Cie Generale des Etablissements Michelin SCA 46  
+-SA 11  
+-CNP Assurances  
+-5  
+ JUMBO SA  
+-22  
+-Covivio 79  
++13  
++Capgemini SE  
++34  
+ Motor Oil Hellas Corinth Refineries SA  
+-1  
+-Credit Agricole SA  
+-8  
++2  
++Carmila SA  
++14  
+ National Bank of Greece SA  
+-9  
+-Danone SA  
+-5  
+-OPAP SA  
+-13  
+-Dassault Systemes SE  
+-21  
++11  
++Carrefour SA  
++2  
+ Sarantis SA  
+-1  
+-Edenred 1  
+-Eiffage SA  
+-17  
+-**Hongarije 157**  
+-Electricite de France SA  
+-29  
+-MOL Hungarian Oil & Gas PLC  
++3  
++Cie de Saint-Gobain  
+ 23  
+-Engie SA  
+-97  
++Cie Generale des Etablissements Michelin SCA 6  
++**Hongarije 55**  
++Covivio 54  
++MOL Hungarian Oil & Gas PLC  
++24  
+ OTP Bank Nyrt  
+-117  
+-EssilorLuxottica SA  
+-29  
+-Richter Gedeon Nyrt  
+-17  
++25  
+ Beursgenoteerde beleggingen van ABP  
+-**14**  
+-per 31 december 2021  
++**13**  
++per 30 juni 2022  
+ 
+ * * *
+ 
+@@ -3346,233 +3124,237 @@
+ Totaal  
+ Land Omschrijving  
+ Totaal  
+-Avantium N.V.  
+-15  
+-**Ierland 327**  
+-BE Semiconductor Industries NV  
+-52  
+-Ads-Tec Energy PLC  
+-12  
+-Boskalis Westminster  
+-4  
+-Bank of Ireland Group PLC  
+-4  
+-Constellium SE  
+-2  
+-CRH PLC  
+-30  
+-European Fintech Ipo Co 1 BV  
+-13  
+-Flutter Entertainment PLC  
+-5  
+-Heineken Holding NV  
+-29  
+-Hibernia REIT plc  
+-15  
+-Heineken NV  
+-3  
+-ICON PLC  
+-11  
+-IMCD NV  
+-11  
+-Irish Residential Properties REIT Plc  
+-49  
+-ING Groep NV  
+-2  
+-Kerry Group PLC  
+-112  
+-Just Eat Takeaway.com NV  
+-19  
+-Kingspan Group PLC  
+-58  
+-Koninklijke Ahold Delhaize NV  
+-140  
+-Smurfit Kappa Group PLC  
+-30  
+-Koninklijke DSM NV  
+-48  
+-Koninklijke KPN NV  
+-150  
+-**Italië 1.403**  
+-Koninklijke Philips NV  
+-20  
+-ACEA SpA  
+-5  
++Richter Gedeon Nyrt  
++6  
+ NN Group NV  
+-52  
+-Amplifon SpA  
+-1  
++47  
++**Ierland 186**  
+ NSI NV  
+-22  
+-Assicurazioni Generali SpA  
++19  
++Ads-Tec Energy PLC  
+ 10  
++OCI NV  
++1  
++CRH PLC  
++13  
+ PostNL NV  
+ 1  
+-Atlantia SpA  
+-5  
++Flutter Entertainment PLC  
++1  
+ Prosus NV  
+-49  
+-Azimut Holding SpA  
+-13  
++22  
++ICON PLC  
++6  
+ Randstad NV  
++12  
++Irish Residential Properties REIT Plc  
+ 35  
+-Banca Generali SpA  
+-4  
+ Signify NV  
+-80  
+-Banca Mediolanum SpA  
+-2  
++48  
++Kerry Group PLC  
++82  
+ Sligro Food Group NV  
+-95  
+-BPER Banca  
+-1  
+-Universal Music Group NV  
+-4  
+-CNH Industrial NV  
+-23  
++82  
++Kingspan Group PLC  
++24  
+ Wolters Kluwer NV  
+-32  
+-Davide Campari-Milano NV  
++23  
++Smurfit Kappa Group PLC  
++15  
++**Noorwegen 887**  
++Aker ASA  
+ 1  
+-De’ Longhi SpA  
+-430  
+-**Noorwegen 1.169**  
+-DiaSorin SpA  
+-36  
++**Italië 879**  
+ Aker BP ASA  
++20  
++ACEA SpA  
+ 3  
+-Enel SpA  
+-155  
+-Austevoll Seafood ASA  
+-2  
+-Eni SpA  
+-23  
+-AutoStore Holdings Ltd  
+-5  
+-Ferrari NV  
+-88  
+ DNB Bank ASA  
+-199  
+-FinecoBank Banca Fineco SpA  
+-77  
++130  
++Assicurazioni Generali SpA  
++21  
+ Entra ASA  
+-48  
+-Hera SpA  
+-10  
++27  
++Davide Campari-Milano NV  
++1  
+ Equinor ASA  
+-132  
+-Infrastrutture Wireless Italiane SpA  
+-12  
++193  
++De’ Longhi SpA  
++243  
+ Gjensidige Forsikring ASA  
+-25  
+-Interpump Group SpA  
+-4  
++18  
++DiaSorin Italia SpA  
++22  
+ Golden Ocean Group Ltd  
++2  
++Enel SpA  
++84  
++Grieg Seafood ASA  
+ 1  
+-Intesa Sanpaolo SPA  
+-6  
++Eni SpA  
++89  
++Hafnia Ltd  
++1  
++EXOR NV  
++1  
++Kongsberg Gruppen ASA  
++4  
++Ferrari NV  
++44  
+ Mowi ASA  
+-2  
+-Iren SpA  
++16  
++FinecoBank Banca Fineco SpA  
++94  
++MPC Container Ships ASA  
++7  
++Infrastrutture Wireless Italiane SpA  
++13  
++Norsk Hydro ASA  
+ 9  
+-Nordic Semiconductor ASA  
++Intesa Sanpaolo SPA  
+ 6  
+-Italgas SpA  
+-1  
+-Norsk Hydro ASA  
+-58  
+-Mediobanca Banca di Credito Finanziario SpA 3  
+-Opera Ltd  
+-4  
+-MFE-MediaForEurope NV  
+-1  
+ Orkla ASA  
+-16  
+-Moncler SpA  
+-26  
++6  
++Iren SpA  
++4  
+ Scatec ASA  
+-13  
+-Nexi SpA  
+-15  
+-SFL Corp Ltd  
++7  
++Italgas SpA  
+ 4  
+-Poste Italiane SpA  
+-3  
+ Telenor ASA  
+-111  
+-Prysmian SpA  
+-70  
++88  
++Mediobanca Banca di Credito Finanziario SpA 2  
+ TGS ASA  
+-64  
+-Recordati Industria Chimica e Farmaceutica SpA 25  
++93  
++MFE-MediaForEurope NV  
++1  
+ Tomra Systems ASA  
+-448  
+-Reply SpA  
++253  
++Moncler SpA  
+ 7  
+ Yara International ASA  
+-28  
+-Salvatore Ferragamo SpA  
+-5  
+-Snam SpA  
++11  
++Pirelli & C SpA  
++4  
++**Oostenrijk 147**  
++Poste Italiane SpA  
+ 1  
+-**Oostenrijk 275**  
+-Stellantis NV  
+-293  
+ ANDRITZ AG  
+-4  
+-Tenaris SA  
+-13  
+-BAWAG Group AG  
+ 2  
+-Terna - Rete Elettrica Nazionale  
+-11  
+-CA Immobilien Anlagen AG  
+-14  
+-UniCredit SpA  
++PRADA SpA  
+ 1  
++BAWAG Group AG  
++1  
++Prysmian SpA  
++37  
++CA Immobilien Anlagen AG  
++12  
++Recordati Industria Chimica e Farmaceutica SpA 18  
+ Erste Group Bank AG  
+-230  
+-Unipol Gruppo SpA  
+-13  
++121  
++Snam SpA  
++5  
+ OMV AG  
+-11  
++7  
++Stellantis NV  
++144  
+ Raiffeisen Bank International AG  
+-9  
+-**Nederland 2.708**  
++2  
++Tenaris SA  
++1  
+ Verbund AG  
+-4  
+-Adyen NV  
+-127  
+-Aegon NV  
+-7  
+-**Polen 455**  
+-AerCap Holdings NV  
+-8  
++3  
++Terna - Rete Elettrica Nazionale  
++9  
++**Polen 317**  
++UniCredit SpA  
++12  
+ Alior Bank SA  
+ 2  
+-Akzo Nobel NV  
+-51  
++Unipol Gruppo SpA  
++9  
+ Allegro.eu SA  
+-53  
+-Arcadis NV  
+-481  
++20  
+ Asseco Poland SA  
+-3  
+-ASM International NV  
+-78  
++1  
++**Nederland 1.645**  
+ Bank Polska Kasa Opieki SA  
+-60  
+-ASML Holding NV  
+-1.053  
+-Budimex SA  
++54  
++Adyen NV  
++115  
++Dino Polska SA  
++56  
++Aegon NV  
++37  
++Grupa Lotos SA  
++6  
++Akzo Nobel NV  
++26  
++Jastrzebska Spolka Weglowa SA  
++6  
++Arcadis NV  
++334  
++KGHM Polska Miedz SA  
++80  
++ASM International NV  
++4  
++KRUK SA  
+ 1  
++ASML Holding NV  
++441  
++Orange Polska SA  
++3  
+ ASR Nederland NV  
+-26  
+-Dino Polska SA  
+-102  
++16  
++Polski Koncern Naftowy ORLEN SA  
++6  
++Avantium N.V.  
++12  
++Polskie Gornictwo Naftowe i Gazownictwo SA 5  
++BE Semiconductor Industries NV  
++11  
++Powszechna Kasa Oszczednosci Bank Polski SA 30  
++Eurocommercial Properties NV  
++9  
++Powszechny Zaklad Ubezpieczen SA  
++43  
++Heineken Holding NV  
++25  
++Santander Bank Polska SA  
++3  
++Heineken NV  
++24  
++**Portugal 52**  
++IMCD NV  
++2  
++EDP - Energias de Portugal SA  
++1  
++ING Groep NV  
++20  
++Galp Energia SGPS SA  
++1  
++Just Eat Takeaway.com NV  
++1  
++Jeronimo Martins SGPS SA  
++49  
++Koninklijke Ahold Delhaize NV  
++105  
++Sonae SGPS SA  
++1  
++Koninklijke DSM NV  
++46  
++Koninklijke KPN NV  
++145  
++**Slovenië 3**  
++Koninklijke Philips NV  
++18  
++Nova Ljubljanska Banka dd  
++3  
++Koninklijke Vopak NV  
++1  
+ Beursgenoteerde beleggingen van ABP  
+-**15**  
+-per 31 december 2021  
++**14**  
++per 30 juni 2022  
+ 
+ * * *
+ 
+@@ -3580,234 +3362,248 @@
+ Totaal  
+ Land Omschrijving  
+ Totaal  
+-Grupa Lotos SA  
++Bicycle Therapeutics PLC  
++2  
++**Spanje 913**  
++Big Yellow Group PLC  
++10  
++Acciona SA  
++5  
++BP PLC  
++235  
++Acerinox SA  
++1  
++British Land Co PLC/The  
++276  
++Aena SME SA  
+ 4  
++Britvic PLC  
++131  
++Amadeus IT Group SA  
++3  
++BT Group PLC  
++2  
++Atlantica Sustainable Infrastructure PLC  
++1  
++Bunzl PLC  
++303  
++Banco Bilbao Vizcaya Argentaria SA  
++32  
++Burberry Group PLC  
++1  
++Banco Santander SA  
++107  
++Capital & Counties Properties PLC  
++13  
+ Bankinter SA  
+-60  
+-KGHM Polska Miedz SA  
+-89  
++59  
++Centrica PLC  
++38  
+ CaixaBank SA  
+-12  
+-LPP SA  
+ 1  
++Coca-Cola HBC AG  
++12  
+ Cellnex Telecom SA  
+-96  
+-Orange Polska SA  
+-4  
++79  
++Compass Group PLC  
++112  
++Enagas SA  
++14  
++ConvaTec Group PLC  
++7  
+ Ferrovial SA  
+-67  
+-Polski Koncern Naftowy ORLEN SA  
+-24  
++28  
++Croda International PLC  
++14  
+ Fluidra SA  
+-8  
+-Polskie Gornictwo Naftowe i Gazownictwo SA 11  
++1  
++Derwent London PLC  
++46  
+ Iberdrola SA  
+-73  
+-Powszechna Kasa Oszczednosci Bank Polski SA 56  
++64  
++Diageo PLC  
++183  
+ Industria de Diseno Textil SA  
+-82  
+-Powszechny Zaklad Ubezpieczen SA  
+-40  
++60  
++Direct Line Insurance Group PLC  
++1  
+ Inmobiliaria Colonial Socimi SA  
+ 24  
+-Santander Bank Polska SA  
+-3  
++Dr Martens PLC  
++15  
+ Laboratorios Farmaceuticos Rovi SA  
+-9  
+-TEN Square Games SA  
+-1  
++6  
++Elementis PLC  
++51  
+ Linea Directa Aseguradora SA Cia de  
++Experian PLC  
++32  
+ Seguros y Reaseguros  
+-7  
+-**Portugal 59**  
++4  
++Ferguson PLC  
++686  
+ Mapfre SA  
+-6  
+-CTT-Correios de Portugal SA  
+-1  
++5  
++Future PLC  
++4  
+ Mediaset Espana Comunicacion SA  
+-6  
+-Galp Energia SGPS SA  
+-1  
++5  
++Grainger PLC  
++64  
+ Merlin Properties Socimi SA  
+-79  
+-Jeronimo Martins SGPS SA  
+-53  
++65  
++Great Portland Estates PLC  
++16  
+ Red Electrica Corp SA  
+-15  
+-Sonae SGPS SA  
+-4  
++22  
++GSK PLC  
++225  
+ Repsol SA  
+-8  
++26  
++Halma PLC  
++1  
+ Telefonica SA  
+-66  
+-**Rusland 1.601**  
++74  
++Hammerson PLC  
++219  
+ Viscofan SA  
+-243  
+-Acron PJSC  
+-1  
+-**Tsjechië 17**  
+-Alrosa PJSC  
+-61  
++224  
++Hikma Pharmaceuticals PLC  
++2  
++**Tsjechië 34**  
++Howden Joinery Group PLC  
++2  
+ CEZ AS  
+-1  
+-Cian PLC  
+-16  
++23  
++HSBC Holdings PLC  
++30  
+ Komercni banka as  
+-13  
+-Detsky Mir PJSC  
+-6  
+-Moneta Money Bank AS  
++10  
++IG Group Holdings PLC  
+ 3  
+-Federal Grid Co Unified Energy System PJSC 3  
+-**Turkije 110**  
+-Fix Price Group Ltd  
+-83  
+-Aksa Akrilik Kimya Sanayii AS  
+-1  
+-HeadHunter Group PLC  
+-33  
+-BIM Birlesik Magazalar AS  
+-11  
+-LUKOIL PJSC  
+-9  
+-Coca-Cola Icecek AS  
++IMI PLC  
+ 1  
+-Magnit PJSC  
+-64  
+-D-MARKET Elektronik Hizmetler ve Ticaret AS 3  
+-Magnitogorsk Iron & Steel Works PJSC  
+-22  
++**Turkije 65**  
++Informa PLC  
++375  
++Akbank TAS  
++2  
++InterContinental Hotels Group PLC  
++2  
+ Dogus Otomotiv Servis ve Ticaret AS  
+ 3  
+-MMC Norilsk Nickel PJSC  
+-182  
++Intermediate Capital Group PLC  
++7  
+ Ford Otomotiv Sanayi AS  
+-28  
+-Mobile TeleSystems PJSC  
++12  
++Intertek Group PLC  
++4  
++Kardemir Karabuk Demir Celik Sanayi ve  
++JD Sports Fashion PLC  
++3  
++Ticaret AS  
+ 1  
+-KOC Holding AS  
+-11  
+-Moscow Exchange MICEX-RTS PJSC  
++John Wood Group PLC  
+ 34  
+-Logo Yazilim Sanayi Ve Ticaret AS  
+-11  
+-Novatek PJSC  
+-176  
+-Mavi Giyim Sanayi Ve Ticaret AS  
++KOC Holding AS  
++19  
++Johnson Matthey PLC  
+ 2  
+-Novolipetsk Steel PJSC  
+-31  
+-Migros Ticaret AS  
++Logo Yazilim Sanayi Ve Ticaret AS  
++7  
++Jupiter Fund Management PLC  
+ 1  
+-Ozon Holdings PLC  
++Migros Ticaret AS  
+ 3  
+-Turk Hava Yollari AO  
+-1  
+-PhosAgro PJSC  
+-15  
++Kingfisher PLC  
++11  
+ Turkcell Iletisim Hizmetleri AS  
+-7  
+-Polymetal International PLC  
+-21  
+-Turkiye Garanti Bankasi AS  
+-19  
+-Polyus PJSC  
+ 1  
++Land Securities Group PLC  
++89  
++Turkiye Garanti Bankasi AS  
++7  
++Legal & General Group PLC  
++109  
+ Turkiye Petrol Rafinerileri AS  
+-9  
+-Renaissance Insurance Group JSC  
+-1  
+-Vestel Elektronik Sanayi ve Ticaret AS  
++8  
++Lloyds Banking Group PLC  
++13  
++Yapi ve Kredi Bankasi AS  
+ 1  
+-Ros Agro PLC  
++London Stock Exchange Group PLC  
+ 1  
+-Sberbank of Russia PJSC  
+-534  
+ **Verenigd Koninkrijk **  
+-**9.986**  
+-Segezha Group PJSC  
+-13  
++**7.094**  
++LondonMetric Property PLC  
++74  
+ 3i Group PLC  
+-25  
+-Severstal PAO  
+-17  
++18  
++M&G PLC  
++1  
+ Abcam PLC  
+-12  
+-Surgutneftegas PJSC  
+-21  
++6  
++Man Group PLC/Jersey  
++5  
+ Admiral Group PLC  
+-33  
+-Tatneft PJSC  
+-59  
++22  
++Melrose Industries PLC  
++9  
+ Allfunds Group Plc  
+-46  
+-TCS Group Holding PLC  
+-42  
++22  
++Mondi PLC  
++12  
+ Alphawave IP Group PLC  
+-4  
+-Transneft PJSC  
+-4  
+-Anglo American PLC  
+-139  
+-United Co RUSAL International PJSC  
+ 2  
++National Grid PLC  
++102  
++Anglo American PLC  
++118  
++Natwest Group PLC  
++17  
+ Antofagasta PLC  
+-25  
+-VK Co Ltd  
+-18  
+-Ashmore Group PLC  
+-1  
+-X5 Retail Group NV  
+-40  
++19  
++Next PLC  
++14  
+ Ashtead Group PLC  
+-23  
+-Yandex NV  
+-86  
++9  
++OSB Group PLC  
++2  
+ Assura PLC  
+-52  
++45  
++Oxford Biomedica PLC  
++2  
+ AstraZeneca PLC  
+-295  
+-**Slovenië 3**  
++279  
++Persimmon PLC  
++1  
+ Auto Trader Group PLC  
+ 3  
+-Nova Ljubljanska Banka dd  
+-3  
++Phoenix Group Holdings PLC  
++1  
+ Aviva PLC  
+ 1  
++Plus500 Ltd  
++1  
+ Barclays PLC  
+-81  
+-**Spanje 975**  
++22  
++Primary Health Properties PLC  
++40  
+ Barratt Developments PLC  
+-15  
+-Acciona SA  
+ 6  
++Prudential PLC  
++109  
+ Beazley PLC  
+-9  
+-Acerinox SA  
+-13  
+-BHP Group PLC  
+-218  
+-Aena SME SA  
+-5  
+-Bicycle Therapeutics PLC  
+-10  
+-Amadeus IT Group SA  
++12  
++Reckitt Benckiser Group PLC  
++2  
++Bellway PLC  
+ 1  
+-Big Yellow Group PLC  
+-15  
+-Banco Bilbao Vizcaya Argentaria SA  
+-42  
+-BP PLC  
+-168  
+-Banco Santander SA  
+-50  
+-British Land Co PLC/The  
+-350  
+-Britvic PLC  
+-173  
++RELX PLC  
++65  
+ Beursgenoteerde beleggingen van ABP  
+-**16**  
+-per 31 december 2021  
++**15**  
++per 30 juni 2022  
+ 
+ * * *
+ 
+@@ -3815,1252 +3611,1001 @@
+ Totaal  
+ Land Omschrijving  
+ Totaal  
+-BT Group PLC  
+-5  
+-Prudential PLC  
+-179  
+-Bunzl PLC  
+-340  
+-Reckitt Benckiser Group PLC  
+-3  
+-Burberry Group PLC  
+-2  
+-RELX PLC  
+-90  
+-Capital & Counties Properties PLC  
+-17  
+-Rentokil Initial PLC  
+-2  
+-Centamin PLC  
+-9  
+ Rightmove PLC  
+-14  
+-Centrica PLC  
+-32  
++7  
++Sandvik AB  
++6  
+ Rio Tinto PLC  
+-259  
+-Coca-Cola HBC AG  
+-32  
+-Rolls-Royce Holdings PLC  
+-1  
+-Compass Group PLC  
+-153  
++179  
++Securitas AB  
++4  
+ Rotork PLC  
+-197  
+-Croda International PLC  
+-1  
+-Royal Dutch Shell PLC  
+-382  
+-Derwent London PLC  
+-66  
++91  
++Skandinaviska Enskilda Banken AB  
++13  
+ Royal Mail PLC  
+-29  
+-Diageo PLC  
+-220  
++12  
++Skanska AB  
++3  
+ Safestore Holdings PLC  
+-80  
+-Direct Line Insurance Group PLC  
+-1  
++52  
++Svenska Cellulosa AB SCA  
++13  
+ Sage Group PLC/The  
+-43  
+-Dr. Martens Plc  
+-33  
++2  
++Svenska Handelsbanken AB  
++82  
+ Savills PLC  
+-5  
+-Elementis PLC  
+-76  
++3  
++Swedbank AB  
++20  
+ Segro PLC  
+-1.129  
+-Endava PLC  
+-6  
+-Severn Trent PLC  
+-1  
+-Entain PLC  
+-1  
++767  
++Swedish Orphan Biovitrum AB  
++14  
+ Shaftesbury PLC  
+-10  
+-Experian PLC  
+-74  
+-Smith & Nephew PLC  
+ 15  
+-Farfetch Ltd  
+-22  
++Tele2 AB  
++29  
++Shell PLC  
++151  
++Telefonaktiebolaget LM Ericsson  
++4  
++Smith & Nephew PLC  
++10  
++Telia Co AB  
++70  
+ Smiths Group PLC  
+-45  
+-Ferguson PLC  
+-1.049  
++31  
++Trelleborg AB  
++2  
++Spectris PLC  
++1  
++VEF AB  
++4  
+ Spirax-Sarco Engineering PLC  
+-691  
+-Ferrexpo PLC  
+-5  
+-Spirent Communications PLC  
+-3  
+-Future PLC  
+-6  
++410  
++Volvo AB  
++61  
+ SSE PLC  
+-22  
+-GlaxoSmithKline PLC  
+-105  
++25  
++Volvo Car AB  
++1  
+ SSP Group Plc  
+-284  
+-Grainger PLC  
+-78  
++263  
++Wihlborgs Fastigheter AB  
++7  
+ Standard Chartered PLC  
+-26  
+-Great Portland Estates PLC  
+-23  
+-Tate & Lyle PLC  
+-1  
+-Halma PLC  
+ 1  
++Supermarket Income Reit PLC  
++12  
++**Zwitserland 2.716**  
+ Taylor Wimpey PLC  
+-50  
+-Hammerson PLC  
+-379  
++16  
++ABB Ltd  
++2  
+ Tesco PLC  
+-26  
+-Hays PLC  
+ 1  
++ADC Therapeutics SA  
++3  
+ Tritax Big Box REIT PLC  
+-90  
+-Hikma Pharmaceuticals PLC  
+-8  
++68  
++Alcon Inc  
++4  
+ Tullow Oil PLC  
+ 11  
+-HomeServe PLC  
+-7  
++Baloise Holding AG  
++3  
+ Unilever PLC  
+-109  
+-Howden Joinery Group PLC  
+-11  
++116  
++Chocoladefabriken Lindt & Spruengli AG 50  
+ UNITE Group PLC/The  
+-305  
+-HSBC Holdings PLC  
+-38  
++280  
++Cie Financiere Richemont SA  
++92  
+ United Utilities Group PLC  
+ 1  
+-IG Group Holdings PLC  
+-9  
++Clariant AG  
++15  
+ Virgin Money UK PLC  
+ 3  
+-IMI PLC  
+-5  
++Credit Suisse Group AG  
++1  
+ Vodafone Group PLC  
+-63  
+-Inchcape PLC  
+-2  
++98  
++EMS-Chemie Holding AG  
++27  
+ Wise PLC  
+-36  
+-Informa PLC  
+-381  
++22  
++Geberit AG  
++17  
+ Workspace Group PLC  
+-32  
+-InterContinental Hotels Group PLC  
+-2  
++12  
++Givaudan SA  
++101  
+ WPP PLC  
+-21  
+-Intermediate Capital Group PLC  
+-5  
+-Intertek Group PLC  
+-3  
+-**Zweden 1.574**  
+-JD Sports Fashion PLC  
+-11  
+-AddTech AB  
+ 1  
+-John Wood Group PLC  
+-54  
++Holcim AG  
++22  
++Idorsia Ltd  
++4  
++**Zweden 958**  
++Kuehne + Nagel International AG  
++132  
+ Alfa Laval AB  
+-36  
+-Johnson Matthey PLC  
+-8  
+-Arjo AB  
+-6  
+-Jupiter Fund Management PLC  
+-2  
++15  
++Logitech International SA  
++42  
+ Assa Abloy AB  
+-86  
+-Kingfisher PLC  
+-32  
++45  
++Lonza Group AG  
++107  
+ Atlas Copco AB  
+-57  
+-Land Securities Group PLC  
+-131  
++39  
++Nestle SA  
++590  
+ Axfood AB  
+-10  
+-Legal & General Group PLC  
+-166  
+-BillerudKorsnas AB  
+ 3  
+-Lloyds Banking Group PLC  
+-46  
++Novartis AG  
++283  
+ Boliden AB  
+-24  
+-London Stock Exchange Group PLC  
+-1  
++30  
++Partners Group Holding AG  
++67  
+ Castellum AB  
+-376  
+-LondonMetric Property PLC  
+-96  
+-Cibus Nordic Real Estate AB  
+-2  
+-M&G PLC  
+-5  
++152  
++PolyPeptide Group AG  
++4  
++Corem Property Group AB  
++6  
++PSP Swiss Property AG  
++90  
+ Elekta AB  
+-2  
+-Man Group PLC/Jersey  
+-2  
+-Embracer Group AB  
+-3  
+-Mediclinic International PLC  
+-5  
++1  
++Roche Holding AG  
++416  
+ Epiroc AB  
+-26  
+-Melrose Industries PLC  
+-13  
+-EQT AB  
+-9  
+-Mondi PLC  
+-21  
++16  
++Schindler Holding AG  
++29  
+ Essity AB  
+ 1  
+-National Grid PLC  
+-110  
++SGS SA  
++26  
+ Evolution AB  
+-2  
+-Natwest Group PLC  
+-20  
++1  
++Sika AG  
++53  
+ Fabege AB  
+-96  
+-Next PLC  
+-25  
++56  
++Sonova Holding AG  
++15  
+ Fastighets AB Balder  
+-74  
+-Ocado Group PLC  
++30  
++Straumann Holding AG  
++4  
++Fortnox AB  
+ 1  
++Swatch Group AG/The  
++5  
+ Getinge AB  
+-16  
+-Oxford Biomedica PLC  
+ 5  
+-H & M Hennes & Mauritz AB  
+-2  
+-Pennon Group PLC  
+-3  
+-Hexagon AB  
+-13  
+-Persimmon PLC  
+-7  
+-Hufvudstaden AB  
+-32  
+-Phoenix Group Holdings PLC  
+-1  
+-Husqvarna AB  
+-6  
+-Primary Health Properties PLC  
+-61  
+-Industrivarden AB  
+-6  
+-Beursgenoteerde beleggingen van ABP  
+-**17**  
+-per 31 december 2021  
+-
+-* * *
+-
+-Land Omschrijving  
+-Totaal  
+-Land Omschrijving  
+-Totaal  
+-Intrum AB  
+-3  
+-Straumann Holding AG  
+-25  
+-Investment AB Latour  
++Swiss Life Holding AG  
+ 1  
+-Swatch Group AG/The  
++H & M Hennes & Mauritz AB  
+ 2  
+-Investor AB  
+-63  
+-Swiss Life Holding AG  
+-30  
+-Kindred Group PLC  
+-4  
+ Swiss Prime Site AG  
+-143  
+-Kinnevik AB  
++136  
++Hexagon AB  
+ 4  
+ Swiss Re AG  
+-27  
+-L E Lundbergforetagen AB  
+ 1  
++Holmen AB  
++2  
+ Swisscom AG  
+-87  
+-Lifco AB  
+-4  
++80  
++Hufvudstaden AB  
++24  
+ Tecan Group AG  
+-436  
+-Lundin Energy AB  
+-58  
+-UBS Group AG  
+-43  
+-MIPS AB  
++209  
++Intrum AB  
+ 1  
++UBS Group AG  
++36  
++Investor AB  
++23  
+ VAT Group AG  
+-6  
+-Nibe Industrier AB  
+-21  
+-Vetropack Holding AG  
++2  
++L E Lundbergforetagen AB  
++1  
++Vifor Pharma AG  
++1  
++Loomis AB  
+ 1  
+-Nobina AB  
+-5  
+ Wizz Air Holdings Plc  
+-12  
++2  
++Nibe Industrier AB  
++15  
++Zurich Insurance Group AG  
++43  
+ Nordea Bank Abp  
+-138  
+-Zehnder Group AG  
+-1  
++73  
++Nyfosa AB  
++7  
++**Noord-Amerika 77.716**  
+ Pandox AB  
+-20  
+-Zurich Insurance Group AG  
+-5  
++14  
++**Canada 2.253**  
+ Saab AB  
+-3  
+-Sagax AB  
+-22  
+-**Noord-Amerika 111.036**  
+-Samhallsbyggnadsbolaget i Norden AB  
+-4  
+-**Canada 3.544**  
+-Sandvik AB  
+-19  
++26  
+ Agnico Eagle Mines Ltd  
+-88  
+-Securitas AB  
+-8  
++84  
++Sagax AB  
++24  
+ Air Canada  
+-49  
+-Skandinaviska Enskilda Banken AB  
+-7  
++32  
++Samhallsbyggnadsbolaget i Norden AB  
++11  
++Beursgenoteerde beleggingen van ABP  
++**16**  
++per 30 juni 2022  
++
++* * *
++
++Land Omschrijving  
++Totaal  
++Land Omschrijving  
++Totaal  
+ Algonquin Power & Utilities Corp  
+-14  
+-Skanska AB  
+-5  
++2  
++Metro Inc/CN  
++4  
+ Alimentation Couche-Tard Inc  
+-70  
+-SSAB AB  
+-3  
+-Allied Properties Real Estate Investment Trust 47  
+-Svenska Cellulosa AB SCA  
+-8  
++66  
++National Bank of Canada  
++102  
++Allied Properties Real Estate Investment Trust 24  
++Northland Power Inc  
++12  
+ AltaGas Ltd  
+-13  
+-Svenska Handelsbanken AB  
+-124  
++4  
++Nutrien Ltd  
++68  
+ Altus Group Ltd/Canada  
+-14  
+-Swedbank AB  
+-35  
++25  
++Nuvei Corp  
++3  
+ ARC Resources Ltd  
+-11  
+-Tele2 AB  
+-9  
++1  
++NuVista Energy Ltd  
++2  
+ Aritzia Inc  
+-7  
+-Telefonaktiebolaget LM Ericsson  
+-29  
+-Artis Real Estate Investment Trust  
++1  
++Onex Corp  
+ 2  
+-Telia Co AB  
+-7  
++Artis Real Estate Investment Trust  
++1  
++Open Text Corp  
++1  
+ Atco Ltd/Canada  
+ 2  
+-Thule Group AB  
+-1  
+-B2Gold Corp  
+-16  
+-Trelleborg AB  
+-5  
+-Ballard Power Systems Inc  
+-3  
+-Vitrolife AB  
++Ovintiv Inc  
+ 3  
++B2Gold Corp  
++10  
++Parex Resources Inc  
++24  
+ Bank Of Montreal  
+-56  
+-Volvo AB  
+-59  
++19  
++Parkland Corp  
++3  
+ Bank of Nova Scotia/The  
+-40  
+-Wihlborgs Fastigheter AB  
+-11  
++24  
++Pason Systems Inc  
++1  
+ Barrick Gold Corp  
+ 44  
++Pembina Pipeline Corp  
++37  
+ Bausch Health Cos Inc  
+-2  
+-**Zwitserland 3.880**  
++3  
++Ritchie Bros Auctioneers Inc  
++3  
+ BCE Inc  
+-85  
+-ABB Ltd  
+-80  
++83  
++Rogers Communications Inc  
++2  
+ Bombardier Inc  
+ 1  
+-ADC Therapeutics SA  
+-6  
++Royal Bank of Canada  
++24  
+ Brookfield Asset Management Inc  
+-242  
+-Adecco Group AG  
+-15  
+-Brookfield Renewable Corp  
+-12  
+-Alcon Inc  
+-2  
+-Brookfield Renewable Partners LP  
+-22  
+-Barry Callebaut AG  
+-1  
+-BRP Inc  
+-5  
+-Chocoladefabriken Lindt & Spruengli AG 84  
+-Canaccord Genuity Group Inc  
+-2  
+-Cie Financiere Richemont SA  
+-172  
+-Canada Goose Holdings Inc  
++156  
++Russel Metals Inc  
+ 1  
+-Clariant AG  
+-13  
+-Canadian Apartment Properties REIT  
++Brookfield Renewable Partners LP  
++23  
++Secure Energy Services Inc  
+ 1  
+-Credit Suisse Group AG  
+-6  
+ Canadian Imperial Bank of Commerce  
+-15  
+-EMS-Chemie Holding AG  
+-40  
++7  
++Shopify Inc  
++18  
+ Canadian National Railway Co  
+-92  
+-Galenica AG  
+-3  
++81  
++Sienna Senior Living Inc  
++1  
+ Canadian Pacific Railway Ltd  
+-79  
+-Geberit AG  
+-32  
++34  
++Spin Master Corp  
++2  
+ Canadian Tire Corp Ltd  
+-13  
+-Givaudan SA  
+-193  
++49  
++Stantec Inc  
++3  
+ Canadian Utilities Ltd  
++3  
++Summit Industrial Income REIT  
++36  
++Celestica Inc  
+ 1  
+-Holcim Ltd  
+-7  
+-Canadian Western Bank  
+-21  
+-Idorsia Ltd  
+-6  
+-Capstone Mining Corp  
++Sun Life Financial Inc  
+ 1  
+-Kuehne + Nagel International AG  
+-173  
+-CCL Industries Inc  
+-4  
+-Logitech International SA  
+-73  
+-Celestica Inc  
++Cenovus Energy Inc  
+ 1  
+-Lonza Group AG  
+-97  
++Teck Resources Ltd  
++19  
+ CGI Inc  
+-3  
+-Nestle SA  
+-769  
++8  
++TELUS Corp  
++37  
+ CI Financial Corp  
+-18  
+-Novartis AG  
+-212  
++1  
++TFI International Inc  
++1  
+ Constellation Software Inc/Canada  
+-47  
+-Partners Group Holding AG  
+-175  
++24  
++Thomson Reuters Corp  
++2  
+ Corus Entertainment Inc  
++1  
++TMX Group Ltd  
+ 5  
+-PolyPeptide Group AG  
+-10  
+ Crescent Point Energy Corp  
+-26  
+-PSP Swiss Property AG  
+-101  
+-Dollarama Inc  
+-29  
+-Roche Holding AG  
+-563  
+-Dream Industrial Real Estate Investment Trust 69  
+-Schindler Holding AG  
+-40  
+-Dream Office Real Estate Investment Trust 1  
+-SGS SA  
+-52  
+-Empire Co Ltd  
+-38  
+-Sika AG  
+-119  
+-Endeavour Mining PLC  
+-14  
+-Sonova Holding AG  
+-17  
+-Fairfax Financial Holdings Ltd  
+ 18  
+-Beursgenoteerde beleggingen van ABP  
+-**18**  
+-per 31 december 2021  
+-
+-* * *
+-
+-Land Omschrijving  
+-Totaal  
+-Land Omschrijving  
+-Totaal  
+-Finning International Inc  
+-21  
++Torex Gold Resources Inc  
++2  
++Dollarama Inc  
++32  
+ Toromont Industries Ltd  
+-10  
+-First Capital Real Estate Investment Trust  
+-7  
++2  
++Dream Industrial Real Estate Investment Trust 48  
+ Toronto Dominion Bank  
+-313  
+-First Quantum Minerals Ltd  
++217  
++Element Fleet Management Corp  
+ 1  
+ Tourmaline Oil Corp  
+-84  
+-FirstService Corp  
+-59  
+-TransAlta Corp  
+-1  
+-Fortis Inc/Canada  
+-1  
+-Trisura Group Ltd  
++26  
++Emera Inc  
+ 4  
+-Franco-Nevada Corp  
+-175  
+-Vermilion Energy Inc  
+-5  
+-George Weston Ltd  
+-2  
+ West Fraser Timber Co Ltd  
+-4  
+-GFL Environmental Inc  
+-3  
++2  
++Empire Co Ltd  
++32  
+ Wheaton Precious Metals Corp  
+-156  
+-Gildan Activewear Inc  
+-52  
++110  
++Endeavour Mining PLC  
++15  
+ WSP Global Inc  
+-4  
+-Granite Real Estate Investment Trust  
+-9  
+-Yamana Gold Inc  
+ 1  
+-Great-West Lifeco Inc  
+-15  
+-H&R Real Estate Investment Trust  
+-13  
+-**Mexico 913**  
+-Hydro One Ltd  
+-30  
++Enerflex Ltd  
++1  
++Enerplus Corp  
++6  
++**Mexico 852**  
++Fairfax Financial Holdings Ltd  
++23  
+ Alfa SAB de CV  
+ 1  
+-iA Financial Corp Inc  
+-9  
++Finning International Inc  
++12  
++Alsea SAB de CV  
++8  
++First Capital Real Estate Investment Trust  
++6  
+ America Movil SAB de CV  
+-61  
+-IGM Financial Inc  
+-5  
++35  
++First Quantum Minerals Ltd  
++1  
+ Arca Continental SAB de CV  
+-38  
+-Intact Financial Corp  
+-10  
++48  
++FirstService Corp  
++42  
++Banco del Bajio SA  
++3  
++Fortis Inc/Canada  
++8  
+ Bolsa Mexicana de Valores SAB de CV  
+ 27  
+-InterRent Real Estate Investment Trust  
+-60  
++Franco-Nevada Corp  
++159  
+ Cemex SAB de CV  
+-70  
+-Killam Apartment Real Estate Investment Trust 29  
++67  
++George Weston Ltd  
++3  
+ Coca-Cola Femsa SAB de CV  
++20  
++Gibson Energy Inc  
++1  
++Controladora Vuela Cia de Aviacion SAB de CV 3  
++Gildan Activewear Inc  
+ 16  
+-Kinross Gold Corp  
+-25  
+ Corp Inmobiliaria Vesta SAB de CV  
+-14  
+-Kirkland Lake Gold Ltd  
+-29  
++13  
++Great-West Lifeco Inc  
++11  
+ Fibra Uno Administracion SA de CV  
+-34  
+-Lightspeed Commerce Inc  
+-34  
+-Fomento Economico Mexicano SAB de CV 84  
+-Linamar Corp  
+-2  
++32  
++H&R Real Estate Investment Trust  
++9  
++Fomento Economico Mexicano SAB de CV 64  
++Hydro One Ltd  
++41  
+ GCC SAB de CV  
+-10  
+-Loblaw Cos Ltd  
+-54  
++12  
++IGM Financial Inc  
++2  
+ Gruma SAB de CV  
+ 3  
+-Lundin Mining Corp  
+-12  
+-Grupo Aeroportuario del Centro Norte SAB de CV 32  
+-Magna International Inc  
+-46  
+-Grupo Aeroportuario del Pacifico SAB de CV 31  
+-Manulife Financial Corp  
+-84  
+-Grupo Aeroportuario del Sureste SAB de CV 24  
+-Medical Facilities Corp  
++Intact Financial Corp  
+ 1  
++Grupo Aeroportuario del Centro Norte SAB de CV 32  
++InterRent Real Estate Investment Trust  
++48  
++Grupo Aeroportuario del Pacifico SAB de CV 38  
++Killam Apartment Real Estate Investment Trust 26  
++Grupo Aeroportuario del Sureste SAB de CV 27  
++Kinross Gold Corp  
++11  
+ Grupo Bimbo SAB de CV  
+-16  
+-Metro Inc/CN  
+-2  
++18  
++Lightspeed Commerce Inc  
++8  
+ Grupo Financiero Banorte SAB de CV  
+-177  
+-Minto Apartment Real Estate Investment Trust 1  
+-Grupo Herdez SAB de CV  
+-1  
+-National Bank of Canada  
+-114  
++144  
++Linamar Corp  
++2  
+ Grupo Mexico SAB de CV  
+-101  
+-NexGen Energy Ltd  
+-1  
++106  
++Loblaw Cos Ltd  
++51  
+ Industrias Bachoco SAB de CV  
+-10  
+-Northland Power Inc  
+-1  
++9  
++Lundin Mining Corp  
++8  
++Industrias Penoles SAB de CV  
++2  
++Manulife Financial Corp  
++19  
+ Kimberly-Clark de Mexico SAB de CV  
+-12  
+-Nutrien Ltd  
+-105  
+-Megacable Holdings SAB de CV  
++3  
++Medical Facilities Corp  
+ 1  
+-Nuvei Corp  
+-2  
+ Nemak SAB de CV  
+-4  
+-Onex Corp  
+-5  
+-Orbia Advance Corp SAB de CV  
+ 3  
+-Open Text Corp  
+-42  
++Beursgenoteerde beleggingen van ABP  
++**17**  
++per 30 juni 2022  
++
++* * *
++
++Land Omschrijving  
++Totaal  
++Land Omschrijving  
++Totaal  
++Orbia Advance Corp SAB de CV  
++8  
++AMERCO 18  
+ Prologis Property Mexico SA de CV  
+-2  
+-Ovintiv Inc  
+-17  
+-Promotora y Operadora de Infraestructura  
+-Parex Resources Inc  
+-20  
+-SAB de CV  
+ 5  
+-Pembina Pipeline Corp  
+-1  
+-Qualitas Controladora SAB de CV  
+-1  
+-Power Corp of Canada  
+-1  
++Ameren Corp  
++50  
+ Regional SAB de CV  
+-10  
+-PrairieSky Royalty Ltd  
+ 8  
+-Wal-Mart de Mexico SAB de CV  
+-124  
+-Real Matters Inc  
+-1  
+-Restaurant Brands International Inc  
+-1  
+-**Panama 42**  
+-Richelieu Hardware Ltd  
+-1  
+-Copa Holdings SA  
+-42  
+-RioCan Real Estate Investment Trust  
++American Axle & Manufacturing Holdings Inc  
+ 1  
+-Ritchie Bros Auctioneers Inc  
++Vista Energy SAB de CV  
+ 2  
++American Campus Communities Inc  
++99  
++Wal-Mart de Mexico SAB de CV  
++113  
++American Electric Power Co Inc  
++113  
++**Panama 37**  
++American Equity Investment Life Holding Co 18  
++Copa Holdings SA  
++37  
++American Express Co  
++79  
+ **Verenigde Staten **  
+-**106.536**  
+-Rogers Communications Inc  
+-1  
+-10X Genomics Inc  
+-2  
+-Royal Bank of Canada  
+-81  
++**74.574**  
++American Financial Group Inc/OH  
++4  
+ 3M Co  
+-76  
+-Russel Metals Inc  
+-6  
+-4D Molecular Therapeutics Inc  
++15  
++American Homes 4 Rent  
+ 5  
+-Shopify Inc  
+-230  
++4D Molecular Therapeutics Inc  
++1  
++American International Group Inc  
++50  
+ A O Smith Corp  
+-56  
+-SmartCentres Real Estate Investment Trust 1  
++20  
++American Tower Corp  
++227  
+ A10 Networks Inc  
+-4  
+-Spin Master Corp  
+ 1  
++American Water Works Co Inc  
++47  
+ Abbott Laboratories  
+-301  
+-Stantec Inc  
+-20  
++252  
++Americold Realty Trust Inc  
++533  
+ AbbVie Inc  
+-286  
+-Summit Industrial Income REIT  
+-50  
++236  
++Ameriprise Financial Inc  
++6  
+ ABIOMED Inc  
+-20  
+-Sun Life Financial Inc  
+-4  
++8  
++AMERISAFE Inc  
++23  
+ Academy Sports & Outdoors Inc  
+-1  
+-Superior Plus Corp  
+-5  
++12  
++AmerisourceBergen Corp  
++92  
+ Acadia Healthcare Co Inc  
+-13  
+-Teck Resources Ltd  
++12  
++AMETEK Inc  
+ 18  
+ ACADIA Pharmaceuticals Inc  
+-6  
+-TELUS Corp  
+-35  
++1  
++Amgen Inc  
++166  
+ Accenture PLC  
+-504  
+-TFI International Inc  
+-9  
++337  
++Amicus Therapeutics Inc  
++20  
+ Accolade Inc  
+-10  
+-Thomson Reuters Corp  
+-26  
+-ACI Worldwide Inc  
++5  
++Amkor Technology Inc  
+ 1  
+-TMX Group Ltd  
+-16  
+ Activision Blizzard Inc  
+-188  
+-Torex Gold Resources Inc  
+-5  
+-Acumen Pharmaceuticals Inc  
+-2  
+-Beursgenoteerde beleggingen van ABP  
+-**19**  
+-per 31 december 2021  
+-
+-* * *
+-
+-Land Omschrijving  
+-Totaal  
+-Land Omschrijving  
+-Totaal  
+-Acushnet Holdings Corp  
++128  
++AMN Healthcare Services Inc  
++17  
++AdaptHealth Corp  
++3  
++Amphastar Pharmaceuticals Inc  
++1  
++Adient PLC  
+ 1  
+ Amphenol Corp  
+-57  
++48  
+ Adobe Inc  
+-735  
++155  
+ Analog Devices Inc  
+-145  
++68  
+ Advance Auto Parts Inc  
+-47  
++35  
+ Annaly Capital Management Inc  
+-21  
++42  
+ Advanced Micro Devices Inc  
+-357  
++121  
+ ANSYS Inc  
+-61  
+-AECOM 1  
++51  
++AECOM 3  
+ Antero Midstream Corp  
+-1  
++6  
+ AES Corp/The  
+-2  
++5  
+ Antero Resources Corp  
+ 1  
+-Affiliated Managers Group Inc  
+-7  
+-Anthem Inc  
+-236  
+ Aflac Inc  
+-151  
++106  
+ Aon PLC  
+-173  
++109  
+ Agilent Technologies Inc  
+-153  
++125  
+ APA Corp  
+-1  
++10  
+ agilon health Inc  
+-14  
++6  
++Apellis Pharmaceuticals Inc  
++5  
++Agios Pharmaceuticals Inc  
++6  
+ Apple Hospitality REIT Inc  
+ 1  
+-Agios Pharmaceuticals Inc  
+-8  
+-Apple Inc  
+-4.416  
+ AGNC Investment Corp  
+-16  
+-Applied Industrial Technologies Inc  
+-1  
++11  
++Apple Inc  
++2.754  
+ Agree Realty Corp  
+-43  
++39  
+ Applied Materials Inc  
+-150  
++83  
+ Air Products and Chemicals Inc  
+-140  
++85  
+ AppLovin Corp  
+-10  
++3  
+ Airbnb Inc  
+-62  
++12  
+ Aptiv PLC  
+-141  
++61  
+ Akamai Technologies Inc  
+-93  
+-Aramark 1  
++48  
++Aramark 2  
+ Akero Therapeutics Inc  
+-8  
+-Arch Capital Group Ltd  
+-61  
++3  
++ArcBest Corp  
++9  
++Alaska Air Group Inc  
++1  
++Arcellx Inc  
++5  
+ Albemarle Corp  
+-89  
+-Arena Pharmaceuticals Inc  
+-19  
++88  
++Arch Capital Group Ltd  
++50  
++Albertsons Cos Inc  
++4  
++Archer-Daniels-Midland Co  
++15  
+ Alcoa Corp  
+-7  
+-Ares Management Corp  
+-2  
+-Alector Inc  
+-3  
++1  
+ Arista Networks Inc  
+-152  
+-Alexandria Real Estate Equities Inc  
+-1.202  
++81  
++Alector Inc  
++1  
+ Arrow Electronics Inc  
+-6  
+-Align Technology Inc  
+-181  
++25  
++Alexandria Real Estate Equities Inc  
++921  
+ Arrowhead Pharmaceuticals Inc  
+-9  
+-Aligos Therapeutics Inc  
+-3  
++5  
++Align Technology Inc  
++22  
+ Arthur J Gallagher & Co  
+-132  
++126  
+ Alkermes PLC  
++2  
++Arvinas Inc  
++6  
++Alleghany Corp  
+ 1  
+-Artisan Partners Asset Management Inc  
++Asbury Automotive Group Inc  
+ 1  
+-Alleghany Corp  
+-18  
+-Arvinas Inc  
+-13  
+ Allegion plc  
+-574  
+-Asbury Automotive Group Inc  
+-3  
+-AllianceBernstein Holding LP  
+-8  
+-Assurant Inc  
+-17  
++458  
++Aspen Technology Inc  
++4  
+ Alliant Energy Corp  
+-18  
+-Assured Guaranty Ltd  
+-2  
+-Allison Transmission Holdings Inc  
+-3  
+-AT&T Inc  
+-247  
++27  
++Assurant Inc  
++33  
+ Allogene Therapeutics Inc  
+ 3  
+-Atara Biotherapeutics Inc  
+-10  
+-Allscripts Healthcare Solutions Inc  
+-2  
+-Athene Holding Ltd  
++Assured Guaranty Ltd  
+ 1  
+ Allstate Corp/The  
+-62  
+-Atkore Inc  
+-10  
++94  
++AT&T Inc  
++69  
+ Ally Financial Inc  
+-98  
+-Atmos Energy Corp  
+-36  
++32  
++Atara Biotherapeutics Inc  
++6  
+ Alnylam Pharmaceuticals Inc  
+-40  
+-Autodesk Inc  
+-98  
++27  
++Atkore Inc  
++3  
++Alpha Metallurgical Resources Inc  
++1  
++Atlantic Union Bankshares Corp  
++2  
+ Alphabet Inc  
+-3.465  
+-Automatic Data Processing Inc  
+-104  
++1.794  
++Atlas Air Worldwide Holdings Inc  
++1  
+ Altice USA Inc  
+-31  
++14  
++Atmos Energy Corp  
++34  
++Amazon.com Inc  
++1.310  
++Autodesk Inc  
++13  
++Ambac Financial Group Inc  
++1  
++Automatic Data Processing Inc  
++175  
++Ambarella Inc  
++11  
+ AutoZone Inc  
+-157  
+-ALX Oncology Holdings Inc  
+-2  
++200  
++AMC Entertainment Holdings Inc  
++1  
+ Avalara Inc  
+-66  
+-Amazon.com Inc  
+-2.748  
++36  
++Amcor PLC  
++89  
+ AvalonBay Communities Inc  
+-15  
+-Ambarella Inc  
+-22  
++98  
++Amedisys Inc  
++12  
+ Avanos Medical Inc  
+ 1  
+-AMC Entertainment Holdings Inc  
+-2  
++Beursgenoteerde beleggingen van ABP  
++**18**  
++per 30 juni 2022  
++
++* * *
++
++Land Omschrijving  
++Totaal  
++Land Omschrijving  
++Totaal  
+ Avantor Inc  
+-25  
+-Amcor PLC  
+-59  
++11  
++Cargurus Inc  
++7  
+ Avery Dennison Corp  
+-51  
+-Amedisys Inc  
+-18  
++47  
++Carlyle Group Inc/The  
++2  
+ Avis Budget Group Inc  
+-5  
+-AMERCO 27  
+-Avrobio Inc  
+ 1  
+-Ameren Corp  
+-41  
+-Axis Capital Holdings Ltd  
++Carnival Corp  
++3  
++Avista Corp  
+ 2  
+-American Campus Communities Inc  
+-81  
+-Axon Enterprise Inc  
+-12  
+-American Electric Power Co Inc  
+-89  
+-Baker Hughes Co  
++Carrier Global Corp  
++53  
++Axcelis Technologies Inc  
+ 1  
+-American Equity Investment Life Holding Co 26  
++Casey’s General Stores Inc  
++7  
++Axis Capital Holdings Ltd  
++13  
++Catalent Inc  
++24  
++Baker Hughes Co  
++22  
++Caterpillar Inc  
++122  
+ Balchem Corp  
+-357  
+-American Express Co  
+-112  
++302  
++CBIZ Inc  
++5  
+ Ball Corp  
+-63  
+-American Financial Group Inc/OH  
+-1  
++47  
++Cboe Global Markets Inc  
++113  
+ Bank of America Corp  
+-514  
+-American Homes 4 Rent  
+-74  
+-Bank OZK  
+-1  
+-American International Group Inc  
+-9  
+-BankUnited Inc  
++468  
++CBRE Group Inc  
++12  
++Barnes Group Inc  
+ 1  
+-American Tower Corp  
+-316  
+-Bath & Body Works Inc  
+-9  
+-American Water Works Co Inc  
+-78  
++CDW Corp/DE  
++57  
+ Baxter International Inc  
+-93  
+-Americold Realty Trust  
+-565  
+-Beacon Roofing Supply Inc  
+-1  
+-Ameriprise Financial Inc  
+-6  
++64  
++Celanese Corp  
++15  
+ Becton Dickinson and Co  
+-88  
+-AMERISAFE Inc  
+-22  
+-Berkshire Hathaway Inc  
+-616  
+-AmerisourceBergen Corp  
+-69  
+-Best Buy Co Inc  
+-49  
+-AMETEK Inc  
+-31  
+-BGC Partners Inc  
++101  
++Centene Corp  
++144  
++Belden Inc  
+ 1  
+-Amgen Inc  
+-173  
+-Big Lots Inc  
++CenterPoint Energy Inc  
++28  
++Berkshire Hathaway Inc  
++481  
++Centessa Pharmaceuticals PLC  
+ 1  
+-Amicus Therapeutics Inc  
++Best Buy Co Inc  
+ 36  
+-BigCommerce Holdings Inc  
+-3  
+-Amkor Technology Inc  
++Ceridian HCM Holding Inc  
++12  
++BGC Partners Inc  
+ 1  
+-Bill.com Holdings Inc  
++CF Industries Holdings Inc  
+ 41  
+-AMN Healthcare Services Inc  
+-4  
+-BioAtla Inc  
+-4  
+-Beursgenoteerde beleggingen van ABP  
+-**20**  
+-per 31 december 2021  
+-
+-* * *
+-
+-Land Omschrijving  
+-Totaal  
+-Land Omschrijving  
+-Totaal  
+-BioCryst Pharmaceuticals Inc  
+-24  
+-Centene Corp  
+-167  
++Bill.com Holdings Inc  
++21  
++CH Robinson Worldwide Inc  
++45  
+ Biogen Inc  
+-110  
+-CenterPoint Energy Inc  
+-22  
+-Biohaven Pharmaceutical Holding Co Ltd 30  
+-Centessa Pharmaceuticals PLC  
++127  
++Charles River Laboratories International Inc 9  
++Biohaven Pharmaceutical Holding Co Ltd  
+ 3  
++Charles Schwab Corp/The  
++238  
+ BioMarin Pharmaceutical Inc  
+-51  
+-Century Communities Inc  
+-4  
++101  
++Charter Communications Inc  
++118  
+ Biomea Fusion Inc  
+ 3  
+-Ceridian HCM Holding Inc  
+-62  
++Chegg Inc  
++2  
+ Bio-Rad Laboratories Inc  
+-68  
+-Cerner Corp  
+-22  
++4  
++ChemoCentryx Inc  
++14  
+ Bio-Techne Corp  
+-13  
+-CF Industries Holdings Inc  
+-28  
++8  
++Chemours Co/The  
++1  
+ BJ’s Wholesale Club Holdings Inc  
+-9  
+-CH Robinson Worldwide Inc  
+-58  
++6  
++Cheniere Energy Inc  
++86  
++Black Hills Corp  
++1  
++Chewy Inc  
++2  
+ Black Knight Inc  
+-94  
+-Charles River Laboratories International Inc 12  
++41  
++Chipotle Mexican Grill Inc  
++9  
+ BlackRock Inc  
+-256  
+-Charles Schwab Corp/The  
+-348  
++166  
++Chord Energy Corp  
++16  
+ Blackstone Inc  
+-281  
+-Charter Communications Inc  
+-222  
+-Blackstone Mortgage Trust Inc  
+-3  
+-Chegg Inc  
+-14  
+-Block Inc  
++217  
++Chubb Ltd  
+ 60  
+-Cheniere Energy Inc  
+-61  
++Block Inc  
++28  
++Church & Dwight Co Inc  
++55  
+ Blueprint Medicines Corp  
+-29  
+-Chesapeake Energy Corp  
+-2  
+-Boise Cascade Co  
+ 8  
+-Chimera Investment Corp  
+-1  
++Ciena Corp  
++9  
++Boise Cascade Co  
++10  
++Cigna Corp  
++129  
+ Booking Holdings Inc  
+-203  
+-Chipotle Mexican Grill Inc  
+-12  
++118  
++Cincinnati Financial Corp  
++72  
+ Booz Allen Hamilton Holding Corp  
+-100  
+-Chubb Ltd  
+-51  
++88  
++Cintas Corp  
++43  
+ BorgWarner Inc  
+-1  
+-Church & Dwight Co Inc  
+-59  
+-Boston Beer Co Inc/The  
+-1  
+-Churchill Downs Inc  
+-6  
++18  
++Cisco Systems Inc  
++179  
+ Boston Properties Inc  
+-734  
+-Ciena Corp  
+-5  
++616  
++Citigroup Inc  
++32  
+ Boston Scientific Corp  
+-185  
+-Cigna Corp  
+-167  
++133  
++Citizens Financial Group Inc  
++70  
+ Box Inc  
+ 13  
+-Cincinnati Financial Corp  
+-52  
+-Brady Corp  
+-1  
+-Cintas Corp  
+-62  
++Citrix Systems Inc  
++72  
+ Braze Inc  
++1  
++Clean Harbors Inc  
+ 2  
+-Cirrus Logic Inc  
+-9  
+-Brighthouse Financial Inc  
+-12  
+-Cisco Systems Inc/Delaware  
+-300  
+-Bristol-Myers Squibb Co  
+-356  
+-Citigroup Inc  
+-98  
+-Brixmor Property Group Inc  
+-2  
+-Citizens Financial Group Inc  
+-82  
+-Broadcom Inc  
+-206  
+-Citrix Systems Inc  
+-58  
+-Broadridge Financial Solutions Inc  
+-562  
+-Clarivate PLC  
+-32  
+-Brown & Brown Inc  
+-216  
++Bread Financial Holdings Inc  
++1  
+ Clear Channel Outdoor Holdings Inc  
+-3  
+-Brown-Forman Corp  
+-92  
+-Clear Secure Inc  
+ 1  
+-Bruker Corp  
+-26  
++Brighthouse Financial Inc  
++1  
+ Clearway Energy Inc  
++2  
++Brinker International Inc  
+ 1  
+-Buckle Inc/The  
++Cleveland-Cliffs Inc  
+ 1  
++Bristol-Myers Squibb Co  
++378  
+ Clorox Co/The  
+-56  
+-Builders FirstSource Inc  
+-31  
++47  
++Broadcom Inc  
++179  
+ Cloudflare Inc  
+-8  
+-Bunge Ltd  
+-1  
+-Clover Health Investments Corp  
+ 1  
+-Burlington Stores Inc  
+-5  
++Broadridge Financial Solutions Inc  
++483  
+ CME Group Inc  
+-257  
+-C4 Therapeutics Inc  
+-4  
++204  
++Brown & Brown Inc  
++147  
+ CMS Energy Corp  
+-96  
+-Cable One Inc  
+-1  
+-CNA Financial Corp  
+-7  
+-Cadence Design Systems Inc  
+-282  
++66  
++Brown-Forman Corp  
++90  
+ CNO Financial Group Inc  
+-1  
+-Caesars Entertainment Inc  
+-1  
+-CNX Resources Corp  
++6  
++Bruker Corp  
+ 2  
+-California Water Service Group  
+-1  
+ Coca-Cola Co/The  
+-397  
+-Camden Property Trust  
+-5  
++316  
++Builders FirstSource Inc  
++15  
+ Coca-Cola Consolidated Inc  
+-10  
+-Campbell Soup Co  
+-38  
++8  
++Bunge Ltd  
++2  
+ Coca-Cola Europacific Partners PLC  
+-22  
+-Cannae Holdings Inc  
+-9  
+-Cogent Biosciences Inc  
+-5  
+-Cano Health Inc  
+-20  
+-Cognex Corp  
++3  
++C4 Therapeutics Inc  
+ 1  
+-Capital One Financial Corp  
+-332  
++Cogent Biosciences Inc  
++4  
++Cadence Design Systems Inc  
++216  
+ Cognizant Technology Solutions Corp  
+-135  
+-Cardiff Oncology Inc  
++86  
++Caesars Entertainment Inc  
+ 2  
+ Coherus Biosciences Inc  
+-7  
+-Cardinal Health Inc  
+-55  
+-Coinbase Global Inc  
+-12  
+-Cardlytics Inc  
+-11  
+-Collegium Pharmaceutical Inc  
+-6  
+-CareMax Inc  
++3  
++California Resources Corp  
++2  
++Colgate-Palmolive Co  
++62  
++California Water Service Group  
+ 1  
+-Columbia Sportswear Co  
+-8  
+-Cargurus Inc  
+-5  
++Collegium Pharmaceutical Inc  
++4  
++Callon Petroleum Co  
++2  
+ Comcast Corp  
+-352  
+-Carlyle Group Inc/The  
+-11  
++285  
++Camden Property Trust  
++33  
++CommScope Holding Co Inc  
++10  
++Campbell Soup Co  
++39  
+ Community Health Systems Inc  
+-5  
+-CarMax Inc  
+ 1  
++Cano Health Inc  
++8  
+ CommVault Systems Inc  
++3  
++Capital One Financial Corp  
++196  
++Compass Minerals International Inc  
++1  
++Cardinal Health Inc  
+ 2  
+-Carnival Corp  
+-11  
+ Conagra Brands Inc  
+ 1  
+-Carrier Global Corp  
+-46  
+-Concentrix Corp  
+-1  
+-Carvana Co  
+-6  
++CareMax Inc  
++2  
+ Conduent Inc  
+-1  
+-Catalent Inc  
+-32  
+-Confluent Inc  
+-16  
+-Caterpillar Inc  
+-191  
+-ConocoPhillips 182  
+-Cboe Global Markets Inc  
+-123  
+-Consolidated Edison Inc  
+-198  
+-CBRE Group Inc  
+-82  
+-Constellation Brands Inc  
+-13  
+-CDW Corp/DE  
+-49  
+-Continental Resources Inc/OK  
+-1  
+-Celanese Corp  
+-66  
+-Cooper Cos Inc/The  
+-89  
++2  
+ Beursgenoteerde beleggingen van ABP  
+-**21**  
+-per 31 december 2021  
++**19**  
++per 30 juni 2022  
+ 
+ * * *
+ 
+@@ -5068,255 +4613,254 @@
+ Totaal  
+ Land Omschrijving  
+ Totaal  
+-Copart Inc  
+-7  
++Confluent Inc  
++4  
++DTE Energy Co  
++46  
++ConocoPhillips 177  
+ Duke Energy Corp  
++216  
++Consolidated Edison Inc  
+ 185  
+-CoreCivic Inc  
+-1  
+ Duke Realty Corp  
+-4  
+-Corning Inc  
+-3  
++60  
++Constellation Brands Inc  
++8  
+ DuPont de Nemours Inc  
+-71  
+-Corporate Office Properties Trust  
+-3  
++51  
++Constellation Energy Corp  
++34  
++DXC Technology Co  
++4  
++Cooper Cos Inc/The  
++36  
+ Dynatrace Inc  
+-72  
+-Corteva Inc  
+-42  
++38  
++Copart Inc  
++15  
+ Dyne Therapeutics Inc  
++1  
++Corcept Therapeutics Inc  
+ 3  
+-CorVel Corp  
+-4  
++Earthstone Energy Inc  
++1  
++CoreCivic Inc  
++1  
+ East West Bancorp Inc  
+-4  
+-CoStar Group Inc  
+-140  
++2  
++Corning Inc  
++3  
+ Eastman Chemical Co  
+-60  
+-Costco Wholesale Corp  
+-550  
++50  
++Corteva Inc  
++28  
+ Eaton Corp PLC  
+-58  
+-Coterra Energy Inc  
+ 33  
++CorVel Corp  
++3  
+ eBay Inc  
+-22  
+-Coupa Software Inc  
+-42  
+-EchoStar Corp  
+-4  
+-Cousins Properties Inc  
+-115  
++31  
++CoStar Group Inc  
++83  
+ Ecolab Inc  
+-51  
+-Cowen Inc  
+-2  
++28  
++Costco Wholesale Corp  
++352  
+ Edgewell Personal Care Co  
+-55  
+-Credit Acceptance Corp  
+-6  
++37  
++Coterra Energy Inc  
++28  
+ Edgewise Therapeutics Inc  
+-2  
+-Crocs Inc  
+ 1  
++Coupa Software Inc  
++8  
+ Edison International  
+-58  
+-Crowdstrike Holdings Inc  
+-72  
++41  
++Cousins Properties Inc  
++214  
+ Edwards Lifesciences Corp  
+-143  
+-Crown Castle International Corp  
+-105  
++107  
++Credit Acceptance Corp  
++3  
+ Elanco Animal Health Inc  
+-23  
+-Crown Holdings Inc  
+-75  
++14  
++Crowdstrike Holdings Inc  
++63  
+ Elastic NV  
+-9  
+-CSG Systems International Inc  
+-1  
++4  
++Crown Castle International Corp  
++112  
+ Electronic Arts Inc  
+-194  
++96  
++Crown Holdings Inc  
++36  
++Elevance Health Inc  
++223  
+ CSX Corp  
+-349  
+-Elevation Oncology Inc  
+-2  
+-CubeSmart 31  
++242  
+ Eli Lilly & Co  
+-458  
+-Cummins Inc  
+-90  
+-EMCOR Group Inc  
++559  
++CubeSmart 24  
++Embecta Corp  
+ 1  
++Cummins Inc  
++32  
++Emergent BioSolutions Inc  
++8  
+ Cushman & Wakefield PLC  
+-6  
++4  
+ Emerson Electric Co  
+-51  
+-Customers Bancorp Inc  
++30  
++CVS Health Corp  
++108  
++Empire State Realty Trust Inc  
+ 2  
++Cytokinetics Inc  
++16  
+ Encompass Health Corp  
+-20  
+-CVS Health Corp  
+-102  
+-Endo International PLC  
++10  
++Dana Inc  
+ 1  
+-Cyteir Therapeutics Inc  
+-2  
+ Energy Harbor Corp  
+ 5  
+ Danaher Corp  
+-393  
+-Energy Transfer LP  
+-15  
+-Darden Restaurants Inc  
+-7  
++224  
+ EnLink Midstream LLC  
+ 1  
+-Darling Ingredients Inc  
+-4  
++Darden Restaurants Inc  
++38  
+ Enova International Inc  
+-2  
+-Datadog Inc  
+-6  
++1  
++Darling Ingredients Inc  
++19  
+ Enphase Energy Inc  
+-5  
+-DaVita Inc  
+-4  
++14  
++Datadog Inc  
++16  
+ Entegris Inc  
+ 2  
+-Day One Biopharmaceuticals Inc  
++Dave & Buster’s Entertainment Inc  
+ 2  
+ Entergy Corp  
+-53  
+-DCP Midstream LP  
+-3  
+-Envista Holdings Corp  
+-51  
+-Deckers Outdoor Corp  
+-4  
++71  
++DaVita Inc  
++1  
+ EOG Resources Inc  
+-132  
++113  
+ Deere & Co  
+-70  
++111  
+ EPAM Systems Inc  
+-130  
+-Definitive Healthcare Corp  
+-15  
+-Equifax Inc  
+-57  
++10  
++Delek US Holdings Inc  
++1  
++EQT Corp  
++1  
+ Dell Technologies Inc  
+-49  
++50  
++Equifax Inc  
++20  
++Delta Air Lines Inc  
++1  
+ Equinix Inc  
+-1.302  
+-DENTSPLY SIRONA Inc  
+-39  
++1.065  
++Denbury Inc  
++2  
+ Equitable Holdings Inc  
+-27  
+-DexCom Inc  
+-50  
++20  
++DENTSPLY SIRONA Inc  
++24  
+ Equitrans Midstream Corp  
+ 1  
+-Diamondback Energy Inc  
+-12  
++DexCom Inc  
++32  
+ Equity LifeStyle Properties Inc  
+-84  
+-DICE Therapeutics Inc  
+-4  
++69  
++Diamondback Energy Inc  
++24  
+ Equity Residential  
+-990  
+-Dick’s Sporting Goods Inc  
+-62  
++821  
++DiamondRock Hospitality Co  
++1  
+ Erie Indemnity Co  
+-50  
+-Digital Realty Trust Inc  
+-1.513  
++49  
++DICE Therapeutics Inc  
++2  
+ Essa Pharma Inc  
+-5  
+-Dillard’s Inc  
+-7  
+-Essent Group Ltd  
+ 1  
+-Diodes Inc  
++Dick’s Sporting Goods Inc  
+ 1  
++Essent Group Ltd  
++10  
++Digital Realty Trust Inc  
++1.215  
+ Essential Utilities Inc  
+-19  
+-Discover Financial Services  
+-74  
++12  
++Dillard’s Inc  
++2  
+ Essex Property Trust Inc  
+-181  
+-Discovery Inc  
+-16  
++103  
++Diodes Inc  
++1  
+ Estee Lauder Cos Inc/The  
+-311  
+-DISH Network Corp  
+-9  
++140  
++Discover Financial Services  
++74  
+ Etsy Inc  
+-44  
+-DocuSign Inc  
+-49  
++1  
++DISH Network Corp  
++26  
+ Evercore Inc  
+-45  
+-Dolby Laboratories Inc  
+-28  
++13  
++DocuSign Inc  
++3  
+ Everest Re Group Ltd  
+-82  
+-Dollar General Corp  
+-105  
++94  
++Dolby Laboratories Inc  
++12  
+ Evergy Inc  
+-63  
+-Dollar Tree Inc  
+-109  
++68  
++Dollar General Corp  
++110  
+ Eversource Energy  
+-118  
+-Dominion Energy Inc  
+-142  
++107  
++Dollar Tree Inc  
++117  
+ Evolent Health Inc  
+-18  
+-Domino’s Pizza Inc  
+-91  
++17  
++Dominion Energy Inc  
++133  
+ Evoqua Water Technologies Corp  
+-47  
+-Donaldson Co Inc  
+-5  
++50  
++Domino’s Pizza Inc  
++60  
+ Exact Sciences Corp  
+-51  
+-Donnelley Financial Solutions Inc  
+-5  
++25  
++Donaldson Co Inc  
++1  
+ Exelixis Inc  
+-13  
+-DoorDash Inc  
+ 17  
++DoorDash Inc  
++10  
+ Exelon Corp  
+-118  
++67  
+ Dover Corp  
+-51  
+-ExlService Holdings Inc  
+-1  
++27  
++eXp World Holdings Inc  
++2  
+ Dow Inc  
+-66  
++50  
+ Expedia Group Inc  
+-68  
++35  
+ DR Horton Inc  
+-171  
+-Expeditors International of Washington Inc 109  
+-DraftKings Inc  
+-1  
+-Extra Space Storage Inc  
+-813  
++91  
++Expeditors International of Washington Inc 77  
+ Dropbox Inc  
+-28  
+-Extreme Networks Inc  
+-2  
+-DTE Energy Co  
+-62  
+-EZCORP Inc  
+-1  
++19  
++Extra Space Storage Inc  
++615  
+ Beursgenoteerde beleggingen van ABP  
+-**22**  
+-per 31 december 2021  
++**20**  
++per 30 juni 2022  
+ 
+ * * *
+ 
+@@ -5324,1026 +4868,768 @@
+ Totaal  
+ Land Omschrijving  
+ Totaal  
+-F5 Inc  
+-138  
+-Halozyme Therapeutics Inc  
+-16  
+-FactSet Research Systems Inc  
+-40  
+-Hamilton Lane Inc  
+-1  
+-Fair Isaac Corp  
+-29  
+-Hanesbrands Inc  
+-2  
+-Fastenal Co  
+-34  
+-Hanover Insurance Group Inc/The  
+-1  
+-Fate Therapeutics Inc  
+-5  
+-Harley-Davidson Inc  
+-1  
+-Federal Realty Investment Trust  
+-88  
+-Harmony Biosciences Holdings Inc  
+-7  
+-Federated Hermes Inc  
++Extreme Networks Inc  
+ 1  
+-Hartford Financial Services Group Inc/The 42  
+-FedEx Corp  
+-92  
+-Hasbro Inc  
+-13  
+-Fidelity National Financial Inc  
+-75  
+-HashiCorp Inc  
+-10  
+-Fidelity National Information Services Inc 163  
+ HB Fuller Co  
+-25  
+-Fifth Third Bancorp  
+-65  
+-HCA Healthcare Inc  
+-211  
+-First American Financial Corp  
++20  
++EZCORP Inc  
+ 1  
++HCA Healthcare Inc  
++88  
++F5 Inc  
++40  
+ Health Catalyst Inc  
+-7  
+-First BanCorp/Puerto Rico  
+-17  
+-Healthcare Realty Trust Inc  
+-4  
+-First Industrial Realty Trust Inc  
+-12  
++2  
++FactSet Research Systems Inc  
++13  
+ Healthcare Trust of America Inc  
+-357  
+-First Republic Bank/CA  
+-294  
++306  
++Fair Isaac Corp  
++3  
+ Healthpeak Properties Inc  
+-135  
+-FirstEnergy Corp  
+-4  
++100  
++Fastenal Co  
++25  
+ HEICO Corp  
+-1  
+-Fiserv Inc  
+-64  
++4  
++Fate Therapeutics Inc  
++2  
+ Heidrick & Struggles International Inc  
+ 1  
+-Five9 Inc  
+-36  
++Federal Realty OP LP  
++56  
+ Henry Schein Inc  
+-15  
+-Flagstar Bancorp Inc  
+-5  
+-Herbalife Nutrition Ltd  
+-1  
+-FleetCor Technologies Inc  
+-27  
++54  
++FedEx Corp  
++104  
+ Hershey Co/The  
+ 212  
+-Flex Ltd  
+-51  
++Fidelity National Financial Inc  
++32  
+ Hess Corp  
+-58  
+-Flowers Foods Inc  
+-1  
++33  
++Fidelity National Information Services Inc 87  
+ Hewlett Packard Enterprise Co  
+-44  
+-Fluence Energy Inc  
+-8  
+-Hibbett Inc  
+-6  
+-FMC Corp  
++22  
++Fifth Third Bancorp  
++70  
++HF Sinclair Corp  
+ 9  
++First BanCorp/Puerto Rico  
++11  
++Hibbett Inc  
++3  
++First Industrial Realty Trust Inc  
++10  
+ Highwoods Properties Inc  
+-19  
+-Foot Locker Inc  
+-5  
+-Hilltop Holdings Inc  
+-1  
+-Ford Motor Co  
+-78  
++7  
++First Republic Bank/CA  
++224  
+ Hilton Worldwide Holdings Inc  
+-129  
+-Fortinet Inc  
+-119  
++70  
++FirstEnergy Corp  
++14  
+ HNI Corp  
+-1  
+-Fortive Corp  
+-24  
+-HollyFrontier Corp  
+-1  
+-Fortune Brands Home & Security Inc  
+-3  
++2  
++Fiserv Inc  
++71  
+ Hologic Inc  
+-72  
+-Fox Corp  
+-77  
++97  
++Five9 Inc  
++16  
+ Home Depot Inc/The  
+-681  
+-Franklin Resources Inc  
+-20  
++367  
++Flagstar Bancorp Inc  
++10  
+ Horizon Therapeutics Plc  
+-141  
+-Freeport-McMoRan Inc  
+-41  
++112  
++FleetCor Technologies Inc  
++2  
+ Hormel Foods Corp  
+-123  
+-Frontier Communications Parent Inc  
+-36  
++108  
++Flex Ltd  
++38  
+ Host Hotels & Resorts Inc  
++14  
++FMC Corp  
++5  
++Howmet Aerospace Inc  
+ 1  
+-Frontier Group Holdings Inc  
+-22  
++Ford Motor Co  
++24  
+ HP Inc  
+-124  
+-FTI Consulting Inc  
+-10  
+-Hub Group Inc  
+-1  
+-Galecto Inc  
++46  
++Fortinet Inc  
++76  
++Hubbell Inc  
+ 1  
++Fortive Corp  
++13  
+ HubSpot Inc  
+-174  
+-Garmin Ltd  
+-6  
++34  
++Fortune Brands Home & Security Inc  
++1  
+ Humana Inc  
+-199  
+-Gartner Inc  
+-109  
++182  
++Fox Corp  
++49  
+ Huntington Bancshares Inc/OH  
+ 1  
+-Generac Holdings Inc  
++Franklin Resources Inc  
++13  
++Huntsman Corp  
+ 1  
++Frontier Communications Parent Inc  
++28  
+ Hyatt Hotels Corp  
+-1  
+-General Electric Co  
+-128  
++3  
++Frontier Group Holdings Inc  
++13  
+ Hyperfine Inc  
++2  
++Fulton Financial Corp  
++2  
++IAC/InterActiveCorp 15  
++Gap Inc/The  
+ 1  
+-General Mills Inc  
+-33  
+-IAC/InterActiveCorp 26  
+-General Motors Co  
+-158  
+-ICU Medical Inc  
++ICF International Inc  
++5  
++Garmin Ltd  
+ 9  
+-Genpact Ltd  
+-46  
++ICU Medical Inc  
++5  
++Gartner Inc  
++65  
+ IDEX Corp  
+-3  
+-Genuine Parts Co  
+-87  
+-IDEXX Laboratories Inc  
+-112  
+-Genworth Financial Inc  
+-9  
+-iHeartMedia Inc  
+-4  
+-GEO Group Inc/The  
+-1  
+-IHS Markit Ltd  
+-130  
+-G-III Apparel Group Ltd  
++2  
++Gates Industrial Corp PLC  
+ 1  
++IDEXX Laboratories Inc  
++16  
++Generac Holdings Inc  
++22  
+ II-VI Inc  
+-47  
+-Gilead Sciences Inc  
+-270  
++23  
++General Electric Co  
++69  
+ Illinois Tool Works Inc  
+-138  
+-Gitlab Inc  
+-8  
++78  
++General Mills Inc  
++46  
+ Illumina Inc  
+-64  
+-Global Blood Therapeutics Inc  
+-10  
++26  
++General Motors Co  
++128  
+ Impinj Inc  
+-18  
+-Global Payments Inc  
+-40  
++16  
++Genuine Parts Co  
++71  
+ Inari Medical Inc  
+-10  
+-GLOBALFOUNDRIES Inc  
+-10  
++6  
++Genworth Financial Inc  
++14  
+ Incyte Corp  
+-95  
+-Globe Life Inc  
+-123  
++114  
++Gilead Sciences Inc  
++301  
++Independence Realty Trust Inc  
++1  
++Global Blood Therapeutics Inc  
++10  
+ Ingersoll Rand Inc  
+ 1  
+-Globus Medical Inc  
+-13  
+-Ingevity Corp  
+-3  
+-GoDaddy Inc  
+-46  
++Global Payments Inc  
++23  
+ Ingredion Inc  
+-1  
+-Goldman Sachs Group Inc/The  
+-62  
+-Insight Enterprises Inc  
+-3  
+-Graco Inc  
+-1  
++6  
++GLOBALFOUNDRIES Inc  
++6  
+ Insmed Inc  
+-18  
+-GrafTech International Ltd  
+-1  
++10  
++Globe Life Inc  
++87  
+ Insperity Inc  
+ 1  
+-Group 1 Automotive Inc  
+-5  
++Globus Medical Inc  
++8  
+ Insulet Corp  
+-50  
+-Gulfport Energy Corp  
+-15  
+-Integra LifeSciences Holdings Corp  
+-9  
+-H&R Block Inc  
+-4  
++31  
++GoDaddy Inc  
++19  
+ Intel Corp  
+-209  
+-Halliburton Co  
+-13  
+-Intellia Therapeutics Inc  
+-3  
+-Beursgenoteerde beleggingen van ABP  
+-**23**  
+-per 31 december 2021  
+-
+-* * *
+-
+-Land Omschrijving  
+-Totaal  
+-Land Omschrijving  
+-Totaal  
+-Interactive Brokers Group Inc  
+-22  
+-Legalzoom.com Inc  
+-6  
++162  
++Goldman Sachs Group Inc/The  
++20  
+ Intercontinental Exchange Inc  
+-188  
+-Leggett & Platt Inc  
++135  
++Grand Canyon Education Inc  
+ 1  
+ International Business Machines Corp  
+-70  
+-Leidos Holdings Inc  
+-1  
++97  
++Gray Television Inc  
++2  
+ International Flavors & Fragrances Inc  
+-55  
+-LendingClub Corp  
+-6  
+-International Game Technology PLC  
++38  
++Group 1 Automotive Inc  
+ 13  
+-Lennar Corp  
+-36  
+-International Paper Co  
++International Money Express Inc  
++1  
++Guidewire Software Inc  
+ 2  
+-Lennox International Inc  
+-15  
++International Paper Co  
++3  
++Gulfport Energy Corp  
++17  
+ Interpublic Group of Cos Inc/The  
+-37  
+-Levi Strauss & Co  
+-1  
++40  
++H&R Block Inc  
++7  
+ Intuit Inc  
+-533  
+-LHC Group Inc  
+-1  
++118  
++Halliburton Co  
++25  
+ Intuitive Surgical Inc  
+-141  
+-Liberty Broadband Corp  
+-100  
++57  
++Halozyme Therapeutics Inc  
++11  
+ Invesco Ltd  
+-16  
+-Liberty Global PLC  
+-36  
+-Invitae Corp  
+-5  
+-Liberty Latin America Ltd  
+-14  
++3  
++Harley-Davidson Inc  
++4  
+ Invitation Homes Inc  
+-752  
+-Liberty Media Corp-Liberty Formula One  
+-1  
+-Ionis Pharmaceuticals Inc  
++589  
++Harmony Biosciences Holdings Inc  
++6  
++IPG Photonics Corp  
+ 1  
+-Liberty Media Corp-Liberty SiriusXM  
+-3  
++Hartford Financial Services Group Inc/The 74  
+ IQVIA Holdings Inc  
+-167  
+-Life Storage Inc  
+-105  
++44  
++Hasbro Inc  
++11  
+ iRhythm Technologies Inc  
+-23  
+-LifeStance Health Group Inc  
+-4  
++13  
++HashiCorp Inc  
++3  
+ Iridium Communications Inc  
+-1  
+-Lincoln National Corp  
+-142  
++6  
++Beursgenoteerde beleggingen van ABP  
++**21**  
++per 30 juni 2022  
++
++* * *
++
++Land Omschrijving  
++Totaal  
++Land Omschrijving  
++Totaal  
+ Iron Mountain Inc  
+ 1  
+-Linde PLC  
+-260  
++Loews Corp  
++32  
+ Ironwood Pharmaceuticals Inc  
+-11  
+-Lions Gate Entertainment Corp  
+-7  
+-J M Smucker Co/The  
+-51  
+-Lithia Motors Inc  
+-8  
+-Jabil Inc  
+-27  
+-LivaNova PLC  
+-18  
+-Jack Henry & Associates Inc  
+-231  
+-Live Nation Entertainment Inc  
+-28  
+-Jack in the Box Inc  
+-1  
+-LiveRamp Holdings Inc  
+-1  
+-Janus Henderson Group PLC  
+-1  
+-LKQ Corp  
+-84  
+-Janux Therapeutics Inc  
+ 5  
+-Loews Corp  
+-39  
+-Jazz Pharmaceuticals PLC  
+-56  
+ Louisiana-Pacific Corp  
+-16  
+-JB Hunt Transport Services Inc  
+-6  
++7  
++ITT Inc  
++2  
+ Lowe’s Cos Inc  
+-449  
+-JBG SMITH Properties  
+-43  
++302  
++IVERIC bio Inc  
++7  
++LPL Financial Holdings Inc  
++3  
++J M Smucker Co/The  
++50  
+ Lucid Group Inc  
+ 1  
+-Jefferies Financial Group Inc  
+-34  
++Jabil Inc  
++18  
+ Lululemon Athletica Inc  
+-62  
+-JELD-WEN Holding Inc  
+-1  
++28  
++Jack Henry & Associates Inc  
++655  
+ Lumen Technologies Inc  
+-23  
+-John B Sanfilippo & Son Inc  
+-1  
++21  
++Jackson Financial Inc  
++5  
+ Lumentum Holdings Inc  
+-38  
+-Johnson & Johnson  
+-816  
+-Lyft Inc  
+-27  
+-Johnson Controls International plc  
+-60  
++25  
++Janus Henderson Group PLC  
++1  
+ LyondellBasell Industries NV  
+-18  
+-Jones Lang LaSalle Inc  
+-10  
++28  
++Janux Therapeutics Inc  
++2  
+ M&T Bank Corp  
+-70  
+-JPMorgan Chase & Co  
+-779  
+-M/I Homes Inc  
+-1  
+-Juniper Networks Inc  
+-94  
++62  
++Jazz Pharmaceuticals PLC  
++37  
+ Macerich Co/The  
+ 1  
+-KB Home  
+-14  
++JB Hunt Transport Services Inc  
++19  
+ Macy’s Inc  
+ 1  
+-Kellogg Co  
+-67  
+-Malibu Boats Inc  
+-1  
+-Keurig Dr Pepper Inc  
+-2  
++JBG SMITH Properties  
++19  
+ Manhattan Associates Inc  
+-21  
+-KeyCorp 70  
++5  
++Jefferies Financial Group Inc  
++10  
+ ManpowerGroup Inc  
+-12  
+-Keysight Technologies Inc  
+-321  
++3  
++Johnson & Johnson  
++554  
+ Marathon Oil Corp  
+-1  
+-Kforce Inc  
++11  
++Johnson Controls International plc  
+ 1  
+ Maravai LifeSciences Holdings Inc  
+-9  
+-Kilroy Realty Corp  
+-327  
++5  
++JPMorgan Chase & Co  
++519  
+ Markel Corp  
+-83  
+-Kimberly-Clark Corp  
+-36  
++95  
++Juniper Networks Inc  
++55  
+ MarketAxess Holdings Inc  
+-98  
+-Kimco Realty Corp  
+-338  
++59  
++KB Home  
++6  
+ Marqeta Inc  
+-14  
+-KKR & Co Inc  
+-67  
++7  
++Kellogg Co  
++86  
+ Marriott International Inc/MD  
+-105  
+-KLA Corp  
+-206  
++103  
++Keurig Dr Pepper Inc  
++64  
+ Marsh & McLennan Cos Inc  
+-224  
+-Knight-Swift Transportation Holdings Inc  
+-8  
++129  
++KeyCorp 52  
+ Martin Marietta Materials Inc  
+-94  
+-Knowles Corp  
+-1  
++12  
++Keysight Technologies Inc  
++215  
+ Marvell Technology Inc  
+-245  
+-Kodiak Sciences Inc  
+-13  
+-Masco Corp  
+-127  
+-Kohl’s Corp  
+-26  
+-Masimo Corp  
+-76  
+-Korn Ferry  
+-2  
+-MasTec Inc  
++103  
++Kezar Life Sciences Inc  
+ 3  
+-Kraft Heinz Co/The  
++Masco Corp  
++48  
++Kforce Inc  
+ 4  
++Masimo Corp  
++5  
++Kilroy Realty Corp  
++280  
+ Mastercard Inc  
+-456  
+-Kroger Co/The  
+-175  
++428  
++Kimberly-Clark Corp  
++57  
+ Match Group Inc  
+-155  
+-Kulicke & Soffa Industries Inc  
+-1  
+-Matson Inc  
+-1  
+-Kymera Therapeutics Inc  
+-11  
+-MAXIMUS Inc  
+-1  
+-Kyndryl Holdings Inc  
+-1  
++24  
++Kimco Realty Corp  
++287  
+ MaxLinear Inc  
+-7  
+-Laboratory Corp of America Holdings  
+-118  
++4  
++Kinetik Holdings Inc  
++1  
+ McCormick & Co Inc/MD  
+-78  
+-Lam Research Corp  
+-187  
++48  
++Kinsale Capital Group Inc  
++1  
+ McDonald’s Corp  
+-554  
+-Lamb Weston Holdings Inc  
+-498  
++400  
++KKR & Co Inc  
++21  
++McGrath RentCorp  
++3  
++KLA Corp  
++136  
+ McKesson Corp  
+-117  
+-Landstar System Inc  
+-7  
+-MDU Resources Group Inc  
+-32  
+-Lattice Semiconductor Corp  
+-31  
+-Medical Properties Trust Inc  
+-1  
+-Lear Corp  
+-1  
+-Medpace Holdings Inc  
++142  
++Knight-Swift Transportation Holdings Inc  
+ 5  
+-Beursgenoteerde beleggingen van ABP  
+-**24**  
+-per 31 december 2021  
+-
+-* * *
+-
+-Land Omschrijving  
+-Totaal  
+-Land Omschrijving  
+-Totaal  
++Medpace Holdings Inc  
++8  
++Korn Ferry  
++4  
+ Medtronic PLC  
+-225  
+-Northwest Natural Holding Co  
+-1  
++117  
++Kraft Heinz Co/The  
++7  
+ MercadoLibre Inc  
+-73  
+-NortonLifeLock Inc  
+-73  
++29  
++Kroger Co/The  
++127  
+ Merck & Co Inc  
+-402  
+-Novavax Inc  
+-9  
++497  
++Kulicke & Soffa Industries Inc  
++3  
+ Meritage Homes Corp  
+-16  
+-NOW Inc  
+ 2  
++Laboratory Corp of America Holdings  
++61  
+ Meta Platforms Inc  
+-1.090  
+-NRG Energy Inc  
+-16  
++474  
++Ladder Capital Corp  
++1  
+ MetLife Inc  
+-84  
+-Nu Skin Enterprises Inc  
+-2  
++51  
++Lam Research Corp  
++92  
+ Mettler-Toledo International Inc  
+-237  
+-Nucor Corp  
+-55  
++130  
++Lamb Weston Holdings Inc  
++584  
+ MGIC Investment Corp  
++2  
++Landstar System Inc  
+ 1  
+-Nutanix Inc  
+-10  
+ MGM Resorts International  
++2  
++Las Vegas Sands Corp  
+ 1  
+-NuVasive Inc  
+-7  
+ Microchip Technology Inc  
+-17  
+-nVent Electric PLC  
+-1  
++20  
++Lattice Semiconductor Corp  
++14  
+ Micron Technology Inc  
+-175  
+-NVIDIA Corp  
+-1.108  
++111  
++Lear Corp  
++17  
+ Microsoft Corp  
+-4.519  
+-NVR Inc  
+-20  
+-Mid-America Apartment Communities Inc 712  
+-NXP Semiconductors NV  
+-114  
+-Mirati Therapeutics Inc  
+-15  
+-Occidental Petroleum Corp  
+-28  
+-MKS Instruments Inc  
+-1  
+-ODP Corp/The  
++3.098  
++Legalzoom.com Inc  
++3  
++Mid-America Apartment Communities Inc 592  
++LendingClub Corp  
++6  
++MillerKnoll Inc  
+ 1  
++Lennar Corp  
++47  
++Mirati Therapeutics Inc  
++7  
++Lennox International Inc  
++4  
+ Moderna Inc  
+-78  
+-OGE Energy Corp  
+-2  
+-Moelis & Co  
+-6  
+-Okta Inc  
+-139  
++28  
++Liberty Broadband Corp  
++88  
+ Mohawk Industries Inc  
+-14  
+-Old Dominion Freight Line Inc  
+-84  
+-Molina Healthcare Inc  
+-94  
+-Old Republic International Corp  
+ 1  
++Liberty Global PLC  
++12  
++Molina Healthcare Inc  
++154  
++Liberty Media Corp-Liberty SiriusXM  
++2  
+ Molson Coors Beverage Co  
+-7  
+-Olema Pharmaceuticals Inc  
+ 3  
++Life Storage Inc  
++86  
+ Momentive Global Inc  
+-1  
+-Olo Inc  
+-4  
+-Monday.com Ltd  
+-28  
+-Omnicell Inc  
+-36  
++7  
++LifeStance Health Group Inc  
++2  
+ Mondelez International Inc  
+-158  
+-Omnicom Group Inc  
+-57  
++100  
++Lincoln Electric Holdings Inc  
++3  
+ MongoDB Inc  
+-92  
+-ON Semiconductor Corp  
+-10  
++44  
++Lincoln National Corp  
++85  
+ Monolithic Power Systems Inc  
+-59  
+-OneMain Holdings Inc  
+-15  
++54  
++Linde PLC  
++210  
+ Monster Beverage Corp  
+-77  
+-ONEOK Inc  
+-27  
++26  
++Lions Gate Entertainment Corp  
++4  
+ Moody’s Corp  
+-334  
+-Opendoor Technologies Inc  
+-7  
++163  
++LivaNova PLC  
++18  
+ Morgan Stanley  
+-30  
+-OPKO Health Inc  
+-1  
+-Morningstar Inc  
+-1  
+-Oracle Corp  
+-174  
++39  
++Live Nation Entertainment Inc  
++55  
+ Mosaic Co/The  
+-42  
+-O’Reilly Automotive Inc  
+-307  
+-Motorola Solutions Inc  
+-221  
+-Oshkosh Corp  
++46  
++LiveRamp Holdings Inc  
+ 1  
++Motorola Solutions Inc  
++168  
++LKQ Corp  
++83  
+ MRC Global Inc  
+-1  
+-Otis Worldwide Corp  
+-114  
++2  
++Beursgenoteerde beleggingen van ABP  
++**22**  
++per 30 juni 2022  
++
++* * *
++
++Land Omschrijving  
++Totaal  
++Land Omschrijving  
++Totaal  
+ MSA Safety Inc  
+-505  
+-Outfront Media Inc  
+-1  
++445  
++Palo Alto Networks Inc  
++155  
+ MSCI Inc  
+-26  
+-Outset Medical Inc  
+-11  
+-Murphy Oil Corp  
+-6  
+-Owens Corning  
+-36  
++30  
++Paramount Group Inc  
++7  
++Mueller Water Products Inc  
++2  
++Park Hotels & Resorts Inc  
++27  
+ Murphy USA Inc  
+-1  
+-PACCAR Inc  
+-40  
++13  
++Parker-Hannifin Corp  
++44  
+ Myovant Sciences Ltd  
+-8  
+-Packaging Corp of America  
+-36  
++5  
++Paychex Inc  
++198  
+ Nasdaq Inc  
+-54  
+-Palantir Technologies Inc  
+-1  
++16  
++Paycom Software Inc  
++70  
+ Natera Inc  
+-69  
+-Palo Alto Networks Inc  
+-181  
++33  
++Paylocity Holding Corp  
++19  
+ National Fuel Gas Co  
+-3  
+-Paramount Group Inc  
+-2  
+-National Instruments Corp  
+-3  
+-Park Hotels & Resorts Inc  
+-46  
++21  
++PayPal Holdings Inc  
++34  
+ National Storage Affiliates Trust  
+-11  
+-Parker-Hannifin Corp  
+-56  
+-National Vision Holdings Inc  
+-1  
+-Patrick Industries Inc  
++15  
++Pebblebrook Hotel Trust  
+ 1  
+ NeoGenomics Inc  
+-12  
+-Paychex Inc  
+-212  
++1  
++Penn National Gaming Inc  
++3  
+ NetApp Inc  
+-118  
+-Paycom Software Inc  
+-113  
++22  
++Penske Automotive Group Inc  
++1  
+ Netflix Inc  
+-494  
+-Paylocity Holding Corp  
+-38  
++114  
++Pentair PLC  
++4  
+ NETSTREIT Corp  
+ 20  
+-Paymentus Holdings Inc  
+-7  
++Penumbra Inc  
++5  
+ Neurocrine Biosciences Inc  
+-85  
+-Payoneer Global Inc  
+-4  
++64  
++PepsiCo Inc  
++493  
+ Nevro Corp  
+-34  
+-PayPal Holdings Inc  
+-211  
+-New York Community Bancorp Inc  
+-1  
+-Pebblebrook Hotel Trust  
+-33  
+-New York Mortgage Trust Inc  
+-2  
+-Peloton Interactive Inc  
+ 5  
+-New York Times Co/The  
+-1  
+-PennyMac Financial Services Inc  
+-15  
+-Newell Brands Inc  
+-19  
+-Penske Automotive Group Inc  
+-1  
+-Newmark Group Inc  
+-2  
+-Pentair PLC  
+-3  
+-Newmont Corp  
+-225  
+-PepsiCo Inc  
+-551  
+-News Corp  
+-54  
+ Perficient Inc  
+ 6  
+-NextEra Energy Inc  
+-480  
++New Fortress Energy Inc  
++2  
+ PerkinElmer Inc  
+-52  
+-NIKE Inc  
+-375  
++2  
++New Jersey Resources Corp  
++3  
+ Perrigo Co PLC  
+-4  
+-NiSource Inc  
+-18  
++1  
++Newell Brands Inc  
++17  
+ Personalis Inc  
+-5  
+-Nordson Corp  
+-18  
+-Petco Health & Wellness Co Inc  
+-35  
+-Norfolk Southern Corp  
+-89  
++1  
++Newmont Corp  
++214  
+ Pfizer Inc  
+-411  
+-Northern Trust Corp  
+-2  
++408  
++News Corp  
++25  
+ PG&E Corp  
+-5  
+-Beursgenoteerde beleggingen van ABP  
+-**25**  
+-per 31 december 2021  
+-
+-* * *
+-
+-Land Omschrijving  
+-Totaal  
+-Land Omschrijving  
+-Totaal  
++16  
++NextEra Energy Inc  
++170  
+ Phathom Pharmaceuticals Inc  
+-3  
+-Revance Therapeutics Inc  
+-24  
++1  
++NextGen Healthcare Inc  
++1  
++Photronics Inc  
++1  
++NIKE Inc  
++187  
+ Piedmont Office Realty Trust Inc  
+-4  
+-Rexford Industrial Realty Inc  
+-3  
++8  
++NiSource Inc  
++20  
+ Pinnacle West Capital Corp  
++3  
++Nordson Corp  
+ 1  
+-Rhythm Pharmaceuticals Inc  
+-4  
+ Pinterest Inc  
+-16  
+-RingCentral Inc  
+-39  
++8  
++Norfolk Southern Corp  
++105  
+ Pioneer Natural Resources Co  
+-112  
+-Rivian Automotive Inc  
+-66  
+-PJT Partners Inc  
+-2  
+-Robert Half International Inc  
+-24  
+-Planet Fitness Inc  
+-3  
+-ROBLOX Corp  
+-35  
++48  
++Northern Trust Corp  
++5  
+ Plug Power Inc  
+-33  
+-Rockwell Automation Inc  
+-140  
++19  
++NortonLifeLock Inc  
++16  
+ PMV Pharmaceuticals Inc  
+-7  
+-Roku Inc  
+-86  
++8  
++NOV Inc  
++1  
+ PNC Financial Services Group Inc/The  
+-29  
+-Rollins Inc  
+-562  
++21  
++Novavax Inc  
++3  
+ Pool Corp  
+-49  
+-Roper Technologies Inc  
+-10  
++11  
++NOW Inc  
++1  
+ Popular Inc  
+-10  
+-Ross Stores Inc  
+-29  
++8  
++NRG Energy Inc  
++24  
+ PotlatchDeltic Corp  
+ 1  
+-Royal Caribbean Cruises Ltd  
+-34  
++Nucor Corp  
++36  
+ Power Integrations Inc  
+ 2  
+-Royalty Pharma PLC  
+-22  
+-PPG Industries Inc  
++Nutanix Inc  
+ 5  
+-RPM International Inc  
+-1  
++PPG Industries Inc  
++3  
++NuVasive Inc  
++7  
+ PPL Corp  
+-4  
+-Rush Enterprises Inc  
+-1  
+-Praxis Precision Medicines Inc  
+-6  
+-Ryder System Inc  
+-13  
++7  
++NVIDIA Corp  
++378  
+ Prestige Consumer Healthcare Inc  
+ 2  
+-Ryman Hospitality Properties Inc  
+-58  
++NVR Inc  
++11  
+ Principal Financial Group Inc  
+-2  
+-S&P Global Inc  
+-273  
++1  
++NXP Semiconductors NV  
++53  
+ Privia Health Group Inc  
+ 4  
+-Sabra Health Care REIT Inc  
+-43  
++Occidental Petroleum Corp  
++150  
+ Procore Technologies Inc  
+-1  
+-Sage Therapeutics Inc  
+-17  
++14  
++OFG Bancorp  
++4  
+ Procter & Gamble Co/The  
+-696  
+-Saia Inc  
+-8  
+-PROG Holdings Inc  
+-2  
+-salesforce.com Inc  
+-314  
+-Progress Software Corp  
+-9  
+-Samsara Inc  
+-9  
++668  
++Okta Inc  
++43  
++ProFrac Holding Corp  
++1  
++Old Dominion Freight Line Inc  
++49  
+ Progressive Corp/The  
+-138  
+-Samsonite International SA  
+-5  
+-Prologis Inc  
+-3.289  
+-Sanmina Corp  
++154  
++Olema Pharmaceuticals Inc  
+ 1  
++Prologis Inc  
++2.451  
++Olo Inc  
++5  
+ Prudential Financial Inc  
+-26  
+-Sarepta Therapeutics Inc  
+-35  
++5  
++Omnicell Inc  
++25  
+ PTC Inc  
+-21  
+-SBA Communications Corp  
+-254  
++2  
++Omnicom Group Inc  
++28  
+ PTC Therapeutics Inc  
+-10  
+-Schlumberger NV  
+-92  
++13  
++ON Semiconductor Corp  
++34  
+ Public Service Enterprise Group Inc  
+-78  
+-Schneider National Inc  
+-4  
++68  
++OneMain Holdings Inc  
++5  
+ Public Storage  
+-843  
+-Seagate Technology Holdings PLC  
+-51  
++738  
++ONEOK Inc  
++20  
+ PulteGroup Inc  
+-37  
+-SeaGen Inc  
+-83  
++11  
++Opendoor Technologies Inc  
++1  
+ Pure Storage Inc  
+-51  
+-Sealed Air Corp  
+-33  
++29  
++Oracle Corp  
++202  
+ PVH Corp  
+-1  
+-SeaWorld Entertainment Inc  
+-2  
+-Pyxis Oncology Inc  
+-2  
+-SEI Investments Co  
+-24  
++6  
++O’Reilly Automotive Inc  
++233  
+ Qorvo Inc  
+-32  
+-Sempra Energy  
+-84  
++4  
++Organon & Co  
++14  
+ QUALCOMM Inc  
+-349  
+-Semtech Corp  
+-1  
++260  
++Ormat Technologies Inc  
++2  
+ Qualys Inc  
+-3  
+-Seres Therapeutics Inc  
+ 5  
++Otis Worldwide Corp  
++89  
++Quanta Services Inc  
++2  
++Outset Medical Inc  
++7  
+ Quest Diagnostics Inc  
+-85  
+-Service Corp International/US  
+-33  
+-Quidel Corp  
++73  
++Owens Corning  
++35  
++QuidelOrtho Corp  
++7  
++Oxford Industries Inc  
++6  
++Qurate Retail Inc  
++1  
++PACCAR Inc  
+ 36  
+-ServiceNow Inc  
+-350  
+ Radian Group Inc  
+-4  
+-Sherwin-Williams Co/The  
+-97  
+-Rain Therapeutics Inc  
+-3  
+-Shift4 Payments Inc  
+-18  
+-Ralph Lauren Corp  
+-19  
+-Shockwave Medical Inc  
+-17  
+-Rapid7 Inc  
+-14  
+-Shutterstock Inc  
+-5  
+-Raymond James Financial Inc  
+-191  
+-Sight Sciences Inc  
+-3  
+-RE/MAX Holdings Inc  
+-2  
+-Signature Bank/New York NY  
+-4  
+-Realogy Holdings Corp  
+ 1  
+-Silgan Holdings Inc  
+-1  
+-Realty Income Corp  
+-489  
+-Silk Road Medical Inc  
+-5  
+-Red Rock Resorts Inc  
+-20  
+-Simon Property Group Inc  
+-172  
+-Regency Centers Corp  
+-213  
+-Sirius XM Holdings Inc  
+-25  
+-Regeneron Pharmaceuticals Inc  
+-292  
+-SITE Centers Corp  
++Packaging Corp of America  
++10  
++Rain Therapeutics Inc  
+ 1  
+-REGENXBIO Inc  
+-11  
+-SiteOne Landscape Supply Inc  
+-5  
+-Regions Financial Corp  
+-91  
+-Six Flags Entertainment Corp  
+-4  
+-Reinsurance Group of America Inc  
++PagerDuty Inc  
+ 4  
+-Skechers USA Inc  
+-1  
+-Relay Therapeutics Inc  
+-7  
+-Skyline Champion Corp  
+-1  
+-Reliance Steel & Aluminum Co  
+-20  
+-Skyworks Solutions Inc  
+-45  
+-RenaissanceRe Holdings Ltd  
+-2  
+-SL Green Realty Corp  
+-41  
+-Rent the Runway Inc  
+-1  
+-SLM Corp  
+-37  
+-Repligen Corp  
+-3  
+-Smartsheet Inc  
++Ralph Lauren Corp  
+ 6  
+-Republic Services Inc  
+-217  
+-Smith & Wesson Brands Inc  
++Palantir Technologies Inc  
+ 1  
+-ResMed Inc  
+-20  
+-Snap Inc  
+-150  
+-Retail Opportunity Investments Corp  
+-56  
+-Snap-on Inc  
+-12  
++Raymond James Financial Inc  
++175  
+ Beursgenoteerde beleggingen van ABP  
+-**26**  
+-per 31 december 2021  
++**23**  
++per 30 juni 2022  
+ 
+ * * *
+ 
+@@ -6351,255 +5637,256 @@
+ Totaal  
+ Land Omschrijving  
+ Totaal  
++Realty Income Corp  
++491  
++Skyline Champion Corp  
++2  
++Red Rock Resorts Inc  
++11  
++Skyworks Solutions Inc  
++17  
++Regency Centers Corp  
++177  
++SL Green Realty Corp  
++19  
++Regeneron Pharmaceuticals Inc  
++178  
++Smartsheet Inc  
++4  
++REGENXBIO Inc  
++7  
++Snap Inc  
++46  
++Regions Financial Corp  
++81  
++Snap-on Inc  
++8  
++Reinsurance Group of America Inc  
++1  
+ Snowflake Inc  
+-55  
+-Tradeweb Markets Inc  
+-57  
++33  
++Relay Therapeutics Inc  
++5  
+ SolarEdge Technologies Inc  
+-72  
+-Trane Technologies PLC  
+-55  
++103  
++Reliance Steel & Aluminum Co  
++3  
+ SomaLogic Inc  
+-4  
+-TransDigm Group Inc  
+-108  
++1  
++Republic Services Inc  
++171  
+ Sotera Health Co  
+-5  
+-TransUnion 595  
++2  
++ResMed Inc  
++7  
++South Jersey Industries Inc  
++1  
++Retail Opportunity Investments Corp  
++42  
+ Southern Co/The  
+-127  
+-Travel + Leisure Co  
++158  
++Revance Therapeutics Inc  
++20  
++Southwest Airlines Co  
++2  
++Rhythm Pharmaceuticals Inc  
+ 1  
+ Southwestern Energy Co  
++5  
++RingCentral Inc  
++13  
++Spire Inc  
+ 1  
+-Travelers Cos Inc/The  
+-84  
++Rivian Automotive Inc  
++8  
+ Splunk Inc  
+-30  
+-Travere Therapeutics Inc  
+-12  
+-Spotify Technology SA  
+-15  
+-Trex Co Inc  
++27  
++RLJ Lodging Trust  
+ 1  
+-SPX FLOW Inc  
+-342  
+-Tri Pointe Homes Inc  
+-22  
+-SS&C Technologies Holdings Inc  
+-55  
+-Trimble Inc  
++SPS Commerce Inc  
+ 58  
+-Standard Motor Products Inc  
+-1  
+-TripAdvisor Inc  
+-1  
++Robert Half International Inc  
++19  
++SS&C Technologies Holdings Inc  
++4  
++ROBLOX Corp  
++8  
+ Stanley Black & Decker Inc  
+-65  
+-Triton International Ltd  
+-14  
++26  
++Rockwell Automation Inc  
++78  
+ Starbucks Corp  
+-322  
+-TrueBlue Inc  
+-1  
++106  
++Roku Inc  
++11  
+ State Street Corp  
+-20  
+-TrueCar Inc  
+-1  
++9  
++Rollins Inc  
++614  
+ Steel Dynamics Inc  
+-60  
+-Truist Financial Corp  
+-169  
++50  
++Roper Technologies Inc  
++69  
+ Steelcase Inc  
+-1  
+-Tupperware Brands Corp  
+-1  
+-StepStone Group Inc  
+-1  
+-Twilio Inc  
+-122  
++3  
++Ross Stores Inc  
++2  
+ STERIS PLC  
+-668  
+-Twist Bioscience Corp  
+-11  
++612  
++Royal Caribbean Cruises Ltd  
++36  
++Stewart Information Services Corp  
++9  
++Royalty Pharma PLC  
++25  
+ Stifel Financial Corp  
+-10  
+-Twitter Inc  
+-59  
++4  
++Rush Enterprises Inc  
++1  
+ Stryker Corp  
+-114  
+-Tyler Technologies Inc  
+-687  
++49  
++Ryder System Inc  
++2  
++Sturm Ruger & Co Inc  
++1  
++Ryman Hospitality Properties Inc  
++34  
+ Sun Communities Inc  
+-135  
+-Tyra Biosciences Inc  
+-3  
++105  
++S&P Global Inc  
++49  
+ Sunrun Inc  
+-22  
+-Tyson Foods Inc  
+-29  
++5  
++Sage Therapeutics Inc  
++9  
+ SVB Financial Group  
+-299  
+-Uber Technologies Inc  
+-138  
+-Switch Inc  
+-6  
+-UDR Inc  
+-143  
++211  
++Saia Inc  
++5  
+ Synaptics Inc  
+-49  
+-UGI Corp  
+-47  
++20  
++Salesforce Inc  
++144  
+ Synchrony Financial  
+-170  
+-UiPath Inc  
+-44  
++103  
++Samsara Inc  
++2  
+ Syndax Pharmaceuticals Inc  
+-13  
+-Ulta Beauty Inc  
+-78  
++12  
++Samsonite International SA  
++6  
+ Syneos Health Inc  
+-32  
+-Under Armour Inc  
+-1  
++18  
++Sanderson Farms Inc  
++4  
+ Synopsys Inc  
+-193  
+-Union Pacific Corp  
+-282  
++235  
++Sarepta Therapeutics Inc  
++27  
+ Sysco Corp  
+-10  
+-United Natural Foods Inc  
+-4  
++27  
++SBA Communications Corp  
++187  
+ T Rowe Price Group Inc  
+-28  
+-United Parcel Service Inc  
+-143  
++1  
++Schlumberger NV  
++69  
+ Take-Two Interactive Software Inc  
+-96  
+-United Rentals Inc  
+-35  
++39  
++Schnitzer Steel Industries Inc  
++1  
+ Tandem Diabetes Care Inc  
+-12  
+-United Therapeutics Corp  
+-16  
+-Tapestry Inc  
+-21  
+-UnitedHealth Group Inc  
+-749  
++2  
++Seagate Technology Holdings PLC  
++3  
+ Target Corp  
+-332  
+-Unity Software Inc  
+-37  
++132  
++SeaGen Inc  
++87  
+ TE Connectivity Ltd  
+-57  
+-Univar Solutions Inc  
+-2  
++36  
++Sealed Air Corp  
++24  
+ TechnipFMC PLC  
++2  
++SeaWorld Entertainment Inc  
+ 1  
+-Universal Display Corp  
+-27  
+ Teladoc Health Inc  
+-13  
+-Universal Health Services Inc  
+-32  
+-Teledyne Technologies Inc  
+ 1  
+-Unum Group  
+-19  
++SEI Investments Co  
++1  
++Teledyne Technologies Inc  
++12  
++Sempra Energy  
++74  
+ Teleflex Inc  
+-40  
+-Upwork Inc  
++28  
++Semtech Corp  
+ 2  
+-Tempur Sealy International Inc  
+-11  
+-Urban Edge Properties  
+-59  
+ Tenable Holdings Inc  
+-19  
+-US Bancorp  
+-41  
+-Tenet Healthcare Corp  
+-43  
+-UserTesting Inc  
+-6  
+-Teradyne Inc  
+ 18  
+-Vail Resorts Inc  
+-556  
+-Terex Corp  
+-1  
+-Valvoline Inc  
++Seres Therapeutics Inc  
++2  
++Tenet Healthcare Corp  
++16  
++Seritage Growth Properties  
+ 1  
++Teradyne Inc  
++31  
++Service Corp International/US  
++16  
+ Terreno Realty Corp  
+-121  
+-Varonis Systems Inc  
+-22  
++67  
++ServiceNow Inc  
++249  
+ Tesla Inc  
+-1.370  
+-Vaxcyte Inc  
+-4  
++739  
++Sherwin-Williams Co/The  
++61  
+ Tetra Tech Inc  
+-1  
+-Veeva Systems Inc  
+-48  
++3  
++Shift4 Payments Inc  
++4  
+ Texas Instruments Inc  
+-249  
+-Ventas Inc  
+-836  
+-Texas Pacific Land Corp  
+-5  
+-Ventyx Biosciences Inc  
+-5  
++142  
++Shockwave Medical Inc  
++15  
+ Texas Roadhouse Inc  
+-28  
+-VeriSign Inc  
+-161  
+-The Bank of  New York Mellon Corporation 47  
+-Verisk Analytics Inc  
+-43  
+-Thermo Fisher Scientific Inc  
+-380  
+-Verizon Communications Inc  
+-400  
+-Thor Industries Inc  
++12  
++Shoe Carnival Inc  
++4  
++The Bank of  New York Mellon Corporation 43  
++Sight Sciences Inc  
+ 1  
+-Vertex Pharmaceuticals Inc  
+-362  
++Thermo Fisher Scientific Inc  
++201  
++Silk Road Medical Inc  
++3  
+ Thoughtworks Holding Inc  
+-10  
+-Vertiv Holdings Co  
+-21  
++4  
++Silvergate Capital Corp  
++1  
+ TJX Cos Inc/The  
+-256  
+-Verve Therapeutics Inc  
+-7  
++149  
++Simon Property Group Inc  
++101  
+ T-Mobile US Inc  
+-345  
+-VF Corp  
+-3  
++282  
++Sirius XM Holdings Inc  
++20  
+ Toast Inc  
+-11  
+-ViacomCBS Inc  
+-21  
++2  
++SiteOne Landscape Supply Inc  
++1  
+ Toll Brothers Inc  
+-13  
+-Viatris Inc  
+-4  
++5  
++Six Flags Entertainment Corp  
++5  
+ Toro Co/The  
+-1  
+-Viavi Solutions Inc  
+-44  
+-Tractor Supply Co  
+-33  
+-VICI Properties Inc  
+-155  
+-Trade Desk Inc/The  
+-84  
+-Victory Capital Holdings Inc  
+ 2  
+ Beursgenoteerde beleggingen van ABP  
+-**27**  
+-per 31 december 2021  
++**24**  
++per 30 juni 2022  
+ 
+ * * *
+ 
+@@ -6607,250 +5894,251 @@
+ Totaal  
+ Land Omschrijving  
+ Totaal  
+-Virtu Financial Inc  
+-2  
+-**Oceanië 4.552**  
+-Visa Inc  
+-545  
+-**Australië 4.496**  
+-Vishay Intertechnology Inc  
+-2  
+-Afterpay Ltd  
+-1  
++Tractor Supply Co  
++23  
+ Vista Outdoor Inc  
+-7  
+-ALS Ltd  
+-3  
++2  
++Trade Desk Inc/The  
++5  
+ Vistra Corp  
+ 6  
+-Altium Ltd  
+-11  
++Tradeweb Markets Inc  
++39  
+ VMware Inc  
+-82  
+-Alumina Ltd  
+-9  
+-Vontier Corp  
+-3  
+-AMP Ltd  
+-36  
++57  
++Trane Technologies PLC  
++44  
+ Vornado Realty Trust  
+-10  
+-Ampol Ltd  
+-12  
++8  
++TransDigm Group Inc  
++78  
+ Voya Financial Inc  
+-22  
+-APA Group  
+-14  
++8  
++TransUnion 432  
+ Vulcan Materials Co  
+-74  
+-Aristocrat Leisure Ltd  
+-69  
++22  
++Travel + Leisure Co  
++10  
+ W R Berkley Corp  
+-126  
+-ASX Ltd  
+-39  
+-Walgreens Boots Alliance Inc  
++156  
++Travelers Cos Inc/The  
+ 59  
+-Atlas Arteria Ltd  
+-27  
+-Walt Disney Co/The  
+-194  
+-Atlassian Corp PLC  
+-158  
++Walgreens Boots Alliance Inc  
++24  
++Travere Therapeutics Inc  
++8  
++WALT DISNEY CO/THE  
++56  
++Trex Co Inc  
++1  
++Warner Bros Discovery Inc  
++8  
++Tri Pointe Homes Inc  
++8  
++Washington Federal Inc  
++15  
++Trimble Inc  
++5  
+ Waste Connections Inc  
+-143  
+-Aurizon Holdings Ltd  
+-42  
++111  
++TriNet Group Inc  
++1  
+ Waste Management Inc  
+-274  
+-AusNet Services Ltd  
+-6  
++256  
++TripAdvisor Inc  
++3  
+ Waters Corp  
+-77  
+-Australia & New Zealand Banking Group Ltd 112  
+-Watts Water Technologies Inc  
++24  
++Tronox Holdings PLC  
+ 1  
+-Bapcor Ltd  
+-5  
+-Wayfair Inc  
++WD-40 Co  
++284  
++Truist Financial Corp  
++117  
++Webster Financial Corp  
+ 1  
+-Bendigo & Adelaide Bank Ltd  
++Tupperware Brands Corp  
+ 1  
+-WD-40 Co  
+-313  
+-BHP Group Ltd  
+-120  
+ WEC Energy Group Inc  
+-80  
+-BlueScope Steel Ltd  
+-18  
++93  
++Twilio Inc  
++21  
+ Wells Fargo & Co  
+-366  
+-Brambles Ltd  
+-39  
+-Welltower Inc  
+-3  
+-carsales.com Ltd  
++331  
++Twist Bioscience Corp  
+ 10  
+-Wendy’s Co/The  
+-2  
+-Challenger Ltd  
+-12  
++Welltower Inc  
++4  
++Twitter Inc  
++21  
+ Werner Enterprises Inc  
+-20  
+-Charter Hall Group  
+-63  
++2  
++Tyler Technologies Inc  
++402  
+ West Pharmaceutical Services Inc  
+-945  
+-Cochlear Ltd  
+-444  
++630  
++Tyra Biosciences Inc  
++1  
+ Western Digital Corp  
+-79  
+-Coles Group Ltd  
+-35  
++8  
++Tyson Foods Inc  
++39  
+ Western Midstream Partners LP  
+-11  
+-Commonwealth Bank of Australia  
+-40  
++7  
++Uber Technologies Inc  
++53  
+ Western Union Co/The  
+-59  
+-Computershare Ltd  
+-40  
++58  
++UDR Inc  
++2  
+ Westinghouse Air Brake Technologies Corp 1  
+-Costa Group Holdings Ltd  
+-18  
+-Westlake Chemical Corp  
+-18  
+-CSL Ltd  
+-93  
++UGI Corp  
++27  
++Westlake Corp  
++2  
++Ulta Beauty Inc  
++76  
+ Westrock Co  
+-46  
+-Dexus 281  
++42  
++Ultragenyx Pharmaceutical Inc  
++5  
++WEX Inc  
++1  
++UMH Properties Inc  
++4  
+ Weyerhaeuser Co  
+-6  
+-Domino’s Pizza Enterprises Ltd  
+-2  
++12  
++Under Armour Inc  
++1  
+ Whirlpool Corp  
+-28  
+-Eagers Automotive Ltd  
+-10  
++29  
++Union Pacific Corp  
++185  
+ Williams Cos Inc/The  
+-46  
+-Endeavour Group Ltd/Australia  
+-1  
+-Williams-Sonoma Inc  
+-14  
+-Evolution Mining Ltd  
+-6  
++39  
++United Airlines Holdings Inc  
++8  
+ Willis Towers Watson PLC  
+-22  
+-Fortescue Metals Group Ltd  
+-48  
++3  
++United Natural Foods Inc  
++9  
+ Wintrust Financial Corp  
+-2  
+-Goodman Group  
+-810  
++1  
++United Parcel Service Inc  
++102  
+ Wolfspeed Inc  
+-21  
+-GPT Group/The  
+-104  
++22  
++United Rentals Inc  
++45  
+ Workday Inc  
+-191  
+-Healius Ltd  
+-15  
++115  
++United Therapeutics Corp  
++31  
+ World Acceptance Corp  
+-3  
+-IGO Ltd  
+-5  
++2  
++UnitedHealth Group Inc  
++793  
+ WP Carey Inc  
+-98  
+-Iluka Resources Ltd  
+-21  
+-WW Grainger Inc  
+-8  
+-Ingenia Communities Group  
++78  
++Unity Software Inc  
+ 3  
++WW Grainger Inc  
++43  
++Univar Solutions Inc  
++2  
++WW International Inc  
++1  
++Universal Display Corp  
++6  
+ Wyndham Hotels & Resorts Inc  
+-7  
+-Inghams Group Ltd  
+-3  
++14  
++Universal Health Services Inc  
++23  
+ Xcel Energy Inc  
+-89  
+-Insignia Financial Ltd  
+-10  
+-Xerox Holdings Corp  
++103  
++Unum Group  
+ 2  
+-Insurance Australia Group Ltd  
+-18  
+-Xilinx Inc  
+-14  
+-James Hardie Industries PLC  
+-58  
++Xerox Holdings Corp  
++5  
++Urban Edge Properties  
++26  
+ XPO Logistics Inc  
+-4  
+-JB Hi-Fi Ltd  
+-4  
++3  
++US Bancorp  
++14  
+ Xylem Inc/NY  
+-57  
+-Judo Capital Holdings Ltd  
++19  
++Vail Resorts Inc  
++398  
++Yelp Inc  
++11  
++Valvoline Inc  
+ 2  
+ Yum! Brands Inc  
+-38  
+-Lendlease Corp Ltd  
+-5  
++25  
++Varonis Systems Inc  
++9  
+ Zebra Technologies Corp  
+-828  
+-Lynas Rare Earths Ltd  
++434  
++Vaxcyte Inc  
+ 3  
+ Zendesk Inc  
+-17  
+-Macquarie Group Ltd  
+-52  
++2  
++Veeva Systems Inc  
++16  
+ Zillow Group Inc  
+-12  
+-Magellan Financial Group Ltd  
+-4  
++5  
++Ventas Inc  
++930  
+ Zimmer Biomet Holdings Inc  
+-22  
+-Mayne Pharma Group Ltd  
+-7  
++9  
++Ventyx Biosciences Inc  
++2  
+ Zoetis Inc  
+-137  
+-Medibank Pvt Ltd  
+-24  
+-Zogenix Inc  
+-4  
+-Metcash Ltd  
+-14  
++95  
++VeriSign Inc  
++101  
+ Zoom Video Communications Inc  
+-92  
+-Mineral Resources Ltd  
+-40  
++13  
++Verisk Analytics Inc  
++26  
+ ZoomInfo Technologies Inc  
+-62  
+-Mirvac Group  
+-386  
++21  
++Verizon Communications Inc  
++292  
+ Zscaler Inc  
+-29  
+-Monadelphous Group Ltd  
+-6  
++11  
++Vertex Pharmaceuticals Inc  
++275  
+ Zymergen Inc  
+-2  
+-National Australia Bank Ltd  
+-87  
+-Zymeworks Inc  
++1  
++Vertiv Holdings Co  
++1  
++VF Corp  
+ 3  
+-Newcrest Mining Ltd  
+-12  
+-Zynga Inc  
+-8  
+-oOh!media Ltd  
+-7  
+-Origin Energy Ltd  
+-8  
++**Oceanië 3.366**  
++Viatris Inc  
++13  
++**Australië 3.314**  
++Viavi Solutions Inc  
++26  
++ALS Ltd  
++6  
++VICI Properties Inc  
++136  
++Altium Ltd  
++4  
++Viper Energy Partners LP  
++1  
++Ampol Ltd  
++13  
++Visa Inc  
++419  
++APA Group  
++17  
+ Beursgenoteerde beleggingen van ABP  
+-**28**  
+-per 31 december 2021  
++**25**  
++per 30 juni 2022  
+ 
+ * * *
+ 
+@@ -6858,301 +6146,365 @@
+ Totaal  
+ Land Omschrijving  
+ Totaal  
+-Premier Investments Ltd  
+-3  
+-Boa Vista Servicos SA  
+-2  
+-QBE Insurance Group Ltd  
+-90  
+-Bradespar SA  
++Aristocrat Leisure Ltd  
++57  
++Steadfast Group Ltd  
++6  
++ASX Ltd  
+ 12  
+-REA Group Ltd  
+-18  
+-Braskem SA  
+-16  
+-Reliance Worldwide Corp Ltd  
+-8  
+-BRF SA  
+-5  
+-Ridley Corp Ltd  
+-8  
+-Caixa Seguridade Participacoes S/A  
+-3  
+-Rio Tinto Ltd  
+-62  
+-Cia Brasileira de Distribuicao  
+-3  
+-Sandfire Resources Ltd  
+-1  
+-Cia de Saneamento Basico do Estado de Sao Paulo 1  
+-Santos Ltd  
+-53  
+-Cia de Saneamento de Minas Gerais-COPASA 8  
+-Scentre Group  
+-110  
+-Cia de Saneamento do Parana  
+-2  
+-Sonic Healthcare Ltd  
+-79  
+-Cia Energetica de Minas Gerais  
+-28  
+-South32 Ltd  
+-67  
+-Cia Ferro Ligas da Bahia - Ferbasa  
++Stockland 65  
++Atlas Arteria Ltd  
+ 1  
+-Steadfast Group Ltd  
+-10  
+-Cia Paranaense de Energia  
+-8  
+-Stockland 75  
+-Cia Siderurgica Nacional SA  
+-16  
+ Suncorp Group Ltd  
+-50  
+-Cielo SA  
+-1  
++14  
++Atlassian Corp PLC  
++89  
+ Super Retail Group Ltd  
+-8  
+-Cogna Educacao  
+-2  
+-Tabcorp Holdings Ltd  
+-1  
+-CPFL Energia SA  
+-7  
+-Technology One Ltd  
+-1  
+-CSN Mineracao SA  
+-7  
++3  
++Aurizon Holdings Ltd  
++24  
+ Telstra Corp Ltd  
+-99  
+-Dexco SA  
+-23  
++31  
++Australia & New Zealand Banking Group Ltd 52  
+ Transurban Group  
+-4  
+-Diagnosticos da America SA  
+-5  
++12  
++BHP Group Ltd  
++285  
+ Treasury Wine Estates Ltd  
+-22  
+-EDP - Energias do Brasil SA  
+-1  
+-Vicinity Centres  
+-14  
+-Enauta Participacoes SA  
++16  
++BlueScope Steel Ltd  
+ 3  
++Vicinity Centres  
++47  
++Brambles Ltd  
++21  
+ Viva Energy Group Ltd  
+-8  
+-Energisa SA  
+-11  
+-Waypoint REIT  
++7  
++carsales.com Ltd  
+ 6  
+-Equatorial Energia SA  
++Waypoint REIT Ltd  
+ 1  
++Challenger Ltd  
++3  
+ Wesfarmers Ltd  
+-8  
+-Fleury SA  
+ 13  
++Charter Hall Group  
++21  
+ West African Resources Ltd  
+-4  
+-Gerdau SA  
+-5  
++3  
++Cochlear Ltd  
++425  
+ Westpac Banking Corp  
+-50  
+-GetNinjas SA  
+-1  
+-Woodside Petroleum Ltd  
+-46  
+-Hapvida Participacoes e Investimentos SA 34  
++36  
++Coles Group Ltd  
++25  
++Woodside Energy Group Ltd  
++61  
++Commonwealth Bank of Australia  
++124  
+ Woolworths Group Ltd  
+-35  
+-Instituto Hermes Pardini SA  
+-13  
+-Worley Ltd  
+-9  
+-Itau Unibanco Holding SA  
+-80  
++41  
++Computershare Ltd  
++8  
+ Xero Ltd  
+-14  
+-Itausa SA  
+-14  
+-JBS SA  
+-68  
++5  
++Coronado Global Resources Inc  
++2  
++CSL Ltd  
++76  
+ **Nieuw Zeeland **  
+-**57**  
+-Klabin SA  
+-17  
++**51**  
++Dexus 229  
++Auckland International Airport Ltd  
++4  
++Domino’s Pizza Enterprises Ltd  
++1  
+ Fisher & Paykel Healthcare Corp Ltd  
+-12  
+-Localiza Rent a Car SA  
+-20  
++2  
++Endeavour Group Ltd/Australia  
++3  
+ Fletcher Building Ltd  
+ 1  
+-Locaweb Servicos de Internet SA  
+-5  
++Evolution Mining Ltd  
++1  
+ Mercury NZ Ltd  
+-4  
+-Lojas Americanas SA  
+-14  
+-Meridian Energy Ltd  
+-10  
+-Lojas Renner SA  
+-18  
+-SKYCITY Entertainment Group Ltd  
++2  
++Fortescue Metals Group Ltd  
+ 13  
+-Magazine Luiza SA  
+-17  
++Meridian Energy Ltd  
++12  
++Goodman Group  
++567  
+ Spark New Zealand Ltd  
+-17  
+-Marfrig Global Foods SA  
+-20  
+-Minerva SA/Brazil  
+-19  
+-**Zuid-Amerika 2.001**  
+-MOBLY SA  
+-2  
+-**Argentinië 28**  
+-Multiplan Empreendimentos Imobiliarios SA 8  
+-Adecoagro SA  
+-2  
+-Notre Dame Intermedica Participacoes SA 20  
+-Globant SA  
+-26  
+-Odontoprev SA  
++30  
++GPT Group/The  
++46  
++IDP Education Ltd  
+ 1  
+-Omega Energia SA  
+-10  
+-**Brazilië 1.585**  
+-Pagseguro Digital Ltd  
+-12  
++**Zuid-Amerika 1.988**  
++IGO Ltd  
++9  
++**Brazilië 1.574**  
++Iluka Resources Ltd  
++19  
+ 3R PETROLEUM OLEO E GAS SA  
+-6  
+-Petroleo Brasileiro SA  
+-131  
++12  
++Incitec Pivot Ltd  
++1  
+ Aeris Industria E Comercio De Equipamentos  
+-Porto Seguro SA  
+-6  
+-Para Geracao De Energia SA  
+-2  
+-Raia Drogasil SA  
+-16  
++Insurance Australia Group Ltd  
++3  
++Para Geracao De Energia SA 2  
++James Hardie Industries PLC  
++14  
+ Ambev SA  
+-21  
+-Raizen SA  
+-16  
++20  
++JB Hi-Fi Ltd  
++6  
+ Americanas SA  
+ 14  
+-Randon SA Implementos e Participacoes  
+-2  
+-Arco Platform Ltd  
+-8  
+-Rede D’Or Sao Luiz SA  
+-4  
++Lendlease Corp Ltd  
++3  
+ Arezzo Industria e Comercio SA  
+-12  
+-Rumo SA  
+-52  
++17  
++Lottery Corp Ltd/The  
++3  
+ Atacadao SA  
+-12  
+-Sao Martinho SA  
+-15  
+-B3 SA - Brasil Bolsa Balcao  
+-112  
+-Sendas Distribuidora SA  
++19  
++Lynas Rare Earths Ltd  
+ 6  
++B3 SA - Brasil Bolsa Balcao  
++140  
++Macquarie Group Ltd  
++47  
+ Banco Bradesco SA  
+-206  
+-Sequoia Logistica e Transportes SA  
+-9  
++138  
++Medibank Pvt Ltd  
++20  
++Banco BTG Pactual SA  
++18  
++Metcash Ltd  
++3  
+ Banco do Brasil SA  
+-14  
+-SLC Agricola SA  
++31  
++Mineral Resources Ltd  
+ 10  
+ Banco Santander Brasil SA  
+-8  
+-Sul America SA  
+-3  
++9  
++Mirvac Group  
++251  
+ BB Seguridade Participacoes SA  
+ 17  
+-Suzano SA  
++National Australia Bank Ltd  
++64  
++Bradespar SA  
++13  
++Newcrest Mining Ltd  
++5  
++Braskem SA  
++5  
++nib holdings Ltd/Australia  
+ 1  
+-BK Brasil Operacao e Assessoria a  
+-Taurus Armas SA  
+-3  
+-Restaurantes SA  
++Caixa Seguridade Participacoes S/A  
+ 5  
+-Telefonica Brasil SA  
++Northern Star Resources Ltd  
+ 2  
+-Blau Farmaceutica SA  
++Camil Alimentos SA  
++2  
++Nufarm Ltd/Australia  
++2  
++Centrais Eletricas Brasileiras SA  
++33  
++Orica Ltd  
++2  
++Cia Brasileira de Aluminio  
++2  
++Origin Energy Ltd  
++4  
++Cia Brasileira de Distribuicao  
++7  
++Orora Ltd  
++5  
++Cia de Saneamento Basico do Estado de Sao Paulo 1  
++Pro Medicus Ltd  
++1  
++Cia de Saneamento de Minas Gerais-COPASA 9  
++Qantas Airways Ltd  
++1  
++Cia de Saneamento do Parana  
++6  
++QBE Insurance Group Ltd  
++41  
++Cia Energetica de Minas Gerais  
++33  
++Ramsay Health Care Ltd  
++1  
++Cia Ferro Ligas da Bahia - Ferbasa  
++4  
++REA Group Ltd  
++6  
++Cia Paranaense de Energia  
++20  
++Reece Ltd  
++1  
++Cia Siderurgica Nacional SA  
++4  
++Rio Tinto Ltd  
++44  
++Cogna Educacao  
++5  
++Sandfire Resources Ltd  
++4  
++Cosan SA  
++26  
++Santos Ltd  
++70  
++CPFL Energia SA  
+ 3  
+-TIM SA/Brazil  
++Scentre Group  
++107  
++Dexco SA  
++1  
++SEEK Ltd  
++7  
++EDP - Energias do Brasil SA  
++3  
++Shopping Centres Australasia Property Group 14  
++Enauta Participacoes SA  
+ 9  
+-Totvs SA  
+-21  
++Sonic Healthcare Ltd  
++9  
++Energisa SA  
++3  
++South32 Ltd  
++32  
++Fleury SA  
++18  
+ Beursgenoteerde beleggingen van ABP  
+-**29**  
+-per 31 december 2021  
++**26**  
++per 30 juni 2022  
+ 
+ * * *
+ 
+-Transmissora Alianca de Energia Eletrica SA 7  
+-Enel Americas SA  
+-1  
++Land Omschrijving  
++Totaal  
++Land Omschrijving  
++Totaal  
++Gerdau SA  
++21  
+ Ultrapar Participacoes SA  
+-8  
+-Enel Chile SA  
+-1  
++10  
++Gol Linhas Aereas Inteligentes SA  
++2  
+ Unipar Carbocloro SA  
+-12  
+-Falabella SA  
+-35  
+-Usinas Siderurgicas de Minas Gerais SA  
+-Parque Arauco SA  
+-6  
+-Usiminas 8  
+-Sociedad Quimica y Minera de Chile SA  
+-66  
++15  
++Hapvida Participacoes e Investimentos S/A 55  
++Usinas Siderurgicas de Minas Gerais SA Usiminas 4  
++Instituto Hermes Pardini SA  
++16  
+ Vale SA  
+-180  
+-VTEX 4  
+-**Colombia 65**  
++246  
++Itau Unibanco Holding SA  
++96  
+ WEG SA  
+-25  
+-Bancolombia SA  
+-55  
++21  
++Itausa SA  
++14  
+ XP Inc  
+-22  
+-Geopark Ltd  
+-10  
+-**Chili 187**  
+-**Peru 127**  
++23  
++JBS SA  
++60  
++Klabin SA  
++18  
++**Chili 238**  
++Light SA  
++2  
+ Banco de Chile  
+-16  
+-Cia de Minas Buenaventura SAA  
+-1  
++34  
++Localiza Rent a Car SA  
++21  
+ Banco de Credito e Inversiones SA  
+-2  
+-Credicorp Ltd  
+-65  
++3  
++Lojas Renner SA  
++28  
+ Banco Santander Chile  
+-14  
+-Southern Copper Corp  
+-62  
++32  
++Magazine Luiza SA  
++8  
+ CAP SA  
+ 2  
++Marfrig Global Foods SA  
++14  
+ Cencosud SA  
+-18  
+-**Uruguay 9**  
++16  
++Minerva SA/Brazil  
++33  
+ Cencosud Shopping SA  
+-7  
+-Dlocal Ltd/Uruguay  
+-9  
+-Cia Cervecerias Unidas SA  
++2  
++Multiplan Empreendimentos Imobiliarios SA 17  
++Cia Sud Americana de Vapores SA  
++1  
++Omega Energia SA  
+ 1  
+ Embotelladora Andina SA  
++16  
++Petro Rio SA  
++1  
++Empresas COPEC SA  
++1  
++Raia Drogasil SA  
++51  
++Falabella SA  
+ 15  
+-**Eindtotaal **  
+-** 207.962 **  
+-Empresas CMPC SA  
++Raizen SA  
++31  
++Parque Arauco SA  
++4  
++Randon SA Implementos e Participacoes  
+ 1  
++Sociedad Quimica y Minera de Chile SA 112  
++Rede D’Or Sao Luiz SA  
++4  
++Rumo SA  
++25  
++**Colombia 32**  
++Santos Brasil Participacoes SA  
++2  
++Bancolombia SA  
++21  
++Sao Martinho SA  
++11  
++Geopark Ltd  
++10  
++Sendas Distribuidora SA  
++12  
++Grupo Argos SA/Colombia  
++2  
++Sequoia Logistica e Transportes SA  
++4  
++**Peru 138**  
++Suzano SA  
++1  
++Cia de Minas Buenaventura SAA  
++1  
++Taurus Armas SA  
++2  
++Credicorp Ltd  
++72  
++Telefonica Brasil SA  
++19  
++Southern Copper Corp  
++65  
++TIM SA/Brazil  
++6  
++**Uruguay 6**  
++Totvs SA  
++22  
++Dlocal Ltd/Uruguay  
++6  
++Transmissora Alianca de Energia Eletrica SA 9  
++**Eindtotaal **  
++** 152.274 **  
+ ABP geeft geen detailinformatie wanneer zijn positie op de  
+ Afwijkingen tussen de landenkaart en het overzicht (pdf)  
+ beleggingsmarkt zou worden geschaad door openbaar-  
+@@ -7167,6 +6519,12 @@
+ specifieke belegging als dat op juridische bezwaren stuit,  
+ bijvoorbeeld wanneer het fonds contractueel is verplicht om  
+ vertrouwelijkheid te respecteren.  
++Beursgenoteerde beleggingen van ABP  
++**27**  
++per 30 juni 2022  
++
++* * *
++
+ **Meer informatie? Ga n[aar abp.nl](https://www.abp.nl)**  
+ [**abp.nl**](https://www.abp.nl)  
+ 

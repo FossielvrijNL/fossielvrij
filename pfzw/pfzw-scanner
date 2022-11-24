@@ -1,0 +1,265 @@
+#!/bin/bash
+
+usage () {
+  echo "Checks the investment PDFs of pension fund ABP for changes and notifies the provided email addresses."
+  echo 
+  echo "Arguments:"
+  echo "  --mailto email1,email2"
+  echo "  --mailto-admin admin-email"
+  echo "  --debug    : do a dry-run and only email the admin"
+  exit
+}
+
+
+# Process command line arguments
+while [ $# -gt 0 ] ; do
+  case "$1" in
+    --help | -help | -h )
+      usage
+      ;;
+    --mailto )
+      # Split next argument by comma or space and put items in array.
+      IFS=', ' read -r -a MAILTO <<< "$2"
+      shift
+      ;;
+    --mailto-admin )
+      #	Split next argument by comma or	space and put items in array.
+      IFS=', ' read -r -a MAILTO_ADMIN <<< "$2"
+      shift
+      ;;
+    --debug )
+      debug=true
+      set -x
+      ;;
+  esac
+  shift
+done
+
+
+# Set sender email address (array)
+export REPLYTO=("${MAILTO_ADMIN[@]}")
+if $debug ; then
+  export MAILTO=("${MAILTO_ADMIN[@]}")
+fi
+export MAILTO_NOCHANGE=("${MAILTO_ADMIN[@]}")
+
+
+mkdir -p archive
+
+
+#
+#   FUNCTIONS
+#
+
+
+check_sanity () {
+  local file="$1"
+  local lines="$2"
+  local keyword="$3"
+  if [ "$(wc -l < $file)" -lt "$lines" ] ; then
+    echo "ERROR: $file heeft minder dan $lines regels. Dat kan niet kloppen."
+    exit 1
+  fi
+
+  if ! grep --silent "$keyword" "$file" ; then
+    echo "ERROR: $file bevat niet keyword '$keyword'." \
+         "Proces waarschijnlijk niet voltooid."
+    exit 1
+  fi
+}
+
+
+side_by_side_report () {
+  local old_file="$1"
+  local new_file="$2"
+  local common_fields="$3"
+  local output_file="$4"
+  case $common_fields in
+    1 )
+      join -t $'\t' -j 1 -e 0 -a 1 -a 2 -o auto \
+        "$old_file" \
+        "$new_file" \
+      >	"$output_file"
+      ;;
+    2 )
+      join -t $'\t' -j 1 -e 0 -a 1 -a 2 -o auto \
+        <(awk -F'\t' '{print $1"|"$2"\t"$3}' "$old_file") \
+        <(awk -F'\t' '{print $1"|"$2"\t"$3}' "$new_file") \
+      | tr '|' '\t' \
+      >	"$output_file"
+      ;;
+    3 )
+      join -t $'\t' -j 1 -e 0 -a 1 -a 2 -o auto \
+        <(awk -F'\t' '{print $1"|"$2"|"$3"\t"$4}' "$old_file") \
+        <(awk -F'\t' '{print $1"|"$2"|"$3"\t"$4}' "$new_file") \
+      | tr '|' '\t' \
+      > "$output_file"
+      ;;
+    4 )
+      join -t $'\t' -j 1 -e 0 -a 1 -a 2 -o auto \
+        <(awk -F'\t' '{print $1"|"$2"|"$3"|"$4"\t"$5}' "$old_file") \
+        <(awk -F'\t' '{print $1"|"$2"|"$3"|"$4"\t"$5}' "$new_file") \
+      | tr '|' '\t' \
+      > "$output_file"
+      ;;
+    * )
+      echo "ERROR: '$common_fields' common fields not yet supported."
+      exit 1
+      ;;
+  esac
+}
+
+
+compare_and_report () {
+  local file="$1"  # Zonder extensie
+  fields="$2"
+  # Is de nieuwste versie anders dan de vorige versie?
+  difference=$(diff --unified --new-file "$file.old.tsv" "$file.tsv")
+  if [ -n "$difference" ] ; then
+    echo "Sending email"
+    echo "$difference" > "$file.diff.txt"
+    # If the number of fields is specified, show a joint report
+    # based on the common fields of the old and new list.
+    if [ -n "$fields" ] ; then
+      common_fields=$(( fields - 1 ))
+      side_by_side_report "$file.old.tsv" "$file.tsv" $common_fields "$file.join.tsv"
+    fi
+    # Send email
+    mutt -s "PFZW - WIJZIGING GEVONDEN in $file!" \
+           -e 'set send_charset="utf-8"' \
+           "${MAILTO[@]}" \
+           -a "$file.tsv" \
+           -a "$file.diff.txt" \
+           -a "$file.join.tsv" \
+    <<-MESSAGE
+	Beste Fossielvrij NL & Groen Pensioen,
+	
+	Er zijn wijzigingen gedetecteerd in de beleggingscijfers van PFZW.
+	
+	De nieuwste cijfers zijn bijgevoegd als attachment in het tab separated 
+	values formaat. Die zijn te importeren in Excel. Kies wel UTF-8 als 
+	character set.
+	
+	Een overzicht van de verschillen is ook bijgevoegd.
+	
+	Met vriendelijke groet,
+    Script $(basename '$BASH_SOURCE') van ${USER} op ${HOSTNAME}.
+	MESSAGE
+    # Save this version for the next check
+    cp "$file.tsv" "archive/$file.$(date +'%Y-%m-%dT%H:%M:%S').tsv"
+    mv "$file.tsv" "$file.old.tsv"
+  else
+    mutt -s "PFZW - geen wijzigingen in $file." \
+           -e 'set send_charset="utf-8"' \
+           "${MAILTO_NOCHANGE[@]}" \
+    <<-MESSAGE2
+	Beste Fossielvrij NL & Groen Pensioen,
+	
+	Er geen wijzigingen gedetecteerd in de beleggingscijfers van PFZW.
+	
+	Met vriendelijke groet,
+    Script $(basename '$BASH_SOURCE') van ${USER} op ${HOSTNAME}.
+	MESSAGE2
+  fi
+}
+
+#
+#  END FUNCTIONS
+#
+
+
+if [ "$1" = "--debug" ] ; then
+  set -x
+fi
+
+# Aandelen
+file=pfzw-aandelen
+json_url=$(wget --no-check-certificate \
+                https://www.pfzw.nl/over-pfzw/zo-beleggen-we/waarin-we-beleggen/overzicht-aandelen.html \
+                -q -O - \
+           | grep -o 'https://www.pfzw.nl/.*\.json')
+wget --no-check-certificate "$json_url" -O "$file.json"
+cat "$file.json" \
+| jq -r '.[] | [ .Sector , .Onderneming, .Land, .BelangEur ] | @tsv ' \
+| sed -e 's/\([0-9]\)\.\([0-9]\)/\1\2/g' \
+| sort > "$file.tsv"
+check_sanity "$file.tsv" 500 Nederland
+compare_and_report "$file" 4
+
+
+# Obligaties
+file=pfzw-obligaties
+json_url=$(wget --no-check-certificate \
+                https://www.pfzw.nl/over-pfzw/zo-beleggen-we/waarin-we-beleggen/overzicht-obligaties.html \
+                -q -O - \
+           | grep -o 'https://www.pfzw.nl/.*\.json')
+wget --no-check-certificate "$json_url" -O "$file.json"
+cat "$file.json" \
+| jq -r '.[] | [ .Sector , .Naam , .Land , .BelangEur ] | @tsv ' \
+| sed -e 's/\([0-9]\)\.\([0-9]\)/\1\2/g' \
+| sort > "$file.tsv"
+check_sanity "$file.tsv" 100 Nederland
+compare_and_report "$file" 4
+
+
+# Private equity
+file=pfzw-private-equity
+json_url=$(wget --no-check-certificate \
+                https://www.pfzw.nl/over-pfzw/zo-beleggen-we/waarin-we-beleggen/overzicht-private-equity.html \
+                -q -O - \
+           | grep -o 'https://www.pfzw.nl/.*\.json')
+wget --no-check-certificate "$json_url" -O "$file.json"
+cat "$file.json" \
+| sed -e 's/\r\n//' \
+| jq -r '.[] | [ .Investering , .Investeerder , .Manager , .TypeInvestering , .Ingangsjaar , .Marktwaarde , .Aandeel , .Activiteiten ] | @tsv ' \
+| sed -e 's/<[^>]*>//g' \
+| sort > "$file.tsv"
+check_sanity "$file.tsv" 20 Nederland
+compare_and_report "$file"
+
+
+# Credit risk sharing
+file=pfzw-credit-risk-sharing
+json_url=$(wget --no-check-certificate \
+                https://www.pfzw.nl/over-pfzw/zo-beleggen-we/waarin-we-beleggen/overzicht-credit-risk-sharing.html \
+                -q -O - \
+           | grep -o 'https://www.pfzw.nl/.*\.json')
+wget --no-check-certificate "$json_url" -O "$file.json"
+cat "$file.json" \
+| sed -e 's/\r\n//' \
+| jq -r '.[] | [ .Categorie , .CreditRiskSharingBank , .IndicatieMarktwaardeEur , .Ingangsjaar , .Omschrijving ] | @tsv ' \
+| sed -e 's/<br>/ - /g' -e 's/<[^>]*>//g' \
+| sort > "$file.tsv"
+check_sanity "$file.tsv" 20 Nederland
+compare_and_report "$file"
+
+
+# Externe vermogensbeheerders
+file=pfzw-externe-vermogensbeheerders
+json_url=$(wget --no-check-certificate \
+                https://www.pfzw.nl/over-pfzw/zo-beleggen-we/waarin-we-beleggen/overzicht-externe-vermogensbeheerders.html \
+                -q -O - \
+           | grep -o 'https://www.pfzw.nl/.*\.json')
+wget --no-check-certificate "$json_url" -O "$file.json"
+cat "$file.json" \
+| sed -e 's/\r\n//' \
+| jq -r '.[] | [ .Categorie , .Vermogensbeheerder , .IndicatieMarktwaarde , .Ingangsjaar , .MandaatnaamEnOmschrijving ] | @tsv ' \
+| sed -e 's/<br>/ - /g' -e 's/<[^>]*>//g' -e 's/\([0-9]\)\.\([0-9]\)/\1\2/g' \
+| sort > "$file.tsv"
+check_sanity "$file.tsv" 20 Nederland
+compare_and_report "$file"
+
+
+# Uitsluitingen
+file=pfzw-uitsluitingen
+json_url=$(wget --no-check-certificate \
+                https://www.pfzw.nl/over-pfzw/zo-beleggen-we/waar-we-niet-in-beleggen/uitsluiting-productgroepen.html \
+                -q -O - \
+           | grep -o 'https://www.pfzw.nl/.*\.json')
+wget --no-check-certificate "$json_url" -O "$file.json"
+cat "$file.json" \
+| jq -r '.[] | [ .RedenUitsluiting , .Organisatie , .Land ] | @tsv ' \
+| sort > "$file.tsv"
+check_sanity "$file.tsv" 20 "Kolen"
+compare_and_report "$file"
+

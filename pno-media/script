@@ -1,0 +1,26 @@
+# These commands have been used to collect investment data from PNO Media pension fund.
+# PNO Media does not publish amounts, only companies & institutes in which they invest.
+
+for file in aandelenlijst.pdf \
+            vastrentende-waardenlijst.pdf \
+            alternatieve-beleggingenlijst.pdf \
+            landenuitsluitingslijst-pnomedia.pdf \
+            bedrijvenuitsluitingslijst-pnomedia.pdf
+do
+  # Download the files
+  wget "https://pnomedia.nl/uploads/files/downloads/$file" -O "$file"
+  # Convert the PDFs to plain text
+  pdftotext -nopgbrk "$file"
+done
+
+# Filter out some unwanted stuff and rename to pno*
+grep -v -e '^$' -e 'Aandelenlijst' -e 'Pensioenfonds PNO Media' aandelenlijst.txt > pno-aandelenlijst.txt
+grep -v -e 'Pensioenfonds PNO Media' -e 'Alternatieve beleggingenlijst' -e '^$' alternatieve-beleggingenlijst.txt > pno-alternatieve-beleggingenlijst.txt
+grep -v -e 'Pensioenfonds PNO Media' -e 'Vastrentende waardenlijst' -e '^$' vastrentende-waardenlijst.txt > pno-vastrentende-waardenlijst.txt
+mv bedrijvenuitsluitingslijst-pnomedia.txt pno-bedrijvenuitsluitingslijst-pnomedia.txt
+mv landenuitsluitingslijst-pnomedia.txt pno-landenuitsluitingslijst-pnomedia.txt
+
+# Find matches on the GOGEL and GCEL lists
+time ../gogel-urgewald/match < pno-aandelenlijst.txt > matches-pno-aandelenlijst.txt
+time ../gogel-urgewald/match < pno-vastrentende-waardenlijst.txt > matches-pno-obligatielijst.txt
+

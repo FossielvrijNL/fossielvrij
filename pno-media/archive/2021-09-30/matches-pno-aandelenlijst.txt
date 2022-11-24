@@ -1,0 +1,190 @@
+
+ADVANCE AUTO PARTS INC
+	gogel-upstream.tsv:Advance Energy Partners LLC	USA
+
+BERKSHIRE HATHAWAY INC
+	gcel.tsv:Berkshire Hathaway Energy Co	USA
+
+BHP GROUP LTD
+	gogel-upstream.tsv:BHP Group Ltd	Australia
+	gogel-midstream.tsv:BHP Group Ltd	Australia
+	gcel.tsv:BHP Group Ltd	Australia
+
+BLACKSTONE INC
+	gogel-upstream.tsv:Blackstone Energy Partners	USA
+
+BP PLC
+	gogel-upstream.tsv:BP plc	United Kingdom
+	gogel-midstream.tsv:BP plc	United Kingdom
+
+CHEVRON CORP
+	gogel-upstream.tsv:Chevron Corporation	USA
+
+CHINA COMMUNICATIONS SERVICES
+	gogel-upstream.tsv:China Communications Construction Company Ltd	China
+
+COMMONWEALTH BANK OF AUSTRALIA
+	gogel-midstream.tsv:Commonwealth LNG LLC	USA
+
+DOVER CORP
+	gogel-upstream.tsv:Dover Petroleum Corp	Canada
+
+ENBRIDGE INC
+	gogel-midstream.tsv:Enbridge Inc	Canada
+
+ENEL SPA
+	gogel-midstream.tsv:Enel SpA	Italy
+	gcel.tsv:Enel SpA	Italy
+
+ENI SPA
+	gogel-upstream.tsv:Eni SpA	Italy
+	gogel-midstream.tsv:Eni SpA	Italy
+
+EOG RESOURCES INC
+	gogel-upstream.tsv:EOG Resources Inc	USA
+
+EQUINOR ASA
+	gogel-upstream.tsv:Equinor ASA	Norway
+	gogel-midstream.tsv:Equinor ASA	Norway
+
+EXXON MOBIL CORP
+	gogel-upstream.tsv:Exxon Mobil Corporation	USA
+	gogel-midstream.tsv:Exxon Mobil Corporation	USA
+
+FF GROUP
+	gogel-midstream.tsv:Harland & Wolff Group Holdings plc	United Kingdom
+
+FORTUM OYJ
+	gcel.tsv:Fortum Oyj	Finland
+
+H & M HENNES & MAURITZ AB
+	gogel-upstream.tsv:Bangladesh Oil, Gas & Mineral Corporation (Petrobangla)	Bangladesh
+	gogel-midstream.tsv:Bangladesh Oil, Gas & Mineral Corporation (Petrobangla)	Bangladesh
+	gcel.tsv:Eins Energie in Sachsen GmbH & Co KG 	Germany
+
+HANGZHOU TIGERMED CONSULTING C
+	gcel.tsv:Hangzhou Jinjiang Group Co Ltd	China
+
+INPEX CORP
+	gogel-upstream.tsv:INPEX Corporation	Japan
+	gogel-midstream.tsv:INPEX Corporation	Japan
+
+INTERNATIONAL BUSINESS MACHINE
+	gogel-upstream.tsv:International Petroleum Corporation (IPC)	Canada
+	gcel.tsv:International Endesa BV	Netherlands
+	gcel.tsv:International Coal Ventures Pvt Ltd 	India
+
+INTERNATIONAL PAPER CO
+	gogel-upstream.tsv:International Petroleum Corporation (IPC)	Canada
+	gcel.tsv:International Endesa BV	Netherlands
+	gcel.tsv:International Coal Ventures Pvt Ltd 	India
+
+J D WETHERSPOON PLC
+	gcel.tsv:Bajaj Hindusthan Sugar Ltd	India
+	gcel.tsv:Bajaj Hindusthan (Singapore) Pvt Ltd 	India
+	gcel.tsv:Węglokoks Kraj Sp z o o	Poland
+
+KINDER MORGAN INC
+	gogel-midstream.tsv:Kinder Morgan Inc	USA
+
+L E LUNDBERGFORETAGEN AB
+	gogel-upstream.tsv:Canacol Energy Ltd	Canada
+	gogel-upstream.tsv:Chaparral Energy Inc	USA
+	gogel-upstream.tsv:Enwell Energy plc	United Kingdom
+	gogel-upstream.tsv:Flywheel Energy LLC	USA
+	gogel-upstream.tsv:Genel Energy plc  	United Kingdom
+	gogel-upstream.tsv:Pennsylvania General Energy Company LLC	USA
+	gogel-upstream.tsv:Sonangol EP	Angola
+	gogel-upstream.tsv:Sunny Hill Energy Ltd	United Kingdom
+	gogel-upstream.tsv:Sval Energi AS	Norway
+	gogel-midstream.tsv:Canacol Energy Ltd	Colombia
+	gogel-midstream.tsv:General Electric Company	USA
+	gogel-midstream.tsv:Sonangol EP	Angola
+	gogel-midstream.tsv:Zhejiang Provincial Energy Group Company Ltd	China
+	gcel.tsv:AGL Energy Ltd	Australia
+	gcel.tsv:Angul Energy Ltd	India
+	gcel.tsv:Brikel EAD	Bulgaria
+	gcel.tsv:Sihanoukville Special Economic Zone Co	Cambodia
+	gcel.tsv:Cenal Elektrik Uretim AS	Turkey
+	gcel.tsv:China Coal Energy Co Ltd	China
+	gcel.tsv:China Coal Energy Xinjiang Tianshan Coal Power Co Ltd	China
+	gcel.tsv:China Coal Energy Xinjiang Hongxin Coal Industry Co Ltd	China
+	gcel.tsv:China Coal Energy Hami Coal Industry Co Ltd	China
+	gcel.tsv:China Coal Energy Xinjiang Coal Electricity Co Ltd	China
+	gcel.tsv:Complexul Energetic Oltenia SA	Romania
+	gcel.tsv:CONSOL Energy Inc	USA
+	gcel.tsv:Gazel Energie Generation SAS	France
+	gcel.tsv:Clean Coal Enterprises Pvt Ltd	India
+	gcel.tsv:Hoosier Energy Rural Electric Cooperative Inc	USA
+	gcel.tsv:Huaihu Coal Electricity Co Ltd 	China
+	gcel.tsv:Israel Electric Corp Ltd	Israel
+	gcel.tsv:Jilin Provincial Energy Investment Group Co Ltd	China
+	gcel.tsv:Mechel Energo OOO	Russia
+	gcel.tsv:Yel Enerji Elektrik Uretim Sanayi Ticaret AS	Turkey
+	gcel.tsv:Sahakol Equipment Co Ltd	Thailand
+	gcel.tsv:San Miguel Electric Cooperative Inc	USA
+	gcel.tsv:Global Energy Minerals Sdn Bhd	Malaysia
+	gcel.tsv:Xishan Coal Electricity Group Co Ltd	China
+	gcel.tsv:Huaihu Coal Electricity Co Ltd 	China
+	gcel.tsv:San Miguel Energy Corp 	Philippines
+	gcel.tsv:Wiggins Island Coal Export Terminal Pty Ltd	Australia
+	gcel.tsv:XCEL Energy Inc	USA
+	gcel.tsv:Xcoal Energy & Resources LLC	USA
+	gcel.tsv:Xinjiang Guoxin Coal Energy Co Ltd	China
+	gcel.tsv:Zhejiang Provincial Energy Group Co Ltd	China
+
+LUNDIN ENERGY AB
+	gogel-upstream.tsv:Lundin Energy AB	Sweden
+
+MARATHON PETROLEUM CORP
+	gogel-upstream.tsv:Marathon Oil Corporation	USA
+
+MITSUBISHI CORP
+	gcel.tsv:Mitsubishi Corp Finance PLC	United Kingdom
+	gcel.tsv:Mitsubishi Corp Energy Solutions Co Ltd	Japan
+
+OMV AG
+	gogel-upstream.tsv:OMV AG	Austria
+
+PACIFIC TEXTILES HOLDINGS LTD
+	gogel-upstream.tsv:Pacific Oil & Gas Ltd	China (Hong Kong)
+	gogel-midstream.tsv:Pacific Oil & Gas Ltd	China (Hong Kong)
+	gcel.tsv:Pacific Corp	Vietnam
+
+POSCO
+	gogel-upstream.tsv:Posco International Corporation	South Korea
+	gcel.tsv:Posco	South Korea
+	gcel.tsv:Posco Energy Co Ltd	South Korea
+	gcel.tsv:POSCO Capital Co Ltd	South Korea
+	gcel.tsv:Posco Terminal Co Ltd	South Korea
+
+RELIANCE INDUSTRIES LTD
+	gogel-upstream.tsv:Reliance Industries Ltd	India
+
+REPSOL SA
+	gogel-upstream.tsv:Repsol SA	Spain
+
+ROYAL DUTCH SHELL PLC
+	gogel-upstream.tsv:Royal Dutch Shell plc	Netherlands
+	gogel-midstream.tsv:Royal Dutch Shell plc	Netherlands
+
+SCHLUMBERGER NV
+	gogel-upstream.tsv:Schlumberger Ltd	USA
+
+SNAM SPA
+	gogel-midstream.tsv:Snam SpA	Italy
+
+SQUARE INC
+	gcel.tsv:Square Butte Electric Cooperative Inc	USA
+
+SUMITOMO CORP
+	gcel.tsv:Sumitomo Corp Capital Europe PLC 	United Kingdom
+	gcel.tsv:Sumitomo Corp Capital Netherlands BV	Netherlands
+	gcel.tsv:Sumitomo Corp Overseas Capital Ltd	Japan
+
+TOTALENERGIES SE
+	gogel-upstream.tsv:TotalEnergies SE	France
+	gogel-midstream.tsv:TotalEnergies SE	France
+
+VALERO ENERGY CORP
+	gogel-midstream.tsv:Valero Energy Corporation	USA

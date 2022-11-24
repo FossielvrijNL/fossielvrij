@@ -1,0 +1,189 @@
+#!/bin/bash
+
+# Checks the ABP investments map for changes.
+
+usage () {
+  echo "Checks the investments map of pension fund ABP for changes and notifies the provided email addresses."
+  echo "The investment map is at https://www.abp.nl/over-abp/duurzaam-en-verantwoord-beleggen/waarin-belegt-abp/"
+  echo 
+  echo "Arguments:"
+  echo "  --mailto email1,email2"
+  echo "  --mailto-admin admin-email"
+  echo "  --debug    : do a dry-run and only email the admin"
+  exit
+}
+
+
+# Process command line arguments
+while [ $# -gt 0 ] ; do
+  case "$1" in
+    --help | -help | -h )
+      usage
+      ;;
+    --mailto )
+      # Split next argument by comma or space and put items in array.
+      IFS=', ' read -r -a MAILTO <<< "$2"
+      shift
+      ;;
+    --mailto-admin )
+      #	Split next argument by comma or	space and put items in array.
+      IFS=', ' read -r -a MAILTO_ADMIN <<< "$2"
+      shift
+      ;;
+    --debug )
+      debug=true
+      ;;
+  esac
+  shift
+done
+
+
+# Set sender email address (array)
+export REPLYTO=("${MAILTO_ADMIN[@]}")
+if $debug ; then
+  export MAILTO=("${MAILTO_ADMIN[@]}")
+fi
+export MAILTO_NOCHANGE=("${MAILTO_ADMIN[@]}")
+
+
+# Use bash extended globbing (needed for "case $var in +()" syntax)
+shopt -s extglob
+
+
+#
+#  FUNCTIONS
+#
+
+side_by_side_report () {
+  local old_file="$1"
+  local new_file="$2"
+  local common_fields="$3"
+  local output_file="$4"
+  case $common_fields in
+    1 )
+      join -t $'\t' -j 1 -e 0 -a 1 -a 2 -o auto \
+        "$old_file" \
+        "$new_file" \
+      >	"$output_file"
+      ;;
+    2 )
+      join -t $'\t' -j 1 -e 0 -a 1 -a 2 -o auto \
+        <(awk -F'\t' '{print $1"|"$2"\t"$3}' "$old_file") \
+        <(awk -F'\t' '{print $1"|"$2"\t"$3}' "$new_file") \
+      | tr '|' '\t' \
+      >	"$output_file"
+      ;;
+    3 )
+      join -t $'\t' -j 1 -e 0 -a 1 -a 2 -o auto \
+        <(awk -F'\t' '{print $1"|"$2"|"$3"\t"$4}' "$old_file") \
+        <(awk -F'\t' '{print $1"|"$2"|"$3"\t"$4}' "$new_file") \
+      | tr '|' '\t' \
+      > "$output_file"
+      ;;
+    4 )
+      join -t $'\t' -j 1 -e 0 -a 1 -a 2 -o auto \
+        <(awk -F'\t' '{print $1"|"$2"|"$3"|"$4"\t"$5}' "$old_file") \
+        <(awk -F'\t' '{print $1"|"$2"|"$3"|"$4"\t"$5}' "$new_file") \
+      | tr '|' '\t' \
+      > "$output_file"
+      ;;
+    * )
+      echo "ERROR: '$common_fields' common fields not yet supported."
+      exit 1
+      ;;
+  esac
+}
+
+
+
+# Get retrieval date
+date=$(date +"%Y-%m-%d %H:%M:%S")
+echo -e "ABP beleggingen, in miljoenen euro's, datum $date \n\n" > abp-beleggingen.tsv
+
+# Collect the javascipt file that contains the JSON with the investment numbers
+wget https://www.abp.nl/configuratie/blg-inv-country.js -O blg-inv-country.js
+
+# Convert the JSON info to TSV format
+egrep -o 'var data = .*;' blg-inv-country.js \
+| sed -e 's/var data = //' -e 's/;$//' \
+| jq -r '.[] 
+         | { Country: .Name , Investments: .Investments[] }
+         | { Country , Company: .Investments.Name , Sector: .Investments.Sector , Amount: .Investments.Amount }
+         | [ if .Sector == " " or .Sector == "" then "onbekend" else .Sector end, .Company , .Country , .Amount ]
+         | @tsv' \
+| sort > abp-beleggingen
+
+cat abp-beleggingen >> abp-beleggingen.tsv
+
+# Check whether the result makes sense
+
+# Must have >= 2000 items
+if [ "$(wc -l < abp-beleggingen.tsv)" -lt 2000 ] ; then
+  echo "ERROR: abp-beleggingen.tsv heeft minder dan 2000 regels. Dat kan niet kloppen."
+  exit 1
+fi
+
+# Should contain something common that sorts last alfabetically
+if ! grep --silent 'Zwitserland' abp-beleggingen.tsv ; then
+  echo "ERROR: abp-beleggingen.tsv bevat geen gegevens voor Zwitserland." \
+       "Proces waarschijnlijk niet voltooid."
+  exit 1
+fi
+
+message="Beste ABP Fossielvrij en Groen Pensioen,
+
+Er zijn wijzigingen gedetecteerd in de beleggingscijfers van ABP op deze pagina:
+https://www.abp.nl/over-abp/duurzaam-en-verantwoord-beleggen/waarin-belegt-abp/
+
+De nieuwste cijfers zijn bijgevoegd als attachment in het tab separated 
+values formaat. Die zijn te importeren in Excel. Kies wel UTF-8 als 
+character set.
+
+Een overzicht van de verschillen is ook bijgevoegd.
+
+Voor vragen, mail naar ${REPLYTO[1]}.
+
+Met vriendelijke groet,
+Script $(basename '$BASH_SOURCE') van ${USER} op ${HOSTNAME}.
+"
+
+message_no_change="Beste ABP Fossielvrij en Groen Pensioen,
+
+Er geen wijzigingen gedetecteerd in de beleggingscijfers van ABP op deze pagina:
+https://www.abp.nl/over-abp/duurzaam-en-verantwoord-beleggen/waarin-belegt-abp/
+
+Voor vragen, mail naar .
+
+Met vriendelijke groet,
+Script $(basename '$BASH_SOURCE') van ${USER} op ${HOSTNAME}.
+"
+
+
+# Is the newest version different from the last one we saved?
+difference=$(diff --unified --new-file abp-beleggingen.old abp-beleggingen)
+if [ -n "$difference" ] ; then
+  echo "Sending email"
+  if [ ! -f abp-beleggingen.old ] ; then
+    touch abp-beleggingen.old
+  fi
+  echo "$difference" > abp-beleggingen.diff.txt
+  side_by_side_report abp-beleggingen.old abp-beleggingen 3 abp-beleggingen.join.tsv
+  # Send email
+  echo "$message" \
+  | mutt -s "ABP beleggingen - WIJZIGING GEVONDEN!" \
+         -e 'set send_charset="utf-8"' \
+         "${MAILTO[@]}" \
+         -a abp-beleggingen.tsv \
+         -a abp-beleggingen.diff.txt \
+         -a abp-beleggingen.join.tsv
+  # Save this version for the next check
+  cp "abp-beleggingen.tsv" "archive/abp-beleggingen.tsv.$(date +'%Y-%m-%dT%H:%M:%S')"
+  mv abp-beleggingen abp-beleggingen.old
+  mv abp-beleggingen.tsv abp-beleggingen.tsv-old
+else
+  echo "$message_no_change" \
+  | mutt -s "ABP - geen wijzigingen in beleggingen." \
+         -e 'set send_charset="utf-8"' \
+         "${MAILTO_NOCHANGE[@]}"
+fi
+

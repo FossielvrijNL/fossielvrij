@@ -1,0 +1,94 @@
+#!/bin/bash
+
+# Reads company names from stdin and tries to match them with GOGEL and GCEL names.
+# The matching is done by grep.
+# The company name is split in words.
+# The first grep searches for "word1 ... word2...word3".
+# If that doesn't match anything, the second grep is tried.
+# If that doesn't match anything, the third... etcetera.
+#
+# The resulting list should be reviewed manually.
+
+# For extra expressions in case statement
+shopt -s extglob
+
+SCRIPT_DIR="$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
+cd "$SCRIPT_DIR"
+
+GOGEL_LISTS="gogel-upstream.tsv gogel-midstream.tsv gcel.tsv"
+
+# Read the input in stdin line by line
+# TSV file, first field should the the company name.
+while read line ; do
+  # Analyze this line.
+  company_name=$(cut -f1 <<< "$line")
+  word1=$(cut -d' ' -f1 <<< "$company_name")
+  word2=$(cut -d' ' -f2 <<< "$company_name")
+  word3=$(cut -d' ' -f3 <<< "$company_name")
+  # Try to find matches; start with very specific
+  # and if that doesn't yield anything, try less specific.
+  if matches=$(grep -i -e "$word1 $word2 $word3" $GOGEL_LISTS \
+               || grep -i -e "^[^\t]*$word1 $word2[^\t]*$word3" $GOGEL_LISTS \
+               || grep -i -e "^[^\t]*$word1 .*$word2.*$word3" $GOGEL_LISTS \
+               || grep -i -e "^[^\t]*$word1 $word2" $GOGEL_LISTS \
+               || grep -i -e "^[^\t]*$word1 [^\t]*$word2" $GOGEL_LISTS \
+               || grep -i -e "^${company_name:0:16}" $GOGEL_LISTS \
+               || case ${word1,,} in
+                    # Least specific search, by only first word of the company name.
+                    # Some words are too vague to match anything useful.
+                    # In that case we return a false (= nothing found).
+                    air | adani | abu | aethon | african | american | alliance ) false ;;
+                    alliant | alta | anhui | arrow | astra | atlas ) false ;;
+                    banco | bajaj | beacon | beijing | berry | best | bharat | black | big | blue | bursa ) false ;;
+                    caisse | canadian | capital | castle | central | challenger | china | c.h. | clean ) false ;;
+                    colombia | colombian | commonwealth | continental | crown | czech ) false ;;
+                    dalian | dana | delek | delta | deutsche | discover* | diversified | doosan | dover | dubai | d.r. ) false ;;
+                    eagle | east | elis | empresa | ensign | endeavour | enel | e.on ) false ;;
+                    far | federal | first | focus | foundation | france ) false ;;
+                    general | genting | global | golden | grand | granite | great | gulf ) false ;;
+                    hainan | heilongjiang | henry | hindustan | hong | huaneng | huaxin | husky | hunt | h.b. ) false ;;
+                    indian | indigo | indonesia | inter | international | iron | israel ) false ;;
+                    jaguar | japan | jardine | jupiter | jiangsu | jiangxi ) false ;;
+                    kansai | kepco | kobe | korea | kuwait | kyushu ) false ;;
+                    lao | lawson | liberty | line | lower ) false ;;
+                    macau | manga | marubeni | merit | metro | mineral | mineral | mitsubishi | mitsui | mountain | murphy ) false ;;
+                    national | new | nine | nippon | noble | north* | norwegian | nova ) false ;;
+                    oil | olympus | oracle | oriental | origin | orion ) false ;;
+                    park | phoenix | pioneer | porto | power | premier | president | public | punjab ) false ;;
+                    reliance | rock | royal | rural | russian ) false ;;
+                    sage | samsung | saudi | sembcorp | serbia | seven | singapore ) false ;;
+                    shaanxi | shandong | shanxi | shanghai | shenzhen | societe | société | solutions | summit ) false ;;
+                    south | southern | southwest | square | state | sumitomo | square | subshine ) false ;;
+                    taiwan | tangshan | tata | the | thunder | tianjin | tiger ) false ;;
+                    titan | tokyo | toyo | trident | trinity | triumph | turkiye | türkiye ) false ;;
+                    union | uniper | united | universal ) false ;;
+                    venture | veolia | vine ) false ;;
+                    west | western | white | wuhan ) false ;;
+                    xinjiang ) false ;;
+                    yunnan ) false ;;
+                    zhejiang | zhengzhou | zhongan ) false ;;
+                    # Some words that are short but do have a good match!
+                    mol | oci )
+                      grep -i -e "^$word1 " $GOGEL_LISTS
+                      ;;
+                    # Words of 3 characters or less are too vague too match anything useful
+                    ??? | ?? | ? )
+                      false
+                      ;;
+                    * )
+                      # Our single word is not on the blacklist. Do the last search.
+                      grep -i -e "^$word1 " $GOGEL_LISTS
+                      ;;
+                  esac
+              )
+  then
+    # Print the original line
+    echo -e "\n$line"
+    # Print the matches we have found in the GOGEL and GCEL lists
+    # Prepended with a tab (\t)
+    # The uniq makes sure duplicate matches (from GCEL) are reduced to a single.
+    sed -e 's/^/\t/' <<< "$matches" | uniq
+  fi
+done
+
+cd - &> /dev/null

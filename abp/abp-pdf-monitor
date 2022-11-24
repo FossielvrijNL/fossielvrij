@@ -1,0 +1,137 @@
+#!/bin/bash
+
+usage () {
+  echo "Checks the investment PDFs of pension fund ABP for changes and notifies the provided email addresses."
+  echo 
+  echo "Arguments:"
+  echo "  --mailto email1,email2"
+  echo "  --mailto-admin admin-email"
+  echo "  --debug    : do a dry-run and only email the admin"
+  exit
+}
+
+
+# Process command line arguments
+while [ $# -gt 0 ] ; do
+  case "$1" in
+    --help | -help | -h )
+      usage
+      ;;
+    --mailto )
+      # Split next argument by comma or space and put items in array.
+      IFS=', ' read -r -a MAILTO <<< "$2"
+      shift
+      ;;
+    --mailto-admin )
+      #	Split next argument by comma or	space and put items in array.
+      IFS=', ' read -r -a MAILTO_ADMIN <<< "$2"
+      shift
+      ;;
+    --debug )
+      debug=true
+      set -x
+      ;;
+  esac
+  shift
+done
+
+
+# Set sender email address (array)
+export REPLYTO=("${MAILTO_ADMIN[@]}")
+if $debug ; then
+  export MAILTO=("${MAILTO_ADMIN[@]}")
+fi
+export MAILTO_NOCHANGE=("${MAILTO_ADMIN[@]}")
+
+
+pdf_list=(
+  /images/beursgenoteerde-beleggingen.pdf
+  /images/engagement-bedrijven.pdf
+  /images/overzicht-bedrijfsobligaties.pdf
+  /images/overzicht-staatsobligaties.pdf
+  /images/top-100-beleggingen.pdf
+  /images/top-20-externe-managers-abp.pdf
+  /images/uitsluitingslijst.pdf
+)
+
+
+mkdir -p archive
+
+for pdf_url in "${pdf_list[@]}" ; do
+
+  # Determine file names
+  pdf_file=$(sed -e 's@.*/@@' <<<"$pdf_url")
+  pdf_old_file=$(sed -e 's@\.pdf@.old.pdf@' <<<"$pdf_file")
+  html_file=$(sed -e 's@\.pdf@s.html@' <<<"$pdf_file")
+  txt_file=$(sed -e 's@\.pdf@.txt@' <<<"$pdf_file")
+  diff_file=$(sed -e 's@\.pdf@.diff.txt@' <<<"$pdf_file")
+
+  # Collect and convert files
+  # pdf -> html -> text, because pdftotext is unreliable
+  curl "https://www.abp.nl${pdf_url}" -o "$pdf_file"
+  pdftohtml "$pdf_file"
+  html2text "$html_file" > "$txt_file"
+
+  # Check result
+  if [ ! -f "$txt_file" ] ; then
+    echo "ERROR: no '$txt_file' found."
+    exit 1
+  fi
+
+  message_wijziging="Beste ABP Fossielvrij en Groen Pensioen,
+
+Er zijn wijzigingen gedetecteerd in deze PDF:
+https://www.abp.nl${pdf_url}
+
+Een overzicht van de verschillen is bijgevoegd.
+Ook de oude versie van de PDF is bijgevoegd.
+
+Voor vragen, mail naar ${REPLYTO[1]}.
+
+Met vriendelijke groet,
+Script $(basename '$BASH_SOURCE') van ${USER} op ${HOSTNAME}.
+"
+
+  message_geen_wijziging="Beste ABP Fossielvrij en Groen Pensioen,
+
+Er zijn geen wijzigingen in deze PDF:
+https://www.abp.nl${pdf_url}
+
+Met vriendelijke groet,
+Script $(basename '$BASH_SOURCE') van ${USER} op ${HOSTNAME}.
+"
+
+  # Is the newest version different from the last one we saved?
+  difference=$(diff --unified --minimal --new-file "$txt_file".old "$txt_file")
+  if [ -n "$difference" ] ; then
+    if ! $debug ; then
+      echo "Change in $txt_file, sending email"
+      echo "$difference" > "$diff_file"
+      # Send email
+      echo "$message_wijziging" \
+      | mutt -s "ABP - WIJZIGING GEVONDEN in ${pdf_file}" \
+             -e 'set send_charset="utf-8"' \
+             "${MAILTO[@]}" \
+             -a "$diff_file" \
+             -a "$pdf_old_file"
+      # Save this version in the archive
+      cp "$txt_file" "archive/$txt_file".$(date +"%Y-%m-%dT%H:%M:%S")
+      cp "$pdf_file" "archive/$pdf_file".$(date +"%Y-%m-%dT%H:%M:%S")
+      # Save versions for the next check
+      mv "$txt_file" "$txt_file".old
+      mv "$pdf_file" "$pdf_old_file"
+    else
+      echo "Debug: WIJZIGINGEN GEVONDEN in ${pdf_file}."
+    fi
+  else
+    if ! $debug ; then
+      echo "$message_geen_wijziging" \
+      | mutt -s "ABP - geen wijziging in ${pdf_file}" \
+             -e 'set send_charset="utf-8"' \
+             "${MAILTO_NOCHANGE[@]}"
+    else
+      echo "Debug: Geen wijzigingen."
+    fi
+  fi
+
+done

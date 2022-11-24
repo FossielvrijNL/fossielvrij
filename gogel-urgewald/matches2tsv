@@ -1,0 +1,62 @@
+#!/bin/bash
+
+usage () {
+  cat <<-EOT
+	Usage:
+	matches2tsv < inputfile > outputfile
+
+	Reads and converts a file in the format:
+
+	COMPANY NAME<tab>COUNTRY<tab>AMOUNT etc
+	<tab>gogel matches (if any)
+	<tab>gcel matches (if any)
+	<empty line>
+	NEXT COMPANY NAME etc.
+	
+	To a tab separated values file that can be imported into Excel.
+	EOT
+  exit 1
+}
+
+if [[ -n "$1" ]] ; then
+  usage
+fi
+
+
+#set -x 
+part1=''
+while IFS= read -r line ; do
+  case $line in
+    [A-Za-z0-9]* )
+      part1="$line"
+      ;;
+    $'\t'gogel-upstream.tsv:* )
+      gogel_upstream=$(sed -e 's/gogel-upstream.tsv://' <<<"$line")
+      ;;
+    $'\t'gogel-midstream.tsv:* )
+      gogel_midstream=$(sed -e 's/gogel-midstream.tsv://' <<<"$line")
+      ;;
+    $'\t'gcel.tsv:* )
+      gcel=$(sed -e 's/gcel.tsv://' <<<"$line")
+      ;;
+    '' )
+      if [ -n "$part1" ] ; then
+        echo -e "$part1$gogel_upstream$gogel_midstream$gcel"
+        part1=''
+        gogel_upstream='\t-\t-'
+        gogel_midstream='\t-\t-'
+        gcel='\t-\t-'
+      fi
+      ;;
+    * )
+      echo "Unexpected line: '$line'"
+      exit 1
+      ;;
+  esac
+done
+
+# Print last company (if not printed yet)
+if [ -n "$part1" ] ; then
+  echo -e "$part1$gogel_upstream$gogel_midstream$gcel"
+fi
+

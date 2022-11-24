@@ -1,0 +1,606 @@
+	
+<!DOCTYPE html>
+<html lang="nl">
+
+  <head>
+	<meta charset="utf-8" />
+  	<meta http-equiv="x-ua-compatible" content="ie=edge" />
+
+	<title>Sorry, deze pagina is niet beschikbaar</title>
+
+  	<meta name="description" content="" />
+  	<meta name="keywords" content="" />
+  	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+  	<meta name="robots" content="NOINDEX,FOLLOW" />
+
+	
+	
+    <link rel="preload" as="font" type="font/woff" href="/include/fonts/TheSerifB_700_.woff" crossorigin="anonymous" />
+    <link rel="preload" as="font" type="font/woff" href="/include/fonts/open-sans-v13-latin-ext_latin-regular.woff" crossorigin="anonymous" />
+    <link rel="preload" as="font" type="font/woff" href="/include/fonts/open-sans-v13-latin-ext_latin-600.woff" crossorigin="anonymous" />
+    <link rel="preload" as="font" type="font/woff" href="/include/fonts/open-sans-v13-latin-ext_latin-700.woff" crossorigin="anonymous" />
+
+	<link rel="shortcut icon" type="image/x-icon" href="/include/images/favicon.ico" />
+	<link rel="icon" type="image/x-icon" href="/include/images/favicon.ico" />
+
+    <!-- site-->
+    <link href="/include/css/site-abp.css" rel="stylesheet" />
+
+
+     
+    
+<script src="https://cdn.optimizely.com/js/6436262212.js"></script>
+			<style id="antiClickjack">body{display:none !important;}</style>
+			<script>
+				var antiClickjack = document.getElementById("antiClickjack");
+				if (self === top) {
+					antiClickjack.parentNode.removeChild(antiClickjack);
+				}
+				else {
+					var referrer =  document.referrer.match(/:\/\/(.[^/]+)/)[1];
+					if (referrer === "app.optimizely.com" || referrer.endsWith(".abp.nl")|| referrer.endsWith("aem.apg.nl") || referrer.endsWith(".adobeaemcloud.com")) {
+						antiClickjack.parentNode.removeChild(antiClickjack);
+					}
+					else {
+						top.location = self.location;
+					}
+				}
+			</script>
+
+	        <script src="//assets.adobedtm.com/launch-ENe073bc3e32854d0f95ffae99fa70b677.min.js"></script>
+ 
+
+  </head>
+
+  <body id="dg" class="" data-clientname="abp" data-sitename="abp" data-filepath="foutpagina.404-pagina-niet-gevonden">
+
+    <!-- skiplinks -->
+    <div class="skiplink" role="navigation" aria-label="Skiplinks">
+        <a
+            class="js-skiplink-content sr-only sr-only-focusable"
+            data-type="nav"
+            data-name="skiplink.hoofdinhoud"
+            href="#"
+            >Direct naar hoofdinhoud</a
+        >
+        <a
+            class="js-skiplink-menu sr-only sr-only-focusable"
+            data-type="nav"
+            data-name="skiplink.hoofdnavigatiemenu"
+            href="#"
+            >Direct naar hoofdnavigatiemenu</a
+        >
+    </div>
+    <!-- end skiplinks -->
+    <div class="old-browser" data-addsearch="exclude" role="complementary" aria-label="Verouderde browser">
+        Met een oude browser kunt u onze website helaas niet meer goed gebruiken.<br />
+        Upgrade uw browser naar een nieuwere versie of kies een andere browser.
+    </div>
+    <!-- top navigatie -->
+    <div class="topnav-wrapper" role="navigation" aria-label="Profielen">
+        <div class="topnav-container">
+            <div class="topnav site-row js-topnav-ph">
+            </div>
+        </div>
+    </div>
+    <!-- end top navigatie -->
+    <!-- header -->
+    <div class="header-wrapper">
+        <header class="header-container">
+            <div class="header site-row">
+                        <a href="/" class="header-logo" data-type="nav" data-softclick-name="logo">
+            <img src="/include/images/logo.svg" width="86" height="40" alt="ABP | Home" />
+        </a> 
+
+                
+                <nav aria-label="Hoofdnavigatie" class="js-menu-skiplink">
+                    <div class="zoeken js-zoeken-d hidden">
+                        <form>
+                            <fieldset>
+                                <label for="zoekopdracht-d" class="sr-only">Zoek</label>
+                                <input type="text" id="zoekopdracht-d" name="zoekopdracht-d" class="addsearch" title="Voer uw zoekterm in" placeholder="Zoeken" />
+                            </fieldset>
+                            <button type="button" class="zoeken-btn-close js-zoeken-btn-close-d icon-svg-b" data-type="nav" data-name="zoeken.btn-close-d">
+                                Annuleren
+                            </button>
+                        </form>
+                    </div>
+                    <div class="js-header-menu-ph">
+                    </div>
+                    <div class="js-header-system-ph">
+                    </div>
+                    <div>
+                        <button type="button" id="js-menu-btn-open" class="menu-btn-open icon-svg-b" data-type="nav" data-name="menu.btn-open">
+                            Menu
+                        </button>
+                    </div>
+                </nav>
+            </div>
+        </header>
+    </div>
+    <!-- end header -->
+<!-- notificatie -->
+    <div class="noti-container js-noti icon-svg-a hidden" data-startdatum="202211081547" data-einddatum="202211132000" data-addsearch="exclude" role="complementary" aria-label="Melding">
+        <div class="noti site-row">
+            <div class="noti-icon"><span class="icon-svg icon-bell"></span></div>
+            <h2 class="noti-titel">Technisch onderhoud</h2>
+            <div class="noti-txt"><p>Wij werken steeds aan het verbeteren van de website. Meestal heeft u hier geen last van, maar soms is er technisch onderhoud nodig. 
+<p>Daarom zijn abp.nl en MijnABP vanaf zaterdag 12 november t/m zondag 13 november niet beschikbaar.</p></div>
+            <button type="button" class="noti-icon-close js-noti-btn-close" data-type="nav" data-name="notificatie.close">
+                <span class="icon-svg icon-close"></span>
+                <span class="sr-only">Sluiten notificatie</span>
+            </button>
+        </div>
+    </div>
+    <!-- end notificatie -->        <!-- kruimelpad -->
+        <div class="kruimel-wrapper" role="navigation" aria-label="Broodkruimelpad">
+            <div class="kruimel-container">
+                <div class="kruimel site-row" >
+                    <ul>
+<li><a href="/" class="icon-svg-a icon-svg-b" data-type="nav" data-softclick-name="kruimelpad.default">Home</a></li>
+<li><a href="/foutpagina/" class="icon-svg-a icon-svg-b" data-type="nav" data-softclick-name="kruimelpad.foutpagina.default">Foutpagina</a></li>
+<li>Pagina niet beschikbaar</li>
+</ul>
+
+                </div>
+            </div>
+        </div>
+        <!-- end kruimelpad -->
+    <!-- content -->
+    <main class="content-container js-content-skiplink" >
+
+<!-- artikel -->
+<div class="artikel-container">
+  <div class="artikel site-row">
+
+    
+
+    <div class="artikel-content">
+            <h1 class="artikel-titel">Sorry. De pagina die u zoekt, is niet meer beschikbaar.</h1>
+
+      
+      		<div class="artikel-inleiding">
+			We zijn voortdurend bezig onze site overzichtelijker te maken. Dat betekent dat informatie soms verhuist naar een andere plek op onze site. Graag helpen wij u weer op weg. Mogelijk is één van onderstaande onderwerpen interessant voor u.  
+		</div>
+
+      
+      
+      
+        
+    </div>
+
+  </div>
+</div>
+<!-- end artikel --> 
+<!-- cards b1 -->
+<div class="cards-container">
+  <div class="cards site-row">
+
+
+        <div class="cards-b1-list">
+            <ul>
+                    <li><a href="/over-abp/actueel/nieuws/default.aspx"  class="cards-b1-item" data-softclick-name="blok.nieuwsoverzicht"><div class="cards-b1-item-content js-cards-content">
+                    <h2 class="cards-b1-item-titel">Nieuwsberichten</h2>
+
+                    <div class="cards-b1-item-txt">Lees onze laatste nieuwsberichten.</div>
+
+                    <div class="cards-b1-item-btn">
+            <span class="icon-svg-b">Lees meer</span>
+        </div>
+
+        </div>
+        <div class="cards-b1-item-img js-cards-img">
+            <img src="/images/vrouw-werkt-op-kantoor-op-haar-laptop-540x500px.jpeg" class="img-responsive" alt="vrouw werkt op kantoor op haar laptop" />
+        </div></a>	
+</li>
+                    <li><a href="/over-abp/financiele-situatie/dekkingsgraad/default.aspx"  class="cards-b1-item" data-softclick-name="blok.dekkingsgraad"><div class="cards-b1-item-content js-cards-content">
+                    <h2 class="cards-b1-item-titel">Dekkingsgraad</h2>
+
+                    <div class="cards-b1-item-txt">Wat is de dekkingsgraad, hoe komt die tot stand en waarom is die zo belangrijk?</div>
+
+                    <div class="cards-b1-item-btn">
+            <span class="icon-svg-b">Lees meer</span>
+        </div>
+
+        </div>
+        <div class="cards-b1-item-img js-cards-img">
+            <img src="/images/man-en-vrouw-samen-met-kinderen-aan-tafel-taart-eten-540x500px.jpeg" class="img-responsive" alt="man en vrouw samen met kinderen aan tafel taart eten" />
+        </div></a>	
+</li>
+                    <li><a href="/werkgevers/default.aspx"  class="cards-b1-item" data-softclick-name="blok.speciaal-voor-werkgevers"><div class="cards-b1-item-content js-cards-content">
+                    <h2 class="cards-b1-item-titel">Speciaal voor werkgevers</h2>
+
+                    <div class="cards-b1-item-txt">ABP verzorgt de pensioenen van uw werknemers. U vindt hier alle informatie speciaal voor werkgevers.</div>
+
+                    <div class="cards-b1-item-btn">
+            <span class="icon-svg-b">Lees meer</span>
+        </div>
+
+        </div>
+        <div class="cards-b1-item-img js-cards-img">
+            <img src="/images/twee-mannen-kijken-samen-naar-een-monitor-540x500px.jpeg" class="img-responsive" alt="twee mannen kijken samen naar een monitor" />
+        </div></a>	
+</li>
+                    <li><a href="/mijnabp/wat-kan-ik-met-mijnabp.aspx"  class="cards-b1-item" data-softclick-name="blok.wat-kan-ik-met-mijnabp"><div class="cards-b1-item-content js-cards-content">
+                    <h2 class="cards-b1-item-titel">Wat kan ik met MijnABP?</h2>
+
+                    <div class="cards-b1-item-txt">In MijnABP regelt u uw pensioenzaken makkelijk online.</div>
+
+                    <div class="cards-b1-item-btn">
+            <span class="icon-svg-b">Lees meer</span>
+        </div>
+
+        </div>
+        <div class="cards-b1-item-img js-cards-img">
+            <img src="/images/man-laat-iets-zien-aan-vrouw-op-laptop-540x500px.jpeg" class="img-responsive" alt="man laat iets aan vrouw zien op laptop" />
+        </div></a>	
+</li>
+                    <li><a href="/contact/default.aspx"  class="cards-b1-item" data-softclick-name="blok.contact"><div class="cards-b1-item-content js-cards-content">
+                    <h2 class="cards-b1-item-titel">Contact</h2>
+
+                    <div class="cards-b1-item-txt">Heeft u vragen? Neem dan contact met ons op.</div>
+
+                    <div class="cards-b1-item-btn">
+            <span class="icon-svg-b">Lees meer</span>
+        </div>
+
+        </div>
+        <div class="cards-b1-item-img js-cards-img">
+            <img src="/images/vrouw-schrijft-iets-op-in-een-kladblok-540x500px-custom%20%281%29.jpeg" class="img-responsive" alt="vrouw schrijft iets op in een kladblok" />
+        </div></a>	
+</li>
+            </ul>
+        </div>
+
+  </div>
+</div>
+<!-- end cards b1 --> 
+ 
+
+    </main>
+    <!-- end content -->
+<!-- footer -->
+<footer class="footer-container">
+    <div class="footer-opmaak icon-svg-a">
+    </div>
+
+    <div class="footer site-row">
+      <h2 class="footer-titel">Ga <span class="opm-hdr"> direct </span> naar</h2>
+      		<div class="footer-direct">
+		
+          <div>
+            <h3>			
+				<button type="button" class="d-mobile-only js-footer icon-svg-a" aria-expanded="false" aria-controls="id-ftr-1" data-type="nav" data-name="sitemap.hoofdmenu.pensioen-bij-abp.default">Pensioen bij ABP</button>
+                <span class="d-desktop-only">Pensioen bij ABP</span>
+            </h3>
+            <ul id="id-ftr-1" class="hidden">
+			  <li><a href="/pensioen-bij-abp/wat-is-pensioen/" title="Wat is pensioen?" data-type="nav" data-softclick-name="sitemap.hoofdmenu.pensioen-bij-abp.wat-is-pensioen.default">Wat is pensioen?</a></li>
+			  <li><a href="/pensioen-bij-abp/pensioenreglement/" title="Pensioenreglement" data-type="nav" data-softclick-name="sitemap.hoofdmenu.pensioen-bij-abp.pensioenreglement.default">Pensioenreglement</a></li>
+			  <li><a href="/pensioen-bij-abp/soorten-pensioen/" title="Soorten pensioen" data-type="nav" data-softclick-name="sitemap.hoofdmenu.pensioen-bij-abp.soorten-pensioen.default">Soorten pensioen</a></li>
+			  <li><a href="/pensioen-bij-abp/pensioenopbouw/" title="Pensioenopbouw" data-type="nav" data-softclick-name="sitemap.hoofdmenu.pensioen-bij-abp.pensioenopbouw.default">Pensioenopbouw</a></li>
+			  <li><a href="/pensioen-bij-abp/pensioenpremie/" title="Pensioenpremie" data-type="nav" data-softclick-name="sitemap.hoofdmenu.pensioen-bij-abp.pensioenpremie.default">Pensioenpremie</a></li>
+			  <li><a href="/pensioen-bij-abp/pensioengegevens/" title="Pensioengegevens" data-type="nav" data-softclick-name="sitemap.hoofdmenu.pensioen-bij-abp.pensioengegevens.default">Pensioengegevens</a></li>
+			  <li><a href="/pensioen-bij-abp/pensioen-1-2-3/" title="Pensioen 1-2-3" data-type="nav" data-softclick-name="sitemap.hoofdmenu.pensioen-bij-abp.pensioen-1-2-3.default">Pensioen 1-2-3</a></li>
+			  <li><a href="/mijnabp/wat-kan-ik-met-mijnabp.aspx" title="Hoe werkt MijnABP?" data-type="nav" data-softclick-name="sitemap.hoofdmenu.pensioen-bij-abp.mijn-abp.default">Hoe werkt MijnABP?</a></li>
+			  <li><a href="/pensioen-bij-abp/anw-compensatie/" title="Anw-compensatie" data-type="nav" data-softclick-name="sitemap.hoofdmenu.pensioen-bij-abp.anw-compensatie.default">Anw-compensatie</a></li>
+			  <li><a href="/pensioen-bij-abp/speciaal-voor/" title="Speciaal voor..." data-type="nav" data-softclick-name="sitemap.hoofdmenu.pensioen-bij-abp.speciaal-voor.default">Speciaal voor...</a></li>
+			  <li><a href="/pensioen-bij-abp/waarde-pensioen-abp/" title="Waarde van uw pensioen" data-type="nav" data-softclick-name="sitemap.hoofdmenu.pensioen-bij-abp.waarde-pensioen-abp.default">Waarde van uw pensioen</a></li>
+            </ul>
+          </div>
+          <div>
+            <h3>			
+				<button type="button" class="d-mobile-only js-footer icon-svg-a" aria-expanded="false" aria-controls="id-ftr-2" data-type="nav" data-name="sitemap.hoofdmenu.pensioen-bij-abp.default">Plan uw pensioen</button>
+                <span class="d-desktop-only">Plan uw pensioen</span>
+            </h3>
+            <ul id="id-ftr-2" class="hidden">
+			  <li><a href="/plan-uw-pensioen/uw-opgebouwde-bedrag/" title="Uw opgebouwde bedrag" data-type="nav" data-softclick-name="sitemap.hoofdmenu.plan-uw-pensioen.uw-opgebouwde-bedrag.default">Uw opgebouwde bedrag</a></li>
+			  <li><a href="/plan-uw-pensioen/eerder-met-pensioen/" title="Eerder met pensioen" data-type="nav" data-softclick-name="sitemap.hoofdmenu.plan-uw-pensioen.eerder-met-pensioen.default">Eerder met pensioen</a></li>
+			  <li><a href="/plan-uw-pensioen/welke-pensioenkeuzes-heeft-u/" title="Bekijk alle pensioenkeuzes" data-type="nav" data-softclick-name="sitemap.hoofdmenu.plan-uw-pensioen.welke-pensioenkeuzes-heeft-u.default">Bekijk alle pensioenkeuzes</a></li>
+			  <li><a href="/plan-uw-pensioen/pensioen-berekenen" title="Bereken uw pensioen" data-type="nav" data-softclick-name="sitemap.hoofdmenu.plan-uw-pensioen.pensioen-berekenen.default">Bereken uw pensioen</a></li>
+			  <li><a href="/plan-uw-pensioen/pensioen-aanvragen/" title="Pensioen aanvragen" data-type="nav" data-softclick-name="sitemap.hoofdmenu.plan-uw-pensioen.pensioen-aanvragen.default">Pensioen aanvragen</a></li>
+			  <li><a href="/plan-uw-pensioen/stappenplan-hoe-werkt-het/" title="In 6 stappen met pensioen" data-type="nav" data-softclick-name="sitemap.hoofdmenu.plan-uw-pensioen.stappenplan-hoe-werkt-het.default">In 6 stappen met pensioen</a></li>
+			  <li><a href="/plan-uw-pensioen/inzicht-in-uw-financiele-toekomst/" title="Inzicht in uw financiële toekomst" data-type="nav" data-softclick-name="sitemap.hoofdmenu.plan-uw-pensioen.inzicht-in-uw-financiele-toekomst.default">Inzicht in uw financiële toekomst</a></li>
+            </ul>
+          </div>
+          <div>
+            <h3>			
+				<button type="button" class="d-mobile-only js-footer icon-svg-a" aria-expanded="false" aria-controls="id-ftr-3" data-type="nav" data-name="sitemap.hoofdmenu.uw-situatie-verandert.default">Uw situatie verandert</button>
+                <span class="d-desktop-only">Uw situatie verandert</span>
+            </h3>
+            <ul id="id-ftr-3" class="hidden">
+			  <li><a href="/uw-situatie-verandert/trouwen-samenwonen/" title="Trouwen of samenwonen" data-type="nav" data-softclick-name="sitemap.hoofdmenu.uw-situatie-verandert.trouwen-samenwonen.default">Trouwen of samenwonen</a></li>
+			  <li><a href="/uw-situatie-verandert/overlijden/" title="Overlijden" data-type="nav" data-softclick-name="sitemap.hoofdmenu.uw-situatie-verandert.overlijden.default">Overlijden</a></li>
+			  <li><a href="https://www.abp.nl/uw-situatie-verandert/werkloos/" title="Werkloos" data-type="nav" data-softclick-name="sitemap.hoofdmenu.uw-situatie-verandert.werkloos.default">Werkloos</a></li>
+			  <li><a href="/uw-situatie-verandert/uit-elkaar-gaan/" title="Scheiden of uit elkaar gaan" data-type="nav" data-softclick-name="sitemap.hoofdmenu.uw-situatie-verandert.scheiden-of-uit-elkaar-gaan.default">Scheiden of uit elkaar gaan</a></li>
+			  <li><a href="/uw-situatie-verandert/arbeidsongeschikt/" title="Arbeidsongeschikt" data-type="nav" data-softclick-name="sitemap.hoofdmenu.uw-situatie-verandert.arbeidsongeschikt.default">Arbeidsongeschikt</a></li>
+			  <li><a href="/uw-situatie-verandert/verhuizen/" title="Verhuizen" data-type="nav" data-softclick-name="sitemap.hoofdmenu.uw-situatie-verandert.verhuizen.default">Verhuizen</a></li>
+			  <li><a href="/uw-situatie-verandert/" title="Meer" data-type="nav" data-softclick-name="sitemap.hoofdmenu.uw-situatie-verandert.meer.default">Meer</a></li>
+            </ul>
+          </div>
+          <div>
+            <h3>			
+				<button type="button" class="d-mobile-only js-footer icon-svg-a" aria-expanded="false" aria-controls="id-ftr-4" data-type="nav" data-name="sitemap.hoofdmenu.over-abp.default">Over ABP</button>
+                <span class="d-desktop-only">Over ABP</span>
+            </h3>
+            <ul id="id-ftr-4" class="hidden">
+			  <li><a href="/over-abp/onze-organisatie/" title="Onze organisatie" data-type="nav" data-softclick-name="sitemap.hoofdmenu.over-abp.onze-organisatie.default">Onze organisatie</a></li>
+			  <li><a href="/over-abp/financiele-situatie/" title="Financiële situatie" data-type="nav" data-softclick-name="sitemap.hoofdmenu.over-abp.financiele-situatie.default">Financiële situatie</a></li>
+			  <li><a href="/over-abp/actueel/" title="Actueel" data-type="nav" data-softclick-name="sitemap.hoofdmenu.over-abp.actueel.default">Actueel</a></li>
+			  <li><a href="/over-abp/het-nieuwe-pensioenstelsel/" title="Het nieuwe pensioenstelsel" data-type="nav" data-softclick-name="sitemap.hoofdmenu.over-abp.het-nieuwe-pensioenstelsel.default">Het nieuwe pensioenstelsel</a></li>
+			  <li><a href="/over-abp/duurzaam-en-verantwoord-beleggen/" title="Duurzaam en verantwoord beleggen" data-type="nav" data-softclick-name="sitemap.hoofdmenu.over-abp.duurzaam-en-verantwoord-beleggen.default">Duurzaam en verantwoord beleggen</a></li>
+            </ul>
+          </div>
+        </div>
+
+      		<div class="footer-social">
+				<div class="footer-social-btn">
+					<a href="https://mijn.abp.nl/uw-gegevens#uw-profiel-target" class="btn-std btn-ghost-2" title="Aanmelden nieuwsbrief" data-type="nav" data-softclick-name="footer.footer.nieuwsbrief-aanmelden"><span class="icon-svg"></span>
+<span>Aanmelden nieuwsbrief</span></a>      
+                </div>
+				<ul>			
+						<li>
+							<a href="https://www.facebook.com/abppensioenfonds/" title="Facebook ABP" data-type="nav" data-softclick-name="footer.logo.facebook.abp"><span class="icon-svg icon-fb"></span><span class="sr-only">Facebook</span></a>
+						</li>
+					    <li>
+							<a href="https://www.instagram.com/abppensioen/" title="ABP Instagram" data-type="nav" data-softclick-name="footer.logo.instagram.abp"><span class="icon-svg icon-in"></span><span class="sr-only">Instagram</span></a>
+						</li>
+					    <li>
+							<a href="https://www.linkedin.com/company/pensioenfonds-abp" title="LinkedIn ABP" data-type="nav" data-softclick-name="footer.logo.linkedin.abp"><span class="icon-svg icon-li"></span><span class="sr-only">LinkedIn</span></a>
+						</li>
+					    <li>
+							<a href="https://www.youtube.com/user/abppensioen" title="YouTube ABP" data-type="nav" data-softclick-name="footer.logo.youtube.abp"><span class="icon-svg icon-yt"></span><span class="sr-only">Youtube</span></a>
+						</li>
+					    <li>
+							<a href="https://twitter.com/abppensioen" title="Twitter ABP" data-type="nav" data-softclick-name="footer.logo.twitter.abp"><span class="icon-svg icon-tw"></span><span class="sr-only">Twitter</span></a>
+						</li>
+				</ul>				
+		</div>			
+
+      		<div class="footer-list">
+			<ul>
+				<li><a href="/over-deze-site/disclaimer.aspx" title="Disclaimer" data-type="nav" data-softclick-name="footer.footer.over-site.tekstlink.disclaimer">Disclaimer</a></li>
+				<li><a href="/over-deze-site/privacy.aspx" title="Privacy" data-type="nav" data-softclick-name="footer.footer.over-site.tekstlink.privacy">Privacy</a></li>
+				<li><a href="/over-deze-site/cookies.aspx" title="Cookies" data-type="nav" data-softclick-name="footer.footer.over-site.tekstlink.cookies">Cookies</a></li>
+				<li><a href="/over-deze-site/copyright.aspx" title="Copyright" data-type="nav" data-softclick-name="footer.footer.over-site.tekstlink.copyright">Copyright</a></li>
+				<li><a href="/english/" title="English" data-type="nav" data-softclick-name="footer.footer.over-site.tekstlink.english">English</a></li>
+				<li><a href="https://technobility.nl/waarmerkdragers/certificaat-abp/" title="Toegankelijkheid" data-type="nav" data-softclick-name="footer.footer.over-site.tekstlink.toegankelijkheid">Toegankelijkheid</a></li>
+			</ul>
+			<div class="footer-list-payoff">
+				<img src="/images/ABP100%20Logo%20groot%20Medium.png" class="img-responsive" alt="Samen bouwen aan goed pensioen" />
+			</div>				
+		</div>
+
+    </div>
+    
+    <div class="footer-help-wrapper">
+        <button class="footer-help js-footer-help" data-type="nav" data-name="" aria-label="Open help">
+            <span class="icon-svg-b">?</span>
+        </button>
+    </div>
+
+</footer>
+<!-- end footer --><!-- modal menu -->
+<div role="dialog" id="js-menu" aria-labelledby="id-menu-titel" aria-describedby="id-menu-content" aria-modal="true" class="modal-menu hidden">
+
+    <div class="modal-header">
+        <img src="/include/images/logo.svg" width="86" height="40" alt="logo ABP" />
+        <button type="button" id="js-menu-btn-close" class="modal-btn-close icon-svg-b" data-type="nav" data-name="menu.btn-close">
+            Sluiten
+        </button>
+    </div>
+
+    <div class="modal-body">
+        <div id="id-menu-titel" class="modal-titel">
+            <span class="sr-only">Hoofdmenu</span>
+        </div>
+        
+        <div id="id-menu-content" class="modal-content js-menu-content-ph">
+                    <ul class="nav-menu js-nav-menu">
+                    <li><button type="button" class="nav-menu-item js-nav-submenu icon-svg-a" aria-expanded="false" aria-controls="id-menu-1" data-type="nav" data-name="hoofdmenu.hoofdmenu.pensioen-bij-abp.default">Pensioen bij ABP</button>
+<ul id="id-menu-1" class="nav-submenu icon-svg-b hidden">
+<li><a href="/pensioen-bij-abp/wat-is-pensioen/" class="nav-submenu-item icon-svg-b" title="Wat is pensioen?" data-type="nav" data-softclick-name="hoofdmenu.hoofdmenu.pensioen-bij-abp.wat-is-pensioen.default">Wat is pensioen?</a></li>
+<li><a href="/pensioen-bij-abp/pensioenreglement/" class="nav-submenu-item icon-svg-b" title="Pensioenreglement" data-type="nav" data-softclick-name="hoofdmenu.hoofdmenu.pensioen-bij-abp.pensioenreglement.default">Pensioenreglement</a></li>
+<li><a href="/pensioen-bij-abp/soorten-pensioen/" class="nav-submenu-item icon-svg-b" title="Soorten pensioen" data-type="nav" data-softclick-name="hoofdmenu.hoofdmenu.pensioen-bij-abp.soorten-pensioen.default">Soorten pensioen</a></li>
+<li><a href="/pensioen-bij-abp/pensioenopbouw/" class="nav-submenu-item icon-svg-b" title="Pensioenopbouw" data-type="nav" data-softclick-name="hoofdmenu.hoofdmenu.pensioen-bij-abp.pensioenopbouw.default">Pensioenopbouw</a></li>
+<li><a href="/pensioen-bij-abp/pensioenpremie/" class="nav-submenu-item icon-svg-b" title="Pensioenpremie" data-type="nav" data-softclick-name="hoofdmenu.hoofdmenu.pensioen-bij-abp.pensioenpremie.default">Pensioenpremie</a></li>
+<li><a href="/pensioen-bij-abp/pensioengegevens/" class="nav-submenu-item icon-svg-b" title="Pensioengegevens" data-type="nav" data-softclick-name="hoofdmenu.hoofdmenu.pensioen-bij-abp.pensioengegevens.default">Pensioengegevens</a></li>
+<li><a href="/pensioen-bij-abp/pensioen-1-2-3/" class="nav-submenu-item icon-svg-b" title="Pensioen 1-2-3" data-type="nav" data-softclick-name="hoofdmenu.hoofdmenu.pensioen-bij-abp.pensioen-1-2-3.default">Pensioen 1-2-3</a></li>
+<li><a href="/mijnabp/wat-kan-ik-met-mijnabp.aspx" class="nav-submenu-item icon-svg-b" title="Hoe werkt MijnABP?" data-type="nav" data-softclick-name="hoofdmenu.hoofdmenu.pensioen-bij-abp.mijn-abp.default">Hoe werkt MijnABP?</a></li>
+<li><a href="/pensioen-bij-abp/anw-compensatie/" class="nav-submenu-item icon-svg-b" title="Anw-compensatie" data-type="nav" data-softclick-name="hoofdmenu.hoofdmenu.pensioen-bij-abp.anw-compensatie.default">Anw-compensatie</a></li>
+<li><a href="/pensioen-bij-abp/speciaal-voor/" class="nav-submenu-item icon-svg-b" title="Speciaal voor..." data-type="nav" data-softclick-name="hoofdmenu.hoofdmenu.pensioen-bij-abp.speciaal-voor.default">Speciaal voor...</a></li>
+<li><a href="/pensioen-bij-abp/waarde-pensioen-abp/" class="nav-submenu-item icon-svg-b" title="Waarde van uw pensioen" data-type="nav" data-softclick-name="hoofdmenu.hoofdmenu.pensioen-bij-abp.waarde-pensioen-abp.default">Waarde van uw pensioen</a></li>
+</ul>
+</li>
+                    <li><button type="button" class="nav-menu-item js-nav-submenu icon-svg-a" aria-expanded="false" aria-controls="id-menu-2" data-type="nav" data-name="hoofdmenu.hoofdmenu.pensioen-bij-abp.default">Plan uw pensioen</button>
+<ul id="id-menu-2" class="nav-submenu icon-svg-b hidden">
+<li><a href="/plan-uw-pensioen/uw-opgebouwde-bedrag/" class="nav-submenu-item icon-svg-b" title="Uw opgebouwde bedrag" data-type="nav" data-softclick-name="hoofdmenu.hoofdmenu.plan-uw-pensioen.uw-opgebouwde-bedrag.default">Uw opgebouwde bedrag</a></li>
+<li><a href="/plan-uw-pensioen/eerder-met-pensioen/" class="nav-submenu-item icon-svg-b" title="Eerder met pensioen" data-type="nav" data-softclick-name="hoofdmenu.hoofdmenu.plan-uw-pensioen.eerder-met-pensioen.default">Eerder met pensioen</a></li>
+<li><a href="/plan-uw-pensioen/welke-pensioenkeuzes-heeft-u/" class="nav-submenu-item icon-svg-b" title="Bekijk alle pensioenkeuzes" data-type="nav" data-softclick-name="hoofdmenu.hoofdmenu.plan-uw-pensioen.welke-pensioenkeuzes-heeft-u.default">Bekijk alle pensioenkeuzes</a></li>
+<li><a href="/plan-uw-pensioen/pensioen-berekenen" class="nav-submenu-item icon-svg-b" title="Bereken uw pensioen" data-type="nav" data-softclick-name="hoofdmenu.hoofdmenu.plan-uw-pensioen.pensioen-berekenen.default">Bereken uw pensioen</a></li>
+<li><a href="/plan-uw-pensioen/pensioen-aanvragen/" class="nav-submenu-item icon-svg-b" title="Pensioen aanvragen" data-type="nav" data-softclick-name="hoofdmenu.hoofdmenu.plan-uw-pensioen.pensioen-aanvragen.default">Pensioen aanvragen</a></li>
+<li><a href="/plan-uw-pensioen/stappenplan-hoe-werkt-het/" class="nav-submenu-item icon-svg-b" title="In 6 stappen met pensioen" data-type="nav" data-softclick-name="hoofdmenu.hoofdmenu.plan-uw-pensioen.stappenplan-hoe-werkt-het.default">In 6 stappen met pensioen</a></li>
+<li><a href="/plan-uw-pensioen/inzicht-in-uw-financiele-toekomst/" class="nav-submenu-item icon-svg-b" title="Inzicht in uw financiële toekomst" data-type="nav" data-softclick-name="hoofdmenu.hoofdmenu.plan-uw-pensioen.inzicht-in-uw-financiele-toekomst.default">Inzicht in uw financiële toekomst</a></li>
+</ul>
+</li>
+                    <li><button type="button" class="nav-menu-item js-nav-submenu icon-svg-a" aria-expanded="false" aria-controls="id-menu-3" data-type="nav" data-name="hoofdmenu.hoofdmenu.uw-situatie-verandert.default">Uw situatie verandert</button>
+<ul id="id-menu-3" class="nav-submenu icon-svg-b hidden">
+<li><a href="/uw-situatie-verandert/trouwen-samenwonen/" class="nav-submenu-item icon-svg-b" title="Trouwen of samenwonen" data-type="nav" data-softclick-name="hoofdmenu.hoofdmenu.uw-situatie-verandert.trouwen-samenwonen.default">Trouwen of samenwonen</a></li>
+<li><a href="/uw-situatie-verandert/overlijden/" class="nav-submenu-item icon-svg-b" title="Overlijden" data-type="nav" data-softclick-name="hoofdmenu.hoofdmenu.uw-situatie-verandert.overlijden.default">Overlijden</a></li>
+<li><a href="https://www.abp.nl/uw-situatie-verandert/werkloos/" class="nav-submenu-item icon-svg-b" title="Werkloos" data-type="nav" data-softclick-name="hoofdmenu.hoofdmenu.uw-situatie-verandert.werkloos.default">Werkloos</a></li>
+<li><a href="/uw-situatie-verandert/uit-elkaar-gaan/" class="nav-submenu-item icon-svg-b" title="Scheiden of uit elkaar gaan" data-type="nav" data-softclick-name="hoofdmenu.hoofdmenu.uw-situatie-verandert.scheiden-of-uit-elkaar-gaan.default">Scheiden of uit elkaar gaan</a></li>
+<li><a href="/uw-situatie-verandert/arbeidsongeschikt/" class="nav-submenu-item icon-svg-b" title="Arbeidsongeschikt" data-type="nav" data-softclick-name="hoofdmenu.hoofdmenu.uw-situatie-verandert.arbeidsongeschikt.default">Arbeidsongeschikt</a></li>
+<li><a href="/uw-situatie-verandert/verhuizen/" class="nav-submenu-item icon-svg-b" title="Verhuizen" data-type="nav" data-softclick-name="hoofdmenu.hoofdmenu.uw-situatie-verandert.verhuizen.default">Verhuizen</a></li>
+<li><a href="/uw-situatie-verandert/" class="nav-submenu-item icon-svg-b" title="Meer" data-type="nav" data-softclick-name="hoofdmenu.hoofdmenu.uw-situatie-verandert.meer.default">Meer</a></li>
+</ul>
+</li>
+                    <li><button type="button" class="nav-menu-item js-nav-submenu icon-svg-a" aria-expanded="false" aria-controls="id-menu-4" data-type="nav" data-name="hoofdmenu.hoofdmenu.over-abp.default">Over ABP</button>
+<ul id="id-menu-4" class="nav-submenu icon-svg-b hidden">
+<li><a href="/over-abp/onze-organisatie/" class="nav-submenu-item icon-svg-b" title="Onze organisatie" data-type="nav" data-softclick-name="hoofdmenu.hoofdmenu.over-abp.onze-organisatie.default">Onze organisatie</a></li>
+<li><a href="/over-abp/financiele-situatie/" class="nav-submenu-item icon-svg-b" title="Financiële situatie" data-type="nav" data-softclick-name="hoofdmenu.hoofdmenu.over-abp.financiele-situatie.default">Financiële situatie</a></li>
+<li><a href="/over-abp/actueel/" class="nav-submenu-item icon-svg-b" title="Actueel" data-type="nav" data-softclick-name="hoofdmenu.hoofdmenu.over-abp.actueel.default">Actueel</a></li>
+<li><a href="/over-abp/het-nieuwe-pensioenstelsel/" class="nav-submenu-item icon-svg-b" title="Het nieuwe pensioenstelsel" data-type="nav" data-softclick-name="hoofdmenu.hoofdmenu.over-abp.het-nieuwe-pensioenstelsel.default">Het nieuwe pensioenstelsel</a></li>
+<li><a href="/over-abp/duurzaam-en-verantwoord-beleggen/" class="nav-submenu-item icon-svg-b" title="Duurzaam en verantwoord beleggen" data-type="nav" data-softclick-name="hoofdmenu.hoofdmenu.over-abp.duurzaam-en-verantwoord-beleggen.default">Duurzaam en verantwoord beleggen</a></li>
+</ul>
+</li>
+        </ul>
+
+                    <ul class="nav-menu nav-system js-nav-system">
+                <li><a href="/contact/" class="nav-menu-item nav-system-c icon-svg-b" title="Service & Contact" data-type="nav" data-softclick-name="hoofdmenu.hoofdmenu.contact.default">Service &amp; contact</a></li>
+                <li><button type="button" class="nav-menu-item nav-system-z js-nav-zoeken icon-svg-b" data-type="nav" data-name="hoofdmenu.zoeken.btn-open">Zoeken</button></li>
+                <li><a href="/mijnabp/" class="nav-menu-item nav-system-m icon-svg-b" title="MijnABP" data-type="nav" data-softclick-name="hoofdmenu.hoofdmenu.mijnabp.default">MijnABP</a></li>
+        </ul>
+
+                    <ul class="topnav-list js-topnav-list">
+                <li><a href="https://www.abp.nl/" class="topnav-dg1" title="Werknemer" data-type="nav" data-softclick-name="navigatietop.navigatietop.interactie.default.deelnemers">Werknemer</a></li>
+                <li><a href="/pensioen-bij-abp/speciaal-voor/gepensioneerden/" class="topnav-dg3" title="Gepensioneerden" data-type="nav" data-softclick-name="navigatietop.navigatietop.interactie.default.gepensioneerden">Gepensioneerd</a></li>
+                <li><a href="/pensioen-bij-abp/speciaal-voor/militairen/algemene-informatie.aspx" class="topnav-dg4" title="Militairen" data-type="nav" data-softclick-name="navigatietop.navigatietop.interactie.default.militairen">Militair</a></li>
+                <li><a href="/werkgevers/" class="topnav-dg2" title="Werkgever" data-type="nav" data-softclick-name="navigatietop.navigatietop.interactie.default.werkgevers">Werkgever</a></li>
+        </ul>
+
+            	<div class="zoeken js-zoeken-m hidden">
+		<form>
+			<button type="button" class="zoeken-btn-close js-zoeken-btn-close-m icon-svg-a" data-type="nav" data-name="zoeken.btn-close-m">
+				<span class="sr-only">Terug</span>
+			</button>
+			<fieldset>
+				<label for="zoekopdracht-m" class="sr-only">Zoek</label>
+				<input type="text" id="zoekopdracht-m" name="zoekopdracht-m" class="addsearch" title="Voer uw zoekterm in" placeholder="Zoeken" />
+			</fieldset>
+		</form>
+	</div>
+
+        </div>
+    </div>
+
+</div>
+<!-- end modal menu --> 
+    <!-- modal woordenboek -->
+    <div role="dialog" id="js-woordenboek" class="modal-std modal-woordenboek hidden" aria-labelledby="woordenboek-titel" aria-describedby="woordenboek-content" aria-modal="true">
+
+        <div class="modal-header">
+            <button type="button" id="js-woordenboek-btn-close" class="modal-btn-close icon-svg-b" data-type="nav" data-name="woordenboek.btn-close">
+                Sluiten
+            </button>
+        </div>
+
+        <div class="modal-body js-woordenboek-body">
+            <div class="modal-content">
+                <div id="woordenboek-titel">woordenboek-titel</div>
+                <div id="woordenboek-content">woordenboek-content</div>
+            </div>
+        </div>
+
+    </div>
+    <!-- end modal woordenboek -->
+    <div id="kto-modal"></div>
+<!-- modal support sidebar -->
+<div
+  role="dialog"
+  id="js-support"
+  aria-labelledby="id-support-titel"
+  aria-describedby="id-support-content"
+  aria-modal="true"
+  class="modal-support hidden">
+  <div class="modal-header">
+    <button
+      type="button"
+      id="js-support-btn-close"
+      class="modal-btn-close icon-svg-b"
+      data-type="nav"
+      data-name="menu.btn-close">
+      Sluiten
+    </button>
+  </div>
+
+  <div class="modal-body">
+        <div id="id-support-titel">
+      <h1>Waarmee kunnen wij u <span class="opm-hdr">helpen?</span></h1>
+    </div>
+
+    <div id="id-support-content">
+      <div class="support-contact">
+        
+        <ul>
+                  <li>   
+           <div class="support-contact-txt">
+              <span class="icon-svg icon-chat"></span>
+                   <span class="support-contact-item-title">Virtuele medewerker</span>
+           </div>
+              <div class="support-contact-inleiding">
+                    <span>24/7 beschikbaar</span>
+             </div>
+
+                <div class="support-contact-lnk">
+<a href="/applicaties/chatbot/" class="artikel-cta-lnk icon-svg-b">Start een chat</a>                </div>
+        </li>
+        <li>   
+           <div class="support-contact-txt">
+              <span class="icon-svg icon-phone"></span>
+                   <span class="support-contact-item-title">Bel ons</span>
+           </div>
+              <div class="support-contact-inleiding">
+                    <span>Voor algemene vragen over uw pensioen zijn wij bereikbaar op werkdagen van 8:00 tot 17:30 uur.</span>
+             </div>
+
+                <div class="support-contact-lnk">
+<a href="/contact/bel-ons.aspx"  class="artikel-cta-lnk icon-svg-b">045 579 60 70</a><a href="/contact/bel-ons.aspx"  class="artikel-cta-lnk icon-svg-b">Telefoonnummers per afdeling</a>                </div>
+        </li>
+        <li>   
+           <div class="support-contact-txt">
+              <span class="icon-svg icon-mailbox"></span>
+                   <span class="support-contact-item-title">Schrijf ons</span>
+           </div>
+              <div class="support-contact-inleiding">
+                    <span>Wij antwoorden zo spoedig mogelijk</span>
+             </div>
+
+                <div class="support-contact-lnk">
+<a href="/applicaties/contact/opnemen-formulier" class="artikel-cta-lnk icon-svg-b">Stuur bericht</a>                </div>
+        </li>
+
+        </ul>
+      </div>
+      <div class="support-social">
+                <h2>U vindt ons ook op social media:</h2>
+
+        		<ul>			
+				    <li>
+					    <a href="https://www.facebook.com/abppensioenfonds/" title="Facebook ABP" data-type="nav" data-softclick-name="footer.logo.facebook.abp"><span class="icon-svg icon-fb"></span><span class="sr-only">Facebook</span></a>
+				    </li>
+			        <li>
+					    <a href="https://www.instagram.com/abppensioen/" title="ABP Instagram" data-type="nav" data-softclick-name="footer.logo.instagram.abp"><span class="icon-svg icon-in"></span><span class="sr-only">Instagram</span></a>
+				    </li>
+			        <li>
+					    <a href="https://www.linkedin.com/company/pensioenfonds-abp" title="LinkedIn ABP" data-type="nav" data-softclick-name="footer.logo.linkedin.abp"><span class="icon-svg icon-li"></span><span class="sr-only">LinkedIn</span></a>
+				    </li>
+			        <li>
+					    <a href="https://www.youtube.com/user/abppensioen" title="YouTube ABP" data-type="nav" data-softclick-name="footer.logo.youtube.abp"><span class="icon-svg icon-yt"></span><span class="sr-only">Youtube</span></a>
+				    </li>
+			        <li>
+					    <a href="https://twitter.com/abppensioen" title="Twitter ABP" data-type="nav" data-softclick-name="footer.logo.twitter.abp"><span class="icon-svg icon-tw"></span><span class="sr-only">Twitter</span></a>
+				    </li>
+		</ul>
+
+      </div>
+    </div>
+  </div>
+</div>
+<!-- end modal support sidebar --> 
+
+
+
+    <script src="/include/js/jquery.js"></script>
+    <script src="/include/js/site.js"></script>
+    <script src="/include/js/snippets.js"></script>
+
+		<script src="https://addsearch.com/js/?key=5379fc817aea887d1dd2aad529fe9800"></script> 
+
+    <script src="/include/js/fonds-analytics.js"></script>
+        <script>
+			objAlg.analyticsAdobeMeting("view.foutpagina.404-pagina-niet-gevonden");
+        </script>
+
+
+
+  </body>
+</html>

@@ -1,0 +1,45 @@
+#!/bin/bash
+
+inputfile="$1"
+
+if [[ ! $1 =~ \.pdf ]] ; then
+  echo "ERROR: I expect a PDF as argument."
+  exit 1
+fi
+
+# Need more powerful expressions in case statement
+shopt -s extglob
+
+htmlfile=${inputfile/.pdf/.html}
+txtfile="${htmlfile}.txt"
+tsvfile=${inputfile/.pdf/.tsv}
+
+echo "Converting PDF to HTML"
+pdftohtml -s -noframes -stdout "$inputfile"
+mv *.jpg *.png /tmp/
+htmlfile=${inputfile/.pdf/.html}
+txtfile="${htmlfile}.txt"
+echo "Converting HTML to text"
+html2text "$htmlfile" > "$txtfile"
+
+echo "Converting text files to TSV (tab seperated values)"
+cat "$txtfile" \
+| while read line ; do
+  if [[ $line =~ [a-zA-Z] ]] ; then
+    bedrijfsnaam="$line"
+  elif [[ $line =~ [0-9,]+% ]] ; then
+    percentage="$line"
+  elif [[ $line =~ [0-9\.]+ ]] ; then
+    bedrag="$line"
+    echo -e "$bedrijfsnaam\t$percentage\t$bedrag"
+    bedrijfsnaam=
+    percentage=
+    bedrag=
+  elif [[ $line == "" ]] ; then
+    :   # Empty line; do nothing
+  else
+    echo "Ignored: $line"
+  fi
+done \
+| sort | uniq \
+>> "$tsvfile"

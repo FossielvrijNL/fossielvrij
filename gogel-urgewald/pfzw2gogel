@@ -1,0 +1,88 @@
+#!/bin/bash
+
+# This script reads the investments from PFZW and translates the company names
+# to the corresponding ones from the GOGEL list.
+# Input is read from stdin and output is sent to stdout.
+# In other words: pfzw2gogel < pfzw-aandelen.tsv > pfzw-aandelen-gogel-compatible.tsv
+
+sed \
+-e 's/ANTERO MIDSTREAM C/Antero Resources Corporation/' \
+-e 's/BANCO BTG PACTUAL/Banco BTG Pactual SA/' \
+-e 's/BEACH ENERGY LTD NPV/Beach Energy Ltd/' \
+-e 's/BHARAT PETROLEUM CORP LTD/Bharat Petroleum Corporation Ltd/' \
+-e 's/BP PLC/BP plc/' \
+-e 's/CANADIAN NATURAL RESOURCES/Canadian Natural Resources Ltd (CNRL)/' \
+-e 's/CENOVUS ENERGY INC/Cenovus Energy Inc/' \
+-e 's/CHAPARRAL ENERGY INC COMMON STOCK/Chaparral Energy Inc/' \
+-e 's/CHEVRON CORP/Chevron Corporation/' \
+-e 's/CHINA COMM CONSTR/China Communications Construction Company Ltd/' \
+-e 's/CHINA PETROLEUM & CHEMICAL-H/China Petroleum & Chemical Corporation (Sinopec Corp)/' \
+-e 's/CHINA SHENHUA ENERGY CO-H/China Shenhua Energy Company Ltd/' \
+-e 's/CHINA SHENHUA ENER/China Shenhua Energy Company Ltd/' \
+-e 's/CIMAREX ENERGY CO/Cimarex Energy Co/' \
+-e 's/CITIC Ltd/Citic Resources Holdings Ltd/' \
+-e 's/CNOOC LTD/CNOOC Ltd/' \
+-e 's/CONCHO RESOURCES INC/Concho Resources Inc/' \
+-e 's/CONOCOPHILLIPS/ConocoPhillips/' \
+-e 's@CONTINENTAL RESOURCES INC/OK@Continental Resources Inc@' \
+-e 's/DANA GAS/Dana Gas PJSC/' \
+-e 's/DIAMONDBACK ENER I/Diamondback Energy Inc/' \
+-e 's/ECOPETROL SA/Ecopetrol SA/' \
+-e 's/ENI SPA/Eni SpA/' \
+-e 's/EOG RESOURCES INC/EOG Resources Inc/' \
+-e 's/EQUINOR ASA/Equinor ASA/' \
+-e 's/EXXON MOBIL CORP/Exxon Mobil Corporation/' \
+-e 's/GAIL INDIA LTD/GAIL (India) Ltd/' \
+-e 's/GALP ENERGIA SGPS SA/Galp Energia SGPS SA/' \
+-e 's/GRUPA LOTOS S.A./Grupa LOTOS SA/' \
+-e 's/GS HOLDINGS/GS Holdings Corp/' \
+-e 's/GULFPORT ENERGY CO/Gulfport Energy Corporation/' \
+-e 's/HARBOUR ENERGY PLC/Harbour Energy plc/' \
+-e 's/HUSKY ENERGY INC/Husky Energy Inc/' \
+-e 's/IMPERIAL OIL LTD/Imperial Oil Ltd/' \
+-e 's/INDIAN OIL CORP LTD/Indian Oil Corporation Ltd/' \
+-e 's/INPEX CORP/INPEX Corporation/' \
+-e 's/JAPAN PETROLEUM EXPLORATION/Japan Petroleum Exploration Co Ltd (JAPEX)/' \
+-e 's/KOREA GAS CORPORATION/Korea Gas Corporation (KOGAS)/' \
+-e 's/KUNLUN ENERGY CO LTD/KunLun Energy Company Ltd/' \
+-e 's/MARATHON PETROLEUM CORP/Marathon Oil Corporation/' \
+-e 's/MARUBENI CORP/Marubeni Corporation/' \
+-e 's/MITSUBISHI CORP/Mitsubishi Corporation/' \
+-e 's/MITSUI & CO LTD/Mitsui & Co Ltd/' \
+-e 's/NATL FUEL GAS CO/National Fuel Gas Company/' \
+-e 's/NOBLE ENERGY INC/Noble Energy Inc/' \
+-e 's/OIL & GAS DEVELOPM/Oil and Gas Development Company Ltd (OGDC)/' \
+-e 's/OIL INDIA LTD/Oil India Ltd/' \
+-e 's/OIL SEARCH LTD/Oil Search Ltd/' \
+-e 's/OMV AG/OMV AG/' \
+-e 's/ORIGIN ENERGY LTD/Origin Energy Ltd/' \
+-e 's/OSAKA GAS CO LTD/Osaka Gas Co Ltd (Daigas Group)/' \
+-e 's/PAKISTAN PETROLEUM LTD/Pakistan Petroleum Ltd (PPL)/' \
+-e 's/PETROBRAS - PETROLEO BRAS-PR/Petróleo Brasileiro SA – Petrobras/' \
+-e 's/PETRONAS DAGANGAN BHD/Petroliam Nasional Berhad (Petronas)/' \
+-e 's/PIONEER NATURAL RESOURCES CO/Pioneer Natural Resources Company/' \
+-e 's/POLSKIE GORNICTWO NAFTOWE I/Polskie Górnictwo Naftowe i Gazownictwo SA (PGNiG)/' \
+-e 's/POLSKI KONCERN NAFTOWY ORLEN/Polski Koncern Naftowy ORLEN SA (PKN ORLEN)/' \
+-e 's/RELIANCE INDUSTRIES LTD/Reliance Industries Ltd/' \
+-e 's/REPSOL SA/Repsol SA/' \
+-e 's/ROYAL DUTCH SHELL PLC-A SHS/Royal Dutch Shell plc/' \
+-e 's/ROYAL DUTCH SHELL PLC-B SHS/Royal Dutch Shell plc/' \
+-e 's/SANDRIDGE ENERGY I/SandRidge Energy Inc/' \
+-e 's/SANTOS LTD/Santos Ltd/' \
+-e 's/SAUDI ARABIAN OIL/Saudi Arabian Oil Company (Saudi Aramco)/' \
+-e 's/SCHLUMBERGER LTD/Schlumberger Ltd/' \
+-e 's/SEVEN GROUP HLDGS/Seven Group Holdings Ltd/' \
+-e 's/SINOPEC SHANGHAI PETROCHEM-H/China Petrochemical Corporation (Sinopec Group)/' \
+-e 's/SK INNOVATION CO LTD/SK Innovation Co Ltd/' \
+-e 's/SOJITZ CORP/Sojitz Corporation/' \
+-e 's/SUMITOMO CORP/Sumitomo Corporation/' \
+-e 's/SUNCOR ENERGY INC/Suncor Energy Inc/' \
+-e 's/SURGUTNEFTEGAZ/Surgutneftegas PJSC/' \
+-e 's/TECK RESOURCES LTD-CLS B/Teck Resources Ltd/' \
+-e 's/TOKYO GAS CO LTD/Tokyo Gas Co Ltd/' \
+-e 's/TOTAL SA/TotalEnergies SE/' \
+-e 's/UNIT CORP/Unit Corporation/' \
+-e 's/UNITED ENERGY GP L/United Energy Group Ltd/' \
+-e 's/WOODSIDE PETROLEUM LTD/Woodside Petroleum Ltd/'
+
+

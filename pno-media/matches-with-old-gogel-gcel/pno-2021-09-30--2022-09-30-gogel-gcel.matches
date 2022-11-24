@@ -1,0 +1,246 @@
+BERKSHIRE HATHAWAY INC	1	0	aandelen
+	gcel.tsv:Berkshire Hathaway Energy Co	USA
+
+BHP GROUP LTD	1	1	aandelen
+	gogel-upstream.tsv:BHP Group Ltd	Australia
+	gogel-midstream.tsv:BHP Group Ltd	Australia
+	gcel.tsv:BHP Group Ltd	Australia
+
+BP PLC	1	0	aandelen
+	gogel-upstream.tsv:BP plc	United Kingdom
+	gogel-midstream.tsv:BP plc	United Kingdom
+
+CHEVRON CORP	1	0	aandelen
+	gogel-upstream.tsv:Chevron Corporation	USA
+
+DOVER CORP	1	0	aandelen
+	gogel-upstream.tsv:Dover Petroleum Corp	Canada
+
+ENBRIDGE INC	1	0	aandelen
+	gogel-midstream.tsv:Enbridge Inc	Canada
+
+ENEL SPA	1	0	aandelen
+	gogel-midstream.tsv:Enel SpA	Italy
+	gcel.tsv:Enel SpA	Italy
+
+ENI SPA	1	0	aandelen
+	gogel-upstream.tsv:Eni SpA	Italy
+	gogel-midstream.tsv:Eni SpA	Italy
+
+EOG RESOURCES INC	1	0	aandelen
+	gogel-upstream.tsv:EOG Resources Inc	USA
+
+EQUINOR ASA	1	0	aandelen
+	gogel-upstream.tsv:Equinor ASA	Norway
+	gogel-midstream.tsv:Equinor ASA	Norway
+
+EXXON MOBIL CORP	1	0	aandelen
+	gogel-upstream.tsv:Exxon Mobil Corporation	USA
+	gogel-midstream.tsv:Exxon Mobil Corporation	USA
+
+FORTUM OYJ	1	0	aandelen
+	gcel.tsv:Fortum Oyj	Finland
+
+INPEX CORP	1	1	aandelen
+	gogel-upstream.tsv:INPEX Corporation	Japan
+	gogel-midstream.tsv:INPEX Corporation	Japan
+
+KINDER MORGAN INC	1	0	aandelen
+	gogel-midstream.tsv:Kinder Morgan Inc	USA
+
+LUNDIN ENERGY AB	1	0	aandelen
+	gogel-upstream.tsv:Lundin Energy AB	Sweden
+
+MARATHON PETROLEUM CORP	1	0	aandelen
+	gogel-upstream.tsv:Marathon Oil Corporation	USA
+
+OMV AG	1	0	aandelen
+	gogel-upstream.tsv:OMV AG	Austria
+
+POSCO	1	0	aandelen
+	gogel-upstream.tsv:Posco International Corporation	South Korea
+	gcel.tsv:Posco	South Korea
+
+RELIANCE INDUSTRIES LTD	1	1	aandelen
+	gogel-upstream.tsv:Reliance Industries Ltd	India
+
+REPSOL SA	1	0	aandelen
+	gogel-upstream.tsv:Repsol SA	Spain
+
+ROYAL DUTCH SHELL PLC	1	0	aandelen
+	gogel-upstream.tsv:Royal Dutch Shell plc	Netherlands
+	gogel-midstream.tsv:Royal Dutch Shell plc	Netherlands
+
+SNAM SPA	1	0	aandelen
+	gogel-midstream.tsv:Snam SpA	Italy
+
+TOTALENERGIES SE	1	0	aandelen
+	gogel-upstream.tsv:TotalEnergies SE	France
+	gogel-midstream.tsv:TotalEnergies SE	France
+
+VALERO ENERGY CORP	1	0	aandelen
+	gogel-midstream.tsv:Valero Energy Corporation	USA
+
+ABU DHABI CRUDE OIL PIPELINE L	0	1	obligaties
+
+APA GROUP	1	1	obligaties
+	gogel-midstream.tsv:APA Group	Australia
+
+BP PLC	1	0	obligaties
+	gogel-upstream.tsv:BP plc	United Kingdom
+	gogel-midstream.tsv:BP plc	United Kingdom
+
+CALLON PETROLEUM CO	1	1	obligaties
+	gogel-upstream.tsv:Callon Petroleum Company	USA
+
+CHENIERE ENERGY INC	1	1	obligaties
+	gogel-midstream.tsv:Cheniere Energy Inc	USA
+
+CHINA HUADIAN OVERSEAS DEVELOP	0	1	obligaties
+	gcel.tsv:China Huadian Overseas Development 2018 Ltd	China
+
+CHINA HUANENG GROUP HONG KONG	0	1	obligaties
+	gcel.tsv:China Huaneng Group Co Ltd	China
+
+CHINALCO CAPITAL HOLDINGS LTD	0	1	obligaties
+	gcel.tsv:Chinalco Capital Holdings Co Ltd	China
+
+CNX RESOURCES CORP	1	1	obligaties
+	gogel-upstream.tsv:CNX Resources Corporation	USA
+
+COLGATE ENERGY PARTNERS III LL	0	1	obligaties
+	gogel-upstream.tsv:Colgate Energy LLC	USA
+
+COMSTOCK RESOURCES INC	1	0	obligaties
+	gogel-upstream.tsv:Comstock Resources Inc	USA 
+
+ECOPETROL SA	1	1	obligaties
+	gogel-upstream.tsv:Ecopetrol SA	Colombia
+
+ELECTRICITE DE FRANCE SA	1	1	obligaties
+	gcel.tsv:Electricite de France SA (EDF Group)	France
+
+EMPRESA NACIONAL DEL PETROLEO	1	1	obligaties
+	gogel-upstream.tsv:Empresa Nacional del Petróleo (ENAP)	Chile
+
+ENEL SPA	1	1	obligaties
+	gogel-midstream.tsv:Enel SpA	Italy
+	gcel.tsv:Enel SpA	Italy
+
+ENERGETICKY A PRUMYSLOVY HOLDI	1	0	obligaties
+	gcel.tsv:Energeticky a prumyslovy holding as (EPH)	Czech Republic
+
+ENERGY TRANSFER LP	1	1	obligaties
+	gogel-midstream.tsv:Energy Transfer LP	USA
+
+ENERGY TRANSFER LP / REGENCY E	1	1	obligaties
+	gogel-midstream.tsv:Energy Transfer LP	USA
+
+ENGIE SA	1	0	obligaties
+	gogel-midstream.tsv:Engie SA	France
+
+EQT CORP	1	0	obligaties
+	gogel-upstream.tsv:EQT Corporation	USA
+	gogel-midstream.tsv:EQT Corporation	USA
+
+ESKOM HOLDINGS SOC LTD	0	1	obligaties
+	gcel.tsv:Eskom Holdings SOC Ltd	South Africa
+
+FIRSTENERGY CORP	1	1	obligaties
+	gcel.tsv:FirstEnergy Corp	USA
+
+FIRST QUANTUM MINERALS LTD	1	1	obligaties
+	gcel.tsv:First Quantum Minerals Ltd	Canada
+
+GALP ENERGIA SGPS SA	1	0	obligaties
+	gogel-upstream.tsv:Galp Energia SGPS SA	Portugal
+	gogel-midstream.tsv:Galp Energia SGPS SA	Portugal
+
+GENERAL ELECTRIC CO	1	1	obligaties
+	gogel-midstream.tsv:General Electric Company	USA
+	gcel.tsv:Portland General Electric Co	USA
+
+HESS MIDSTREAM OPERATIONS LP	1	0	obligaties
+	gogel-upstream.tsv:Hess Corporation	USA
+
+HILCORP ENERGY I LP / HILCORP	1	1	obligaties
+	gogel-upstream.tsv:Hilcorp Energy Company	USA
+
+INDONESIA ASAHAN ALUMINIUM PER	1	1	obligaties
+	gcel.tsv:PT Indonesia Asahan Aluminium	Indonesia
+
+INEOS LTD	1	0	obligaties
+	gogel-upstream.tsv:INEOS Ltd	United Kingdom
+
+MATADOR RESOURCES CO	1	1	obligaties
+	gogel-upstream.tsv:Matador Resources Company	USA
+
+NEDERLANDSE GASUNIE NV	0	1	obligaties
+	gogel-midstream.tsv:NV Nederlandse Gasunie	Netherlands
+
+NEXTERA ENERGY OPERATING PARTN	1	1	obligaties
+	gogel-midstream.tsv:NextEra Energy Inc	USA
+
+NRG ENERGY INC	1	1	obligaties
+	gcel.tsv:NRG Energy Inc	USA
+
+OCCIDENTAL PETROLEUM CORP	1	1	obligaties
+	gogel-upstream.tsv:Occidental Petroleum Corporation	USA
+
+OIL AND GAS HOLDING CO BSCC/TH	0	1	obligaties
+	gogel-upstream.tsv:The Oil and Gas Holding BSC (c) (nogaholding)	Bahrain
+
+OQ SAOC	0	1	obligaties
+	gogel-upstream.tsv:OQ SAOC	Oman
+	gogel-midstream.tsv:OQ SAOC	Oman
+
+PETROLIAM NASIONAL BHD	1	1	obligaties
+	gogel-upstream.tsv:Petroliam Nasional Berhad (Petronas)	Malaysia
+	gogel-midstream.tsv:Petroliam Nasional Berhad (Petronas)	Malaysia
+
+REPSOL SA	1	0	obligaties
+	gogel-upstream.tsv:Repsol SA	Spain
+
+RONGSHI INTERNATIONAL FINANCE	0	1	obligaties
+	gcel.tsv:Rongshi International Finance Ltd	China
+
+SINOCHEM GROUP CO LTD	0	1	obligaties
+	gogel-upstream.tsv:Sinochem Group Co Ltd	China
+
+SM ENERGY CO	1	0	obligaties
+	gogel-upstream.tsv:SM Energy Company	USA
+
+SOUTHWESTERN ENERGY CO	1	1	obligaties
+	gogel-upstream.tsv:Southwestern Energy Company	USA
+
+SPIC MTN CO LTD	0	1	obligaties
+	gcel.tsv:SPIC MTN Co Ltd	China
+
+STATE GRID CORP OF CHINA	1	1	obligaties
+	gcel.tsv:State Grid Corp of China (SGCC)	China
+
+STATE OIL CO OF THE AZERBAIJAN	1	1	obligaties
+	gogel-upstream.tsv:State Oil Company of the Azerbaijan Republic (SOCAR)	Azerbaijan
+	gogel-midstream.tsv:State Oil Company of the Azerbaijan Republic (SOCAR)	Azerbaijan
+
+TARGA RESOURCES CORP	1	1	obligaties
+	gogel-midstream.tsv:Targa Resources Corp	USA
+
+TOTALENERGIES SE	1	1	obligaties
+	gogel-upstream.tsv:TotalEnergies SE	France
+	gogel-midstream.tsv:TotalEnergies SE	France
+
+TULLOW OIL PLC	1	1	obligaties
+	gogel-upstream.tsv:Tullow Oil plc	United Kingdom
+	gogel-midstream.tsv:Tullow Oil plc	United Kingdom
+
+VEDANTA RESOURCES LTD	1	0	obligaties
+	gogel-upstream.tsv:Vedanta Resources Ltd	United Kingdom
+	gcel.tsv:Vedanta Resources Ltd	United Kingdom
+
+VISTRA OPERATIONS CO LLC	1	0	obligaties
+	gcel.tsv:Vistra Corp	USA
+
+YPF SA	1	1	obligaties
+	gogel-upstream.tsv:YPF SA	Argentina
+	gogel-midstream.tsv:YPF SA	Argentina

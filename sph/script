@@ -1,0 +1,40 @@
+# These commands have been used to download the investment data for SPH pension fund
+# and convert them to TSV format and match them with the GOGEL en GCEL lists.
+# Please note, that the PDF filename seems to indicate year 2021,
+# but we have confirmation it's the list for 2022-03-31.
+
+# Download the PDF
+wget https://www.huisartsenpensioen.nl/-/media/Files/Huisartsen/Beleggingen/sph-beleggingsportefeuille-31032021.pdf
+
+# Convert it to HTML and then to TXT. There is a pdftotext command, but the result of that is very messy.
+pdftohtml sph-beleggingsportefeuille-31032021.pdf
+mkdir sph-beleggingsportefeuille-31032021-html
+mv sph-beleggingsportefeuille-31032021*.html sph-beleggingsportefeuille-31032021*.jpg sph-beleggingsportefeuille-31032021-html/
+cd sph-beleggingsportefeuille-31032021-html
+html2text sph-beleggingsportefeuille-31032021s.html > ../sph-beleggingsportefeuille-31032021.pdf.html.txt
+cd ..
+
+# Company names and percentages are on separate consecutive lines.
+# This command will combine every percentage with the previous line (assuming it's the company name)
+# The result is sent through "uniq" so the don't count the top 10 or top 100 listings double. 
+cat sph-beleggingsportefeuille-31032021.pdf.html.txt | while read line ; do if egrep --silent '[0-9,]+%' <<<"$line" ; then percent="$line" ; echo -e "$bedrijfsnaam\t$percent" ; else bedrijfsnaam="$line" ; fi ; done | sort | uniq >sph-beleggingsportefeuille-31032022.tsv
+
+# Check whether the sum is close to 100%
+sed -e 's/\([0-9]\),\([0-9]\)/\1.\2/' sph-beleggingsportefeuille-31032022.tsv | awk 'FS="\t" {sum += $2} END { print sum}'
+
+# Find matches in the GOGEL and GCEL lists.
+# The 'matches' script tries to find relating companies but it's difficult
+# because of spelling defferences (co/corp/corporation etc).
+# So there will be false positives.
+time ../gogel-urgewald/match < sph-beleggingsportefeuille-31032022.tsv > sph-beleggingsportefeuille-31032022.matches
+
+# Edit the matches list to remove false positives; this is manual work
+# that involves using Google and https://www.leinumber.com/leicert/.
+pluma sph-beleggingsportefeuille-31032022.matches
+
+# Convert the resulting list to TSV format
+../gogel-urgewald/matches2tsv < sph-beleggingsportefeuille-31032022.matches > sph-beleggingsportefeuille-31032022.matches.tsv
+
+# Send it to your email address to import it into Excel
+echo | mutt -s 'SPH matches met GOGEL en GCEL' someone@example.com -e 'set send_charset="utf-8"' -a sph-beleggingsportefeuille-31032022.matches.tsv
+

@@ -1,0 +1,265 @@
+
+ABU DHABI GOVERNMENT INTERNATI
+	gogel-upstream.tsv:Abu Dhabi National Energy Company PJSC (TAQA)	UAE
+	gogel-upstream.tsv:Abu Dhabi National Oil Company (ADNOC)	UAE
+
+ALLIANT HOLDINGS INTERMEDIATE
+	gcel.tsv:Alliant Energy Corp	USA
+	gcel.tsv:Alliant Energy Finance LLC	USA
+
+APA GROUP
+	gogel-midstream.tsv:APA Group	Australia
+
+ARD HOLDINGS SA
+	gogel-upstream.tsv:Ballard Petroleum Holdings LLC 	USA
+
+BEACON ROOFING SUPPLY INC
+	gogel-upstream.tsv:Beacon Offshore Energy LLC	USA
+
+BLACK KNIGHT INFOSERV LLC
+	gogel-upstream.tsv:Black Swan Energy Ltd	Canada
+	gcel.tsv:Black Wattle Colliery (Pty) Ltd	South Africa
+	gcel.tsv:Black Wattle Klipfontein (Pty) Ltd	South Africa
+	gcel.tsv:Black Cockatoo Holdings Pty Ltd	Australia
+	gcel.tsv:Black Hills Corp	USA
+	gcel.tsv:Black Royalty Minerals Pty Ltd	South Africa
+	gcel.tsv:Black Butte Coal Co	USA
+
+BLACKSTONE MORTGAGE TRUST INC
+	gogel-upstream.tsv:Blackstone Energy Partners	USA
+
+BLACKSTONE PROPERTY PARTNERS L
+	gogel-upstream.tsv:Blackstone Energy Partners	USA
+
+BP PLC
+	gogel-upstream.tsv:BP plc	United Kingdom
+	gogel-midstream.tsv:BP plc	United Kingdom
+
+CALLON PETROLEUM CO
+	gogel-upstream.tsv:Callon Petroleum Company	USA
+
+CANADA SQUARE FUNDING 2021-1 P
+	gogel-midstream.tsv:Canada Development Investment Corporation (CDEV)	Canada
+
+CENTRAL CHINA REAL ESTATE LTD
+	gcel.tsv:SDIC Central China Coal Logistic Co Ltd	China
+
+CHENIERE ENERGY INC
+	gogel-midstream.tsv:Cheniere Energy Inc	USA
+
+CHENIERE ENERGY PARTNERS LP
+	gogel-midstream.tsv:Cheniere Energy Inc	USA
+
+CHINA NATIONAL CHEMICAL CORP L
+	gogel-upstream.tsv:China National Petroleum Corporation (CNPC)	China
+	gogel-midstream.tsv:China National Petroleum Corporation (CNPC)	China
+	gcel.tsv:China National Coal Group Corp (ChinaCoal)	China
+	gcel.tsv:China National Coal Mining Equipment Co Ltd	China
+	gcel.tsv:China National Coal Development Co Ltd	China
+	gcel.tsv:China National Machinery Import and Export Corp (CMC)	China
+	gcel.tsv:China National Machinery Industry Corp (Sinomach)	China
+
+CNX RESOURCES CORP
+	gogel-upstream.tsv:CNX Resources Corporation	USA
+
+COMSTOCK RESOURCES INC
+	gogel-upstream.tsv:Comstock Resources Inc	USA 
+
+DELEK LOGISTICS PARTNERS LP /
+	gogel-upstream.tsv:Delek Group Ltd	Israel
+
+DISCOVERY INC
+	gogel-upstream.tsv:Discovery Operating Inc	USA
+
+DOMINICAN REPUBLIC
+	gcel.tsv:Corporación Dominicana de Empresas Eléctricas Estatales	Dominican Republic
+	gcel.tsv:Empresa Generadora de Electricidad Itabo SA	Dominican Republic
+
+E.ON SE
+	gcel.tsv:Quezon Management Services Inc	Philippines
+	gcel.tsv:PT Cirebon Power Services	Indonesia
+	gcel.tsv:PT Cirebon Power Services	Indonesia
+	gcel.tsv:PT Cirebon Power Services	Indonesia
+
+ECOPETROL SA
+	gogel-upstream.tsv:Ecopetrol SA	Colombia
+
+ELECTRICITE DE FRANCE SA
+	gcel.tsv:Electricite de France SA (EDF Group)	France
+
+EMPRESA DE TRANSPORTE DE PASAJ
+	gogel-upstream.tsv:Empresa Nacional de Hidrocarbonetos EP (ENH)	Mozambique
+	gogel-upstream.tsv:Empresa Nacional del Petróleo (ENAP)	Chile
+	gogel-midstream.tsv:Empresa Nacional de Hidrocarbonetos EP (ENH)	Mozambique
+	gcel.tsv:Empresa Generadora de Electricidad Itabo SA	Dominican Republic
+
+EMPRESA NACIONAL DEL PETROLEO
+	gogel-upstream.tsv:Empresa Nacional del Petróleo (ENAP)	Chile
+
+ENEL SPA
+	gogel-midstream.tsv:Enel SpA	Italy
+	gcel.tsv:Enel SpA	Italy
+
+ENERGETICKY A PRUMYSLOVY HOLDI
+	gcel.tsv:Energeticky a prumyslovy holding as (EPH)	Czech Republic
+	gcel.tsv:Energeticky a prumyslovy holding as (EPH)	Czech Republic
+	gcel.tsv:Energeticky a prumyslovy holding as (EPH)	Czech Republic
+
+ENERGY TRANSFER LP
+	gogel-midstream.tsv:Energy Transfer LP	USA
+
+ENERGY TRANSFER LP / REGENCY E
+	gogel-midstream.tsv:Energy Transfer LP	USA
+
+ENGIE SA
+	gogel-midstream.tsv:Engie SA	France
+	gcel.tsv:Engie Energia Chile SA	Chile
+
+EQT CORP
+	gogel-upstream.tsv:EQT Corporation	USA
+	gogel-midstream.tsv:EQT Corporation	USA
+
+FIRST QUANTUM MINERALS LTD
+	gcel.tsv:First Quantum Minerals Ltd	Canada
+
+FIRSTENERGY CORP
+	gcel.tsv:FirstEnergy Corp	USA
+
+GALP ENERGIA SGPS SA
+	gogel-upstream.tsv:Galp Energia SGPS SA	Portugal
+	gogel-midstream.tsv:Galp Energia SGPS SA	Portugal
+
+GENERAL ELECTRIC CO
+	gogel-midstream.tsv:General Electric Company	USA
+	gcel.tsv:Portland General Electric Co	USA
+
+GOVERNMENT OF MONGOLIA
+	gogel-upstream.tsv:Government Holdings (Private) Ltd (GHPL)	Pakistan
+	gogel-midstream.tsv:Government Holdings (Private) Ltd (GHPL)	Pakistan
+
+HAINAN TRAFFIC ADMINISTRATION
+	gcel.tsv:Hainan Haide Capital Management Co Ltd	China
+
+HESS MIDSTREAM OPERATIONS LP
+	gogel-upstream.tsv:Hess Corporation	USA
+
+HILCORP ENERGY I LP / HILCORP
+	gogel-upstream.tsv:Hilcorp Energy Company	USA
+
+INDONESIA ASAHAN ALUMINIUM PER
+	gcel.tsv:PT Indonesia Asahan Aluminium	Indonesia
+
+INEOS LTD
+	gogel-upstream.tsv:INEOS Ltd	United Kingdom
+
+INTERNATIONAL GAME TECHNOLOGY
+	gogel-upstream.tsv:International Petroleum Corporation (IPC)	Canada
+	gcel.tsv:International Endesa BV	Netherlands
+	gcel.tsv:International Coal Ventures Pvt Ltd 	India
+
+IRON MOUNTAIN INC
+	gcel.tsv:Iron Senergy Holding llc	USA
+	gcel.tsv:Iron Cumberland LLC	USA
+
+JAGUAR HOLDING CO II / PPD DEV
+	gogel-upstream.tsv:Jaguar Exploración y Producción de Hidrocarburos SAPI de CV	Mexico
+
+KAZAKHSTAN GOVERNMENT INTERNAT
+	gcel.tsv:Kazakhstan Utility Systems LLP	Kazakhstan
+
+KAZAKHSTAN TEMIR ZHOLY FINANCE
+	gcel.tsv:Kazakhstan Utility Systems LLP	Kazakhstan
+
+MATADOR RESOURCES CO
+	gogel-upstream.tsv:Matador Resources Company	USA
+
+NEXTERA ENERGY OPERATING PARTN
+	gogel-midstream.tsv:NextEra Energy Inc	USA
+
+NRG ENERGY INC
+	gcel.tsv:NRG Energy Inc	USA
+
+OCCIDENTAL PETROLEUM CORP
+	gogel-upstream.tsv:Occidental Petroleum Corporation	USA
+
+PACIFIC GAS AND ELECTRIC CO
+	gogel-upstream.tsv:Pacific Oil & Gas Ltd	China (Hong Kong)
+	gogel-midstream.tsv:Pacific Oil & Gas Ltd	China (Hong Kong)
+
+PAKISTAN WATER & POWER DEVELOP
+	gogel-upstream.tsv:Pakistan Oilfields Ltd	Pakistan
+	gogel-upstream.tsv:Pakistan Petroleum Ltd (PPL)	Pakistan
+	gcel.tsv:Pakistan International Bulk Terminal Ltd	Pakistan
+
+PARK INTERMEDIATE HOLDINGS LLC
+	gcel.tsv:Park Elektrik Uretim Madencilik Sanayi ve Ticaret AS	Turkey
+	gcel.tsv:Park Teknik Elektrik Madencilik Turizm Sanayi ve Ticaret AS	Turkey
+	gcel.tsv:Park Toptan Elektrik Enerjisi Satış Sanayi ve Ticaret AS	Turkey
+	gcel.tsv:Park Joung In	South Korea
+
+PETROLIAM NASIONAL BHD
+	gogel-upstream.tsv:Petroliam Nasional Berhad (Petronas)	Malaysia
+	gogel-midstream.tsv:Petroliam Nasional Berhad (Petronas)	Malaysia
+
+PHOENIX GROUP HOLDINGS
+	gogel-upstream.tsv:Phoenix Global Resources plc	United Kingdom
+
+REPSOL SA
+	gogel-upstream.tsv:Repsol SA	Spain
+
+ROCKIES EXPRESS PIPELINE LLC
+	gogel-midstream.tsv:Rockies LNG LP	Canada
+
+SM ENERGY CO
+	gogel-upstream.tsv:SM Energy Company	USA
+
+SOUTHWESTERN ENERGY CO
+	gogel-upstream.tsv:Southwestern Energy Company	USA
+
+STATE GRID CORP OF CHINA
+	gcel.tsv:State Grid Corp of China (SGCC)	China
+
+STATE OF THE GRAND-DUCHY OF LU
+	gogel-upstream.tsv:State Oil Company of the Azerbaijan Republic (SOCAR)	Azerbaijan
+	gogel-midstream.tsv:State Oil Company of the Azerbaijan Republic (SOCAR)	Azerbaijan
+
+STATE OIL CO OF THE AZERBAIJAN
+	gogel-upstream.tsv:State Oil Company of the Azerbaijan Republic (SOCAR)	Azerbaijan
+	gogel-midstream.tsv:State Oil Company of the Azerbaijan Republic (SOCAR)	Azerbaijan
+
+TARGA RESOURCES CORP
+	gogel-midstream.tsv:Targa Resources Corp	USA
+
+TOTALENERGIES SE
+	gogel-upstream.tsv:TotalEnergies SE	France
+	gogel-midstream.tsv:TotalEnergies SE	France
+
+TULLOW OIL PLC
+	gogel-upstream.tsv:Tullow Oil plc	United Kingdom
+	gogel-midstream.tsv:Tullow Oil plc	United Kingdom
+
+UNIQUE PUB FINANCE CO PLC/THE
+	gcel.tsv:Unique Mining Services Public Co Ltd	Thailand
+
+VEDANTA RESOURCES FINANCE II P
+	gogel-upstream.tsv:Vedanta Resources Ltd	United Kingdom
+	gcel.tsv:Vedanta Resources Ltd	United Kingdom
+
+VEDANTA RESOURCES LTD
+	gogel-upstream.tsv:Vedanta Resources Ltd	United Kingdom
+	gcel.tsv:Vedanta Resources Ltd	United Kingdom
+
+VENTURE GLOBAL CALCASIEU PASS
+	gogel-midstream.tsv:Venture Global LNG Inc	USA
+
+VISTRA OPERATIONS CO LLC
+	gcel.tsv:Vistra Corp	USA
+	gcel.tsv:Vistra Finance Corp	USA
+
+WHITE CAP BUYER LLC
+	gcel.tsv:White Energy Co Ltd	Australia
+	gcel.tsv:White Stallion Energy LLC	USA
+
+YPF SA
+	gogel-upstream.tsv:YPF SA	Argentina
+	gogel-midstream.tsv:YPF SA	Argentina

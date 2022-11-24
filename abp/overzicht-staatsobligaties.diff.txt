@@ -1,0 +1,772 @@
+--- overzicht-staatsobligaties.txt.old	2022-04-01 11:55:10.124592597 +0200
++++ overzicht-staatsobligaties.txt	2022-10-04 11:55:07.206582319 +0200
+@@ -1,145 +1,150 @@
+ **Overzicht staatsobligaties ABP  
+-** In dit overzicht zijn de posities van ABP weergegeven per 31 december 2021,
++** In dit overzicht zijn de posities van ABP weergegeven per 30 juni 2022,
+ naar marktwaarde afgerond in miljoenen EURO.  
+-Beleggingen met een omvang van EUR < 0,5 mln. zijn niet opgenomen op deze
++Beleggingen met een omvang van EUR < 0,5 miljoen zijn niet opgenomen op deze
+ lijst. De gerapporteerde totale marktwaarde  
+-vertegenwoordigt 99,99% van de Totale ABP posities in staatsobligaties.1  
+-Land Omschrijving  
+-Totaal  
++vertegenwoordigt 100,00% van de totale ABP posities in staatsobligaties.1  
+ Land Omschrijving  
+ Totaal  
+-**Afrika 3.634  
+-Angola 160**  
+-**Filippijnen 419**  
+-Republic of Angola  
+-160  
++**Afrika 3.513**  
++**Filippijnen 488**  
++**Angola 165**  
+ Asian Development Bank  
+-64  
+-**Egypte 376**  
++155  
++Republic of Angola  
++165  
+ Republic of the Philippines  
+-355  
++333  
++**Egypte 293**  
+ Arab Republic of Egypt  
+-376  
++293  
++**India 24**  
+ **Ethiopië **  
+ **8**  
+-**India 195**  
++Republic of India  
++24  
+ Federal Democratic Republic of Ethiopia  
+ 8  
+-Export-Import Bank of India  
+-60  
+-**Gabon 36**  
+-Republic of India  
+-135  
++**Indonesië 2.389**  
++**Gabon 29**  
++Hutama Karya Persero PT  
++2  
+ Gabonese Republic  
+-36  
+-**Ghana 274**  
+-**Indonesië 2.465**  
+-Republic of Ghana  
+-274  
+-Lembaga Pembiayaan Ekspor Indonesia 1  
+-**Ivoorkust 145**  
++29  
+ Republic of Indonesia  
+-2.464  
++2.387  
++**Ghana 209**  
++Republic of Ghana  
++209  
++**Irak 35**  
++**Ivoorkust 223**  
++Republic of Iraq  
++35  
+ African Development Bank  
+-54  
++145  
++**Jordanië 66**  
+ Republic of Cote d’Ivoire  
+-92  
+-**Irak 36**  
+-Republic of Iraq  
+-36  
+-**Kenia 139**  
+-**Jordanië 67**  
+-Republic of Kenya  
+-139  
++78  
+ Hashemite Kingdom of Jordan  
+-67  
+-**Marokko 108**  
+-**Kazachstan 94**  
+-Kingdom of Morocco  
+-108  
++66  
++**Kazachstan 111**  
++**Kenia 108**  
+ Republic of Kazakhstan  
+-94  
+-**Mozambique 32**  
+-**Koeweit 52**  
+-Republic of Mozambique  
+-32  
++111  
++Republic of Kenya  
++108  
++**Koeweit 53**  
++**Marokko 72**  
+ State of Kuwait  
+-52  
+-**Namibië 11**  
+-**Libanon 25**  
+-Republic of Namibia  
+-11  
++53  
++Kingdom of Morocco  
++72  
++**Libanon 17**  
++**Mozambique 33**  
+ Lebanese Republic  
+-25  
+-**Nigeria 238**  
++17  
++Republic of Mozambique  
++33  
+ **Maldiven 6**  
+-Federal Republic of Nigeria  
+-238  
++**Namibië 10**  
+ Republic of Maldives  
+ 6  
+-**Rwanda 20**  
+-**Maleisië 249**  
+-Republic of Rwanda  
+-20  
++Republic of Namibia  
++10  
++**Maleisië 244**  
++**Nigeria 246**  
+ Federation of Malaysia  
+-90  
+-**Senegal 32**  
++93  
++Federal Republic of Nigeria  
++246  
+ Malaysia Sovereign Sukuk Bhd  
+-80  
+-Republic of Senegal  
+-32  
++76  
++**Rwanda 17**  
+ Malaysia Sukuk Global Bhd  
+-80  
+-**Tunesië 15**  
+-**Mongolië 72**  
+-Banque Centrale de Tunisie International Bond 15  
++75  
++Republic of Rwanda  
++17  
++**Mongolië 64**  
++**Senegal 25**  
+ Government of Mongolia  
+-72  
+-**Zambia 77**  
+-**Oezbekistan 89**  
+-Republic of Zambia  
+-77  
++64  
++Republic of Senegal  
++25  
++**Oezbekistan 84**  
++**Tunesië 12**  
+ Republic of Uzbekistan  
+-89  
+-**Zuid-Afrika 1.961**  
+-**Oman 350**  
+-Republic of South Africa  
+-1.961  
++84  
++Tunisian Republic  
++12  
++**Oman 383**  
++**Zambia 66**  
+ Sultanate of Oman  
+-350  
+-**Meer informatie? Ga n[aar abp.nl](https://www.abp.nl)**  
+-**Pakistan 167**  
+-**Azië 7.936**  
++383  
++Republic of Zambia  
++66  
++**Pakistan 116**  
++**Zuid-Afrika 1.997**  
+ Islamic Republic of Pakistan  
+-134  
+-**Armenië 24**  
+-Third Pakistan International Sukuk Co Ltd/The 33  
+-Republic of Armenia  
+-24  
+-**Azerbeidzjan 145**  
+-**Qatar 522**  
+-Republic of Azerbaijan  
+-145  
++112  
++Republic of South Africa  
++1.997  
++Third Pakistan International Sukuk Co Ltd/The 4  
++**Meer informatie? Ga n[aar abp.nl](https://www.abp.nl)**  
++**Azië 7.760**  
++**Qatar 548**  
++**Armenië 21**  
+ State of Qatar  
+-522  
+-**Bahrein 314**  
++548  
++Republic of Armenia  
++21  
+ **Saoedi Arabië **  
+-**282**  
+-Kingdom of Bahrain  
+-314  
++**272**  
++**Azerbeidzjan 129**  
+ Kingdom of Saudi Arabia  
+-282  
+-**China 1.763**  
++272  
++Republic of Azerbaijan  
++129  
+ **Sri Lanka **  
+-**100**  
++**62**  
++**Bahrein 319**  
++Democratic Socialist Republic  
++62  
++Kingdom of Bahrain  
++319  
++**Tadzjikistan 3**  
++**China 1.740**  
++Republic of Tajikistan  
++3  
+ People’s Republic of China  
+-1.763  
+-Democratic Socialist Republic of Sri Lanka 100  
++1.740  
++**Thailand 65**  
++Kingdom of Thailand  
++65  
+ 1 Tot en met 2019 hebben we ook  beleggingen met een kleinere omvang dan EUR
+ 0,5 mln vermeld. Deze posities zijn echter verwaarloosbaar  
+ klein; zelfs bij elkaar opgeteld vormen ze naar schatting minder dan 0,1% van
+ het totale vermogen. Zulke kleine posities ontstaan meestal doordat  
+-01.0015_22-03 - 2021 Q4 nl  
++01.0015_22-09 - 2022 Q2 nl  
+ we een belegging aan het op- of afbouwen zijn, niet als een bewuste keuze.  
+ 
+ * * *
+@@ -148,189 +153,183 @@
+ Totaal  
+ Land Omschrijving  
+ Totaal  
+-European Union  
+-582  
+-**Tadzjikistan 3**  
+-Grand Duchy Of Luxembourg  
+-26  
+-Republic of Tajikistan  
+-3  
+-**Thailand 39**  
+-**Nederland 5.916**  
+-Kingdom of Thailand  
+-39  
+-Kingdom of the Netherlands  
+-5.916  
+ **Verenigde Arabische Emiraten **  
+-**361**  
+-**Noorwegen 2**  
+-Emirate of Abu Dhabi United Arab Emirates 209  
+-Kingdom of Norway  
+-2  
++**403**  
++**Hongarije 638**  
++Emirate of Abu Dhabi United Arab Emirates 240  
++Hungary 638  
+ Emirate of Dubai United Arab Emirates  
+-52  
+-**Oekraïne 374**  
+-Emirate of Sharjah United Arab Emirates 80  
+-State Export-Import Bank of Ukraine  
+-3  
++57  
++**Ierland 1.150**  
++Emirate of Ras Al Khaimah United Arab Emirates 1  
++Republic of Ireland  
++1.150  
++Emirate of Sharjah United Arab Emirates 84  
++**Italië 59**  
+ United Arab Emirates  
+-20  
+-Ukraine 370  
+-**Vietnam 55**  
+-**Oostenrijk 3.121**  
++21  
++A2A SpA  
++46  
++**Vietnam 78**  
++Hera SpA  
++13  
+ Socialist Republic of Vietnam  
+-33  
+-Republic of Austria  
+-3.121  
++52  
+ Viet Nam Debt & Asset Trading Corp  
+-22  
+-**Polen 1.102**  
+-Republic of Poland  
+-1.102  
++27  
++**Kroatië 52**  
++Republic of Croatia  
++52  
+ **Zuid Korea **  
+-**43**  
+-**Portugal 713**  
++**42**  
++**Luxemburg 3.672**  
+ Republic of Korea  
+-43  
+-Portuguese Republic  
+-713  
+-**Roemenië 562**  
+-**Europa 89.444**  
+-Romania 562  
+-**België 7.774**  
+-**Servië 63**  
++42  
++European Financial Stability Facility  
++894  
++European Investment Bank  
++1.428  
++**Europa 79.472**  
++European Union  
++1.329  
++**België 6.282**  
++State of the Grand-Duchy of Luxembourg 22  
++FLUVIUS System Operator CVBA  
++37  
+ Kingdom of Belgium  
+-7.711  
+-Republic of Serbia  
+-63  
+-Ministeries Van de Vlaamse Gemeenschap 46  
+-**Spanje 5.516**  
++6.198  
++**Nederland 4.979**  
++Ministeries Van de Vlaamse Gemeenschap 35  
++Alliander NV  
++27  
+ Region Wallonne Belgium  
+-17  
+-Autonomous Community of Andalusia  
+-34  
+-**Denemarken 395**  
+-Autonomous Community of Madrid  
+-87  
++13  
++Enexis Holding NV  
++11  
++Kingdom of the Netherlands  
++4.814  
++**Denemarken 386**  
++Stedin Holding NV  
++128  
+ Kingdom of Denmark  
+-364  
+-Basque Government  
+-28  
+-Kommunekredit 31  
+-Kingdom of Spain  
+-5.367  
+-**Duitsland 19.939**  
+-**Tsjechië 743**  
++305  
++Kommunekredit 81  
++**Oekraïne 117**  
++NPC Ukrenergo  
++1  
++**Duitsland 18.174**  
++Ukraine 116  
++BayernLB Holdings AG  
++13  
++EnBW Energie Baden-Wuerttemberg AG 36  
++**Oostenrijk 2.711**  
++Eurofima Europaeische Gesellschaft  
++27  
++Oesterreichische Kontrollbank AG  
++35  
+ European Stability Mechanism  
+-112  
+-Czech Republic  
+-743  
++376  
++Republic of Austria  
++2.676  
+ Federal Republic of Germany  
+-18.741  
+-**Turkije 650**  
++14.390  
+ Free and Hanseatic City of Hamburg  
+-8  
+-Hazine Mustesarligi Varlik Kiralama AS  
+-20  
++7  
++**Polen 1.088**  
+ Free State of Bavaria  
+-43  
+-Republic of Turkey  
+-619  
++41  
++Republic of Poland  
++1.088  
+ Gemeinsame Deutsche Bundeslaender  
+-21  
+-Turkiye Ihracat Kredi Bankasi AS  
+-10  
++54  
++**Portugal 628**  
++GEWOBAG Wohnungsbau-AG Berlin  
++24  
++Portuguese Republic  
++628  
++Kreditanstalt fuer Wiederaufbau  
++1.255  
++**Roemenië 602**  
+ Land Baden-Wuerttemberg  
+-69  
+-**Verenigd Koninkrijk **  
+-**11.430**  
++62  
++Romania 602  
+ Land Berlin  
+-187  
+-European Bank for Reconstruction  
++298  
++**Servië 62**  
++Landwirtschaftliche Rentenbank  
++217  
++Republic of Serbia  
++62  
++State of Bremen  
++55  
++**Spanje 4.556**  
+ State of Hesse  
+-99  
+-and Development  
+-52  
++164  
++Autonomous Community of Andalusia  
++92  
+ State of Lower Saxony  
+-35  
+-United Kingdom of Great Britain  
++132  
++Autonomous Community of Madrid  
++146  
+ State of North Rhine-Westphalia  
+-339  
+-and NorthernIreland  
+-11.378  
++735  
++Basque Government  
++67  
+ State of Rhineland-Palatinate  
+-98  
++92  
++Kingdom of Spain  
++4.251  
+ State of Saxony-Anhalt  
+-60  
+-**Zweden 198**  
++81  
+ State of Schleswig-Holstein Germany  
+-128  
+-Kingdom of Sweden  
+-163  
+-**Finland 1.235**  
+-Kommuninvest Cooperative Society  
+-36  
++115  
++**Tsjechië 705**  
++Czech Republic  
++705  
++**Finland 1.418**  
++**Turkije 523**  
+ Kuntarahoitus Oyj  
+-61  
++267  
++Hazine Mustesarligi Varlik Kiralama AS  
++30  
+ Nordic Investment Bank  
+-53  
+-**Zwitserland 28**  
++95  
++Republic of Turkey  
++493  
+ Republic of Finland  
+-1.121  
+-EUROFIMA 28  
+-**Frankrijk 26.724**  
+-Action Logement Services  
+-10  
+-**Noord-Amerika 26.929**  
++1.055  
++**Frankrijk 22.612**  
++**Verenigd Koninkrijk **  
++**8.845**  
++Action Logement Groupe  
++8  
++European Bank for Reconstruction  
+ BPIFrance SA  
+-24  
+-**Canada 1.464**  
++109  
++and Development  
++55  
+ Council Of Europe Development Bank  
+-66  
+-Canada 1.430  
++277  
++United Kingdom of Great Britain  
++Dexia SA  
++79  
++and Northern Ireland  
++8.791  
+ French Republic  
+-26.589  
+-Province of Ontario Canada  
+-13  
++22.123  
+ Region of Ile de France  
+-35  
+-Province of Quebec Canada  
+-21  
+-**Georgië 17**  
+-**El Salvador **  
+-**89**  
++16  
++**Zweden 186**  
++Kingdom of Sweden  
++115  
++**Georgië 12**  
++Kommuninvest Cooperative Society  
++70  
+ Republic of Georgia  
+-17  
+-Republic of El Salvador  
+-89  
+-**Hongarije 784**  
+-**Jamaica 79**  
+-Hungary 784  
+-Jamaica 79  
+-**Ierland 427**  
+-**Mexico 2.167**  
+-Republic of Ireland  
+-427  
+-United Mexican States  
+-2.167  
+-**Kroatië 51**  
+-**Panama 343**  
+-Republic of Croatia  
+-51  
+-Republic of Panama  
+-343  
+-**Luxemburg 1.683**  
+-**Trinidad en Tobago **  
+-**38**  
+-European Financial Stability Facility  
+-382  
+-Republic of Trinidad & Tobago  
+-38  
+-European Investment Bank  
+-693  
++12  
+ Overzicht staatsobligaties ABP  
+ **2**  
+-per 31 december 2021  
++per 30 juni 2022  
+ 
+ * * *
+ 
+@@ -338,80 +337,107 @@
+ Totaal  
+ Land Omschrijving  
+ Totaal  
+-**Verenigde Staten **  
+-**22.749**  
+-**Brazilië 2.229**  
+-United States of America  
+-22.343  
++**Zwitserland 16**  
++**Zuid-Amerika 5.940**  
++Canton of Zurich  
++16  
++**Argentinië 206**  
++Argentine Republic/The  
++204  
++**Noord-Amerika 25.087**  
++Province of Salta Argentina  
++1  
++**Canada 1.359**  
++Provincia del Chaco Argentina  
++2  
++Canada 1.280  
++**Barbados 7**  
++Ontario Teachers’ Finance Trust  
++25  
++Barbados 7  
++Province of Ontario Canada  
++11  
++**Bolivariaanse Republiek Venezuela **  
++**60**  
++Province of Quebec Canada  
++44  
++Corp Andina de Fomento  
++60  
++**Bolivia 25**  
++**El Salvador **  
++**72**  
++Plurinational State of Bolivia  
++25  
++Republic of El Salvador  
++72  
++**Brazilië 1.915**  
++**Jamaica 70**  
+ Federative Republic of Brazil  
+-2.229  
+-World Bank Group/The  
+-406  
+-**Chili 596**  
++1.915  
++Government of Jamaica/The  
++70  
++**Chili 561**  
++**Mexico 1.951**  
+ Republic of Chile  
+-596  
+-**Oceanië 1.404**  
+-**Colombia 1.272**  
+-**Australië 1.368**  
++561  
++United Mexican States  
++1.951  
++**Colombia 1.252**  
++**Panama 339**  
+ Republic of Colombia  
+-1.272  
+-Commonwealth of Australia  
+-1.368  
++1.252  
++Republic of Panama  
++339  
+ **Costa Rica **  
+-**122**  
+-**Nieuw Zeeland **  
+-**15**  
++**107**  
++**Trinidad en Tobago **  
++**41**  
+ Republic of Costa Rica  
+-122  
+-Auckland Council  
+-15  
++107  
++Republic of Trinidad & Tobago  
++41  
+ **Dominicaanse Republiek **  
+-**431**  
+-**Papoea-Nieuw-Guinea 21**  
++**389**  
++**Verenigde Staten **  
++**21.255**  
+ Dominican Republic  
+-431  
+-Independent State Of Papua New Guinea 21  
+-**Ecuador 193**  
++389  
++United States of America  
++20.685  
++**Ecuador 175**  
++World Bank Group/The  
++570  
+ Republic of Ecuador  
+-193  
+-**Zuid-Amerika 6.472**  
+-**Guatemala 156**  
+-**Argentinië 251**  
++175  
++**Guatemala 133**  
++**Oceanië 1.141**  
+ Republic of Guatemala  
+-156  
+-Argentine Republic/The  
+-246  
+-**Honduras 65**  
+-Province of Salta Argentina  
+-1  
++133  
++**Australië 1.108**  
++**Honduras 41**  
++Commonwealth of Australia  
++1.108  
+ Republic of Honduras  
+-65  
+-Provincia de Buenos Aires  
+-2  
+-**Paraguay 160**  
+-Provincia del Chaco Argentina  
+-2  
++41  
++**Nieuw Zeeland **  
++**12**  
++**Paraguay 143**  
++Auckland Council  
++12  
+ Republic of Paraguay  
+-160  
+-**Peru 607**  
+-**Barbados 7**  
++143  
++**Papoea-Nieuw-Guinea 21**  
++**Peru 634**  
++Independent State Of Papua New Guinea 21  
+ Republic of Peru  
+-607  
+-Barbados 7  
++634  
+ **Suriname 4**  
+-**Bolivariaanse Republiek Venezuela **  
+-**44**  
+ Republic of Suriname  
+ 4  
+-Corp Andina de Fomento  
+-44  
+-**Uruguay 318**  
+-**Bolivia 18**  
++**Uruguay 287**  
+ Oriental Republic of Uruguay  
+-318  
+-Plurinational State of Bolivia  
+-18  
+-**Eindtotaal 135.818**  
++287  
++**Eindtotaal 122.913**  
+ ABP geeft geen detailinformatie wanneer zijn positie op de  
+ Afwijkingen tussen de landenkaart en het overzicht (pdf)  
+ beleggings markt zou worden geschaad door openbaarmaking  
+@@ -422,13 +448,13 @@
+ op de landenkaart staan onze beleggingen uitgesplitst naar  
+ concurreren met ABP, wat ten koste gaat van het rendement.  
+ de dochterbedrijven.  
+-OokmaaktABPnietdenaambekendvaneenspecifieke  
++Ook maakt ABP niet de naam bekend van een specifieke  
+ belegging als dat op juridische bezwaren stuit, bijvoorbeeld  
+ wanneer het fonds contractueel is verplicht om  
+ vertrouwelijkheid te respecteren.  
+ Overzicht staatsobligaties ABP  
+ **3**  
+-per 31 december 2021  
++per 30 juni 2022  
+ 
+ * * *
+ 

@@ -1,0 +1,4351 @@
+--- overzicht-bedrijfsobligaties.txt.old	2021-12-23 11:54:07.845483381 +0100
++++ overzicht-bedrijfsobligaties.txt	2022-10-04 11:55:06.299548252 +0200
+@@ -1,121 +1,120 @@
+ **Overzicht bedrijfsobligaties ABP  
+-** In dit overzicht zijn de posities van ABP weergegeven per 30 september
+-2021, naar marktwaarde afgerond in miljoenen EURO.  
+-Beleggingen met een omvang van EUR < 0,5 mln. zijn niet opgenomen op deze
++** In dit overzicht zijn de posities van ABP weergegeven per 30 juni 2022,
++naar marktwaarde afgerond in miljoenen EURO.  
++Beleggingen met een omvang van EUR < 0,5 miljoen zijn niet opgenomen op deze
+ lijst.1 De gerapporteerde totale marktwaarde  
+-vertegenwoordigt 99,93% van de Totale ABP posities in bedrijfsobligaties. De
++vertegenwoordigt 99,99% van de totale ABP posities in bedrijfsobligaties. De
+ lijst bevat bedrijfsobligaties (inclusief covered bonds)  
+ die tevens zijn voorzien van een beurscodering 2.  
+ Regio Land  
+ Omschrijving  
+ Sector  
+ Totaal  
+-**Afrika 98**  
+-**Zambia 14**  
++**Afrika 90**  
++**Zambia 12**  
+ First Quantum Minerals Ltd  
+ Basismaterialen  
+-14  
+-**Zuid-Afrika 85**  
++12  
++**Zuid-Afrika 77**  
+ Anglo American PLC  
+ Basismaterialen  
+-18  
+-Eskom Holdings SOC Ltd  
+-Nutsbedrijven  
+-58  
++76  
+ Transnet SOC Ltd  
+-Industriele bedrijven  
+-8  
+-**Azië 1.559**  
+-**Azerbeidzjan 45**  
++Financiele Instellingen  
++1  
++**Azië 1.221**  
++**Azerbeidzjan 44**  
+ State Oil Co of the Azerbaijan Republic  
+-Energie  
+-45  
+-**China 461**  
++Financiele Instellingen  
++44  
++**China 214**  
+ Alibaba Group Holding Ltd  
+ Luxe goederen  
+-35  
++13  
+ China Development Bank  
+ Financiele Instellingen  
+-253  
+-China National Travel Service  
+-Luxe goederen  
+-24  
+-China Petrochemical Corp  
+-Energie  
+-150  
+-**India 12**  
+-Indian Railway Finance Corp Ltd  
+-Industriele bedrijven  
+-12  
+-**Indonesië 116**  
+-Hutama Karya Persero PT  
+-Dagelijkse goederen  
+-2  
+-Indonesia Asahan Aluminium Persero  
+-Basismaterialen  
+-36  
+-Pelabuhan Indonesia II PT  
+-Industriele bedrijven  
+-8  
+-Pelabuhan Indonesia III Persero  
++159  
++China Tourism Group Corp Ltd  
++Financiele Instellingen  
++31  
++NXP Semiconductors NV  
++Informatietechnologie  
++11  
++**Hong Kong **  
++**1**  
++CK Hutchison Holdings Ltd  
+ Industriele bedrijven  
+-8  
++1  
++**India 59**  
++Export-Import Bank of India  
++Financiele Instellingen  
++59  
++**Indonesië 87**  
++Lembaga Pembiayaan Ekspor Indonesia  
++Financiele Instellingen  
++1  
++Pelabuhan Indonesia Persero PT  
++Financiele Instellingen  
++17  
+ Pertamina Persero PT  
+-Energie  
+-62  
+-**Israël 53**  
++Financiele Instellingen  
++69  
++**Israël 49**  
+ Teva Pharmaceutical Industries Ltd  
+ Dagelijkse goederen  
+-53  
+-**Japan 405**  
++49  
++**Japan 336**  
+ Asahi Group Holdings Ltd  
+ Dagelijkse goederen  
+-50  
++57  
+ Development Bank of Japan Inc  
+ Financiele Instellingen  
+-14  
++34  
+ Mitsubishi UFJ Financial Group  
+ Financiele instellingen  
+-18  
++2  
+ Nippon Telegraph & Telephone Corp  
+ Telecommunicatie  
+-21  
++57  
+ Nissan Motor Co Ltd  
+ Luxe goederen  
+-1  
++2  
+ SoftBank Group Corp  
+ Telecommunicatie  
+-58  
+-**Meer informatie? Ga n[aar abp.nl](https://www.abp.nl)**  
++38  
+ Sumitomo Mitsui Financial Group  
+ Financiele instellingen  
+-2  
++3  
++**Meer informatie? Ga n[aar abp.nl](https://www.abp.nl)**  
+ Takeda Pharmaceutical Co Ltd  
+ Dagelijkse goederen  
+-211  
++124  
+ Toyota Motor Corp  
+ Luxe goederen  
+-30  
+-**Kazachstan 195**  
++21  
++**Kazachstan 176**  
+ Development Bank of Kazakhstan  
+ Financiele Instellingen  
+-36  
+-Fund of National Welfare Samruk-Kazyna Energie  
+-160  
+-**Macau 14**  
++35  
++Fund of National Welfare Samruk-Kazyna Financiele Instellingen  
++142  
++**Macau 18**  
+ Melco International Development  
+ Luxe goederen  
+-4  
++1  
++MGM Resorts International  
++Luxe goederen  
++7  
+ Wynn Resorts Ltd  
+ Luxe goederen  
+-9  
++10  
+ 1 Tot en met 2019 hebben we ook  beleggingen met een kleinere omvang dan EUR
+ 0,5 mln vermeld. Deze posities zijn echter verwaarloosbaar  
+ klein; zelfs bij elkaar opgeteld vormen ze naar schatting minder dan 0,1% van
+ het totale vermogen. Zulke kleine posities ontstaan meestal  
+ doordat we een belegging aan het op- of afbouwen zijn, niet als een bewuste
+ keuze.  
+-01.0025.21 Q3 nl  
++01.0025.22 Q2 nl  
+ 2 Een beurscodering betekent dat de betreffende obligatie is voorzien van een
+ “Bloomberg Exchange Code” Bedrijfsobligaties waarvoor geen  
+ ”Bloomberg Exchange Code” beschikbaar is, zijn derhalve niet opgenomen in
+@@ -131,155 +130,151 @@
+ Development Bank of Mongolia LLC  
+ Financiele Instellingen  
+ 7  
+-**Oman 6**  
++**Oezbekistan 2**  
++Uzbekneftegaz JSC  
++Financiele Instellingen  
++2  
++**Oman 8**  
+ Nama Holding Co SAOC  
+-Nutsbedrijven  
++Financiele Instellingen  
+ 2  
+ OQ SAOC  
+-Energie  
+-4  
+-**Qatar 21**  
++Financiele Instellingen  
++6  
++**Qatar 33**  
+ Qatar Energy  
+-Energie  
+-21  
+-**Singapore 17**  
++Financiele Instellingen  
++33  
++**Singapore 14**  
+ Cromwell Property Group  
+ Vastgoed  
+-15  
++12  
+ Temasek Holdings Pte Ltd  
+-Telecommunicatie  
++Financiele Instellingen  
+ 2  
++**Taiwan 17**  
++Taiwan Semiconductor Manufacturing  
++Informatietechnologie  
++17  
+ **Verenigde Arabische Emiraten **  
+-**170**  
++**127**  
+ Abu Dhabi National Oil Company  
+-Energie  
+-6  
+-Abu Dhabi Ports Co PJSC  
+-Dagelijkse goederen  
+-2  
+-Dubai Aerospace Enterprise DAE Ltd  
+ Financiele Instellingen  
+-13  
+-Dubai International Financial Centre  
++5  
++Dubai Aerospace Enterprise DAE Ltd  
+ Financiele Instellingen  
+-11  
+-Investment Corp of Dubai  
++20  
++Etihad Airways PJSC  
+ Financiele Instellingen  
+-19  
++2  
+ Mubadala Investment Co PJSC  
+ Financiele Instellingen  
+-64  
++66  
+ Port & Free Zone World FZE  
+-Dagelijkse goederen  
+-36  
+-Shelf Drilling Ltd  
+-Energie  
+-20  
++Financiele Instellingen  
++34  
+ **Zuid Korea **  
+-**39**  
+-Doosan Heavy Industries & Construction  
+-Industriele bedrijven  
++**29**  
++KB Financial Group Inc  
++Financiele instellingen  
++1  
++Korea Development Bank/The  
++Financiele Instellingen  
+ 1  
+ Korea Monetary Stabilization Bond  
+ Financiele Instellingen  
+-36  
++26  
+ Shinhan Financial Group Co Ltd  
+ Financiele instellingen  
+ 2  
+-**Europa 19.029**  
+-**België 711**  
++**Europa 13.506**  
++**België 593**  
+ Anheuser-Busch InBev SA/NV  
+ Dagelijkse goederen  
+-287  
+-Barry Callebaut AG  
+-Dagelijkse goederen  
+-2  
++265  
+ Belfius Bank SA  
+ Financiele instellingen  
+-33  
++6  
+ Cofinimmo SA  
+ Vastgoed  
+-28  
++21  
+ Elia Group SA/NV  
+ Nutsbedrijven  
+-126  
+-Euroclear Holding SA  
+-Financiele instellingen  
+-2  
+-FLUVIUS System Operator CVBA  
+-Nutsbedrijven  
+-18  
++80  
+ House of HR  
+ Luxe goederen  
+-10  
++9  
+ Investeringsmaatschappij Argenta NV  
+ Financiele instellingen  
+-75  
++58  
+ KBC Group NV  
+ Financiele instellingen  
+-80  
++114  
+ Solvay SA  
+ Basismaterialen  
+-49  
+-VGP NV  
+-Financiele instellingen  
+-2  
+-**Denemarken 680**  
++41  
++**Denemarken 522**  
+ AP Moller - Maersk A/S  
+ Industriele bedrijven  
+-23  
+-Carlsberg AS  
+-Dagelijkse goederen  
+-32  
++48  
++Coloplast A/S  
++Gezondheidszorg  
++56  
+ Danfoss A/S  
+ Industriele bedrijven  
+-85  
++68  
+ Danske Bank A/S  
+ Financiele instellingen  
+-230  
++112  
++DKT Holdings ApS  
++Telecommunicatie  
++23  
+ DSV A/S  
+ Industriele bedrijven  
+-87  
++37  
+ Forenet Kredit FMBA  
+ Financiele instellingen  
+-144  
++105  
++Jyske Bank A/S  
++Financiele instellingen  
++43  
+ Novo Nordisk A/S  
+ Dagelijkse goederen  
+ 1  
+ Orsted AS  
+-Nutsbedrijven  
+-76  
++Financiele Instellingen  
++29  
+ Sydbank AS  
+ Financiele instellingen  
+-3  
+-**Duitsland 3.481**  
+-ADLER Group SA  
++1  
++**Duitsland 1.569**  
++Aareal Bank AG  
+ Financiele instellingen  
+-29  
++1  
++ADLER Group SA  
++Financiele Instellingen  
++9  
+ Allianz SE  
+ Financiele instellingen  
+-76  
++52  
+ Amprion GmbH  
+ Nutsbedrijven  
+-49  
+-Banco Santander SA  
+-Financiele instellingen  
+-53  
++23  
+ BASF SE  
+ Energie  
+-46  
++1  
+ Bayer AG  
+ Dagelijkse goederen  
+-112  
+-BayernLB Holdings AG  
+-Financiele Instellingen  
+-27  
+-Bertelsmann SE & Co KGaA  
+-Telecommunicatie  
+-2  
++88  
++Best Secret GmbH  
++Luxe goederen  
++3  
++BK LC Lux MidCo Sarl  
++Luxe goederen  
++8  
+ Overzicht bedrijfsobligaties ABP  
+ **2**  
+-per 30 september 2021  
++per 30 juni 2022  
+ 
+ * * *
+ 
+@@ -287,883 +282,721 @@
+ Omschrijving  
+ Sector  
+ Totaal  
+-BK LC Lux MidCo Sarl  
+-Luxe goederen  
+-5  
+-Brenntag SE  
+-Basismaterialen  
+-3  
+-CeramTec TopCo GmbH  
+-Basismaterialen  
+-12  
+ Cheplapharm Arzneimittel GmbH  
+ Dagelijkse goederen  
+-18  
++15  
+ Commerzbank AG  
+ Financiele instellingen  
+-179  
+-Daimler AG  
++63  
++Daimler Truck Holding AG  
+ Luxe goederen  
+-93  
+-Deutsche Bahn AG  
+-Industriele bedrijven  
+-48  
++52  
+ Deutsche Bank AG  
+ Financiele instellingen  
+-108  
+-Deutsche Boerse AG  
+-Financiele instellingen  
+-2  
++155  
+ Deutsche Lufthansa AG  
+ Industriele bedrijven  
+-21  
++26  
++Deutsche Pfandbriefbank AG  
++Financiele instellingen  
++1  
+ Deutsche Telekom AG  
+ Telecommunicatie  
+-71  
++3  
+ E.ON SE  
+ Nutsbedrijven  
+-140  
++38  
+ Elia Group SA/NV  
+ Nutsbedrijven  
+-87  
+-EMS-Weser-Elbe Versorgungs-  
+-und Entsorgungsverband  
+-Nutsbedrijven  
+-56  
+-EnBW Energie Baden-Wuerttemberg AG  
+-Nutsbedrijven  
+-185  
++25  
++EMS-Weser-Elbe Versorgungs-und Entsorgungsverband Financiele Instellingen  
++27  
+ Fresenius SE & Co KGaA  
+ Gezondheidszorg  
+-80  
+-GEWOBAG Wohnungsbau-AG Berlin  
+-Financiele Instellingen  
+-27  
++69  
+ Grand City Properties SA  
+-Financiele instellingen  
+-88  
+-GRENKE AG  
+-Financiele instellingen  
+-1  
+-Hapag-Lloyd AG  
+-Industriele bedrijven  
+-1  
++Financiele Instellingen  
++49  
+ HeidelbergCement AG  
+ Industriele bedrijven  
+-26  
++17  
+ INA-Holding Schaeffler GmbH & Co  
+ Luxe goederen  
+-22  
+-Infineon Technologies AG  
+-Informatietechnologie  
+-52  
+-Kreditanstalt fuer Wiederaufbau  
+-Financiele Instellingen  
+-382  
+-Landwirtschaftliche Rentenbank  
+-Financiele Instellingen  
+-244  
++9  
+ LEG Immobilien SE  
+-Financiele instellingen  
+-30  
++Financiele Instellingen  
++44  
+ Luxembourg Investment Co 261 Sarl  
+ Industriele bedrijven  
+-28  
++24  
++Mahle GmbH  
++Luxe goederen  
++2  
++Materion Corp  
++Industriele bedrijven  
++37  
+ Mercer International Inc  
+ Basismaterialen  
+ 10  
+-Merck KGaA  
+-Dagelijkse goederen  
+-1  
+-METRO AG  
+-Dagelijkse goederen  
++Muenchener Rueckversicherungs-gesellschaft ag Financiele Instellingen  
+ 2  
+-MTU Aero Engines AG  
+-Industriele bedrijven  
+-3  
+ Nidda Topco Sarl  
+ Dagelijkse goederen  
+-23  
+-NRW.Bank  
+-Financiele Instellingen  
+-152  
++20  
+ Park Luxco SCA  
+ Industriele bedrijven  
+-13  
++7  
+ Robert Bosch Stiftung GmbH  
+ Luxe goederen  
+ 2  
+-Schustermann & Borenstein GmbH  
+-Luxe goederen  
+-3  
++RWE AG  
++Nutsbedrijven  
++92  
+ Siemens AG  
+ Industriele bedrijven  
+-37  
+-Stella Vermoegensverwaltungs GmbH  
+-Luxe goederen  
+-1  
++51  
++Telefonica SA  
++Telecommunicatie  
++2  
+ Triton Investment Management Limited  
+ Industriele bedrijven  
+-16  
++11  
+ TUI Cruises GmbH  
+ Luxe goederen  
+-6  
++4  
+ Vertical Topco Sarl  
+ Industriele bedrijven  
+-62  
++50  
+ Vier Gas Holdings Sarl  
+ Energie  
+-42  
++19  
+ Vodafone Group PLC  
+ Telecommunicatie  
+-43  
++9  
+ Volkswagen AG  
+ Luxe goederen  
+-390  
++339  
+ Vonovia SE  
+-Financiele instellingen  
+-242  
++Financiele Instellingen  
++88  
+ Zeppelin-Stiftung Ferdinand gGmbH  
+ Luxe goederen  
+-32  
+-**Finland 276**  
++26  
++**Finland 275**  
+ Ahlstrom-Munksjo Holding 3 Oy  
+ Basismaterialen  
+-6  
++8  
+ Elenia Group Oy  
+ Nutsbedrijven  
+-58  
++47  
+ Fortum Oyj  
+-Nutsbedrijven  
+-70  
++Financiele Instellingen  
++12  
+ Kojamo Oyj  
+-Financiele instellingen  
+-61  
++Financiele Instellingen  
++52  
+ Nokia Oyj  
+ Informatietechnologie  
+-2  
++1  
+ Nordea Bank Abp  
+ Financiele instellingen  
+-36  
+-OP Cooperative  
+-Financiele instellingen  
+-13  
++89  
+ UPM-Kymmene Oyj  
+ Nutsbedrijven  
+-30  
+-**Frankrijk 3.108**  
++65  
++**Frankrijk 2.536**  
+ Action Logement Immobilier  
+-Financiele instellingen  
+-16  
++Financiele Instellingen  
++12  
++Adevinta ASA  
++Luxe goederen  
++2  
+ Agence Francaise de Developpement  
+ Financiele Instellingen  
+-91  
+-Overzicht bedrijfsobligaties ABP  
+-**3**  
+-per 30 september 2021  
+-
+-* * *
+-
+-Regio Land  
+-Omschrijving  
+-Sector  
+-Totaal  
++165  
+ Altarea SCA  
+ Vastgoed  
+-2  
++1  
+ Arkema SA  
+ Basismaterialen  
+-34  
++31  
+ Atlantia SpA  
+ Industriele bedrijven  
+-83  
++35  
+ Aumarche SAS  
+ Dagelijkse goederen  
+ 2  
++AXA SA  
++Financiele instellingen  
++28  
+ BNP Paribas SA  
+ Financiele instellingen  
+-326  
++527  
+ Caisse des Depots et Consignations  
+ Financiele Instellingen  
+-215  
+-Capgemini SE  
+-Informatietechnologie  
+-29  
+-Carmila SA  
+-Vastgoed  
+-2  
++100  
++Carrefour SA  
++Dagelijkse goederen  
++26  
+ Casino Guichard Perrachon SA  
+ Dagelijkse goederen  
+-36  
++24  
++CGG SA  
++Energie  
++1  
+ Chrome Bidco SASU  
+ Gezondheidszorg  
+-10  
++8  
+ Chrome Holdco SASU  
+ Gezondheidszorg  
+-4  
+-CMA CGM SA  
+-Industriele bedrijven  
+-8  
+-Co Financiere pour l’Environnement  
+-Industriele bedrijven  
+-8  
++6  
+ Credit Agricole Group  
+ Financiele instellingen  
+-127  
++86  
+ Dakar Holdings SCA  
+ Luxe goederen  
+ 9  
+ Danone SA  
+ Dagelijkse goederen  
+ 1  
++Overzicht bedrijfsobligaties ABP  
++**3**  
++per 30 juni 2022  
++
++* * *
++
++Regio Land  
++Omschrijving  
++Sector  
++Totaal  
+ Dassault Systemes SE  
+ Informatietechnologie  
+-26  
+-Dexia SA  
+-Financiele Instellingen  
+-48  
++1  
+ Electricite de France SA  
+-Nutsbedrijven  
+-249  
+-Elior Group SA  
+-Dagelijkse goederen  
++Financiele Instellingen  
++142  
++Elis SA  
++Luxe goederen  
+ 4  
+ Engie SA  
+ Nutsbedrijven  
+-119  
+-EssilorLuxottica SA  
+-Gezondheidszorg  
++67  
++Eutelsat Communications SA  
++Telecommunicatie  
+ 2  
+ Faurecia SE  
+ Luxe goederen  
+-24  
++23  
+ Finkapla SAS  
+ Industriele bedrijven  
+-13  
++10  
++FivesHoldco1 SASU  
++Industriele bedrijven  
++7  
+ FJ International Invest  
+ Luxe goederen  
+-17  
++13  
+ Flamingo Lux II SCA  
+ Luxe goederen  
+-4  
++3  
++Getlink SE  
++Industriele bedrijven  
++1  
+ Groupe BPCE  
+ Financiele instellingen  
+-238  
++264  
+ Groupe Credit Mutuel  
+ Financiele instellingen  
+-196  
+-HSBC Holdings PLC  
+-Financiele instellingen  
+-47  
++81  
+ Infopro Digital Group BV  
+ Informatietechnologie  
+-12  
+-JLPP Entrepreneurs SAS  
+-Industriele bedrijven  
+-8  
+-Kering SA  
+-Luxe goederen  
+-3  
++9  
+ Lion/Polaris Lux Holdco Sarl  
+ Dagelijkse goederen  
+-27  
++20  
+ Lion/Seneca Lux Topco Sarl  
+ Luxe goederen  
+-14  
++11  
+ Loxam SAS  
+ Industriele bedrijven  
+-34  
++22  
+ LVMH Moet Hennessy Louis Vuitton  
+ Luxe goederen  
+ 1  
+-Mercialys SA  
+-Vastgoed  
+-1  
+ Mobilux Sarl  
+ Luxe goederen  
+-10  
++7  
+ Next Alt Sarl  
+ Telecommunicatie  
+-59  
++64  
+ Orange SA  
+ Telecommunicatie  
+-37  
+-Regie Autonome des Transports Parisiens Industriele bedrijven  
+-34  
++45  
++Pernod Ricard SA  
++Dagelijkse goederen  
++18  
++Regie Autonome des Transports Parisiens Financiele Instellingen  
++30  
+ Renault SA  
+ Luxe goederen  
+-38  
+-Rubis Terminal Infra SAS  
+-Industriele bedrijven  
+-6  
++34  
+ SNCF Reseau  
+-Industriele bedrijven  
+-235  
++Financiele Instellingen  
++175  
+ Societe Generale SA  
+ Financiele instellingen  
+-182  
++234  
+ Societe Nationale SNCF SA  
+-Industriele bedrijven  
+-26  
++Financiele Instellingen  
++19  
+ SPCM SA  
+ Basismaterialen  
+-22  
+-Suez SA  
+-Nutsbedrijven  
+-2  
+-Teleperformance Informatietechnologie 3  
+-Terega Holding SAS  
++21  
++Suez SACA  
+ Nutsbedrijven  
+-34  
++72  
+ TotalEnergies SE  
+ Energie  
+-265  
++25  
++Vallourec SA  
++Basismaterialen  
++1  
+ Veolia Environnement SA  
+ Nutsbedrijven  
+-37  
++34  
+ Verallia SA  
+ Industriele bedrijven  
+-9  
++12  
+ Vinci SA  
+ Industriele bedrijven  
+-20  
+-**Georgië 7**  
+-Georgian Railway JSC  
+-Industriele bedrijven  
+-7  
+-**Griekenland 18**  
+-Crystal Almond Holdings Ltd  
+-Telecommunicatie  
+-10  
+-Intralot SA-Integrated Lottery Systems & Services Luxe goederen  
+-8  
+-Overzicht bedrijfsobligaties ABP  
+-**4**  
+-per 30 september 2021  
+-
+-* * *
+-
+-Regio Land  
+-Omschrijving  
+-Sector  
+-Totaal  
+-**Guernsey 1**  
+-Pershing Square Capital Management  
+-Financiele instellingen  
+-1  
+-**Ierland 322**  
++2  
++**Griekenland 9**  
++Intralot SA-Integrated Information Systems  
++and Games of Chance Services Inc.  
++Luxe goederen  
++9  
++**Ierland 388**  
+ AerCap Holdings NV  
+-Financiele instellingen  
+-55  
++Financiele Instellingen  
++168  
+ AIB Group PLC  
+ Financiele instellingen  
+-2  
++34  
+ Bank of Ireland Group PLC  
+ Financiele instellingen  
+-2  
+-CRH Europe Investments BV  
+-Industriele bedrijven  
+-9  
++34  
+ CRH PLC  
+ Industriele bedrijven  
+-39  
+-Electricity Supply Board  
+-Nutsbedrijven  
+-53  
++29  
+ HNA Group Co Ltd  
+-Financiele instellingen  
+-125  
++Financiele Instellingen  
++106  
+ NJJ Holding Sasu  
+ Telecommunicatie  
+-20  
+-Ryanair Holdings PLC  
+-Industriele bedrijven  
+-16  
+-Smurfit Kappa Group PLC  
+-Basismaterialen  
+-3  
+-**Italië 918**  
+-A2A SpA  
+-Nutsbedrijven  
+-33  
+-ACEA SpA  
+-Nutsbedrijven  
+-32  
++18  
++**Italië 760**  
+ Assicurazioni Generali SpA  
+ Financiele instellingen  
+-1  
++9  
++ASTM SpA  
++Industriele bedrijven  
++48  
+ Atlantia SpA  
+ Industriele bedrijven  
+-72  
+-Azimut Holding SpA  
+-Financiele instellingen  
+-3  
+-Brunello Midco 2 SpA  
+-Informatietechnologie  
+-9  
++6  
++Autostrade per l’Italia SpA  
++Industriele bedrijven  
++92  
+ Cassa Depositi e Prestiti SpA  
+ Financiele Instellingen  
+-26  
++23  
++Castor SpA  
++Informatietechnologie  
++9  
+ Centurion Midco Sarl  
+ Informatietechnologie  
+-13  
++11  
+ Enel SpA  
+ Nutsbedrijven  
+-256  
++191  
+ Eni SpA  
+ Energie  
+-78  
++7  
+ FCA Bank SpA  
+ Luxe goederen  
+-71  
+-Infrastrutture Wireless Italiane  
+-Telecommunicatie  
+-21  
+-International Design Group SPA  
++43  
++Gamma Topco Sarl  
+ Luxe goederen  
+-11  
++24  
+ Intesa Sanpaolo SpA  
+ Financiele instellingen  
+-54  
+-Italgas SpA  
+-Nutsbedrijven  
+-1  
++40  
+ Libra Holdco Sarl  
+ Informatietechnologie  
+-12  
+-Lottomatica SpA/Roma  
+-Luxe goederen  
+-19  
++9  
+ Nexi SpA  
+ Informatietechnologie  
+-46  
++33  
++Partners Group Holding AG  
++Telecommunicatie  
++7  
++Overzicht bedrijfsobligaties ABP  
++**4**  
++per 30 juni 2022  
++
++* * *
++
++Regio Land  
++Omschrijving  
++Sector  
++Totaal  
+ Pro-Gest SpA  
+ Industriele bedrijven  
+-13  
++9  
+ San Quirico SpA  
+ Nutsbedrijven  
+-22  
+-SOFIMA Societa Finanziaria Machine  
+-Automatiche Spa  
+-Industriele bedrijven  
++15  
++Shiba Bidco SpA  
++Luxe goederen  
+ 7  
++Snam SpA  
++Nutsbedrijven  
++13  
++SOFIMA Societa Finanziaria Machine Automatiche Spa  
++Industriele bedrijven  
++5  
++TeamSystem SpA  
++Informatietechnologie  
++8  
+ Telecom Italia SpA/Milano  
+ Telecommunicatie  
+-33  
+-Terna - Rete Elettrica Nazionale società  
+-per azioni  
+-Nutsbedrijven  
+-15  
++19  
++Terna - Rete Elettrica Nazionale società per azioni Nutsbedrijven  
++25  
+ UniCredit SpA  
+ Financiele instellingen  
+-68  
++100  
+ Verde Holdings SCA  
+ Industriele bedrijven  
+-3  
+-**Kroatië 5**  
+-Hrvatska Elektroprivreda  
+-Nutsbedrijven  
+-5  
+-**Luxemburg 513**  
++8  
++**Luxemburg 385**  
+ ARD Holdings SA  
+ Industriele bedrijven  
+-37  
++24  
+ AXA Core Europe Fund SCS SICAV  
+-Financiele instellingen  
+-22  
++Financiele Instellingen  
++18  
+ Blackstone Property Partners LP  
+-Financiele instellingen  
+-71  
+-CBRE Global Investors Open-Ended Funds Financiele instellingen  
+-20  
+-Eurofins Scientific SE  
+-Luxe goederen  
+-1  
++Financiele Instellingen  
++24  
++CBRE Global Investors Open-Ended Funds Financiele Instellingen  
++13  
+ Eurologi II Sarl  
+-Financiele instellingen  
+-90  
+-Groupe Ecore Holding SAS  
+-Basismaterialen  
+-11  
++Financiele Instellingen  
++73  
+ Herens Topco Sarl  
+ Basismaterialen  
+-14  
++10  
+ HSE Finance Sarl  
+ Luxe goederen  
+-9  
++8  
+ INEOS Ltd  
+ Basismaterialen  
+-33  
++17  
+ Kleopatra Holdings 1 SCA  
+ Industriele bedrijven  
+ 2  
+ LHMC Topco Sarl  
+ Luxe goederen  
+-5  
++4  
+ Next Alt Sarl  
+ Telecommunicatie  
+-93  
++70  
+ OCH-AT Holding SA  
+ Telecommunicatie  
+-17  
++14  
++P3 Group Sarl  
++Financiele Instellingen  
++32  
+ SEGRO European Logistics Partnership  
+ Vastgoed  
+-73  
++62  
++SES SA  
++Telecommunicatie  
++2  
+ Triona Holding SA  
+ Dagelijkse goederen  
+ 13  
+-Overzicht bedrijfsobligaties ABP  
+-**5**  
+-per 30 september 2021  
+-
+-* * *
+-
+-Regio Land  
+-Omschrijving  
+-Sector  
+-Totaal  
+-**Nederland 2.593**  
++**Nederland 1.973**  
+ ABN AMRO Bank NV  
+-Financiele instellingen  
++Financiele Instellingen  
+ 23  
+ Acorn Holdings BV  
+ Dagelijkse goederen  
+-93  
+-Akzo Nobel NV  
+-Basismaterialen  
+-19  
+-Alliander NV  
+-Nutsbedrijven  
+-64  
+-ASML Holding NV  
+-Informatietechnologie  
+-20  
++74  
++Alcon Inc  
++Gezondheidszorg  
++25  
+ ASR Nederland NV  
+ Financiele instellingen  
+-52  
++28  
+ BCP IV RTP Holdings Ltd  
+ Industriele bedrijven  
+-5  
++4  
+ BNG Bank NV  
+ Financiele Instellingen  
+-128  
++311  
+ Cooperatieve Rabobank UA  
+-Financiele instellingen  
+-172  
++Financiele Instellingen  
++85  
+ de Volksbank NV  
+ Financiele instellingen  
+-62  
+-Ehrmann SE  
+-Dagelijkse goederen  
+-31  
+-Enexis Holding NV  
+-Nutsbedrijven  
+-164  
+-Heineken Holding NV  
+-Dagelijkse goederen  
+-34  
++36  
+ IMCD NV  
+ Basismaterialen  
+-14  
++31  
+ ING Groep NV  
+ Financiele instellingen  
+-120  
++178  
+ Koninklijke Ahold Delhaize NV  
+ Dagelijkse goederen  
+-56  
+-Koninklijke DSM NV  
+-Basismaterialen  
+ 16  
+ Koninklijke KPN NV  
+ Telecommunicatie  
+-21  
+-Koninklijke Philips NV  
+-Gezondheidszorg  
+-60  
++40  
+ Liberty Global PLC  
+ Telecommunicatie  
+-24  
++17  
+ Lincoln TopCo Pte Ltd  
+-Financiele instellingen  
+-107  
++Financiele Instellingen  
++148  
+ Maxeda DIY Group BV  
+ Luxe goederen  
+-15  
++10  
+ Nederlandse Financierings-Maatschappij  
+ Voor Ontwikkelingslanden N.V.  
+ Financiele Instellingen  
+-85  
+-Nederlandse Gasunie NV  
+-Nutsbedrijven  
+-10  
++79  
+ Nederlandse Waterschapsbank NV  
+ Financiele Instellingen  
+-221  
++240  
+ NIBC Holding NV  
+ Financiele instellingen  
+-32  
++72  
+ NN Group NV  
+ Financiele instellingen  
+-82  
++87  
+ PPF Group NV  
+ Telecommunicatie  
+-45  
+-Promontoria Holding 264 BV  
+-Industriele bedrijven  
+-5  
++60  
+ Q-Park Holding BV  
+ Industriele bedrijven  
+-19  
+-Royal Dutch Shell PLC  
++13  
++Samvardhana Motherson International Limited  
++Luxe goederen  
++2  
++Shell PLC  
+ Energie  
+-57  
+-Royal Schiphol Group NV  
+-Industriele bedrijven  
+-24  
++2  
+ Sigma Topco BV  
+ Dagelijkse goederen  
+-16  
+-Stedin Holding NV  
+-Nutsbedrijven  
+-182  
++9  
+ Sunshine Equity BV  
+ Dagelijkse goederen  
+-10  
++9  
+ TenneT Holding BV  
+-Nutsbedrijven  
+-182  
++Financiele Instellingen  
++73  
+ Trivium Packaging BV  
+ Industriele bedrijven  
+-22  
++10  
+ United Group BV  
+ Telecommunicatie  
+-37  
++29  
++Universal Music Group NV  
++Telecommunicatie  
++36  
+ Vereniging Achmea  
+ Financiele instellingen  
+-137  
++89  
+ Vesteda Residential Fund FGR  
+-Financiele instellingen  
+-55  
++Financiele Instellingen  
++60  
+ Viterra Ltd  
+ Dagelijkse goederen  
+-37  
++34  
++Overzicht bedrijfsobligaties ABP  
++**5**  
++per 30 juni 2022  
++
++* * *
++
++Regio Land  
++Omschrijving  
++Sector  
++Totaal  
+ VodafoneZiggo Group Holding BV  
+ Telecommunicatie  
+-26  
++12  
+ VZ Vendor Financing II BV  
+ Telecommunicatie  
+-9  
+-Wolters Kluwer NV  
+-Informatietechnologie  
+-2  
+-**Noorwegen 294**  
++5  
++Zuivelcooperatie FrieslandCamp  
++Dagelijkse goederen  
++27  
++**Noorwegen 252**  
+ Aker BP ASA  
+ Energie  
+-2  
++1  
+ Banco Santander SA  
+ Financiele instellingen  
+-147  
++133  
+ DNB Bank ASA  
+ Financiele instellingen  
+-25  
++47  
+ Equinor ASA  
+-Energie  
+-23  
++Financiele Instellingen  
++2  
++Kingdom of Norway  
++Financiele Instellingen  
++1  
+ Norsk Hydro ASA  
+ Basismaterialen  
+-4  
+-SpareBank 1 SMN  
+-Financiele instellingen  
+-3  
++1  
+ SpareBank 1 SR-Bank ASA  
+ Financiele instellingen  
+-39  
+-Sparebankstiftelsen Hedmark  
+-Financiele instellingen  
+-1  
++33  
+ Statnett SF  
+-Nutsbedrijven  
+-50  
+-**Oekraïne 32**  
++Financiele Instellingen  
++34  
++**Oekraïne 12**  
+ JSC Ukrainian Railways  
+-Industriele bedrijven  
+-7  
++Financiele Instellingen  
++2  
+ National JSC Naftogaz of Ukraine  
+-Energie  
+-7  
+-Overzicht bedrijfsobligaties ABP  
+-**6**  
+-per 30 september 2021  
+-
+-* * *
+-
+-Regio Land  
+-Omschrijving  
+-Sector  
+-Totaal  
+-State Agency of Roads of Ukraine  
+-Industriele bedrijven  
+-6  
++Financiele Instellingen  
++2  
++State Export-Import Bank of Ukraine  
++Financiele Instellingen  
++2  
+ State Savings Bank of Ukraine  
+ Financiele Instellingen  
+-12  
+-**Oostenrijk 314**  
++5  
++**Oostenrijk 226**  
+ Agnaten SE  
+ Dagelijkse goederen  
+-140  
++110  
+ Erste Group Bank AG  
+ Financiele instellingen  
+-26  
+-IMMOFINANZ AG  
+-Financiele instellingen  
+-2  
+-Novo Invest GmbH  
+-Luxe goederen  
+-1  
+-Oesterreichische Kontrollbank AG  
+-Financiele Instellingen  
+-37  
++84  
+ Raiffeisen Bank International AG  
+ Financiele instellingen  
+-91  
+-Verbund AG  
+-Nutsbedrijven  
+-19  
+-**Polen 16**  
++33  
++**Polen 14**  
+ CAN-PACK SA  
+ Industriele bedrijven  
+-13  
+-Norstar Holdings Inc  
++14  
++**Portugal 114**  
++Banco Comercial Portugues SA  
+ Financiele instellingen  
+-3  
+-**Portugal 117**  
+-Caixa Geral de Depositos SA  
+-Financiele Instellingen  
+-18  
++2  
+ EDP - Energias de Portugal SA  
+ Nutsbedrijven  
+-97  
+-Galp Gas Natural Distribuicao  
+-Nutsbedrijven  
+-2  
+-**Roemenië 22**  
++113  
++**Roemenië 18**  
+ RCS Management SA  
+ Telecommunicatie  
+-22  
+-**Rusland 69**  
+-Coca-Cola HBC AG  
+-Dagelijkse goederen  
+-24  
+-Russian Railways JSC  
+-Industriele bedrijven  
+-2  
+-State Transport Leasing Co OJSC  
+-Financiele Instellingen  
+-25  
+-Vnesheconombank Via VEB Finance PLC  
+-Financiele Instellingen  
+-17  
+-**Spanje 1.454**  
++18  
++**Spanje 966**  
+ Abanca Holding Financiero SA  
+ Financiele instellingen  
+-21  
+-Adif Alta Velocidad  
+-Dagelijkse goederen  
+-13  
++20  
++ACS Actividades de Construccio  
++Industriele bedrijven  
++2  
++Alsea SAB de CV  
++Luxe goederen  
++1  
+ Atlantia SpA  
+ Industriele bedrijven  
+-91  
++59  
+ Banco Bilbao Vizcaya Argentaria  
+ Financiele instellingen  
+-69  
++83  
++Banco de Sabadell SA  
++Financiele instellingen  
++2  
+ Banco Santander SA  
+ Financiele instellingen  
+-299  
++106  
+ Bankinter SA  
+ Financiele instellingen  
+-66  
++48  
+ CaixaBank SA  
++Financiele Instellingen  
++263  
++Cartera Mapfre SL  
+ Financiele instellingen  
+-430  
+-Cellnex Telecom SA  
+-Telecommunicatie  
+-16  
++20  
++Cepsa Holding LLC  
++Financiele Instellingen  
++1  
+ eDreams ODIGEO SA  
+ Luxe goederen  
+-1  
++8  
++Elisandra Spain IV SL  
++Nutsbedrijven  
++2  
+ Fomento de Construcciones y Contratas  
+ Nutsbedrijven  
+-3  
++2  
++Fundacion Bancaria Ibercaja  
++Financiele Instellingen  
++24  
+ Grifols SA  
+-Gezondheidszorg  
+-6  
++Dagelijkse goederen  
++20  
+ Grupo Antolin Holdco SA  
+ Luxe goederen  
+-7  
++6  
+ Iberdrola SA  
+ Nutsbedrijven  
+-94  
++77  
+ LHMC Topco Sarl  
+ Luxe goederen  
+-30  
++24  
+ Lorca Aggregator Ltd  
+ Telecommunicatie  
+-4  
+-Merlin Properties Socimi SA  
+-Vastgoed  
+-1  
+-Minor International PCL  
+-Luxe goederen  
+-5  
++41  
+ NorteGas Energia Distribucion  
+ Nutsbedrijven  
+-25  
++40  
+ Repsol SA  
+ Energie  
+-98  
++1  
+ Telefonica SA  
+ Telecommunicatie  
+-148  
+-Viesgo Infraestructuras Energeticas  
+-Nutsbedrijven  
+-26  
+-**Tsjechië 117**  
++119  
++**Tsjechië 44**  
+ CPI Property Group SA  
+-Financiele instellingen  
+-36  
+-EP Investment Sarl  
+-Nutsbedrijven  
+-51  
++Financiele Instellingen  
++20  
+ Erste Group Bank AG  
+ Financiele instellingen  
+-30  
+-**Turkije 11**  
++14  
++KKCG AG  
++Luxe goederen  
++9  
++**Turkije 19**  
+ Eldorado Gold Corp  
+ Basismaterialen  
+-11  
+-**Verenigd Koninkrijk **  
+-**2.301**  
+-3i Group PLC  
+-Financiele instellingen  
+-3  
+-AA Ltd/United Kingdom  
+-Dagelijkse goederen  
+-11  
+-Admiral Group PLC  
+-Financiele instellingen  
+-2  
+-Algeco Holding Sarl  
+-Industriele bedrijven  
+-18  
+-Ashtead Group PLC  
+-Industriele bedrijven  
+-2  
+-AstraZeneca PLC  
+-Dagelijkse goederen  
+-55  
++10  
++Turkiye Ihracat Kredi Bankasi AS  
++Financiele Instellingen  
++9  
+ Overzicht bedrijfsobligaties ABP  
+-**7**  
+-per 30 september 2021  
++**6**  
++per 30 juni 2022  
+ 
+ * * *
+ 
+@@ -1171,192 +1004,185 @@
+ Omschrijving  
+ Sector  
+ Totaal  
++**Verenigd Koninkrijk **  
++**1.615**  
++AA Ltd/United Kingdom  
++Luxe goederen  
++9  
++AstraZeneca PLC  
++Dagelijkse goederen  
++36  
++B&M European Value Retail SA  
++Luxe goederen  
++7  
+ Banco Santander SA  
+ Financiele instellingen  
+-67  
++41  
+ Barclays PLC  
+ Financiele instellingen  
+-83  
++150  
+ BP PLC  
+ Energie  
+-133  
++6  
+ BSREP II Center Parcs Jersey Limited  
+ Luxe goederen  
+-11  
++10  
+ BT Group PLC  
+ Telecommunicatie  
+-5  
++2  
++Burberry Group PLC  
++Luxe goederen  
++2  
++Centrica PLC  
++Nutsbedrijven  
++2  
+ CFC Group Ltd  
+ Telecommunicatie  
+-21  
++19  
++CK Hutchison Holdings Ltd  
++Industriele bedrijven  
++1  
+ Coca-Cola Europacific Partners  
+ Dagelijkse goederen  
+-107  
++75  
++Diageo PLC  
++Dagelijkse goederen  
++17  
+ easyJet PLC  
+ Industriele bedrijven  
+-22  
+-EG Group Ltd  
++17  
++EG Midco Ltd  
+ Luxe goederen  
+-44  
+-EnQuest PLC  
+-Energie  
+-1  
+-Everest UK TopCo Ltd  
++32  
++Europcar Mobility Group  
+ Industriele bedrijven  
+-8  
++15  
+ FGP TopCo Ltd  
+ Industriele bedrijven  
+-295  
+-GlaxoSmithKline PLC  
+-Dagelijkse goederen  
+-51  
++15  
+ Hammerson PLC  
+ Vastgoed  
+-24  
+-Hastings Group Consolidated Ltd  
+-Financiele instellingen  
+-1  
++16  
+ HSBC Holdings PLC  
+-Financiele instellingen  
+-303  
++Financiele Instellingen  
++270  
+ INEOS Ltd  
+ Basismaterialen  
+-28  
++29  
+ Informa PLC  
+ Telecommunicatie  
+-15  
+-Intermediate Capital Group PLC  
+-Financiele instellingen  
+ 2  
+ International Consolidated Airlines Groep Industriele bedrijven  
+-21  
+-International Personal Finance  
+-Financiele instellingen  
+-2  
++16  
+ Ivy Super Topco Ltd  
+ Industriele bedrijven  
+-8  
+-Just Group PLC  
+-Financiele instellingen  
+-2  
++7  
+ Kemble Water Holdings Ltd  
+ Nutsbedrijven  
+-132  
+-Kennedy-Wilson Holdings Inc  
+-Financiele instellingen  
+-3  
++156  
+ Liberty Global PLC  
+ Telecommunicatie  
+-70  
++58  
+ Linde PLC  
+ Basismaterialen  
+-19  
++16  
+ Lloyds Banking Group PLC  
+ Financiele instellingen  
+-5  
+-Marks & Spencer Group PLC  
+-Luxe goederen  
+ 2  
+-Melrose Industries PLC  
++Marks & Spencer Group PLC  
+ Luxe goederen  
+ 2  
+-Missouri TopCo Ltd  
+-Luxe goederen  
+-7  
+ National Express Group PLC  
+ Industriele bedrijven  
+-11  
++10  
+ National Grid PLC  
+ Nutsbedrijven  
+-83  
++55  
+ Nationwide Building Society  
+ Financiele instellingen  
+-44  
++81  
+ NatWest Group PLC  
+ Financiele instellingen  
+-144  
+-Next PLC  
+-Luxe goederen  
+-1  
++97  
+ Nomad Foods Ltd  
+ Dagelijkse goederen  
+-22  
++20  
+ Peoplecert Holdings Europe Ltd  
+ Industriele bedrijven  
+-9  
++8  
+ Premier Foods PLC  
+ Dagelijkse goederen  
+-10  
++9  
+ RELX PLC  
+ Informatietechnologie  
+-35  
+-Royal Mail PLC  
+-Industriele bedrijven  
++18  
++Scotia Gas Networks Ltd  
++Nutsbedrijven  
+ 2  
++Shell PLC  
++Energie  
++<0,5  
+ SSE PLC  
+ Nutsbedrijven  
+-55  
++50  
+ Standard Chartered PLC  
+ Financiele instellingen  
+-39  
++56  
+ Tata Motors Ltd  
+ Luxe goederen  
+-15  
++14  
+ Tesco PLC  
+ Dagelijkse goederen  
+-29  
++14  
+ Unilever PLC  
+ Dagelijkse goederen  
+-21  
++18  
++URENCO Ltd  
++Financiele Instellingen  
++22  
+ Victoria PLC  
+ Industriele bedrijven  
+-9  
++12  
+ Vine Acquisitions Ltd  
+ Luxe goederen  
+-12  
++10  
+ Virgin Media Vendor Financing  
+ Telecommunicatie  
+-25  
+-Virgin Money UK PLC  
+-Financiele Instellingen  
+-4  
++20  
+ Vodafone Group PLC  
+ Telecommunicatie  
+-121  
++68  
+ WD FF Ltd  
+ Dagelijkse goederen  
+-7  
+-Weir Group PLC/The  
+-Industriele bedrijven  
+-26  
+-**Zweden 857**  
++5  
++**Zweden 640**  
+ Akelius Foundation  
+-Financiele instellingen  
+-82  
+-Alfa Laval AB  
+-Industriele bedrijven  
+-3  
++Financiele Instellingen  
++27  
+ Atlas Copco AB  
+ Industriele bedrijven  
+-4  
++2  
+ Castellum AB  
+-Financiele instellingen  
+-32  
++Financiele Instellingen  
++12  
+ Dometic Group AB  
+ Dagelijkse goederen  
+-19  
++15  
+ EQT AB  
+ Financiele instellingen  
+-2  
++1  
+ Fastighets AB Balder  
+-Financiele instellingen  
+-111  
++Financiele Instellingen  
++94  
+ Fredensborg AS  
+-Financiele instellingen  
+-119  
++Financiele Instellingen  
++67  
++Hemso Fastighets AB  
++Financiele Instellingen  
++11  
+ Overzicht bedrijfsobligaties ABP  
+-**8**  
+-per 30 september 2021  
++**7**  
++per 30 juni 2022  
+ 
+ * * *
+ 
+@@ -1364,97 +1190,67 @@
+ Omschrijving  
+ Sector  
+ Totaal  
+-Hemso Fastighets AB  
+-Financiele instellingen  
+-30  
+ Lansforsakringar AB  
+ Financiele instellingen  
+-34  
+-Sagax AB  
+-Financiele instellingen  
+-3  
++31  
+ Samhallsbyggnadsbolaget i Norden  
+-Financiele instellingen  
+-69  
++Financiele Instellingen  
++29  
++Sandvik AB  
++Industriele bedrijven  
++36  
+ SBAB Bank AB  
+ Financiele Instellingen  
+-34  
++16  
+ Shield Luxco 1 SARL  
+ Luxe goederen  
+-40  
++36  
+ Skandinaviska Enskilda Banken  
+ Financiele instellingen  
+-3  
++2  
++Svensk Exportkredit AB  
++Financiele Instellingen  
++1  
+ Svenska Handelsbanken AB  
+ Financiele instellingen  
+-3  
++29  
+ Swedbank AB  
+ Financiele instellingen  
+-148  
+-Tele2 AB  
+-Telecommunicatie  
+-32  
+-Telia Co AB  
+-Telecommunicatie  
+-3  
++177  
+ Transcom Holding AB  
+ Informatietechnologie  
+-5  
+-Vattenfall AB  
+-Nutsbedrijven  
+-27  
++3  
+ Volkswagen AG  
+ Luxe goederen  
+-34  
+-Volvo AB  
+-Luxe goederen  
+-3  
++37  
+ Zhejiang Geely Holding Group Co Ltd  
+ Luxe goederen  
+-18  
+-**Zwitserland 796**  
++14  
++**Zwitserland 579**  
+ Alcon Inc  
+ Gezondheidszorg  
+-53  
+-Cie Financiere Richemont SA  
+-Luxe goederen  
+-5  
+-Consolidated Energy AG  
+-Basismaterialen  
+-1  
++22  
+ Credit Suisse Group AG  
+ Financiele instellingen  
+-146  
++154  
+ Dufry AG  
+ Luxe goederen  
+-8  
++6  
+ Firmenich International SA  
+ Basismaterialen  
+-36  
++15  
+ Givaudan SA  
+ Basismaterialen  
+-73  
++54  
+ Helvetia Holding AG  
+ Financiele instellingen  
+-35  
+-Holcim Ltd  
+-Industriele bedrijven  
+-113  
+-Nestle SA  
+-Dagelijkse goederen  
+-78  
+-Novartis AG  
+-Dagelijkse goederen  
+-2  
+-SIG Combibloc Group AG  
+-Basismaterialen  
+-3  
+-Sika AG  
++22  
++Holcim AG  
+ Industriele bedrijven  
+-60  
++75  
+ Stichting ELM  
+ Basismaterialen  
+-37  
++60  
+ Swiss Life Holding AG  
+ Financiele instellingen  
+ 2  
+@@ -1463,1644 +1259,1394 @@
+ 2  
+ UBS Group AG  
+ Financiele instellingen  
+-143  
+-**Noord-Amerika 19.851**  
+-**Bermuda 118**  
++168  
++Zurich Insurance Group AG  
++Financiele instellingen  
++1  
++**Noord-Amerika 13.715**  
++**Bermuda 128**  
+ Triton International Ltd  
+ Industriele bedrijven  
+-118  
+-**Canada 346**  
+-Alimentation Couche-Tard Inc  
+-Luxe goederen  
+-18  
++128  
++**Canada 320**  
+ Bank of Montreal  
+ Financiele instellingen  
+-2  
+-Barrick Gold Corp  
+-Basismaterialen  
+-3  
+-BCE Inc  
+-Telecommunicatie  
+-3  
++11  
++Bank of Nova Scotia/The  
++Financiele instellingen  
++1  
+ Bombardier Inc  
+ Industriele bedrijven  
+-14  
++12  
+ Canada Pension Plan Investment  
+ Financiele Instellingen  
+-34  
+-Canadian Imperial Bank of Commerce  
+-Financiele instellingen  
+-2  
++28  
+ Canadian National Railway Co  
+ Industriele bedrijven  
+-2  
++1  
++Canadian Pacific Railway Ltd  
++Industriele bedrijven  
++24  
++Fairfax Financial Holdings Ltd  
++Financiele instellingen  
++1  
+ GFL Environmental Inc  
+ Industriele bedrijven  
+-17  
++16  
+ Hudbay Minerals Inc  
+ Basismaterialen  
+-16  
+-Loral Space & Communications Inc  
+-Telecommunicatie  
+-6  
+-Manulife Financial Corp  
+-Financiele instellingen  
+-1  
+-MEG Energy Corp  
+-Energie  
+-9  
++20  
+ Methanex Corp  
+ Basismaterialen  
+-29  
+-Ontario Teachers’ Finance Trust  
+-Financiele Instellingen  
+-21  
++10  
++Nutrien Ltd  
++Basismaterialen  
++1  
+ Open Text Corp  
+ Informatietechnologie  
+-29  
++25  
+ Power Corp of Canada  
+ Financiele instellingen  
+ 1  
+ Restaurant Brands International  
+ Luxe goederen  
+-10  
++9  
+ Rogers Communications Inc  
+ Telecommunicatie  
+-2  
++12  
+ Royal Bank of Canada  
+ Financiele instellingen  
+-22  
++52  
+ Teck Resources Ltd  
+ Basismaterialen  
+-61  
++20  
++Telesat Corp  
++Telecommunicatie  
++4  
+ Toronto-Dominion Bank/The  
+ Financiele instellingen  
+-46  
+-Overzicht bedrijfsobligaties ABP  
+-**9**  
+-per 30 september 2021  
+-
+-* * *
+-
+-Regio Land  
+-Omschrijving  
+-Sector  
+-Totaal  
+-**Mexico 390**  
++71  
++**Mexico 341**  
+ Comision Federal de Electricid  
+-Nutsbedrijven  
+-35  
+-Fomento Economico Mexicano SAB de CV Dagelijkse goederen  
+-26  
+-Grupo Aeroportuario de la Ciudad de Mexico SA Industriele bedrijven  
+-15  
++Financiele Instellingen  
++41  
+ Petroleos Mexicanos  
+ Energie  
+-315  
+-**Panama 35**  
++300  
++**Panama 31**  
+ Aeropuerto Internacional de Tocumen  
+-Industriele bedrijven  
+-19  
++Financiele Instellingen  
++16  
+ Banco Nacional de Panama  
+ Financiele Instellingen  
+-8  
++7  
+ Empresa de Transmision Electrica SA  
+-Nutsbedrijven  
++Financiele Instellingen  
+ 3  
+ Liberty Latin America Ltd  
+ Telecommunicatie  
+-5  
++4  
++Overzicht bedrijfsobligaties ABP  
++**8**  
++per 30 juni 2022  
++
++* * *
++
++Regio Land  
++Omschrijving  
++Sector  
++Totaal  
+ **Verenigde Staten **  
+-**18.962**  
++**12.896**  
+ Abbott Laboratories  
+ Gezondheidszorg  
+ 2  
+ AbbVie Inc  
+ Dagelijkse goederen  
+-321  
++238  
+ Academy Sports & Outdoors Inc  
+ Luxe goederen  
+-17  
++6  
+ ACCO Brands Corp  
+ Dagelijkse goederen  
+-7  
++1  
+ Activision Blizzard Inc  
+ Telecommunicatie  
+-29  
+-Adient PLC  
+-Luxe goederen  
+-15  
++21  
+ Adobe Inc  
+ Informatietechnologie  
+ 2  
+-AerCap Holdings NV  
+-Financiele instellingen  
+-1  
+ AES Corp/The  
+ Nutsbedrijven  
+-92  
+-Agilent Technologies Inc  
+-Gezondheidszorg  
+-3  
++68  
+ AI Entertainment Holdings LLC  
+ Telecommunicatie  
+-4  
++17  
+ Air Products and Chemicals Inc  
+ Basismaterialen  
+-29  
++27  
+ Air Transport Services Group Inc  
+ Industriele bedrijven  
+-36  
++26  
+ Albemarle Corp  
+ Basismaterialen  
+-20  
++2  
+ Albertsons Cos Inc  
+ Dagelijkse goederen  
+-24  
++11  
+ Alcoa Corp  
+ Basismaterialen  
+-21  
++7  
+ Alexandria Real Estate Equities  
+ Vastgoed  
+-41  
+-Allegheny Technologies Inc  
+-Basismaterialen  
+-17  
++36  
+ Alliant Energy Corp  
+ Nutsbedrijven  
+-12  
++13  
+ Allison Transmission Holdings  
+ Luxe goederen  
+-15  
++13  
+ Ally Financial Inc  
+ Financiele instellingen  
+-93  
++32  
+ Alpha Frontier Ltd  
+ Telecommunicatie  
+-12  
+-Alphabet Inc  
+-Informatietechnologie  
+-16  
++10  
+ Altice USA Inc  
+ Telecommunicatie  
+-86  
++45  
+ AMC Entertainment Holdings Inc  
+ Luxe goederen  
+-13  
++2  
+ AMC Networks Inc  
+ Telecommunicatie  
+-3  
++2  
+ American Airlines Group Inc  
+ Industriele bedrijven  
+-53  
+-American Express Co  
+-Financiele instellingen  
+-3  
++76  
+ American Homes 4 Rent  
+ Vastgoed  
+-39  
++22  
+ American International Group Inc.  
+ Financiele instellingen  
+-119  
++62  
+ American Tower Corporation  
+ Telecommunicatie  
+-71  
++55  
+ American Water Works Co Inc  
+ Nutsbedrijven  
+-48  
++29  
+ AMN Healthcare Services Inc  
+ Gezondheidszorg  
+-38  
+-Analog Devices Inc  
+-Informatietechnologie  
+-2  
++20  
+ Antero Midstream Corp  
+ Energie  
+-24  
++1  
+ Antero Resources Corp  
+ Energie  
+-19  
+-Anthem Inc  
+-Financiele instellingen  
+-58  
++2  
+ Aon PLC  
+ Financiele instellingen  
+-21  
+-APA Corp  
+-Energie  
+-21  
++36  
+ Apple Inc  
+ Informatietechnologie  
+-82  
+-Applied Materials Inc  
+-Informatietechnologie  
+-37  
++58  
+ Aramark  
+ Dagelijkse goederen  
+ 5  
+ Arch Parent Inc  
+ Luxe goederen  
+-8  
++5  
++Archer-Daniels-Midland Co  
++Dagelijkse goederen  
++22  
+ Arcosa Inc  
+ Industriele bedrijven  
+-3  
++7  
+ ARD Holdings SA  
+ Industriele bedrijven  
+-84  
++58  
+ Argos Holdings LP  
+ Luxe goederen  
+-8  
++12  
+ Asbury Automotive Group Inc  
+ Luxe goederen  
+-5  
++10  
++Ashland Global Holdings Inc  
++Basismaterialen  
++2  
+ AT&T Inc  
+ Telecommunicatie  
+-600  
+-Overzicht bedrijfsobligaties ABP  
+-**10**  
+-per 30 september 2021  
+-
+-* * *
+-
+-Regio Land  
+-Omschrijving  
+-Sector  
+-Totaal  
++306  
++ATI Inc  
++Basismaterialen  
++16  
+ Avis Budget Group Inc  
+ Industriele bedrijven  
+-12  
++9  
++Bally’s Corp  
++Luxe goederen  
++7  
+ Banco Santander SA  
+ Financiele instellingen  
+-3  
+-Banff Parent Inc  
+-Informatietechnologie  
+-9  
++15  
+ Bank of America Corp  
+ Financiele instellingen  
+-720  
++654  
+ Bath & Body Works Inc  
+ Luxe goederen  
+-49  
++16  
+ Bausch Health Cos Inc  
+ Dagelijkse goederen  
+-51  
++36  
++Baxter International Inc  
++Gezondheidszorg  
++9  
+ Becton Dickinson and Co  
+ Gezondheidszorg  
+-105  
++65  
+ Bed Bath & Beyond Inc  
+ Luxe goederen  
+-17  
++1  
+ Belden Inc  
+ Industriele bedrijven  
+-5  
++1  
+ Berkshire Hathaway Inc  
+-Nutsbedrijven  
+-197  
++Financiele instellingen  
++175  
+ Berry Global Group Inc  
+ Industriele bedrijven  
+-75  
+-Biogen Inc  
+-Dagelijkse goederen  
+-2  
+-Blackstone Inc  
+-Financiele instellingen  
+-1  
++71  
+ Block Communications Inc  
+ Telecommunicatie  
+-16  
+-Blue Racer Midstream LLC  
+-Energie  
+-8  
++15  
+ Boise Cascade Co  
+ Industriele bedrijven  
+-7  
+-BorgWarner Inc  
+-Luxe goederen  
+-21  
++6  
+ Boston Scientific Corp  
+ Gezondheidszorg  
+-15  
++34  
+ Boyd Gaming Corp  
+ Luxe goederen  
+-28  
+-BP PLC  
+-Energie  
+-114  
+-Brightstar Escrow Corp  
+-Informatietechnologie  
+-12  
++17  
+ Bristol-Myers Squibb Co  
+ Dagelijkse goederen  
+-166  
++56  
+ Broadcom Inc  
+ Informatietechnologie  
+-149  
+-Buckeye Partners LP  
+-Energie  
+-9  
++128  
+ Builders FirstSource Inc  
+ Industriele bedrijven  
+-23  
++21  
++Overzicht bedrijfsobligaties ABP  
++**9**  
++per 30 juni 2022  
++
++* * *
++
++Regio Land  
++Omschrijving  
++Sector  
++Totaal  
+ Caesars Entertainment Inc  
+ Luxe goederen  
+ 26  
+-Callon Petroleum Co  
+-Energie  
+-1  
+ Calpine Corp  
+ Nutsbedrijven  
+-17  
+-Cano Health Inc  
+-Gezondheidszorg  
+-6  
++16  
+ Capital One Financial Corp  
+ Financiele instellingen  
+-41  
++52  
+ Carnival Corp  
+ Luxe goederen  
+-105  
++60  
+ Carrier Global Corp  
+ Industriele bedrijven  
+-113  
+-Carvana Co  
+-Luxe goederen  
+-4  
++88  
+ Catalent Inc  
+ Gezondheidszorg  
+-21  
++17  
+ Cedar Fair LP  
+ Luxe goederen  
+ 11  
+ Centene Corporation  
+ Financiele instellingen  
+-92  
+-CenterPoint Energy Inc  
+-Energie  
+-1  
++38  
+ CF Industries Holdings Inc  
+ Basismaterialen  
+-12  
++1  
+ Charter Communications Inc  
+ Telecommunicatie  
+-258  
++181  
+ Chemours Co/The  
+ Basismaterialen  
+-20  
++26  
+ Cheniere Energy Inc  
+ Energie  
+-237  
++89  
+ Chobani Global Holdings LLC  
+ Dagelijkse goederen  
+-7  
+-Cintas Corp  
+-Industriele bedrijven  
+-1  
+-Cisco Systems Inc/Delaware  
++6  
++Churchill Downs Inc  
++Luxe goederen  
++11  
++Cisco Systems Inc  
+ Informatietechnologie  
+-4  
+-CIT Group Inc  
+-Financiele instellingen  
+-37  
++1  
+ Citigroup Inc  
+ Financiele instellingen  
+-310  
++376  
+ Clarivate PLC  
+ Informatietechnologie  
+ 15  
+ Clear Channel Outdoor Holdings  
+ Telecommunicatie  
+-9  
++8  
+ Cleveland-Cliffs Inc  
+ Basismaterialen  
+-13  
++3  
+ CNH Industrial NV  
+ Industriele bedrijven  
+-40  
++39  
+ Coca-Cola Co/The  
+ Dagelijkse goederen  
+-137  
+-Colonial Enterprises Inc  
+-Energie  
+-23  
++68  
+ Comcast Corp  
+ Telecommunicatie  
+-370  
++203  
+ CommScope Holding Co Inc  
+ Informatietechnologie  
+-21  
++14  
+ Community Health Systems Inc  
+ Gezondheidszorg  
+-49  
+-Concrete Pumping Holdings Inc  
+-Industriele bedrijven  
+-6  
++34  
+ ConocoPhillips Energie  
+-45  
+-Consolidated Communications Holdings Inc Telecommunicatie 13  
++1  
++Consolidated Communications Holdings Inc Telecommunicatie  
++3  
++Constellation Brands Inc  
++Dagelijkse goederen  
++2  
++Constellation Energy Corp  
++Nutsbedrijven  
++8  
++Constellium SE  
++Basismaterialen  
++8  
+ Continental Resources Inc/OK  
+ Energie  
+-34  
+-CoreCivic Inc  
+-Luxe goederen  
+-2  
+-Cornerstone Building Brands Inc  
+-Industriele bedrijven  
+-13  
++5  
+ Corteva Inc  
+ Basismaterialen  
+-38  
+-Overzicht bedrijfsobligaties ABP  
+-**11**  
+-per 30 september 2021  
+-
+-* * *
+-
+-Regio Land  
+-Omschrijving  
+-Sector  
+-Totaal  
+-CoStar Group Inc  
+-Informatietechnologie  
++25  
++Coterra Energy Inc  
++Energie  
+ 1  
+ Cottage Holdco BV  
+ Dagelijkse goederen  
+-15  
++32  
++Covanta Holding Corp  
++Industriele bedrijven  
++7  
+ Crestwood Equity Partners LP  
+ Energie  
+ 4  
+ Crown Castle International Corp  
+ Telecommunicatie  
+-21  
++20  
+ Crown Holdings Inc  
+ Industriele bedrijven  
+-11  
++10  
+ CrownRock LP  
+ Energie  
+ 4  
+ CSX Corp  
+ Industriele bedrijven  
+-26  
+-CubeSmart Vastgoed 23  
++19  
++CubeSmart Vastgoed 22  
+ Custom Truck One Source Inc  
+ Industriele bedrijven  
+-12  
++15  
+ CVS Health Corp  
+ Gezondheidszorg  
+-167  
++88  
+ Dana Inc  
+ Luxe goederen  
+-16  
++12  
+ Danaher Corp  
+ Gezondheidszorg  
+-147  
+-Darden Restaurants Inc  
+-Luxe goederen  
+-1  
++98  
+ DaVita Inc  
+ Gezondheidszorg  
+-20  
+-DCP Midstream LLC  
+-Energie  
+-20  
+-Deere & Co  
+-Industriele bedrijven  
+-1  
++12  
+ Dell Technologies Inc  
+ Informatietechnologie  
+-42  
+-DENTSPLY SIRONA Inc  
+-Gezondheidszorg  
+-3  
+-Devon Energy Corp  
+-Energie  
+-21  
++16  
++Delta Air Lines Inc  
++Industriele bedrijven  
++6  
+ Diamondback Energy Inc  
+ Energie  
+-90  
++1  
+ Digital Realty Trust Inc  
+ Vastgoed  
+-86  
++43  
+ Discover Financial Services  
+ Financiele instellingen  
+-46  
+-Discovery Inc  
+-Telecommunicatie  
+-21  
++12  
+ DISH Network Corp  
+ Telecommunicatie  
+-83  
++76  
+ Dominion Energy Inc  
+ Nutsbedrijven  
+-19  
+-Dow Inc  
+-Basismaterialen  
+-39  
++28  
+ DSB Parent LP  
+ Gezondheidszorg  
+ 8  
+-DT Midstream Inc  
+-Energie  
+-8  
+ Duke Energy Corp  
+ Nutsbedrijven  
+-157  
+-DuPont de Nemours Inc  
+-Basismaterialen  
+-2  
++189  
+ DXC Technology Co  
+ Informatietechnologie  
+-59  
+-Eastman Chemical Co  
+-Basismaterialen  
+-1  
+-Eaton Corp PLC  
++42  
++Dycom Industries Inc  
+ Industriele bedrijven  
+-43  
+-eBay Inc  
+-Luxe goederen  
+ 2  
++Eaton Corp PLC  
++Industriele bedrijven  
++27  
+ EchoStar Corp  
+ Telecommunicatie  
+ 1  
+ Ecolab Inc  
+ Basismaterialen  
+-2  
++18  
+ Edison International  
+ Nutsbedrijven  
+-58  
+-Edwards Lifesciences Corp  
+-Gezondheidszorg  
+-2  
++36  
+ Element Solutions Inc  
+ Basismaterialen  
+-4  
++3  
++Elevance Health Inc  
++Financiele instellingen  
++36  
++Overzicht bedrijfsobligaties ABP  
++**10**  
++per 30 juni 2022  
++
++* * *
++
++Regio Land  
++Omschrijving  
++Sector  
++Totaal  
+ Eli Lilly & Co  
+ Dagelijkse goederen  
+ 2  
+ Encompass Health Corp  
+ Gezondheidszorg  
+-48  
+-Endo International PLC  
+-Dagelijkse goederen  
+-24  
++21  
+ Energizer Holdings Inc  
+ Dagelijkse goederen  
+-7  
+-Energy Transfer LP  
+-Energie  
+-54  
++3  
+ EnLink Midstream LLC  
+ Energie  
+-37  
++1  
+ Entegris Inc  
+ Informatietechnologie  
+-9  
++12  
+ Entergy Corp  
+ Nutsbedrijven  
+-44  
+-Enterprise Products Partners LP  
+-Energie  
+-39  
++31  
+ EOG Resources Inc  
+ Energie  
+-4  
+-EQT Corp  
+-Energie  
+-53  
++2  
+ Equinix Inc  
+ Informatietechnologie  
+-54  
++28  
+ Equitable Holdings Inc  
+ Financiele instellingen  
+-27  
++16  
+ Equitrans Midstream Corp  
+ Energie  
+-23  
+-Equity Residential  
+-Vastgoed  
+-1  
++3  
+ Estee Lauder Cos Inc/The  
+ Dagelijkse goederen  
+-2  
++1  
+ Everi Holdings Inc  
+ Informatietechnologie  
+-19  
++18  
+ EW Scripps Co/The  
+ Telecommunicatie  
+-10  
++9  
+ Exelon Corp  
+ Nutsbedrijven  
+-81  
++63  
+ Extra Space Storage Inc  
+ Vastgoed  
+-20  
++9  
+ FedEx Corp  
+ Industriele bedrijven  
+-120  
++94  
+ Fidelity National Information  
+ Informatietechnologie  
+-42  
++36  
+ Fifth Third Bancorp  
+ Financiele instellingen  
+-37  
+-Overzicht bedrijfsobligaties ABP  
+-**12**  
+-per 30 september 2021  
+-
+-* * *
+-
+-Regio Land  
+-Omschrijving  
+-Sector  
+-Totaal  
++39  
++First Citizens BancShares Inc  
++Financiele instellingen  
++39  
+ First Horizon Corp  
+ Financiele instellingen  
+-71  
++68  
+ FirstEnergy Corp  
+ Nutsbedrijven  
+-136  
++111  
+ Ford Motor Co  
+ Luxe goederen  
+-315  
+-Fox Corp  
+-Telecommunicatie  
+-41  
++143  
+ Frontier Communications Parent Inc  
+ Telecommunicatie  
+-76  
++62  
+ FXI Holdings Inc  
+ Industriele bedrijven  
+-25  
++4  
+ G Holdings Inc  
+ Industriele bedrijven  
+-64  
++49  
+ Gartner Inc  
+ Informatietechnologie  
+-2  
++1  
+ General Electric Co  
+ Industriele bedrijven  
+-203  
++42  
+ General Motors Co  
+ Luxe goederen  
+-211  
+-Genesis Energy LP  
+-Energie  
+-15  
++223  
+ Global Infrastructure Solution  
+ Industriele bedrijven  
+-8  
++18  
++Global Net Lease Inc  
++Vastgoed  
++7  
+ Goldman Sachs Group Inc/The  
+ Financiele instellingen  
+-476  
++465  
+ Goodyear Tire & Rubber Co/The  
+ Luxe goederen  
+-13  
++10  
++Graphic Packaging Holding Co  
++Basismaterialen  
++14  
+ Gray Television Inc  
+ Telecommunicatie  
+ 17  
+-Gulfport Energy Operating Corp  
+-Energie  
+-17  
++GSK PLC  
++Dagelijkse goederen  
++79  
+ H&R Block Inc  
+ Luxe goederen  
+ 2  
+ Halliburton Co  
+ Energie  
+-71  
+-Hartford Financial Services Group  
+-Financiele instellingen  
+-1  
++23  
+ Hasbro Inc  
+ Dagelijkse goederen  
+-54  
++60  
++Hawaiian Holdings Inc  
++Industriele bedrijven  
++8  
+ HCA Healthcare Inc  
+ Gezondheidszorg  
+-118  
+-Healthcare Royalty Inc  
+-Dagelijkse goederen  
+-15  
++98  
+ Herc Holdings Inc  
+ Industriele bedrijven  
+ 5  
+-Hess Corp  
+-Energie  
+-30  
++Hertz Global Holdings Inc  
++Industriele bedrijven  
++4  
+ Hilton Worldwide Holdings Inc  
+ Luxe goederen  
+-14  
++12  
+ Hindalco Industries Ltd  
+ Basismaterialen  
+-18  
++26  
+ Hologic Inc  
+ Gezondheidszorg  
+-10  
+-Home Depot Inc/The  
++9  
++Honda Motor Co Ltd  
+ Luxe goederen  
+-1  
++2  
+ Horizon Therapeutics Plc  
+ Dagelijkse goederen  
+ 5  
+-Host Hotels & Resorts Inc  
+-Vastgoed  
+-23  
+ HP Inc  
+ Informatietechnologie  
+ 1  
+ Humana Inc  
+ Financiele instellingen  
+-1  
++2  
+ Huntington Bancshares Inc/OH  
+ Financiele instellingen  
+-52  
++43  
+ Huntsman Corp  
+ Basismaterialen  
+ 1  
+ Iberdrola SA  
+ Nutsbedrijven  
+-40  
+-Icahn Enterprises LP  
+-Financiele instellingen  
+-5  
++21  
++IBM Corporation  
++Informatietechnologie  
++20  
+ iHeartMedia Inc  
+ Telecommunicatie  
+-19  
+-Illinois Tool Works Inc  
+-Industriele bedrijven  
+-2  
+-Illumina Inc  
+-Gezondheidszorg  
+-1  
+-Independence Energy LLC  
+-Energie  
+-10  
++12  
+ Intel Corp  
+ Informatietechnologie  
+-29  
++13  
++Intercontinental Exchange Inc  
++Financiele instellingen  
++23  
+ International Flavors & Fragrances  
+ Basismaterialen  
+-34  
++30  
+ International Game Technology  
+ Luxe goederen  
+-24  
+-International Paper Co  
+-Basismaterialen  
+-2  
++15  
+ Invitation Homes Inc  
+ Vastgoed  
+-17  
++16  
+ IQVIA Holdings Inc  
+ Gezondheidszorg  
+-45  
+-Iris Holdings Inc  
+-Basismaterialen  
+-4  
++34  
+ Iron Mountain Inc  
+ Informatietechnologie  
+-69  
++53  
+ JBS SA  
+ Dagelijkse goederen  
+-73  
++52  
++Overzicht bedrijfsobligaties ABP  
++**11**  
++per 30 juni 2022  
++
++* * *
++
++Regio Land  
++Omschrijving  
++Sector  
++Totaal  
+ Johnson & Johnson  
+ Dagelijkse goederen  
+ 2  
+-Johnson Controls International  
+-Industriele bedrijven  
+-18  
+ JPMorgan Chase & Co  
+ Financiele instellingen  
+-418  
++379  
++Juniper Networks Inc  
++Informatietechnologie  
++1  
+ Kaiser Aluminum Corp  
+ Basismaterialen  
+-21  
+-Kinder Morgan Inc  
+-Energie  
+-40  
+-Kohl’s Corp  
+-Luxe goederen  
+-22  
++17  
++KLA Corp  
++Informatietechnologie  
++16  
+ Kraft Heinz Co/The  
+ Dagelijkse goederen  
+-75  
+-Kroger Co/The  
+-Dagelijkse goederen  
+-2  
++41  
+ Lam Research Corp  
+ Informatietechnologie  
+-33  
++27  
+ Lamar Advertising Co  
+ Telecommunicatie  
+ 4  
+-LBM Acquisition LLC  
+-Industriele bedrijven  
+-11  
++Lamb Weston Holdings Inc  
++Dagelijkse goederen  
++2  
++Las Vegas Sands Corp  
++Luxe goederen  
++1  
+ Lennar Corp  
+ Luxe goederen  
+-20  
++17  
+ Liberty Broadband Corp  
+ Telecommunicatie  
+-12  
+-Overzicht bedrijfsobligaties ABP  
+-**13**  
+-per 30 september 2021  
+-
+-* * *
+-
+-Regio Land  
+-Omschrijving  
+-Sector  
+-Totaal  
++13  
+ Liberty Media Corp  
+ Telecommunicatie  
+-22  
++20  
+ Life Storage Inc  
+ Vastgoed  
+-26  
+-Ligado Networks LLC  
+-Telecommunicatie  
+-22  
++12  
++Light & Wonder Inc  
++Luxe goederen  
++4  
+ Lithia Motors Inc  
+ Luxe goederen  
+-11  
++9  
+ Live Nation Entertainment Inc  
+ Luxe goederen  
+-7  
++6  
+ LKQ Corp  
+ Luxe goederen  
+ 2  
+ Lowe’s Cos Inc  
+ Luxe goederen  
+-95  
++28  
+ Lumen Technologies Inc  
+ Telecommunicatie  
+-123  
+-Lummus Technology Holdings V LLC  
+-Basismaterialen  
+-10  
+-LyondellBasell Industries NV  
+-Basismaterialen  
+-38  
++92  
+ Macy’s Inc  
+ Luxe goederen  
+-24  
+-Madison IAQ LLC  
+-Industriele bedrijven  
+-10  
++7  
+ Magic Acquireco Inc  
+ Luxe goederen  
+-6  
+-Marathon Oil Corp  
+-Energie  
+-39  
+-Marathon Petroleum Corp  
+-Energie  
+-171  
++5  
+ Marriott International Inc/MD  
+ Luxe goederen  
+-29  
++26  
+ Marsh & McLennan Cos Inc  
+ Financiele instellingen  
+-24  
+-Marvell Technology Inc  
+-Informatietechnologie  
+-2  
++17  
+ MasTec Inc  
+ Industriele bedrijven  
+-33  
++13  
+ Mastercard Inc  
+ Informatietechnologie  
+-38  
++60  
+ Mattel Inc  
+ Dagelijkse goederen  
+-20  
++6  
+ McKesson Corp  
+ Gezondheidszorg  
+ 2  
+-MDC Holdings Inc  
+-Luxe goederen  
+-2  
+ Medical Properties Trust Inc  
+ Vastgoed  
+-21  
++14  
++Medline Industries Inc  
++Gezondheidszorg  
++2  
+ Medtronic PLC  
+ Gezondheidszorg  
+-116  
++40  
++Merck & Co Inc  
++Dagelijkse goederen  
++44  
+ Meritage Homes Corp  
+ Luxe goederen  
+-22  
++7  
+ MetLife Inc  
+ Financiele instellingen  
+-50  
+-MGM Resorts International  
+-Luxe goederen  
+-7  
+-Microchip Technology Inc  
+-Informatietechnologie  
+-1  
++31  
+ Microsoft Corp  
+ Informatietechnologie  
+-14  
++13  
+ Mid-America Apartment Communities  
+ Vastgoed  
+-32  
+-Midcap Finco Holdings Ltd  
+-Financiele instellingen  
+-6  
++26  
+ Midcontinent Communications  
+ Telecommunicatie  
+-14  
++13  
+ Midwest Gaming Holdings LLC  
+ Luxe goederen  
+-8  
++7  
++MIWD Holdco II LLC  
++Industriele bedrijven  
++5  
+ Molina Healthcare Inc  
+ Financiele instellingen  
+-10  
++19  
+ Molson Coors Beverage Co  
+ Dagelijkse goederen  
+-90  
++34  
+ Mondelez International Inc  
+ Dagelijkse goederen  
+-32  
++41  
+ Morgan Stanley  
+ Financiele instellingen  
+-529  
++528  
+ Mosaic Co/The  
+ Basismaterialen  
+ 1  
+ Murphy Oil Corp  
+ Energie  
+ 2  
+-Murphy USA Inc  
+-Luxe goederen  
+-7  
+-Nabors Industries Ltd  
+-Energie  
+-10  
++National Amusements Inc  
++Telecommunicatie  
++24  
+ National CineMedia LLC  
+ Telecommunicatie  
+-6  
++5  
+ National Fuel Gas Co  
+ Energie  
+-46  
++35  
++National Grid PLC  
++Nutsbedrijven  
++16  
+ NCR Corp  
+ Informatietechnologie  
+-18  
++12  
+ Netflix Inc  
+ Telecommunicatie  
+-48  
++26  
++New York Life Insurance Co  
++Financiele instellingen  
++1  
+ Newell Brands Inc  
+ Dagelijkse goederen  
+-28  
++19  
+ Nexstar Media Group Inc  
+ Telecommunicatie  
+ 9  
+ NextEra Energy Inc  
+ Nutsbedrijven  
+-37  
++18  
+ NGL Energy Partners LP  
+ Energie  
+-39  
++3  
+ NGPL Holdco LLC  
+ Energie  
+-24  
+-NIKE Inc  
+-Luxe goederen  
+-2  
++21  
+ Nordstrom Inc  
+ Luxe goederen  
+-2  
++1  
+ Norfolk Southern Corp  
+ Industriele bedrijven  
+-19  
++16  
+ Northwest Fiber LLC  
+ Telecommunicatie  
+-20  
++25  
+ Norwegian Cruise Line Holdings  
+ Luxe goederen  
+-5  
++9  
+ NOV Inc  
+ Energie  
+-3  
++1  
++Overzicht bedrijfsobligaties ABP  
++**12**  
++per 30 juni 2022  
++
++* * *
++
++Regio Land  
++Omschrijving  
++Sector  
++Totaal  
+ NRG Energy Inc  
+ Nutsbedrijven  
+-116  
++99  
+ Nucor Corp  
+ Basismaterialen  
+-2  
++1  
+ NuStar Energy LP  
+ Energie  
+-7  
+-NVIDIA Corp  
+-Informatietechnologie  
+-35  
++3  
+ NVR Inc  
+ Luxe goederen  
+ 2  
+-Overzicht bedrijfsobligaties ABP  
+-**14**  
+-per 30 september 2021  
+-
+-* * *
+-
+-Regio Land  
+-Omschrijving  
+-Sector  
+-Totaal  
+ Occidental Petroleum Corp  
+ Energie  
+-127  
+-Office Properties Income Trust  
+-Vastgoed  
+-1  
++2  
+ O-I Glass Inc  
+ Industriele bedrijven  
+-20  
++10  
+ Olin Corp  
+ Basismaterialen  
+-5  
++19  
+ ON Semiconductor Corp  
+ Informatietechnologie  
+ 3  
+ OneMain Holdings Inc  
+-Financiele instellingen  
+-24  
+-ONEOK Inc  
+-Energie  
+-31  
++Financiele Instellingen  
++14  
++Option Care Health Inc  
++Gezondheidszorg  
++3  
+ Oracle Corp  
+ Informatietechnologie  
+-134  
++113  
+ Organon & Co  
+ Dagelijkse goederen  
+-13  
++11  
+ Otis Worldwide Corp  
+ Industriele bedrijven  
+-69  
++148  
+ Outfront Media Inc  
+ Telecommunicatie  
+ 5  
+ Ovintiv Inc  
+ Energie  
+-58  
++1  
+ Owens & Minor Inc  
+ Gezondheidszorg  
+ 7  
+-Packaging Corp of America  
+-Basismaterialen  
+-15  
++PACCAR Inc  
++Luxe goederen  
++1  
+ Packaging Holdings Ltd  
+ Industriele bedrijven  
+-8  
++15  
+ Panther BF Aggregator 1 LP  
+ Luxe goederen  
+ 6  
++Parker-Hannifin Corp  
++Industriele bedrijven  
++23  
+ Patrick Industries Inc  
+ Industriele bedrijven  
+ 21  
+-PayPal Holdings Inc  
+-Informatietechnologie  
+-20  
+-PBF Energy Inc  
+-Energie  
+-4  
+ PepsiCo Inc  
+ Dagelijkse goederen  
+-111  
+-PerkinElmer Inc  
+-Gezondheidszorg  
+-2  
+-Perrigo Co PLC  
+-Dagelijkse goederen  
+-2  
+-Petroleos de Venezuela SA  
+-Energie  
+-14  
++46  
+ Pfizer Inc  
+ Dagelijkse goederen  
+-91  
++42  
+ PG&E Corp  
+ Nutsbedrijven  
+-111  
++116  
+ PGT Innovations Inc  
+ Industriele bedrijven  
+-13  
+-Phillips 66  
+-Energie  
+-37  
+-Pitney Bowes Inc  
+-Informatietechnologie  
+-2  
+-Plains All American Pipeline LP  
+-Energie  
+-28  
++7  
+ Post Holdings Inc  
+ Dagelijkse goederen  
+ 6  
+ PRA Group Inc  
+-Financiele instellingen  
+-11  
++Financiele Instellingen  
++10  
+ Prime Security Services Topco  
+ Luxe goederen  
+-18  
++16  
+ Principal Financial Group Inc  
+ Financiele instellingen  
+-8  
++2  
+ Procter & Gamble Co/The  
+ Dagelijkse goederen  
+ 2  
+ Prologis Inc  
+ Vastgoed  
+-78  
++24  
+ Prudential Financial Inc  
+ Financiele instellingen  
+-14  
++11  
+ Public Storage  
+ Vastgoed  
+-29  
+-PVH Corp  
+-Luxe goederen  
+-1  
++23  
+ Qorvo Inc  
+ Informatietechnologie  
+-8  
++6  
+ Quanta Services Inc  
+ Industriele bedrijven  
+-30  
+-Qurate Retail Inc  
+-Telecommunicatie  
+-51  
++18  
++Quest Diagnostics Inc  
++Gezondheidszorg  
++1  
+ Radiate Holdings GP LLC  
+ Telecommunicatie  
+-7  
+-Ralph Lauren Corp  
+-Luxe goederen  
+-1  
+-Range Resources Corp  
+-Energie  
+-11  
+-Raymond James Financial Inc  
+-Financiele instellingen  
+-2  
++9  
+ Red Rock Resorts Inc  
+ Luxe goederen  
+-5  
++4  
+ Regeneron Pharmaceuticals Inc  
+ Dagelijkse goederen  
+-51  
+-Renewable Energy Group Inc  
+-Energie  
+-5  
++30  
+ Rexford Industrial Realty Inc  
+ Vastgoed  
+-11  
++5  
+ Rite Aid Corp  
+ Luxe goederen  
+-11  
++7  
+ Royal Caribbean Cruises Ltd  
+ Luxe goederen  
+-41  
++21  
+ Royalty Pharma PLC  
+ Dagelijkse goederen  
+-66  
++30  
++S&P Global Inc  
++Informatietechnologie  
++25  
+ Sabal Trail Transmission LLC  
+ Energie  
+ 2  
+-salesforce.com Inc  
++Salesforce Inc  
+ Informatietechnologie  
+-83  
++103  
+ Samsonite International SA  
+ Luxe goederen  
+-14  
++12  
+ Schlumberger NV  
+ Energie  
+ 2  
+-Scientific Games Corp  
+-Luxe goederen  
+-27  
+ Seagate Technology Holdings PLC  
+ Informatietechnologie  
+-37  
++23  
+ Select Medical Holdings Corp  
+ Gezondheidszorg  
+-10  
++15  
+ Sempra Energy  
+ Nutsbedrijven  
+-56  
++76  
+ Sensata Technologies Holding PLC  
+ Informatietechnologie  
+-4  
++3  
+ Service Corp International/US  
+ Luxe goederen  
+-8  
+-Overzicht bedrijfsobligaties ABP  
+-**15**  
+-per 30 september 2021  
+-
+-* * *
+-
+-Regio Land  
+-Omschrijving  
+-Sector  
+-Totaal  
++7  
+ Seven & i Holdings Co Ltd  
+ Luxe goederen  
+-54  
++15  
++Sherwin-Williams Co/The  
++Basismaterialen  
++38  
+ Silgan Holdings Inc  
+ Industriele bedrijven  
+-18  
++14  
+ Simmons Foods Inc  
+ Dagelijkse goederen  
+-14  
+-Simon Property Group Inc  
+-Vastgoed  
+-25  
++13  
+ Sinclair Broadcast Group Inc  
+ Telecommunicatie  
+-13  
++8  
+ Six Flags Entertainment Corp  
+ Luxe goederen  
+-32  
++5  
+ SM Energy Co  
+ Energie  
+-12  
++2  
++Sonic Automotive Inc  
++Luxe goederen  
++16  
+ Southern Co/The  
+ Nutsbedrijven  
+-138  
++134  
++Overzicht bedrijfsobligaties ABP  
++**13**  
++per 30 juni 2022  
++
++* * *
++
++Regio Land  
++Omschrijving  
++Sector  
++Totaal  
+ Southwestern Energy Co  
+ Energie  
+-16  
++7  
+ Spectrum Brands Holdings Inc  
+ Dagelijkse goederen  
+-10  
++14  
+ Spirit AeroSystems Holdings In  
+ Industriele bedrijven  
+-19  
++23  
+ SRS Distribution Inc  
+ Industriele bedrijven  
+-17  
+-SS&C Technologies Holdings Inc  
+-Informatietechnologie  
+-9  
++8  
+ Stanley Black & Decker Inc  
+ Industriele bedrijven  
+-26  
++20  
+ Stellantis NV  
+ Luxe goederen  
+-60  
++18  
+ Stryker Corp  
+ Gezondheidszorg  
+-122  
+-Suburban Propane Partners LP  
+-Energie  
+-3  
++63  
+ Summit Materials Inc  
+ Industriele bedrijven  
+ 4  
+-Sunoco LP  
+-Energie  
+-8  
+ Synchrony Financial  
+ Financiele instellingen  
+-73  
+-Sysco Corp  
+-Dagelijkse goederen  
+-29  
++70  
+ Takeda Pharmaceutical Co Ltd  
+ Dagelijkse goederen  
+-15  
+-Talen Energy Corp  
+-Nutsbedrijven  
+-21  
+-Tallgrass Energy LP  
+-Energie  
+-17  
+-Tapestry Inc  
+-Luxe goederen  
+-5  
+-Targa Resources Corp  
+-Energie  
+-57  
+-TC Energy Corp  
+-Energie  
+-3  
+-TD SYNNEX Corp  
+-Informatietechnologie  
+-1  
+-TE Connectivity Ltd  
+-Informatietechnologie  
+-3  
++7  
++Take-Two Interactive Software  
++Telecommunicatie  
++18  
+ TEGNA Inc  
+ Telecommunicatie  
+ 11  
+ Tempur Sealy International Inc  
+ Dagelijkse goederen  
+-15  
++23  
+ Tenet Healthcare Corp  
+ Gezondheidszorg  
+-62  
++60  
+ Terex Corp  
+ Industriele bedrijven  
+ 8  
+ Texas Instruments Inc  
+ Informatietechnologie  
+-29  
++2  
+ Thermo Fisher Scientific Inc  
+ Gezondheidszorg  
+-181  
++155  
+ T-Mobile US Inc  
+ Telecommunicatie  
+-246  
+-Trane Technologies PLC  
+-Industriele bedrijven  
+-1  
++185  
+ TransDigm Group Inc  
+ Industriele bedrijven  
+-72  
++61  
+ Transocean Ltd  
+ Energie  
+-36  
+-Trimble Inc  
+-Informatietechnologie  
+-2  
++3  
+ Triton Water Holdings Inc  
+ Dagelijkse goederen  
+-18  
++3  
+ Triumph Group Inc  
+ Industriele bedrijven  
+-32  
++23  
+ Tronox Holdings PLC  
+ Basismaterialen  
+-4  
++3  
+ Truist Financial Corporation  
+ Financiele instellingen  
+-125  
++71  
+ TTWF LP  
+ Basismaterialen  
+-70  
++19  
++Twitter Inc  
++Telecommunicatie  
++4  
+ Uber Technologies Inc  
+ Luxe goederen  
+-17  
+-UDR Inc  
+-Vastgoed  
+-26  
++24  
+ Union Pacific Corp  
+ Industriele bedrijven  
+-138  
++113  
+ United Airlines Holdings Inc  
+ Industriele bedrijven  
+-67  
++61  
+ United Natural Foods Inc  
+ Dagelijkse goederen  
+-18  
++17  
+ United Parcel Service Inc  
+ Industriele bedrijven  
+ 2  
+ United Rentals Inc  
+ Industriele bedrijven  
+-22  
++14  
+ United States Steel Corp  
+ Basismaterialen  
+-12  
++1  
+ UnitedHealth Group Inc  
+ Financiele instellingen  
+-152  
++95  
+ Uniti Group Inc  
+ Telecommunicatie  
+-53  
+-Universal Health Services Inc  
+-Gezondheidszorg  
+-3  
++25  
+ Urban One Inc  
+ Telecommunicatie  
+-8  
++11  
+ US Bancorp  
+ Financiele instellingen  
+-48  
++43  
+ Valvoline Inc  
+ Dagelijkse goederen  
+-11  
+-Venator Materials PLC  
+-Basismaterialen  
+-20  
++5  
+ Verizon Communications Inc  
+ Telecommunicatie  
+-307  
++221  
+ Verra Mobility Corp  
+ Industriele bedrijven  
+-11  
+-Overzicht bedrijfsobligaties ABP  
+-**16**  
+-per 30 september 2021  
+-
+-* * *
+-
+-Regio Land  
+-Omschrijving  
+-Sector  
+-Totaal  
+-ViacomCBS Inc  
+-Telecommunicatie  
+-89  
++16  
+ Viasat Inc  
+ Telecommunicatie  
+-21  
++18  
+ Viatris Inc  
+ Dagelijkse goederen  
+-100  
++78  
+ VICI Properties Inc  
+ Luxe goederen  
+-10  
++44  
+ Viking Holdings Ltd  
+ Luxe goederen  
+-14  
++7  
+ Visa Inc  
+ Informatietechnologie  
+ 2  
+ Vistra Corp  
+ Nutsbedrijven  
+-85  
++100  
+ VMware Inc  
+ Informatietechnologie  
+-43  
++10  
+ Vontier Corp  
+ Industriele bedrijven  
+-15  
+-Walgreens Boots Alliance Inc  
+-Luxe goederen  
+-33  
+-Walt Disney Co/The  
++5  
++Warner Bros Discovery Inc  
+ Telecommunicatie  
+-68  
++74  
++Warrior Met Coal Inc  
++Basismaterialen  
++1  
+ WASH Multifamily Laundry Systems  
+ Luxe goederen  
+ 9  
+ Waste Pro USA Inc  
+ Industriele bedrijven  
+-14  
++8  
+ Weatherford International PLC  
+ Energie  
+-27  
++18  
+ Weekley Homes LLC  
+ Luxe goederen  
+-27  
++23  
+ Wells Fargo & Co  
+ Financiele instellingen  
+-199  
++131  
+ WESCO International Inc  
+ Industriele bedrijven  
+-8  
+-Western Midstream Partners LP  
+-Energie  
+-19  
+-Western Union Co/The  
++7  
++Western Digital Corp  
+ Informatietechnologie  
+-3  
+-WeWork Inc  
+-Financiele instellingen  
+-4  
+-Wheel Pros Inc  
+-Luxe goederen  
+-14  
+-Whirlpool Corp  
+-Dagelijkse goederen  
+-18  
++16  
++White Cap Parent LLC  
++Industriele bedrijven  
++6  
+ Williams Cos Inc/The  
+ Energie  
+-54  
++2  
+ Willis Towers Watson PLC  
+ Financiele instellingen  
+-26  
+-WillScot Mobile Mini Holdings Corp  
+-Industriele bedrijven  
+ 16  
+-Wolverine Escrow LLC  
++WillScot Mobile Mini Holdings Corp  
+ Industriele bedrijven  
+-4  
++17  
+ WR Grace Holdings LLC  
+ Basismaterialen  
+-10  
++8  
++Overzicht bedrijfsobligaties ABP  
++**14**  
++per 30 juni 2022  
++
++* * *
++
++Regio Land  
++Omschrijving  
++Sector  
++Totaal  
+ Wynn Resorts Ltd  
+ Luxe goederen  
+-4  
++3  
+ Xcel Energy Inc  
+ Nutsbedrijven  
+-25  
++10  
+ Yum! Brands Inc  
+ Luxe goederen  
+-12  
++10  
+ Zayo Group Holdings Inc  
+ Telecommunicatie  
+-10  
++9  
+ Zimmer Biomet Holdings Inc  
+ Gezondheidszorg  
+-24  
+-**Oceanië **  
+-** 347 **  
+-**Australië **  
+-** 290 **  
++25  
++**Oceanië 298**  
++**Australië 239**  
+ APA Group  
+ Nutsbedrijven  
+-100  
+-Aurizon Holdings Ltd  
+-Industriele bedrijven  
+-2  
++36  
+ Ausgrid Group  
+ Nutsbedrijven  
+-16  
+-AusNet Services Ltd  
++35  
++Australian Energy Holdings  
+ Nutsbedrijven  
+-49  
++36  
+ Australian Logistics Acquisition  
+ Industriele bedrijven  
+ 1  
+-Commonwealth Bank of Australia  
++Fortescue Metals Group Ltd  
++Basismaterialen  
++7  
++Liberty InfraBuild Ltd  
++Basismaterialen  
++4  
++Macquarie Group Ltd  
++Financiele Instellingen  
++1  
++National Australia Bank Ltd  
++Financiele instellingen  
++28  
++Nufarm Australia Ltd  
++Basismaterialen  
++10  
++QBE Insurance Group Ltd  
+ Financiele instellingen  
+ 1  
+-Liberty InfraBuild Ltd  
++Rio Tinto PLC  
+ Basismaterialen  
+-11  
+-Scentre Group  
+-Vastgoed  
+-18  
++1  
+ Transurban Group  
+ Industriele bedrijven  
+-49  
++43  
+ Vicinity Centres  
+ Vastgoed  
+-41  
+-Woodside Petroleum Ltd  
++32  
++Woodside Energy Group Ltd  
+ Energie  
+ 2  
++Worley Ltd  
++Industriele bedrijven  
++2  
+ **Nieuw Zeeland **  
+-** 57 **  
+-Australia & New Zealand Banking Group Ltd.  
+-Financiele instellingen  
+-25  
++**59**  
+ Commonwealth Bank of Australia  
+ Financiele instellingen  
+-32  
+-**Zuid-Amerika **  
+-** 249 **  
+-**Argentinië **  
+-** 5 **  
+-MercadoLibre Inc  
+-Informatietechnologie  
+-5  
+-**Brazilië **  
+-** 34 **  
+-Banco Nacional de Desenvolvimento  
+-Economico e Social  
+-Financiele Instellingen  
++26  
++Westpac Banking Corp  
++Financiele instellingen  
++33  
++**Zuid-Amerika 206**  
++**Brazilië 8**  
++Banco Nacional de Desenvolvimento Economico e Social Financiele Instellingen  
+ 7  
+ Caixa Economica Federal  
+ Financiele Instellingen  
+-6  
+-Suzano SA  
+-Basismaterialen  
+-22  
+-**Chili **  
+-** 172 **  
++1  
++**Chili 161**  
+ Banco del Estado de Chile  
+ Financiele Instellingen  
+-5  
++6  
+ Corp Nacional del Cobre de Chile  
+-Basismaterialen  
+-120  
+-Overzicht bedrijfsobligaties ABP  
+-**17**  
+-per 30 september 2021  
+-
+-* * *
+-
++Financiele Instellingen  
++108  
+ Empresa de los Ferrocarriles del Estado  
+-Industriele bedrijven  
++Financiele Instellingen  
+ 4  
+-Empresa De Transporte De Pasajeros Metro SA Industriele bedrijven  
+-14  
++Empresa De Transporte De Pasajeros Metro SA  
++Financiele Instellingen  
++11  
+ Empresa Nacional del Petroleo  
+-Energie  
+-29  
+-**Colombia **  
+-** 7 **  
++Financiele Instellingen  
++33  
++**Colombia 5**  
+ Empresas Publicas de Medellin  
+ Nutsbedrijven  
+-7  
+-**Peru **  
+-** 31 **  
++5  
++**Peru 32**  
+ Corp Financiera de Desarrollo SA  
+ Financiele Instellingen  
+-28  
++24  
+ Fondo MIVIVIENDA SA  
+ Financiele Instellingen  
+-3  
+-**Eindtotaal 41.132**  
++9  
++**Eindtotaal 29.036**  
+ ABP geeft geen detailinformatie wanneer zijn positie op de beleggings-  
+-Ook maakt ABP niet de naam bekend van een specifieke belegging  
++Afwijkingen tussen de landenkaart en het overzicht (pdf) kunnen  
+ markt zou worden geschaad door openbaarmaking ervan. Dat is  
+-als dat op juridische bezwaren stuit, bijvoorbeeld wanneer het fonds  
++voorkomen. Dit komt doordat op het overzicht onze beleggingen in  
+ bijvoorbeeld het geval als andere beleggers op basis van die informatie  
+-contractueel is verplicht om vertrouwelijkheid te respecteren.  
++de holdings (moederbedrijven) staan; op de landenkaart staan onze  
+ in de beleggingsmarkt kunnen concurreren met ABP, wat ten koste  
++beleggingen uitgesplitst naar de dochterbedrijven.  
+ gaat van het rendement.  
++Ook maakt ABP niet de naam bekend van een specifieke belegging  
++als dat op juridische bezwaren stuit, bijvoorbeeld wanneer het fonds  
++contractueel is verplicht om vertrouwelijkheid te respecteren.  
++Overzicht bedrijfsobligaties ABP  
++**15**  
++per 30 juni 2022  
++
++* * *
++
+ **Meer informatie? Ga n[aar abp.nl](https://www.abp.nl)**  
+ [**abp.nl**](https://www.abp.nl)  
+ 

@@ -1,0 +1,24 @@
+#!/bin/bash
+
+lines_per_item="$1"
+
+case $lines_per_item in
+  2 | 3 ) ;;
+  * )
+    echo "Please specify the number of lines per company."
+    exit 1
+    ;;
+esac
+
+while read line ; do
+  if egrep --silent '^[0-9\.]+\s*$' <<<"$line" ; then
+    # A line with an amount.
+    # We process the lines we have collected and reset for the next item.
+    bedrag=$(egrep -o '[0-9\.]+' <<<"$line" | sed -e 's/\([0-9]\)\.\([0-9]\)/\1\2/g' )
+    echo -e "${fields[$((lines_per_item - 2))]}\t$bedrag"
+    fields=()
+  else
+    # A normal line. Store it in array to read from it later.
+    fields=("$line" "${fields[@]}")
+  fi
+done
