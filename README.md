@@ -8,7 +8,7 @@ This is work in progress. Also the documentation is in progress. Check back late
 
 This collection of scripts was created to:
 
-* Monitor the investment lists that pensioen funds publish on their websites
+* Monitor the investment lists that pension funds publish on their websites
 * Download their investment data
 * Join recent investment data with a previous list to see changes
 * Convert the investment lists to TSV (tab separated values) which can be easily imported into Excel
